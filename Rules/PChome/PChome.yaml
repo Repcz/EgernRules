@@ -1,0 +1,20 @@
+domain_set:
+domain_suffix_set:
+- ecapi-pchome.cdn.hinet.net
+- ecimg.tw
+- pchome.com.tw
+- pchomeec.tw
+- pchomeonline.com.tw
+- pchomepay.com.tw
+- pcloud.tw
+- pcstore.com.tw
+- piapp.com.tw
+- rakuya.com.tw
+- tagapie.com.tw
+- toget.com.tw
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

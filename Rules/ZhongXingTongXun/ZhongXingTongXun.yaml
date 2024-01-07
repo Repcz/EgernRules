@@ -1,0 +1,18 @@
+domain_set:
+domain_suffix_set:
+- zte.com.cn
+- zte.net
+- ztedevice.com
+- ztedevice.com.cn
+- ztedevices.com
+- ztehotel.com
+- ztehotel.com.cn
+- ztehotel.net
+- ztems.com
+- zxingyun.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

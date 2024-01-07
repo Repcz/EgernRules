@@ -1,0 +1,15 @@
+domain_set:
+domain_suffix_set:
+- chinauos.com
+- deepin.cn
+- deepin.com
+- deepin.io
+- deepin.org
+- linglong.dev
+- uniontech.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,139 @@
+name: Fork Filter lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 * * * *"
+  
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Shanghai'
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+    
+    - name: Fork BM7 QuantumultX Rules
+      run: |
+        mkdir -p Rules
+        git clone https://github.com/blackmatrix7/ios_rule_script.git BM7_Tmp
+        cp -r BM7_Tmp/rule/QuantumultX/* Rules
+        rm -rf BM7_Tmp   
+
+    - name: Edit EgernRules
+      run: |
+        cd Rules
+        find . -type f -name '*.list' -print0 | while IFS= read -r -d $'\0' file; do
+          if [ -f "$file" ]; then
+            # 修改，& ; 以及大小写
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
+            # 删除不必要的部分
+            sed -i 's/,REJECT//g' "$file"
+            # 删除extended-matching
+            sed -i 's/,extended-matching//g' "$file"
+            # 修改HOST为DOMAIN
+            sed -i -e 's/HOST,/DOMAIN,/g' -e 's/HOST-/DOMAIN-/g' "$file"
+            # 修改IP6-CIDR为IP-CIDR6
+            sed -i 's/IP6-CIDR,/IP-CIDR6,/g' "$file"
+            # 在首行添加 "payload:"
+            sed -i '1s/^/payload:\n/' "$file"
+            # 注释不支持的规则
+            sed -i -e '/\(USER-AGENT\|OR\|AND\|NOT\),/ s/^/#/' "$file"
+            # 删除" //" 以及后面的所有字符
+            sed -i 's| \{1,\}//.*$||' "$file" && cp "$file" tmpfile
+    
+            # 重置集合
+            domain_set=""
+            domain_suffix_set=""
+            domain_keyword_set=""
+            domain_regex_set=""
+            ip_cidr_set=""
+            ip_cidr6_set=""
+            asn_set=""
+            url_regex_set=""
+            geoip_set=""
+    
+            # 处理规则，将匹配的行添加到相应的集合中
+            awk -F, '
+              /^DOMAIN,/ {domain_set = domain_set "\n- " $2}
+              /^DOMAIN-SUFFIX,/ {domain_suffix_set = domain_suffix_set "\n- " $2}
+              /^DOMAIN-KEYWORD,/ {domain_keyword_set = domain_keyword_set "\n- " $2}
+              /^DOMAIN-WILDCARD,/ {domain_regex_set = domain_regex_set "\n- " $2}
+              /^IP-CIDR,/ {ip_cidr_set = ip_cidr_set "\n- " $2}
+              /^IP-CIDR6,/ {ip_cidr6_set = ip_cidr6_set "\n- " $2}
+              /^IP-ASN,/ {asn_set = asn_set "\n- " $2}
+              /^URL-REGEX,/ {url_regex_set = url_regex_set "\n- " $2}
+            END {
+              # 输出集合
+              print "domain_set:" domain_set
+              print "domain_suffix_set:" domain_suffix_set
+              print "domain_keyword_set:" domain_keyword_set
+              print "domain_regex_set:" domain_regex_set
+              print "ip_cidr_set:" ip_cidr_set
+              print "ip_cidr6_set:" ip_cidr6_set
+              print "asn_set:" asn_set
+              print "url_regex_set:" url_regex_set
+            }
+            ' tmpfile > "$file"
+    
+          else
+            echo "$file not found."
+          fi
+        done
+    
+        # 循环结束后删除tmpfile
+        rm tmpfile
+    
+    - name: Rename .list to .yaml
+      run: |
+        cd Rules
+        find . -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
+
+    - name: Edit README.md Files
+      run: |
+        cd Rules
+        find . -type f -name 'README.md' -print0 | while IFS= read -r -d $'\0' readme; do
+          if [ -f "$readme" ]; then
+            # 删除和替换指定的字符串
+            sed -i -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
+                   -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
+                   -e '/\(不定时更新\)/d' \
+                   -e '/blackmatrix7\/ios_rule_script\/release\/rule\/QuantumultX/d' \
+                   -e '/https:\/\/cdn.jsdelivr.net/d' \
+                   -e '/https:\/\/ghproxy.com/d' \
+                   -e 's|MASTER分支|X分支|g' \
+                   -e 's|## QuantumultX|## Egern|g' \
+                   -e 's|blackmatrix7/ios_rule_script/master/rule/QuantumultX|Repcz/EgernRules/X/Rules|g' \
+                   -e 's|github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX|github.com/Repcz/EgernRules/tree/X/Rules|g' \
+                   -e 's|HOST|DOMAIN|g' \
+                   -e 's|IP6-CIDR|IP-CIDR6|g' \
+                   -e 's|USER-AGENT|USER-AGENT(Egern不支持)|g' \
+                   -e 's|TOTAL|TOTAL(仅供参考)|g' \
+                   -e 's|QuantumultX定制化规则|Egern定制化规则|g' \
+                   -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
+                   -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
+                   "$readme"
+          else
+            echo "$readme not found."
+          fi
+        done
+
+    - name: Add and Commits
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit."
+        fi
+
+    - name: Cleanup Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 0
+        keep_minimum_runs: 2

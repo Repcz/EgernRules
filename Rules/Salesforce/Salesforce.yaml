@@ -1,0 +1,55 @@
+domain_set:
+domain_suffix_set:
+- appcloud.com
+- appexchange.com
+- attic.io
+- beyondcore.com
+- buddymedia.com
+- chatter.com
+- cloudcraze.com
+- cotweet.com
+- data.com
+- demandware.com
+- desk.com
+- documentforce.com
+- dreamforce.com
+- einstein.com
+- exacttarget.com
+- force.com
+- govforce.com
+- gravitytank.com
+- heroku.com
+- herokuapp.com
+- herokucdn.com
+- heywire.com
+- krux.com
+- marketingcloud.com
+- metamind.io
+- mulesoft.com
+- pardot.com
+- quotable.com
+- radian6.com
+- relateiq.com
+- salesforce.com
+- salesforce.org
+- salesforceiq.com
+- salesforceliveagent.com
+- salesforcemarketingcloud.com
+- sequence.com
+- sfdcdigital.com
+- sfdcstatic.com
+- sforce.com
+- site.com
+- social.com
+- steelbrick.com
+- tableau.com
+- trailblazer.me
+- trailhead.com
+- twinprime.com
+- weinvoiceit.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

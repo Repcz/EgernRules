@@ -1,0 +1,16 @@
+domain_set:
+domain_suffix_set:
+- biji.com
+- ddmogo.com
+- igetget.cn
+- igetget.com
+- luojilab.com
+- mogoo.com
+- sao.cn
+- saolife.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

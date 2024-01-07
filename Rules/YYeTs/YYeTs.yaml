@@ -1,0 +1,29 @@
+domain_set:
+domain_suffix_set:
+- got001.com
+- got002.com
+- jstucdn.com
+- p4pfile.com
+- playcvn.com
+- rrys.tv
+- rrys2019.com
+- rrys2020.com
+- rrysapp.com
+- yyets.com
+- zimuzu.com
+- zimuzu.io
+- zimuzu.tv
+- zmz001.com
+- zmz002.com
+- zmz003.com
+- zmz004.com
+- zmz2019.com
+- zmzapi.com
+- zmzapi.net
+- zmzfile.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

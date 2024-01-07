@@ -1,0 +1,22 @@
+domain_set:
+domain_suffix_set:
+- bbk.com
+- bbktel.com.cn
+- funtouchos.com
+- gdbbk.com
+- iqoo.com
+- vivo.cn
+- vivo.com
+- vivo.com.cn
+- vivo.xyz
+- vivoglobal.com
+- vivosjpt.com
+- vivotc.com
+- vmic.xyz
+- vsearch.club
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,33 @@
+domain_set:
+domain_suffix_set:
+- chinaamc.com
+- citic
+- citic-prudential.com.cn
+- citic.com
+- citicbank.cn
+- citicbank.com
+- citicbank.com.cn
+- citicbank.net
+- citicbank.net.cn
+- citicbank.org
+- citicbank.org.cn
+- citiccapital.com
+- citicgroup.com.cn
+- citiciam.com
+- citicifh.com
+- citicprufunds.com.cn
+- citics.com
+- citics.com.hk
+- citicsf.com
+- clsa.com
+- cncbinternational.com
+- csc108.com
+- csci.hk
+- ecitic.com
+- ecitic.net
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

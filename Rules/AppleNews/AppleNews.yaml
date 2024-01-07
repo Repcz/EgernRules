@@ -1,0 +1,17 @@
+domain_set:
+- apple.comscoreresearch.com
+- gateway.icloud.com
+- gspe1-ssl.ls.apple.com
+- news-assets.apple.com
+- news-client-search.apple.com
+- news-client.apple.com
+- news-edge.apple.com
+- news-events.apple.com
+domain_suffix_set:
+- apple.news
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

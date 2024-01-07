@@ -1,0 +1,31 @@
+domain_set:
+domain_suffix_set:
+- bing.com
+- bing.com.cn
+- bing.net
+- bingads.com
+- bingagencyawards.com
+- bingapistatistics.com
+- bingsandbox.com
+- bingvisualsearch.com
+- bingworld.com
+- bluehatnights.com
+- dictate.ms
+- ditu.live.com
+- flipwithsurface.com
+- masalladeloslimites.com
+- microsoft-give.com
+- microsoftcloudsummit.com
+- microsoftdiplomados.com
+- microsoftlatamholiday.com
+- microsoftmxfilantropia.com
+- microsoftpartnersolutions.com
+- msunlimitedcloudsummit.com
+- renovacionoffice.com
+- sprinklesapp.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

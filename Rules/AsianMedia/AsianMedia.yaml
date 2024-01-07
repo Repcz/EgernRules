@@ -1,0 +1,51 @@
+domain_set:
+- akmcdnoversea-tw.inter.iqiyi.com
+- akmcdnoversea-tw.inter.ptqy.gitv.tv
+- cache.video.iqiyi.com
+- chuangcachecdnoversea-tw.inter.iqiyi.com
+- chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+- intl-rcd.iqiyi.com
+- intl-subscription.iqiyi.com
+- intl.iqiyi.com
+- mobileso.bz.mgtv.com
+- upos-hz-mirrorakam.akamaized.net
+domain_suffix_set:
+- 71.am.com
+- acg.tv
+- acgvideo.com
+- api.mgtv.com
+- api.mob.app.letv.com
+- b23.tv
+- biliapi.com
+- biliapi.net
+- bilibili.com
+- bilibili.tv
+- biligame.com
+- biligame.net
+- bilivideo.com
+- hdslb.com
+- im9.com
+- iq.com
+- qy.net
+- vv.video.qq.com
+- wetv.vip
+- wetvinfo.com
+domain_keyword_set:
+- bilibili
+- cn-hk-eq-bcache-
+- qiyi
+domain_regex_set:
+ip_cidr_set:
+- 101.224.0.0/13
+- 103.44.56.0/22
+- 106.11.0.0/16
+- 116.211.202.206/32
+- 116.211.202.216/32
+- 118.26.120.0/24
+- 118.26.32.0/23
+- 119.176.0.0/12
+- 23.40.241.251/32
+- 23.40.242.10/32
+ip_cidr6_set:
+asn_set:
+url_regex_set:

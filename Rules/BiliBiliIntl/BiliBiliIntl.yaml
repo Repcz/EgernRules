@@ -1,0 +1,15 @@
+domain_set:
+- apm-misaka.biliapi.net
+- p-bstarstatic.akamaized.net
+- p.bstarstatic.com
+- upos-bstar-mirrorakam.akamaized.net
+- upos-bstar1-mirrorakam.akamaized.net
+domain_suffix_set:
+- bilibili.tv
+- biliintl.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

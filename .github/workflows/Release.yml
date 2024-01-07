@@ -1,0 +1,26 @@
+name: Clear Commits
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 19 * * 0'
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4.1.0
+        with:
+          ref: X
+      - name: Clear Commits
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git checkout --orphan clearhistory
+          git branch -D X
+          git checkout --orphan X
+          git branch -D clearhistory
+          git add .
+          git commit -m "Release"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin X
