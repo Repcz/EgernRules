@@ -33,6 +33,5 @@ ip_cidr_set:
 - 64.23.132.171/32
 ip_cidr6_set:
 asn_set:
-- 14061
 - 20473
 url_regex_set:

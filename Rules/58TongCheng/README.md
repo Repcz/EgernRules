@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:56:52
+最后更新时间：2024-01-08 16:00:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/58TongCheng/58TongChe
 《58同城》的数据来自以下链接，如与本项目的《58同城》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/58TongCheng.list
-- https://rules.kr328.app/58tongcheng.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

@@ -12,7 +12,7 @@ MEGA规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:57:14
+最后更新时间：2024-01-08 16:01:02
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -54,7 +54,6 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/MEGA/MEGA.yaml
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/MEGA.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/MEGA.yaml
-- https://rules.kr328.app/mega.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

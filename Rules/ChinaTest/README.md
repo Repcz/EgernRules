@@ -12,19 +12,19 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-01-08 02:12:42
+最后更新时间：2024-01-08 16:00:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 167  | 
+| DOMAIN | 111  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 64297  | 
+| DOMAIN-SUFFIX | 64285  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 31  | 
-| TOTAL(仅供参考) | 64520  | 
+| TOTAL(仅供参考) | 64452  | 
 
 
 ## Egern 
@@ -66,6 +66,8 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaTest/ChinaTest.y
 
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
+- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
+- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list

@@ -1,0 +1,15 @@
+domain_set:
+- copilot.microsoft.com
+- gateway.bingviz.microsoft.net
+- odc.officeapps.live.com
+- r.bing.com
+- self.events.data.microsoft.com
+domain_suffix_set:
+- api.microsoftapp.net
+- bing-shopping.microsoft-falcon.io
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

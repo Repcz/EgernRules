@@ -1,10 +1,10 @@
 domain_set:
 - 1337.abcvg.info
-- 1c.premierzal.ru
 - 6.pocketnet.app
 - 6ahddutb1ucc3cp.ru
 - acxx.de
 - aegir.sexy
+- api.alarmasqueretaro.com
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - black-bird.ynh.fr
 - bt.ktrackers.com
@@ -24,7 +24,6 @@ domain_set:
 - fe.dealclub.de
 - fh2.cmp-gaming.com
 - free.publictracker.xyz
-- freedomalternative.com
 - hz.is
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
@@ -47,7 +46,6 @@ domain_set:
 - opentracker.i2p.rocks
 - opentracker.io
 - p4p.arenabg.com
-- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker01-msk-virt.corbina.net
@@ -57,12 +55,12 @@ domain_set:
 - su-data.com
 - t.acg.rip
 - t.nyaatracker.com
-- t.overflow.biz
 - t1.hloli.org
 - tamas3.ynh.fr
 - thinking.duckdns.org
 - tk1.trackerservers.com
 - torrents.artixlinux.org
+- torrentsmd.com
 - tr.burnabyhighstar.com
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -73,6 +71,7 @@ domain_set:
 - tracker.cloudit.top
 - tracker.cubonegro.lol
 - tracker.cyberia.is
+- tracker.dler.com
 - tracker.dler.org
 - tracker.edkj.club
 - tracker.electro-torrent.pl
@@ -120,10 +119,13 @@ domain_set:
 - tracker2.itzmx.com
 - tracker3.itzmx.com
 - tracker4.itzmx.com
+- trackers.mlsub.net
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
 - uploads.gamecoast.net
+- uraniumhexafluori.de
+- v6-tracker.0g.cx
 - wepzone.net
 - www.all4nothin.net
 - www.peckservers.com
@@ -151,7 +153,7 @@ domain_suffix_set:
 - beyond-hd.me
 - bibliotik.me
 - bittorrent.com
-- blutopia.xyz
+- blutopia.cc
 - broadcasthe.net
 - bt.byr.cn
 - bt.neu6.edu.cn
@@ -258,6 +260,8 @@ domain_suffix_set:
 - xauat6.edu.cn
 domain_keyword_set:
 - announce
+- chdbits
+- m-team
 - torrent
 - tracker
 domain_regex_set:

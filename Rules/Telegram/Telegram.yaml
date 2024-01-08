@@ -1,4 +1,5 @@
 domain_set:
+- api.imem.app
 - api.swiftgram.app
 domain_suffix_set:
 - comments.app

@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:55:49
+最后更新时间：2024-01-08 15:59:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Dubox/Dubox.yaml
 《百度网盘国际版》的数据来自以下链接，如与本项目的《百度网盘国际版》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Dubox.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Dubox.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Dubox.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Dubox.yaml
 

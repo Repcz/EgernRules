@@ -12,7 +12,7 @@ OpenAI规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:59:58
+最后更新时间：2024-01-08 16:02:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -20,9 +20,9 @@ OpenAI规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 2  | 
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 23  | 
-| IP-ASN | 2  | 
+| IP-ASN | 1  | 
 | IP-CIDR | 2  | 
-| TOTAL(仅供参考) | 30  | 
+| TOTAL(仅供参考) | 29  | 
 
 
 ## Egern 
@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/OpenAI/OpenAI.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/OpenAi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/OpenAi.yaml
+- https://ruleset.isagood.day/openai.conf
 - https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list
 - https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ChatGPT_Voice.list
 

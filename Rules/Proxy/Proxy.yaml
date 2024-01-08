@@ -13,7 +13,6 @@ domain_set:
 - openaicomproductionae4b.blob.core.windows.net
 - p16-tiktokcdn-com.akamaized.net
 - production-openaicom-storage.azureedge.net
-- services.googleapis.cn
 - testflight.apple.com
 - voice.telephony.goog
 domain_suffix_set:
@@ -629,7 +628,6 @@ domain_suffix_set:
 - blog.de
 - blog.google
 - blog.jp
-- blog.syx86.cn
 - blogblog.com
 - blogcdn.com
 - blogcity.me
@@ -703,7 +701,6 @@ domain_suffix_set:
 - blogtd.net
 - blogtd.org
 - bloodshed.net
-- bloomberg.cn
 - bloomberg.com
 - bloomberg.de
 - bloombergview.com
@@ -933,7 +930,6 @@ domain_suffix_set:
 - cftfc.com
 - cgdepot.org
 - cgst.edu
-- chalungu.cn
 - change.org
 - changeip.name
 - changeip.net
@@ -1108,10 +1104,8 @@ domain_suffix_set:
 - cn6.eu
 - cna.com.tw
 - cnabc.com
-- cnbeta.com.tw
 - cnd.org
 - cnet.com
-- cnex.org.cn
 - cnineu.com
 - cnitter.com
 - cnn.com
@@ -1294,7 +1288,6 @@ domain_suffix_set:
 - daum.net
 - david-kilgour.com
 - dawangidc.com
-- daxa.cn
 - dayabook.com
 - daylife.com
 - dayone.me
@@ -1535,7 +1528,6 @@ domain_suffix_set:
 - edgekey.net
 - edgesuite.net
 - edicypages.com
-- edmontonchina.cn
 - edmontonservice.com
 - edns.biz
 - edoors.com
@@ -2203,7 +2195,6 @@ domain_suffix_set:
 - google.ci
 - google.cl
 - google.cm
-- google.cn
 - google.co.ao
 - google.co.bw
 - google.co.ck
@@ -2379,7 +2370,6 @@ domain_suffix_set:
 - google.vn
 - google.vu
 - google.ws
-- googleapis.cn
 - googleapis.com
 - googleapps.com
 - googlearth.com
@@ -2454,7 +2444,6 @@ domain_suffix_set:
 - grow.google
 - gs-discuss.com
 - gsearch.media
-- gstatic.cn
 - gstatic.com
 - gtricks.com
 - gts-vpn.com
@@ -2683,7 +2672,6 @@ domain_suffix_set:
 - hotav.tv
 - hotbak.net
 - hotcoin.com
-- hotels.cn
 - hotfrog.com.tw
 - hotgoo.com
 - hotpornshow.com
@@ -3155,7 +3143,6 @@ domain_suffix_set:
 - kinmen.travel
 - kinokuniya.com
 - kir.jp
-- kissbbao.cn
 - kiwi.kz
 - kk-whys.co.jp
 - kkbox.com
@@ -3210,9 +3197,7 @@ domain_suffix_set:
 - lamnia.co.uk
 - lamrim.com
 - landofhope.tv
-- lanterncn.cn
 - lantosfoundation.org
-- laod.cn
 - laogai.org
 - laogairesearch.org
 - laomiu.com
@@ -3275,7 +3260,6 @@ domain_suffix_set:
 - lightboxcdn.com
 - lighten.org.tw
 - lighti.me
-- lightnovel.cn
 - lightyearvpn.com
 - lihkg.com
 - like.com
@@ -4043,7 +4027,6 @@ domain_suffix_set:
 - openvpn.org
 - openwebster.com
 - openwrt.org
-- openwrt.org.cn
 - opera-mini.net
 - opera.com
 - opus-gaming.com
@@ -4398,7 +4381,6 @@ domain_suffix_set:
 - qidian.ca
 - qienkuen.org
 - qiwen.lu
-- qixianglu.cn
 - qkshare.com
 - qmzdd.com
 - qoos.com
@@ -4791,7 +4773,6 @@ domain_suffix_set:
 - six-degrees.io
 - sixth.biz
 - sjrt.org
-- sjum.cn
 - sketchappsources.com
 - skimtube.com
 - skk.moe
@@ -5242,7 +5223,6 @@ domain_suffix_set:
 - tianlawoffice.com
 - tianti.io
 - tiantibooks.org
-- tianyantong.org.cn
 - tianzhu.org
 - tibet-envoy.eu
 - tibet-foundation.org
@@ -5726,7 +5706,6 @@ domain_suffix_set:
 - valvesoftware.com
 - van001.com
 - van698.com
-- vanemu.cn
 - vanilla-jp.com
 - vanpeople.com
 - vansky.com
@@ -5968,7 +5947,6 @@ domain_suffix_set:
 - whatsapp.net
 - whatsonweibo.com
 - wheatseeds.org
-- wheel-size.cn
 - wheelockslatin.com
 - whereiswerner.com
 - wheretowatch.com
@@ -5981,7 +5959,6 @@ domain_suffix_set:
 - whyx.org
 - widevine.com
 - wikaba.com
-- wiki.keso.cn
 - wikia.com
 - wikibooks.org
 - wikidata.org
@@ -6327,7 +6304,6 @@ domain_suffix_set:
 - zhoushuguang.com
 - zhreader.com
 - zhuangbi.me
-- zhuanxing.cn
 - zhuatieba.com
 - zi.media
 - zi5.me
@@ -6339,7 +6315,6 @@ domain_suffix_set:
 - zippyshare.com
 - zkaip.com
 - zkiz.com
-- zmw.cn
 - zodgame.us
 - zoho.com
 - zomobo.net
