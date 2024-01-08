@@ -1,10 +1,8 @@
 domain_set:
 - mask-api.fe.apple-dns.net
 - mask-api.icloud.com
-- mask-h2.icloud.com
 - mask-t.apple-dns.net
 - mask.apple-dns.net
-- mask.icloud.com
 domain_suffix_set:
 - mask-h2.icloud.com
 - mask.icloud.com

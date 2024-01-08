@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 iCloudPrivateRelay规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,14 +12,14 @@ iCloudPrivateRelay规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-01-08 16:01:33
+最后更新时间：2024-01-09 02:17:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 6  | 
+| DOMAIN | 4  | 
 | DOMAIN-SUFFIX | 2  | 
-| TOTAL(仅供参考) | 8  | 
+| TOTAL(仅供参考) | 6  | 
 
 
 ## Egern 
@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/iCloudPrivateRelay/iC
 
 《iCloudPrivateRelay》的数据来自以下链接，如与本项目的《iCloudPrivateRelay》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/VirgilClyne/iRingo/main/RuleSet/iCloud_Private_Relay.yaml
 - https://rules.kr328.app/icloudprivaterelay.yaml
 
 

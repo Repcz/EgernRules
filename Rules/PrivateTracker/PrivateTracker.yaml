@@ -109,6 +109,7 @@ domain_set:
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.tryhackx.org
+- tracker.vds.nz
 - tracker.yemekyedim.com
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
@@ -263,7 +264,6 @@ domain_keyword_set:
 - chdbits
 - m-team
 - torrent
-- tracker
 domain_regex_set:
 ip_cidr_set:
 - 119.28.71.45/32

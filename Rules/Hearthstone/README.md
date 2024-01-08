@@ -12,7 +12,7 @@ Hearthstone规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-01-08 16:01:06
+最后更新时间：2024-01-09 02:17:07
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -48,7 +48,12 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Hearthstone/Hearthsto
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《Hearthstone》的数据来自以下链接，如与本项目的《Hearthstone》规则混合使用，可能会造成规则大量重复。
+
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Blizzard/Hearthstone.list
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

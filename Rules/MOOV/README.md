@@ -12,7 +12,7 @@ MOOV规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-01-08 16:00:01
+最后更新时间：2024-01-09 02:15:42
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -48,7 +48,12 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/MOOV/MOOV.yaml
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《MOOV》的数据来自以下链接，如与本项目的《MOOV》规则混合使用，可能会造成规则大量重复。
+
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/MOOV.list
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

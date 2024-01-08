@@ -12,7 +12,7 @@ Espn规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-01-08 16:01:00
+最后更新时间：2024-01-09 02:16:59
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Espn/Espn.yaml
 
 《Espn》的数据来自以下链接，如与本项目的《Espn》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Espn.list
 - https://rules.kr328.app/espn.yaml
 
 

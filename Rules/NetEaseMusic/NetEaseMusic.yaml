@@ -1,24 +1,6 @@
 domain_set:
-- admusicpic.music.126.net
-- apm.music.163.com
-- apm3.music.163.com
 - iadmat.nosdn.127.net
-- iadmusicmat.music.126.net
-- iadmusicmatvideo.music.126.net
-- interface.music.163.com
-- interface3.music.163.com
-- music.163.com
 - netease.ugcvideoss.ourdvs.com
-- p1.music.126.net
-- p10.music.126.net
-- p2.music.126.net
-- p3.music.126.net
-- p4.music.126.net
-- p5.music.126.net
-- p6.music.126.net
-- p7.music.126.net
-- p8.music.126.net
-- p9.music.126.net
 domain_suffix_set:
 - 163yun.com
 - api.iplay.163.com

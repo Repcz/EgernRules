@@ -1,6 +1,4 @@
 domain_set:
-- venmo.s3.amazonaws.com
-- www.paypal-mktg.com
 domain_suffix_set:
 - account-paypal.info
 - account-paypal.net
