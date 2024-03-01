@@ -1,0 +1,14 @@
+no_resolve: true
+domain_set:
+- bcbolt446c5271-a.akamaihd.net
+- content.jwplatform.com
+- edge.api.brightcove.com
+- videos-f.jwpsrv.com
+domain_suffix_set:
+- encoretvb.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

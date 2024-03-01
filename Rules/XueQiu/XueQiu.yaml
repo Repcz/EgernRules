@@ -1,0 +1,19 @@
+domain_set:
+domain_suffix_set:
+- aiganggu.com
+- danjuanapp.com
+- danjuanfunds.com
+- iganggu.com
+- imedao.com
+- imeigu.cn
+- imeigu.com.cn
+- ncfjj.com
+- snowballfinance.com
+- snowballsecurities.com
+- xueqiu.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

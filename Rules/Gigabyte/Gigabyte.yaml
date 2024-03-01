@@ -1,0 +1,16 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- aorus.com
+- aoruszone.cn
+- gigabyte.cn
+- gigabyte.com
+- gigabyte2.azureedge.net
+- sa78gs.wpc.edgecastcdn.net
+- sni1dcb6gl.wpc.edgecastcdn.net
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

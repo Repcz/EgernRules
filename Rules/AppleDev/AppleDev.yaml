@@ -1,0 +1,45 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- apple-cloudkit.com
+- apple-mapkit.com
+- apple.com.akadns.net
+- appleswift.com
+- appleworldwidedeveloper.hb-api.omtrdc.net
+- appleworldwidedeveloper.sc.omtrdc.net
+- calendarserver.org
+- carekit.org
+- courier-push-apple.com.akadns.net
+- cups.org
+- developer.apple.com
+- devimages-cdn.apple.com
+- devstreaming-cdn.apple.com
+- foundationdb.org
+- macosforge.org
+- macruby.com
+- macruby.net
+- macruby.org
+- p-events-delivery.akamaized.net
+- playgrounds-cdn.apple.com
+- push-apple.com.akadns.net
+- researchandcare.org
+- researchkit.cn
+- researchkit.com.cn
+- researchkit.hk
+- researchkit.net
+- researchkit.org
+- researchkit.tv
+- servicetalk.io
+- swift.org
+- swiftui.cn
+- swiftui.com.cn
+- webkit.org
+- webkitgtk.org
+- webobjects.com
+- wpewebkit.org
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

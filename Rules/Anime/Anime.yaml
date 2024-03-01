@@ -1,0 +1,22 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- 9anime.cz
+- 9anime.id
+- 9anime.to
+- 9anime.ws
+- animedao-tv.com
+- crunchyroll.com
+- funimation.com
+- gogo-load.com
+- gogoanime.vc
+- gogoanime.wiki
+- gogocdn.net
+- hidive.com
+- vrv.co
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

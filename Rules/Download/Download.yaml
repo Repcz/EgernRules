@@ -1,0 +1,15 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- qbittorrent.org
+domain_keyword_set:
+- aria2
+- thunder
+- xlliveud
+- xunlei
+- yunpan
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

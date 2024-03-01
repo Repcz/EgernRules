@@ -1,0 +1,16 @@
+domain_set:
+domain_suffix_set:
+- itiger.com
+- laohu8.com
+- tigerbbs.cn
+- tigerbbs.com
+- tigerfintech.com
+- xiaohu8.com
+- zhijianfengyi.cn
+- zhijianfengyi.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

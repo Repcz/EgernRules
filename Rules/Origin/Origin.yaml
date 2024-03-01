@@ -1,0 +1,16 @@
+no_resolve: true
+domain_set:
+- cloudsync-prod.s3.amazonaws.com
+- eaasserts-a.akamaihd.net
+- origin-a.akamaihd.net
+- originasserts.akamaized.net
+- rtm.tnt-ea.com
+domain_suffix_set:
+- ea.com
+- origin.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

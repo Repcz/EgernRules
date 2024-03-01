@@ -1,0 +1,37 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- airhorn.solutions
+- airhornbot.com
+- bigbeans.solutions
+- dis.gd
+- discord-activities.com
+- discord.co
+- discord.com
+- discord.design
+- discord.dev
+- discord.gg
+- discord.gift
+- discord.gifts
+- discord.media
+- discord.new
+- discord.store
+- discord.tools
+- discordactivities.com
+- discordapp.com
+- discordapp.io
+- discordapp.net
+- discordapp.page.link
+- discordcdn.com
+- discordmerch.com
+- discordpartygames.com
+- discordsays.com
+- discordstatus.com
+- hammerandchisel.ssl.zendesk.com
+- watchanimeattheoffice.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

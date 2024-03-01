@@ -1,0 +1,28 @@
+no_resolve: true
+domain_set:
+- d2f0395ykn6hxb.cloudfront.net
+domain_suffix_set:
+- diskstation.me
+- dscloud.biz
+- dscloud.me
+- dscloud.mobi
+- dsmunas.com
+- dsmunas.net
+- dsmunas.org
+- familyds.com
+- familyds.net
+- familyds.org
+- i234.me
+- myds.com
+- quickconnect.to
+- synodns.com
+- synology.cn
+- synology.com
+- synology.me
+domain_keyword_set:
+- synology
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

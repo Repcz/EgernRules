@@ -1,0 +1,11 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+- 91.108.12.0/22
+ip_cidr6_set:
+- 2001:b28:f23d::/48
+asn_set:
+url_regex_set:

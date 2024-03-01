@@ -1,0 +1,32 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- g-technology.com
+- sandisk.ae
+- sandisk.cn
+- sandisk.co.jp
+- sandisk.co.kr
+- sandisk.co.uk
+- sandisk.com
+- sandisk.com.au
+- sandisk.com.br
+- sandisk.com.tr
+- sandisk.com.tw
+- sandisk.de
+- sandisk.es
+- sandisk.fr
+- sandisk.hk
+- sandisk.id
+- sandisk.in
+- sandisk.it
+- sandisk.nl
+- sandisk.sg
+- wd.com
+- wdc.com
+- westerndigital.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

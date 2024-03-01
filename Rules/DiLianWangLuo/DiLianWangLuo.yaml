@@ -1,0 +1,22 @@
+domain_set:
+domain_suffix_set:
+- acadn.cn
+- acadn.com
+- bbbcdns.com
+- dlgslb.cn
+- dlgslb.net
+- dwion.com
+- fastcdn.com
+- fastcdn.com.cn
+- flxdns.cn
+- flxdns.com
+- globalcdn.cn
+- mcadn.cn
+- tlgslb.cn
+- tlgslb.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

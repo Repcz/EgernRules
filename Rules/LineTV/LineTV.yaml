@@ -1,0 +1,17 @@
+no_resolve: true
+domain_set:
+- d17lx9ucc6k9fc.cloudfront.net
+- d3pgb93pk7bvxj.cloudfront.net
+- d3vm9lcxb6xcm4.cloudfront.net
+domain_suffix_set:
+- chocotv.com.tw
+- d3c7rimkq79yfu.cloudfront.net
+- line-cdn.net
+- line-scdn.net
+- linetv.tw
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

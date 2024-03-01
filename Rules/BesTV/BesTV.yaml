@@ -1,0 +1,15 @@
+domain_set:
+domain_suffix_set:
+- bbtv.cn
+- bestv.com.cn
+- bestvcdn.cn
+- bestvcdn.com
+- bestvcdn.com.cn
+- bestvcdn.net
+- smgbb.cn
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,22 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- globalsign-media.com
+- globalsign.be
+- globalsign.ch
+- globalsign.co.uk
+- globalsign.com
+- globalsign.com.au
+- globalsign.com.hk
+- globalsign.com.sg
+- globalsign.es
+- globalsign.eu
+- globalsign.fr
+- globalsign.net
+- globalsign.nl
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

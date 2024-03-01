@@ -1,0 +1,21 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- appsflayer.com
+- binance.cloud
+- binance.com
+- binance.me
+- binancecnt.com
+- binancefuture.com
+- bnappzh.co
+- bnbstatic.com
+- bnbzh.ac
+- bntrace.com
+- saasexch.cc
+- saasexch.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

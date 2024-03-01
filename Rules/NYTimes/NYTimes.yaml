@@ -1,0 +1,25 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- d1f1eryiqyjs0r.cloudfront.net
+- d3lar09xbwlsge.cloudfront.net
+- d3q1qj9jzsu8nw.cloudfront.net
+- dc8xl0ndzn2cb.cloudfront.net
+- nyt.com
+- nyt.net
+- nytchina.com
+- nytcn.me
+- nytco.com
+- nyti.ms
+- nytimes.com
+- nytimg.com
+- nytlog.com
+- nytstyle.com
+- timestalks.com
+- tynt.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

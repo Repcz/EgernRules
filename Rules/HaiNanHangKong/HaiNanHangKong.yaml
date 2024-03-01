@@ -1,0 +1,14 @@
+domain_set:
+domain_suffix_set:
+- 10044.cn
+- hainanairlines.com
+- hnacargo.com
+- hnair.com
+- hnair.net
+domain_keyword_set:
+- hnagroup
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

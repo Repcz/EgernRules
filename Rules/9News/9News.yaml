@@ -1,0 +1,23 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- 9cdn.net
+- 9nation.com.au
+- 9news.com.au
+- 9now.com.au
+- freeviewplus.net.au
+- mi9.com.au
+- mi9cdn.com
+- nine.com.au
+- nineentertainment.com.au
+- nineentertainmentco.com.au
+- ninemediaroom.com.au
+- ninemsn.com.au
+- static9.net.au
+- yourtv.com.au
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

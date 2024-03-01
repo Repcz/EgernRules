@@ -1,0 +1,36 @@
+domain_set:
+domain_suffix_set:
+- 10086.cn
+- 12530.com
+- 139.com
+- andfx.cn
+- andfx.net
+- chinamobile.com
+- chinamobileltd.com
+- cmccb2b.com
+- cmicrwx.cn
+- cmpassport.com
+- cmvideo.cn
+- fetion-portal.com
+- fetionpic.com
+- lovev.cn
+- lovev.com
+- migu.cn
+- migucc.cn
+- migucdn.cn
+- migucloud.com
+- migufm.com
+- migugk.com
+- migutv.com
+- miguvideo.com
+- miguvideo.com.cn
+- mmarket.com
+- mmarket6.com
+- monternet.com
+- warmchina121.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

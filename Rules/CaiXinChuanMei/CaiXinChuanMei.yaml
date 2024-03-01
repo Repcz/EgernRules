@@ -1,0 +1,32 @@
+domain_set:
+domain_suffix_set:
+- caing.cn
+- caing.com
+- caixin.com
+- caixinmedia.cn
+- caixinmedia.com
+- caixinmedia.com.cn
+- caixinonline.com
+- healthpoint.cn
+- healthpoint.com.cn
+- icaing.cn
+- jianhangcaifu.com
+- lifetmt.cn
+- lifetmt.com
+- lifetmt.com.cn
+- lifetmt.net
+- lifetmt.org
+- weinews.cn
+- weinews.com.cn
+- whyenjoy.com
+- whyenjoy.com.cn
+- wusuobuneng.cn
+- wusuobuneng.com
+- wusuobuneng.com.cn
+- wusuobuneng.org
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

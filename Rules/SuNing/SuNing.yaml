@@ -1,0 +1,39 @@
+domain_set:
+domain_suffix_set:
+- 10035.com.cn
+- chinadzfp.com
+- cloudytrace.cn
+- cloudytrace.com
+- cloudytrace.org
+- cnsuning.com
+- laox.cn
+- pinjiago.cn
+- pinjiago.com
+- redbaby.com.cn
+- sndlj.cn
+- snqrc.cn
+- suning.cn
+- suning.com
+- suningcdn.cn
+- suningcdn.com
+- suningcdn.net
+- suningcloud.com
+- suningdns.cn
+- suningdns.com
+- suningdns.net
+- suningestate.com
+- suninggslb.cn
+- suninggslb.net
+- suningholdings.com
+- suninghotel.com
+- suningmail.com
+- suningyunyou.cn
+- suningyunyou.com
+- wuliuyun.com
+- yifubao.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:
