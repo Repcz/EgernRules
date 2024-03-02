@@ -11,7 +11,6 @@ domain_set:
 - black-bird.ynh.fr
 - bt.ktrackers.com
 - bt.okmp3.ru
-- bt.rer.lol
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
@@ -25,10 +24,10 @@ domain_set:
 - explodie.org
 - fh2.cmp-gaming.com
 - free.publictracker.xyz
+- freedomalternative.com
 - ipv4.rer.lol
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
-- isk.richardsw.club
 - jutone.com
 - mail.artixlinux.org
 - martin-gebhardt.eu
@@ -53,8 +52,6 @@ domain_set:
 - opentracker.io
 - p4p.arenabg.com
 - pirate.t-1.org
-- public.tracker.vraphim.com
-- r.l5.ca
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker01-msk-virt.corbina.net
@@ -77,6 +74,7 @@ domain_set:
 - tracker.anima.nz
 - tracker.artixlinux.org
 - tracker.auctor.tv
+- tracker.bittor.pw
 - tracker.bt4g.com
 - tracker.cloudit.top
 - tracker.cubonegro.lol
@@ -91,8 +89,8 @@ domain_set:
 - tracker.fnix.net
 - tracker.gbitt.info
 - tracker.gcrreen.xyz
-- tracker.imgoingto.icu
 - tracker.ipfsscan.io
+- tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jamesthebard.net
 - tracker.kuroy.me
@@ -131,6 +129,7 @@ domain_set:
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
+- uraniumhexafluori.de
 - v6-tracker.0g.cx
 - wepzone.net
 - wg.mortis.me
