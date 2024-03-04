@@ -6,10 +6,8 @@ domain_set:
 - 6ahddutb1ucc3cp.ru
 - aboutbeautifulgallopinghorsesinthegreenpasture.online
 - aegir.sexy
-- api.alarmasqueretaro.com
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - black-bird.ynh.fr
-- bt.ktrackers.com
 - bt.okmp3.ru
 - bt1.archive.org
 - bt2.archive.org
@@ -51,8 +49,10 @@ domain_set:
 - opentracker.io
 - p4p.arenabg.com
 - pirate.t-1.org
+- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
+- retracker.seven-sky.net
 - retracker01-msk-virt.corbina.net
 - ryjer.com
 - shahidrazi.online
@@ -69,6 +69,7 @@ domain_set:
 - tr.qfruiti.com
 - tr.qfruiti.in
 - track3r.site
+- tracker-udp.gbitt.info
 - tracker.0x7c0.com
 - tracker.anima.nz
 - tracker.artixlinux.org
@@ -87,9 +88,7 @@ domain_set:
 - tracker.fnix.net
 - tracker.gbitt.info
 - tracker.gcrreen.xyz
-- tracker.imgoingto.icu
 - tracker.ipfsscan.io
-- tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jamesthebard.net
 - tracker.kuroy.me
