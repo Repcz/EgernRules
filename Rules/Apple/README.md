@@ -12,18 +12,18 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-02-28 02:09:57
+最后更新时间：2024-03-06 02:09:48
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 242  | 
+| DOMAIN | 267  | 
 | DOMAIN-KEYWORD | 7  | 
 | DOMAIN-SUFFIX | 1549  | 
 | DOMAIN-WILDCARD | 8  | 
 | IP-CIDR | 10  | 
 | USER-AGENT(Egern不支持) | 23  | 
-| TOTAL(仅供参考) | 1839  | 
+| TOTAL(仅供参考) | 1864  | 
 
 
 ## Egern 

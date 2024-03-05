@@ -8,9 +8,11 @@ domain_set:
 - aegir.sexy
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - black-bird.ynh.fr
+- bt.ktrackers.com
 - bt.okmp3.ru
 - bt1.archive.org
 - bt2.archive.org
+- btt.service.gongt.me
 - bvarf.tracker.sh
 - canardscitrons.nohost.me
 - ch3oh.ru
@@ -44,12 +46,12 @@ domain_set:
 - open.tracker.cl
 - open.tracker.ink
 - open.u-p.pw
+- open.xxtor.com
 - opentor.org
 - opentracker.i2p.rocks
 - opentracker.io
 - p4p.arenabg.com
 - pirate.t-1.org
-- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.seven-sky.net
@@ -68,6 +70,7 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.qfruiti.com
 - tr.qfruiti.in
+- tr.ready4.icu
 - track3r.site
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -88,7 +91,7 @@ domain_set:
 - tracker.fnix.net
 - tracker.gbitt.info
 - tracker.gcrreen.xyz
-- tracker.ipfsscan.io
+- tracker.imgoingto.icu
 - tracker.ipv6tracker.ru
 - tracker.jamesthebard.net
 - tracker.kuroy.me
