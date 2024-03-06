@@ -12,19 +12,19 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-03-05 02:12:10
+最后更新时间：2024-03-07 02:13:42
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 108  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 73308  | 
+| DOMAIN-SUFFIX | 73688  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 31  | 
-| TOTAL(仅供参考) | 73472  | 
+| TOTAL(仅供参考) | 73852  | 
 
 
 ## Egern 

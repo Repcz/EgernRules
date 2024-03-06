@@ -70,14 +70,15 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.qfruiti.com
 - tr.qfruiti.in
-- tr.ready4.icu
 - track3r.site
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
 - tracker.anima.nz
 - tracker.artixlinux.org
 - tracker.auctor.tv
+- tracker.bittor.pw
 - tracker.bt4g.com
+- tracker.ccp.ovh
 - tracker.cloudit.top
 - tracker.cubonegro.lol
 - tracker.cyberia.is
@@ -92,6 +93,7 @@ domain_set:
 - tracker.gbitt.info
 - tracker.gcrreen.xyz
 - tracker.imgoingto.icu
+- tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jamesthebard.net
 - tracker.kuroy.me
@@ -132,7 +134,6 @@ domain_set:
 - u6.trakx.crim.ist
 - v6-tracker.0g.cx
 - wepzone.net
-- wg.mortis.me
 - www.all4nothin.net
 - www.peckservers.com
 - www.torrent.eu.org
