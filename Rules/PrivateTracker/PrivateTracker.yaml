@@ -12,9 +12,7 @@ domain_set:
 - bt.okmp3.ru
 - bt1.archive.org
 - bt2.archive.org
-- btt.service.gongt.me
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -25,6 +23,7 @@ domain_set:
 - explodie.org
 - fh2.cmp-gaming.com
 - free.publictracker.xyz
+- freedomalternative.com
 - ipv4.rer.lol
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
@@ -52,6 +51,7 @@ domain_set:
 - opentracker.io
 - p4p.arenabg.com
 - pirate.t-1.org
+- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.seven-sky.net
@@ -78,13 +78,13 @@ domain_set:
 - tracker.auctor.tv
 - tracker.bittor.pw
 - tracker.bt4g.com
-- tracker.ccp.ovh
 - tracker.cloudit.top
 - tracker.cubonegro.lol
 - tracker.cyberia.is
 - tracker.ddunlimited.net
 - tracker.dler.com
 - tracker.dler.org
+- tracker.draatman.uk
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.filemail.com
@@ -93,6 +93,7 @@ domain_set:
 - tracker.gbitt.info
 - tracker.gcrreen.xyz
 - tracker.imgoingto.icu
+- tracker.ipfsscan.io
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jamesthebard.net

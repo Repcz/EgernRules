@@ -1,7 +1,6 @@
 no_resolve: true
 domain_set:
 - apps.apple.com
-- itunes.apple.com
 - a1.mzstatic.com
 - a2.mzstatic.com
 - a3.mzstatic.com
@@ -239,6 +238,8 @@ domain_set:
 - devimages-cdn.apple.com
 - devstreaming-cdn.apple.com
 - docs-assets.developer.apple.com
+- hls-svod.itunes.apple.com
+- itunes.apple.com
 - js-cdn.music.apple.com
 - lookup-api.apple.com
 - mask-api.fe.apple-dns.net
@@ -262,7 +263,6 @@ domain_set:
 - fmipmobile.icloud.com
 - statici.icloud.com
 - amp-api.fitness.apple.com
-- hls-svod.itunes.apple.com
 - guzzoni.apple.com
 - beta.apple.com
 - testflight.apple.com
@@ -1449,7 +1449,6 @@ domain_suffix_set:
 - applepaysupplies.tv
 - applewallet.com
 - applewallet.tv
-- appsto.re
 - appstore.co.id
 - appstore.com
 - appstore.hk
@@ -1725,11 +1724,9 @@ domain_suffix_set:
 - wwwipodlounge.com
 - wwwmacbookair.com
 - apple.comscoreresearch.com
-- apple.news
 - appleenews.com
 - applemusic.berlin
 - applemusic.co
-- applemusic.com
 - applemusic.com.au
 - applemusic.hamburg
 - applemusic.wang
@@ -1762,7 +1759,11 @@ domain_suffix_set:
 - iphoto.wang
 - musickit.net
 - wwwapplemusic.com
+- applemusic.com
 - apple-dns.net
+- apple.news
+- appsto.re
+- cdn-apple.com
 - digicert.com
 - apple-cloudkit.com
 - apple-icloud.cn
@@ -1770,7 +1771,6 @@ domain_suffix_set:
 - appleicloud.cn
 - applemx-icloud.com
 - apzones.com
-- cdn-apple.com
 - icloud-apple.cn
 - icloud-content.com
 - icloud-isupport.com
