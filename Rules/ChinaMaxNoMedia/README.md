@@ -12,7 +12,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-03-10 02:12:52
+最后更新时间：2024-03-11 02:12:17
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -23,9 +23,9 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8018  | 
-| IP-CIDR6 | 4232  | 
+| IP-CIDR6 | 4223  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 88365  | 
+| TOTAL(仅供参考) | 88356  | 
 
 
 ## Egern 
