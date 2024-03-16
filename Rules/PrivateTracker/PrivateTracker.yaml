@@ -27,6 +27,7 @@ domain_set:
 - ipv4.rer.lol
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
+- isk.richardsw.club
 - jutone.com
 - mail.artixlinux.org
 - martin-gebhardt.eu
@@ -41,6 +42,7 @@ domain_set:
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.ink
 - open.u-p.pw
@@ -57,6 +59,7 @@ domain_set:
 - ryjer.com
 - shahidrazi.online
 - t.acg.rip
+- t1.aag.moe
 - t1.hloli.org
 - tamas3.ynh.fr
 - tinfoil.space
@@ -67,16 +70,13 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.qfruiti.com
 - tr.qfruiti.in
-- tr.ready4.icu
 - track3r.site
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
 - tracker.anima.nz
 - tracker.artixlinux.org
 - tracker.auctor.tv
-- tracker.bittor.pw
 - tracker.bt4g.com
-- tracker.ccp.ovh
 - tracker.cloudit.top
 - tracker.cubonegro.lol
 - tracker.cyberia.is
@@ -101,7 +101,6 @@ domain_set:
 - tracker.mywaifu.best
 - tracker.netmap.top
 - tracker.opentrackr.org
-- tracker.openwebtorrent.com
 - tracker.picotorrent.one
 - tracker.qu.ax
 - tracker.renfei.net
@@ -114,6 +113,7 @@ domain_set:
 - tracker.therarbg.to
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
+- tracker.torrentuje.me
 - tracker.torrust-demo.com
 - tracker.tryhackx.org
 - tracker.yemekyedim.com
@@ -127,6 +127,7 @@ domain_set:
 - tracker3.itzmx.com
 - tracker4.itzmx.com
 - trackers.mlsub.net
+- ts.populargamers.co.za
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
