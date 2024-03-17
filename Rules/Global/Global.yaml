@@ -232,6 +232,7 @@ domain_set:
 - prd-priconne-redive.akamaized.net
 - psg-int-centralus.cloudapp.net
 - psg-int-eastus.cloudapp.net
+- public-us-pingsx.api.clonoth.com
 - push-apple.com.akadns.net
 - pvr-hamivideo.cdn.hinet.net
 - qualcomm.sc.omtrdc.net
@@ -12850,6 +12851,7 @@ domain_suffix_set:
 - pin.it
 - pinduck.com
 - pinflix.com
+- ping.sx
 - pingguotv.xyz
 - pingxiangpuer.com
 - pinkcore.com
@@ -15573,6 +15575,8 @@ domain_suffix_set:
 - tiktokcdn-us.com
 - tiktokcdn.com
 - tiktokv.com
+- tiktokv.us
+- tiktokw.us
 - time.gov
 - time.nrc.ca
 - timelinestoryteller.com
