@@ -12,20 +12,20 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-03-19 02:13:00
+最后更新时间：2024-03-20 02:12:29
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 449  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 75604  | 
+| DOMAIN-SUFFIX | 75609  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8022  | 
-| IP-CIDR6 | 4287  | 
+| IP-CIDR6 | 4277  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 88440  | 
+| TOTAL(仅供参考) | 88435  | 
 
 
 ## Egern 
