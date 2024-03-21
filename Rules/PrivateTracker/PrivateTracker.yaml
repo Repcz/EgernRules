@@ -10,9 +10,11 @@ domain_set:
 - amigacity.xyz
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
+- bt.okmp3.ru
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
+- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -20,11 +22,13 @@ domain_set:
 - epider.me
 - evan.im
 - exodus.desync.com
+- explodie.org
 - fh2.cmp-gaming.com
 - free.publictracker.xyz
 - ipv4.rer.lol
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
+- isk.richardsw.club
 - jutone.com
 - mail.artixlinux.org
 - martin-gebhardt.eu
@@ -52,6 +56,7 @@ domain_set:
 - pirate.t-1.org
 - public.publictracker.xyz
 - public.tracker.vraphim.com
+- r.l5.ca
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker01-msk-virt.corbina.net
@@ -78,7 +83,6 @@ domain_set:
 - tracker.anima.nz
 - tracker.artixlinux.org
 - tracker.auctor.tv
-- tracker.bittor.pw
 - tracker.bt4g.com
 - tracker.cloudit.top
 - tracker.cubonegro.lol
@@ -86,6 +90,7 @@ domain_set:
 - tracker.ddunlimited.net
 - tracker.dler.com
 - tracker.dler.org
+- tracker.dump.cl
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.filemail.com
@@ -138,6 +143,7 @@ domain_set:
 - www.all4nothin.net
 - www.peckservers.com
 - www.torrent.eu.org
+- www.wareztorrent.com
 - yolo.liberbear.com
 domain_suffix_set:
 - 1ptba.com

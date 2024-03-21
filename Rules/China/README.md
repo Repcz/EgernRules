@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
 
 China规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,19 +12,19 @@ China规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-03-14 02:10:55
+最后更新时间：2024-03-21 15:50:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 15  | 
+| DOMAIN | 20  | 
 | DOMAIN-KEYWORD | 9  | 
 | DOMAIN-SUFFIX | 3675  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 17  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 31  | 
-| TOTAL(仅供参考) | 3752  | 
+| TOTAL(仅供参考) | 3757  | 
 
 
 ## Egern 

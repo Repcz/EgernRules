@@ -2,16 +2,21 @@ domain_set:
 - analytics.strava.com
 - blzddist1-a.akamaihd.net
 - cdn.angruo.com
-- cdp.cloud.unity3d.com
 - client.amplifi.com
 - download.jetbrains.com
+- download.microsoft.com
 - images-cn.ssl-images-amazon.com
+- ip.bjango.com
 - ip.istatmenus.app
 - kc.kexinshe.com
+- ntservicepack.microsoft.com
 - origin-a.akamaihd.ne
 - origin-a.akamaihd.net
+- outlook.office365.com
 - sms.imagetasks.com
-- steamcommunity-a.akamaihd.net
+- smtp-mail.outlook.com
+- smtp.office365.com
+- wustat.windows.com
 - www.libvideo.com
 - www.yxssp.com
 domain_suffix_set:

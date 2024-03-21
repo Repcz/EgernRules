@@ -8,7 +8,7 @@ domain_suffix_set:
 - api.statsig.com
 - auth0.com
 - cdn.cloudflare.net
-- challenges.cloudflare.com
+- chatgpt.com
 - chatgpt.livekit.cloud
 - client-api.arkoselabs.com
 - events.statsigapi.net
