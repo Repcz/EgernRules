@@ -14,6 +14,7 @@ domain_set:
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
+- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -27,7 +28,6 @@ domain_set:
 - ipv4.rer.lol
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
-- isk.richardsw.club
 - jutone.com
 - mail.artixlinux.org
 - martin-gebhardt.eu
@@ -54,7 +54,6 @@ domain_set:
 - p4p.arenabg.com
 - pirate.t-1.org
 - public.publictracker.xyz
-- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker01-msk-virt.corbina.net
@@ -63,7 +62,6 @@ domain_set:
 - ryjer.com
 - seedpeer.net
 - shahidrazi.online
-- su-data.com
 - t.acg.rip
 - t.overflow.biz
 - t1.hloli.org
@@ -75,6 +73,7 @@ domain_set:
 - torrentsmd.com
 - tr.burnabyhighstar.com
 - tr.qfruiti.com
+- tr.qfruiti.in
 - track3r.site
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -106,6 +105,7 @@ domain_set:
 - tracker.moeking.me
 - tracker.mywaifu.best
 - tracker.netmap.top
+- tracker.open-data.network
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.picotorrent.one
@@ -116,7 +116,6 @@ domain_set:
 - tracker.srv00.com
 - tracker.t-rb.org
 - tracker.tamersunion.org
-- tracker.theoks.net
 - tracker.therarbg.com
 - tracker.therarbg.to
 - tracker.tiny-vps.com
