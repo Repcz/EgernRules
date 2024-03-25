@@ -43,7 +43,6 @@ domain_set:
 - open.demonii.com
 - open.dstud.io
 - open.stealth.si
-- open.tracker.cl
 - open.tracker.ink
 - open.u-p.pw
 - open.xxtor.com
@@ -62,6 +61,7 @@ domain_set:
 - ryjer.com
 - seedpeer.net
 - shahidrazi.online
+- su-data.com
 - t.acg.rip
 - t.overflow.biz
 - t1.hloli.org
@@ -86,6 +86,7 @@ domain_set:
 - tracker.ddunlimited.net
 - tracker.dler.com
 - tracker.dler.org
+- tracker.dump.cl
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.farted.net
@@ -105,7 +106,6 @@ domain_set:
 - tracker.moeking.me
 - tracker.mywaifu.best
 - tracker.netmap.top
-- tracker.open-data.network
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.picotorrent.one
@@ -116,6 +116,7 @@ domain_set:
 - tracker.srv00.com
 - tracker.t-rb.org
 - tracker.tamersunion.org
+- tracker.theoks.net
 - tracker.therarbg.com
 - tracker.therarbg.to
 - tracker.tiny-vps.com
@@ -125,7 +126,6 @@ domain_set:
 - tracker.vds.nz
 - tracker.yemekyedim.com
 - tracker1.520.jp
-- tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
 - tracker1.myporn.club
 - tracker2.dler.com
@@ -142,7 +142,6 @@ domain_set:
 - www.peckservers.com
 - www.torrent.eu.org
 - www.wareztorrent.com
-- yolo.liberbear.com
 domain_suffix_set:
 - 1ptba.com
 - 2xfree.org
