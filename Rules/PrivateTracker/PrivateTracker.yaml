@@ -11,10 +11,10 @@ domain_set:
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
 - bt.okmp3.ru
+- bt.ptlsp.com
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -28,8 +28,8 @@ domain_set:
 - ipv4.rer.lol
 - ipv6.fuuuuuck.com
 - ipv6.rer.lol
+- isk.richardsw.club
 - jutone.com
-- mail.artixlinux.org
 - martin-gebhardt.eu
 - moonburrow.club
 - movies.zsw.ca
@@ -53,6 +53,7 @@ domain_set:
 - p4p.arenabg.com
 - pirate.t-1.org
 - public.publictracker.xyz
+- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker01-msk-virt.corbina.net
@@ -86,7 +87,6 @@ domain_set:
 - tracker.ddunlimited.net
 - tracker.dler.com
 - tracker.dler.org
-- tracker.dump.cl
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.farted.net
@@ -94,8 +94,6 @@ domain_set:
 - tracker.files.fm
 - tracker.fnix.net
 - tracker.gbitt.info
-- tracker.gcrreen.xyz
-- tracker.imgoingto.icu
 - tracker.ipfsscan.io
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
@@ -142,6 +140,7 @@ domain_set:
 - www.peckservers.com
 - www.torrent.eu.org
 - www.wareztorrent.com
+- yolo.liberbear.com
 domain_suffix_set:
 - 1ptba.com
 - 2xfree.org
