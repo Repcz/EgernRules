@@ -2,7 +2,6 @@ no_resolve: true
 domain_set:
 - 1337.abcvg.info
 - 1c.premierzal.ru
-- 6.pocketnet.app
 - 6ahddutb1ucc3cp.ru
 - aarsen.me
 - aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -53,7 +52,6 @@ domain_set:
 - p4p.arenabg.com
 - pirate.t-1.org
 - public.publictracker.xyz
-- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker01-msk-virt.corbina.net
@@ -74,7 +72,6 @@ domain_set:
 - torrentsmd.com
 - tr.burnabyhighstar.com
 - tr.qfruiti.com
-- tr.qfruiti.in
 - track3r.site
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -87,6 +84,7 @@ domain_set:
 - tracker.ddunlimited.net
 - tracker.dler.com
 - tracker.dler.org
+- tracker.dump.cl
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.farted.net
@@ -94,6 +92,7 @@ domain_set:
 - tracker.files.fm
 - tracker.fnix.net
 - tracker.gbitt.info
+- tracker.imgoingto.icu
 - tracker.ipfsscan.io
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
@@ -124,6 +123,7 @@ domain_set:
 - tracker.vds.nz
 - tracker.yemekyedim.com
 - tracker1.520.jp
+- tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
 - tracker1.myporn.club
 - tracker2.dler.com
