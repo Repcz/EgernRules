@@ -1,0 +1,13 @@
+no_resolve: true
+domain_set:
+- hls-hichannel.cdn.hinet.net
+domain_suffix_set:
+- hamivideo.hinet.net
+- ott.hinet.net
+domain_keyword_set:
+- hamivideo.cdn.hinet.net
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

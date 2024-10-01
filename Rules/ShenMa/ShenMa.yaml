@@ -1,0 +1,21 @@
+domain_set:
+domain_suffix_set:
+- shenma-inc.com
+- sm.cn
+- smapi.cn
+- uczzd.cn
+- uczzd.com
+- uczzd.com.cn
+- uczzd.net
+- xiaoshuo1-sm.com
+- xiaoshuo2-sm.com
+- xiaoshuo3-sm.com
+- xiaoshuo4-sm.com
+- xiaoshuo5-sm.com
+- yisou.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

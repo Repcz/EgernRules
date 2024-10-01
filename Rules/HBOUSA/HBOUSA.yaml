@@ -1,0 +1,19 @@
+no_resolve: true
+domain_set:
+- telegraph.prd.api.discomax.com
+- wmff.warnermediacdn.com
+domain_suffix_set:
+- cinemax.com
+- discomax.com
+- h264.io
+- hbomax.com
+- hbomaxcdn.com
+- hbomaxdash.s.llnwi.net
+- hbonow.com
+- maxgo.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

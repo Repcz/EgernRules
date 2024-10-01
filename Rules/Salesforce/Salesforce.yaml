@@ -1,0 +1,22 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- force.com
+- heroku.com
+- herokuapp.com
+- herokucdn.com
+- mulesoft.com
+- salesforce.com
+- salesforce.org
+- salesforceliveagent.com
+- sfdcdigital.com
+- sfdcstatic.com
+- tableau.com
+- trailblazer.me
+- trailhead.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

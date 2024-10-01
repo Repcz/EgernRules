@@ -1,0 +1,25 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- cstatic.net
+- curbed.com
+- eater.com
+- funnyordie.com
+- meridian.net
+- polygon.com
+- racked.com
+- recode.net
+- sbnation.com
+- theverge.com
+- vox-cdn.com
+- vox.com
+- voxcreative.com
+- voxfieldguide.com
+- voxmedia.com
+- voxops.net
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

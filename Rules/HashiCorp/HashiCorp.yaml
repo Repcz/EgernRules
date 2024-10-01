@@ -1,0 +1,17 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- consul.io
+- hashicorp.com
+- nomadproject.io
+- packer.io
+- terraform.io
+- vagrantcloud.com
+- vagrantup.com
+- vaultproject.io
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

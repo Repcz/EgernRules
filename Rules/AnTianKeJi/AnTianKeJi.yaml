@@ -1,0 +1,19 @@
+domain_set:
+domain_suffix_set:
+- antiy.cn
+- antiy.com
+- antiy.net.cn
+- antiycloud.com
+- avlinsight.com
+- avlsec.com
+- avlyun.cn
+- avlyun.com
+- avlyun.net
+- avlyun.org
+- cloud-backup.com.cn
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

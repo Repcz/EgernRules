@@ -1,0 +1,27 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- clickedu.co.uk
+- deepfreeze.co.uk
+- deepfreeze.com
+- deepfreeze.com.br
+- deepfreeze.eu
+- deepfreeze.net
+- deepfreeze.tech
+- faronics.ca
+- faronics.co.uk
+- faronics.com
+- faronics.com.au
+- faronics.com.sg
+- faronics.eu
+- faronics.kayako.com
+- faronics.tech
+- faronicslabs.com
+- faronicswise.co.uk
+- faronicswise.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,24 @@
+domain_set:
+domain_suffix_set:
+- 95516.com
+- 95516.net
+- airepay.net
+- chinapay.cn
+- chinapay.com
+- chinapayhongkong.com
+- chinaunionpay.com
+- chinaunionpay.com.cn
+- chinaunionpay.net
+- cup.com.cn
+- cup62.cn
+- unionpay.com
+- unionpay.net
+- unionpayintl.cn
+- unionpayintl.com
+- unionpaysecure.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,42 @@
+domain_set:
+domain_suffix_set:
+- 10010.cn
+- 10010.com
+- 10010.com.cn
+- 10010.net
+- 17wo.cn
+- chinaunicom.cn
+- chinaunicom.com
+- chinaunicom.com.cn
+- chinaunicom.com.hk
+- chinaunicombidding.cn
+- chinaunicomglobal.com
+- cu5gaia.cn
+- cu5gaia.com
+- cuecp.cn
+- cupb.cn
+- e-engine.com.cn
+- gd10010.cn
+- gd116114.net.cn
+- gd165.com
+- gnoc.com.cn
+- mucfc.com
+- mychinaunicom.com
+- unicomgd.com
+- unicompayment.cn
+- unicompayment.com
+- unicompayment.net
+- unicompayment.org
+- unimip.cn
+- wo-link.tech
+- wo.cn
+- wo.com.cn
+- wobaif.com
+- wom186.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+- 113.200.56.63/32
+ip_cidr6_set:
+asn_set:
+url_regex_set:

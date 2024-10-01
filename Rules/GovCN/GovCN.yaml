@@ -1,0 +1,24 @@
+domain_set:
+domain_suffix_set:
+- 91huayi.cn
+- 91huayi.com
+- 91huayi.net
+- gov.cn
+- heart301.cn
+- henancme.net
+- huayi.cn
+- huayiweibo.com
+- huayiyuan.com
+- robot301.net
+- roboticsurg301.net
+- scncrc.com
+- shiyanma.org.cn
+- sqpx.org
+- wsglw.com
+- wsglw.net
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

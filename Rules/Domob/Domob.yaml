@@ -1,0 +1,34 @@
+domain_set:
+domain_suffix_set:
+- dmaow.com
+- dmrta.com
+- dmrtb.cn
+- dmrtb.com
+- dmvideo.cn
+- dmvideo.mobi
+- dmvideo.net
+- dmvideo.org
+- dmyouxi.com
+- domob-inc.cn
+- domob-inc.com
+- domob.cn
+- domob.com.cn
+- domob.org
+- domobcdn.cn
+- domobcdn.com
+- domobnetwork.com
+- duomeng.cn
+- duomeng.net
+- duomeng.org
+- modh.cn
+- modh.com.cn
+- moxz.cn
+- moxz.net
+- ugdesk.cn
+- ugdesk.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

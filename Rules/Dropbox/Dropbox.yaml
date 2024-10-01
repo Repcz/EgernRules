@@ -1,0 +1,26 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- db.tt
+- dropbox-dns.com
+- dropbox.com
+- dropbox.tech
+- dropbox.zendesk.com
+- dropboxapi.com
+- dropboxbusiness.com
+- dropboxcaptcha.com
+- dropboxforum.com
+- dropboxforums.com
+- dropboxinsiders.com
+- dropboxmail.com
+- dropboxpartners.com
+- dropboxstatic.com
+- dropboxusercontent.com
+- getdropbox.com
+- paper-attachments.s3.amazonaws.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

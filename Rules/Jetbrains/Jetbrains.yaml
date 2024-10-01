@@ -1,0 +1,22 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- datalore.io
+- grazie.ai
+- intellij.com
+- intellij.net
+- intellij.org
+- jetbrains.com
+- jetbrains.io
+- jetbrains.net
+- jetbrains.org
+- jetbrains.space
+- jetbrains.team
+- kotlinconf.com
+- kotlinlang.org
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

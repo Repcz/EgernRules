@@ -1,0 +1,17 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- blogdns.org
+- dyn.com
+- dyndns-ip.com
+- dyndns-pics.com
+- dyndns.org
+- from-pr.com
+- from-sd.com
+- is-a-hunter.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

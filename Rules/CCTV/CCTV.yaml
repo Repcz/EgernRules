@@ -1,0 +1,45 @@
+domain_set:
+domain_suffix_set:
+- cctv.cn
+- cctv.com
+- cctvlib.cn
+- cctvlib.com.cn
+- cctvlibrary.cn
+- cctvlibrary.com.cn
+- cctvpic.com
+- cctvpro.cn
+- cctvpro.com.cn
+- chinaepg.cn
+- chinalive.com
+- citv.net.cn
+- cnms.net.cn
+- cntv.cn
+- cntv.com.cn
+- cntvwb.cn
+- gjgbdszt.cn
+- gjgbdszt.com.cn
+- gjgbdszt.net.cn
+- ipanda.cn
+- ipanda.com
+- ipanda.com.cn
+- ipanda.net
+- livechina.cn
+- livechina.com
+- olympicchannelchina.cn
+- tvcc.cn
+- tvcc.com.cn
+- xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+- xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+- xn--fiq53l90et9fpncc7joo6apn8a.cn
+- xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+- xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+- zggbdszt.cn
+- zggbdszt.com.cn
+- zggbdszt.net.cn
+- zygbdszt.net.cn
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

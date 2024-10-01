@@ -1,0 +1,13 @@
+domain_set:
+- weizhiyundong.list
+domain_suffix_set:
+- dicom365.com
+- dycom365.com
+- wedcm.com
+- weiyunyingxiang.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

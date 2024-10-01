@@ -1,0 +1,19 @@
+no_resolve: true
+domain_set:
+- ai.google.dev
+- alkalimakersuite-pa.clients6.google.com
+- generativelanguage.googleapis.com
+- makersuite.google.com
+domain_suffix_set:
+- bard.google.com
+- deepmind.com
+- deepmind.google
+- gemini.google.com
+- generativeai.google
+- proactivebackend-pa.googleapis.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

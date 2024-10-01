@@ -1,0 +1,34 @@
+domain_set:
+domain_suffix_set:
+- 0101cdn.com
+- hiveshared.com
+- ionecloud.cn
+- kuiniuca.com
+- miuapp.com.cn
+- onething.net
+- onethingc.com
+- onethingcloud.cn
+- onethingcloud.com
+- onethingd.com
+- onethingn.com
+- onethingpcs.com
+- onethingtech.com.cn
+- onethingtech.net
+- peiluyou.com
+- seekr.com.cn
+- uhabo.com
+- walk-live.com
+- wezhibo.net
+- wezhibo.tv
+- wzhibo.net
+- wzhibo.tv
+- xunleioa.com
+- xycdn.com
+- xycloud.com
+- xylive.tv
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,41 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- appledaily.com
+- appledaily.com.hk
+- appledaily.com.tw
+- appledaily.hk
+- applefruity.com
+- applehealth.com.hk
+- atnext.com
+- bestmallawards.com
+- deluxe.com.hk
+- eracom.com.tw
+- next.hk
+- nextdigital.com.hk
+- nextdigital.com.tw
+- nextfilm.com.hk
+- nextmag.com.tw
+- nextmedia.com
+- nextmedia.com.tw
+- nextmgz.com
+- nextplus.com.hk
+- nexttv.com.tw
+- nextwork.com.hk
+- nextwork.com.tw
+- nextwork.hk
+- nextwork.tw
+- nxtdig.com.hk
+- nxtdig.com.tw
+- omoplanet.com
+- privilege.hk
+- privilege.tw
+- sharpdaily.tw
+- tomonews.net
+- twnextdigital.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

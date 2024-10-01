@@ -1,0 +1,20 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- nike.com
+- nike.com.br
+- nike.com.hk
+- nikecdn.com
+- nikecloud.com
+- nikeinc.com.cn
+- nikestore.com.au
+- niketracking.com
+- static-nike.com
+- swoo.sh
+- swoosh.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

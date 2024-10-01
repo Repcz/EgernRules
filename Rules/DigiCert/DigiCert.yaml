@@ -1,0 +1,23 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- dcocsp.cn
+- digicert-cn.com
+- digicert-validation.com
+- digicert.cn
+- digicert.com
+- digitalcertvalidation.com
+- freessl.com
+- geotrust.com
+- public-trust.com
+- quovadisglobal.com
+- rapidssl.com
+- thawte.com
+- thawte.de
+- thawte.fr
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

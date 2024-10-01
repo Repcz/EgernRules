@@ -1,0 +1,17 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- booth.pm
+- fanbox.cc
+- pixiv.cat
+- pixiv.co.jp
+- pixiv.me
+- pixiv.net
+- pixiv.org
+- pximg.net
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

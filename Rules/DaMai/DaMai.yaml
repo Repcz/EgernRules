@@ -1,0 +1,19 @@
+domain_set:
+domain_suffix_set:
+- baotoo.com
+- damai.cn
+- damaicdn.cn
+- dmcdn.cn
+- jtwsm.cn
+- maikr.com
+- maitix.com
+- maitix.net
+- piao.com.cn
+- piaogroup.com
+- yanchupiaojia.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

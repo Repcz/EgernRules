@@ -1,0 +1,40 @@
+domain_set:
+domain_suffix_set:
+- blurdev.com
+- cftsupport.com
+- fm365.com
+- idea123.cn
+- ileapcloud.com
+- jhwan.com.cn
+- juhuiwan.com
+- juhuiwan.com.cn
+- juhuiwan.net
+- lenauth.com
+- lenovo.cn
+- lenovo.com
+- lenovo.com.cn
+- lenovocloudos.com
+- lenovoeservice.com
+- lenovogame.com
+- lenovomm.cn
+- lenovomm.com
+- lenovovip.com.cn
+- lx.pub
+- lx.run
+- lxzjjt.cn
+- lxzjjt.com
+- surepush.cn
+- thinkcloudlab.com
+- thinkpad.com
+- zhiliaowenda.com.cn
+- zui.cn
+- zui.com
+- zuk.cn
+- zuk.com
+- zuk.com.cn
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

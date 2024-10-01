@@ -1,0 +1,29 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- akabeesoft2.com
+- akabeesoft3.com
+- akatsukiworks.com
+- alicesoft.com
+- api-p.videomarket.jp
+- cosmiccute.com
+- ddo.jp
+- dmm-extension.com
+- dmm.co.jp
+- dmm.com
+- dmm.hk
+- dmmapis.com
+- dmmrex.com
+- hibiki-site.com
+- minori.ph
+- navismithapis-cdn.com
+- tenco.cc
+- wheel-soft.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+- 125.6.189.7/32
+- 203.104.209.7/32
+ip_cidr6_set:
+asn_set:
+url_regex_set:

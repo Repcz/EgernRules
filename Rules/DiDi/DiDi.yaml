@@ -1,0 +1,33 @@
+domain_set:
+domain_suffix_set:
+- apptaxi.com.cn
+- cxyule.com
+- didi-food.com
+- didi.cn
+- didi.xin
+- didialift.com
+- didiapp.net.cn
+- didiaustralia.blog
+- didichuxing.com
+- didiglobal.com
+- didimobility.co.jp
+- didimobility.com
+- didiopenapi.com
+- didiqiche.com
+- didistatic.com
+- diditaxi.com
+- diditaxi.com.cn
+- didiwuxian.com
+- didiyun.com
+- didiyun.org
+- didiyunapi.com
+- juyanwenjuan.com
+- udache.com
+- xiaojuchefu.cn
+- xiaojukeji.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:
