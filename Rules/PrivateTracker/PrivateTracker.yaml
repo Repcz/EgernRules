@@ -10,6 +10,7 @@ domain_set:
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
+- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -53,8 +54,6 @@ domain_set:
 - torrentsmd.com
 - tr.burnabyhighstar.com
 - tr1.aag.moe
-- tr2.trkb.ru
-- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -68,6 +67,7 @@ domain_set:
 - tracker.cyberia.is
 - tracker.darkness.services
 - tracker.ddunlimited.net
+- tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
 - tracker.edkj.club
@@ -91,6 +91,7 @@ domain_set:
 - tracker.openwebtorrent.com
 - tracker.peckservers.com
 - tracker.pmman.tech
+- tracker.qu.ax
 - tracker.renfei.net
 - tracker.skynetcloud.site
 - tracker.skyts.net
