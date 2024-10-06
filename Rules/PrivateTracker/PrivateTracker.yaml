@@ -21,7 +21,6 @@ domain_set:
 - ipv4.rer.lol
 - ipv6.rer.lol
 - jutone.com
-- jvavav.com
 - martin-gebhardt.eu
 - moonburrow.club
 - new-line.net
@@ -37,6 +36,7 @@ domain_set:
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
+- public.tracker.vraphim.com
 - pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.lanta.me
@@ -46,14 +46,15 @@ domain_set:
 - ryjer.com
 - seedpeer.net
 - serpb.vpsburti.com
-- t.overflow.biz
 - taciturn-shadow.spb.ru
 - tk.greedland.net
 - tk2.trackerservers.com
+- torrent.tracker.durukanbal.com
 - torrents.artixlinux.org
 - torrentsmd.com
 - tr.burnabyhighstar.com
-- tr1.aag.moe
+- tr2.trkb.ru
+- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -82,8 +83,6 @@ domain_set:
 - tracker.ipfsscan.io
 - tracker.itscraftsoftware.my.id
 - tracker.jamesthebard.net
-- tracker.k.vu
-- tracker.kmzs123.cf
 - tracker.kuroy.me
 - tracker.lilithraws.org
 - tracker.mywaifu.best
@@ -107,7 +106,6 @@ domain_set:
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
-- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
