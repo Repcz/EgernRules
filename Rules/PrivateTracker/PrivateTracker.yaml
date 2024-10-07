@@ -23,7 +23,6 @@ domain_set:
 - jutone.com
 - martin-gebhardt.eu
 - moonburrow.club
-- new-line.net
 - nyaa.tracker.wf
 - odd-hd.fr
 - open.acgtracker.com
@@ -31,13 +30,14 @@ domain_set:
 - open.dstud.io
 - open.stealth.si
 - open.tracker.ink
+- open.u-p.pw
 - open.xxtor.com
 - opentor.org
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
-- public.tracker.vraphim.com
 - pybittrack.retiolus.net
+- region.nl1.privex.cc
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.x2k.ru
@@ -52,9 +52,10 @@ domain_set:
 - torrent.tracker.durukanbal.com
 - torrents.artixlinux.org
 - torrentsmd.com
+- tr.abir.ga
 - tr.burnabyhighstar.com
+- tr1.aag.moe
 - tr2.trkb.ru
-- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -73,7 +74,6 @@ domain_set:
 - tracker.dler.org
 - tracker.edkj.club
 - tracker.electro-torrent.pl
-- tracker.farted.net
 - tracker.filemail.com
 - tracker.files.fm
 - tracker.fnix.net
@@ -106,6 +106,7 @@ domain_set:
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
+- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
