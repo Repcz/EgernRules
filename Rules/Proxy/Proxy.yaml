@@ -1684,6 +1684,7 @@ domain_suffix_set:
 - fabric.io
 - facebook.br
 - facebook.com
+- facebook.de
 - facebook.design
 - facebook.hu
 - facebook.in
@@ -3506,6 +3507,7 @@ domain_suffix_set:
 - meshrep.com
 - mesotw.com
 - messenger.com
+- meta.com
 - metacafe.com
 - metafilter.com
 - metart.com
@@ -5416,6 +5418,7 @@ domain_suffix_set:
 - torrentproject.se
 - torrenty.org
 - torrentz.eu
+- tortoisesvn.net
 - torvpn.com
 - totalvpn.com
 - toutiaoabc.com

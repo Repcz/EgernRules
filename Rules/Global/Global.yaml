@@ -188,6 +188,7 @@ domain_set:
 - github.global.ssl.fastly.net
 - gitlab-assets.oss-cn-hongkong.aliyuncs.com
 - gog.qtlglb.com
+- google-ohttp-relay-safebrowsing.fastly-edge.com
 - hamivideo.hinet.net
 - hammerandchisel.ssl.zendesk.com
 - heads-ak-spotify-com.akamaized.net
@@ -1365,6 +1366,7 @@ domain_suffix_set:
 - aerospace-training-wales.ac.uk
 - aes.ac.uk
 - aesworkshops.com
+- af-north-1.myhuaweicloud.com
 - afao.ac.uk
 - afappyending.com
 - afewmomentswith.com
@@ -1872,6 +1874,7 @@ domain_suffix_set:
 - amof.ac.uk
 - amourangels.com
 - amp.dev
+- amplifi.com
 - amplifyapp.com
 - amplifyframework.com
 - amplitude.com
@@ -5713,6 +5716,7 @@ domain_suffix_set:
 - classics.ac.uk
 - classymomsex.com
 - claude.ai
+- claudeusercontent.com
 - clc-london.ac.uk
 - clco.cc
 - clean-cooling.ac.uk
@@ -8662,8 +8666,10 @@ domain_suffix_set:
 - fastindianporn.com
 - fastlane.ci
 - fastlane.tools
+- fastly-edge.com
 - fastly-terrarium.com
 - fastly.com
+- fastly.io
 - fastlylabs.com
 - fastlylb.net
 - fasttext.cc
@@ -9336,6 +9342,7 @@ domain_suffix_set:
 - frontier.ac.uk
 - frontiersin.org
 - frontiersofoncology.ac.uk
+- frontrow.com
 - froogle.com
 - frostbite.com
 - frprn.com
@@ -9797,6 +9804,7 @@ domain_suffix_set:
 - gitbook.io
 - github.community
 - github.dev
+- githubcopilot.com
 - githubhackathon.com
 - githubnext.com
 - githubpreview.dev
@@ -11143,6 +11151,7 @@ domain_suffix_set:
 - httpsfacebook.com
 - httpwwwfacebook.com
 - htvncdn.net
+- htx.com
 - htyj-bj.com
 - hu1u.com
 - huabansp.com
@@ -14351,7 +14360,6 @@ domain_suffix_set:
 - messytube.com
 - met-nude.com
 - meta.ai
-- meta.com
 - metabolomics.ac.uk
 - metabora.io
 - metacloud.com
@@ -15237,6 +15245,7 @@ domain_suffix_set:
 - mxmcdn.net
 - mxshm.site
 - my-enema.com
+- my-kualalumpur-1.myhuaweicloud.com
 - my-magazine.me
 - my13la.com
 - my1stflame.com
@@ -18932,6 +18941,7 @@ domain_suffix_set:
 - rstatic.net
 - rt.com
 - rtings.com
+- ru-moscow-1.myhuaweicloud.com
 - rua-project.ac.uk
 - ruby-lang.org
 - rubygems.org
@@ -19810,6 +19820,7 @@ domain_suffix_set:
 - signal.art
 - signalbar.com
 - signalprocessingsociety.org
+- signalr.net
 - signalusers.org
 - sihe.ac.uk
 - sikh-uni.ac.uk
@@ -21879,6 +21890,7 @@ domain_suffix_set:
 - ubisoft.com
 - ubisoftconnect.com
 - ubn.ac.uk
+- ubncloud.com
 - ubnw.net
 - ubuntu-touch.io
 - ubuntu.com
@@ -21961,7 +21973,9 @@ domain_suffix_set:
 - uhsl.ac.uk
 - uhtube.me
 - uhub.com
+- ui.com
 - uiporn.com
+- uisp.com
 - ujapanesesex.com
 - ujizzcn.com
 - uk-cdi.ac.uk
@@ -22765,6 +22779,7 @@ domain_suffix_set:
 - vk.design
 - vk.link
 - vk.me
+- vk.ru
 - vkcache.com
 - vkgo.app
 - vklive.app
@@ -23367,6 +23382,7 @@ domain_suffix_set:
 - wifevideos.net
 - wifewantstoplay.com
 - wifi-mx.com
+- wifiman.com
 - wigan-leigh.ac.uk
 - wigs.ac.uk
 - wigstoncollege.ac.uk
@@ -24709,6 +24725,7 @@ domain_suffix_set:
 - zencdn.net
 - zencoder.com
 - zendesk.com
+- zenlesszonezero.com
 - zenodo.org
 - zeplerinstitute.ac.uk
 - zeplin.dev
@@ -26451,6 +26468,7 @@ domain_suffix_set:
 - fabric.io
 - facebook.br
 - facebook.com
+- facebook.de
 - facebook.design
 - facebook.hu
 - facebook.in
@@ -28271,6 +28289,7 @@ domain_suffix_set:
 - meshrep.com
 - mesotw.com
 - messenger.com
+- meta.com
 - metacafe.com
 - metafilter.com
 - metart.com
@@ -30180,6 +30199,7 @@ domain_suffix_set:
 - torrentproject.se
 - torrenty.org
 - torrentz.eu
+- tortoisesvn.net
 - torvpn.com
 - totalvpn.com
 - toutiaoabc.com
