@@ -6,7 +6,6 @@ domain_set:
 - api.clasificadosrapidos.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
-- bt.ktrackers.com
 - bt.okmp3.ru
 - bt.rer.lol
 - bvarf.tracker.sh
@@ -32,12 +31,13 @@ domain_set:
 - open.dstud.io
 - open.free-tracker.ga
 - open.stealth.si
+- open.tracker.cl
 - open.tracker.ink
+- open.u-p.pw
 - opentor.org
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
-- public.tracker.vraphim.com
 - pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.lanta.me
@@ -47,7 +47,6 @@ domain_set:
 - seedpeer.net
 - serpb.vpsburti.com
 - sparkle.ghostchu-services.top
-- t.overflow.biz
 - taciturn-shadow.spb.ru
 - tk.greedland.net
 - tk2.trackerservers.com
@@ -58,6 +57,7 @@ domain_set:
 - tr.kxmp.cf
 - tr1.aag.moe
 - tr2.trkb.ru
+- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -113,7 +113,6 @@ domain_set:
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
-- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
