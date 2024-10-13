@@ -6,6 +6,7 @@ domain_set:
 - api.clasificadosrapidos.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
+- bt.ktrackers.com
 - bt.okmp3.ru
 - bt.rer.lol
 - bvarf.tracker.sh
@@ -33,11 +34,11 @@ domain_set:
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
-- open.u-p.pw
 - opentor.org
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
+- public.tracker.vraphim.com
 - pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.lanta.me
@@ -49,7 +50,6 @@ domain_set:
 - sparkle.ghostchu-services.top
 - taciturn-shadow.spb.ru
 - tk.greedland.net
-- tk2.trackerservers.com
 - torrents.artixlinux.org
 - torrentsmd.com
 - tr.abir.ga
@@ -88,7 +88,6 @@ domain_set:
 - tracker.ipv6tracker.org
 - tracker.itscraftsoftware.my.id
 - tracker.jamesthebard.net
-- tracker.kmzs123.cf
 - tracker.kuroy.me
 - tracker.lilithraws.org
 - tracker.mywaifu.best
@@ -102,17 +101,18 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
-- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
 - tracker.tryhackx.org
+- tracker.uraniumhexafluori.de
 - tracker.vds.nz
 - tracker.waaa.moe
 - tracker.yemekyedim.com
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
+- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
