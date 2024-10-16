@@ -42,13 +42,16 @@ domain_set:
 - p2p.publictracker.xyz
 - p4p.arenabg.com
 - public.tracker.vraphim.com
+- pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.x2k.ru
 - retracker01-msk-virt.corbina.net
+- run.publictracker.xyz
 - ryjer.com
 - seedpeer.net
 - serpb.vpsburti.com
+- smurfsoft.com
 - sparkle.ghostchu-services.top
 - t.overflow.biz
 - taciturn-shadow.spb.ru
@@ -60,8 +63,6 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
 - tr1.aag.moe
-- tr2.trkb.ru
-- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -71,7 +72,6 @@ domain_set:
 - tracker.breizh.pm
 - tracker.bt4g.com
 - tracker.ccp.ovh
-- tracker.cloaka.xyz
 - tracker.cloudit.top
 - tracker.cyberia.is
 - tracker.darkness.services
@@ -105,11 +105,10 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
+- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.tryhackx.org
-- tracker.uraniumhexafluori.de
-- tracker.vds.nz
 - tracker.waaa.moe
 - tracker.yemekyedim.com
 - tracker1.520.jp
@@ -124,7 +123,6 @@ domain_set:
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
-- wepzone.net
 - www.all4nothin.net
 - www.peckservers.com
 - www.torrent.eu.org
