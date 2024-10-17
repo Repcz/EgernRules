@@ -25,7 +25,6 @@ domain_set:
 - leet-tracker.moe
 - martin-gebhardt.eu
 - moonburrow.club
-- new-line.net
 - ns1.monolithindustries.com
 - nyaa.tracker.wf
 - odd-hd.fr
@@ -36,6 +35,7 @@ domain_set:
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
+- open.u-p.pw
 - opentor.org
 - opentracker.io
 - p2p.azu.red
@@ -63,6 +63,7 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
 - tr1.aag.moe
+- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -71,11 +72,9 @@ domain_set:
 - tracker.bittor.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
-- tracker.ccp.ovh
 - tracker.cloudit.top
 - tracker.cyberia.is
 - tracker.darkness.services
-- tracker.ddunlimited.net
 - tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
@@ -123,10 +122,12 @@ domain_set:
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
+- wepzone.net
 - www.all4nothin.net
 - www.peckservers.com
 - www.torrent.eu.org
 - www.wareztorrent.com
+- yahor.of.by
 - z.mercax.com
 domain_suffix_set:
 - 1ptba.com
