@@ -19,7 +19,6 @@ domain_set:
 - evan.im
 - exodus.desync.com
 - explodie.org
-- free.publictracker.xyz
 - ipv4.rer.lol
 - ipv6.rer.lol
 - isk.richardsw.club
@@ -37,7 +36,6 @@ domain_set:
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
-- open.u-p.pw
 - opentor.org
 - opentracker.io
 - p2p.azu.red
@@ -67,6 +65,7 @@ domain_set:
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
+- tracker.auctor.tv
 - tracker.birkenwald.de
 - tracker.bittor.pw
 - tracker.breizh.pm
@@ -105,8 +104,10 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
+- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
+- tracker.torrust-demo.com
 - tracker.tryhackx.org
 - tracker.waaa.moe
 - tracker.xor.st
