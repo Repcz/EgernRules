@@ -21,9 +21,7 @@ domain_set:
 - explodie.org
 - ipv4.rer.lol
 - ipv6.rer.lol
-- isk.richardsw.club
 - jutone.com
-- leet-tracker.moe
 - martin-gebhardt.eu
 - moonburrow.club
 - ns1.monolithindustries.com
@@ -32,7 +30,6 @@ domain_set:
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
-- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
@@ -57,10 +54,10 @@ domain_set:
 - tk2v6.trackerservers.com
 - torrents.artixlinux.org
 - torrentsmd.com
-- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
 - tr1.aag.moe
+- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -78,11 +75,9 @@ domain_set:
 - tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
-- tracker.dump.cl
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.filemail.com
-- tracker.files.fm
 - tracker.fnix.net
 - tracker.gcrenwp.top
 - tracker.gigantino.net
@@ -129,7 +124,6 @@ domain_set:
 - www.peckservers.com
 - www.torrent.eu.org
 - www.wareztorrent.com
-- yahor.of.by
 - z.mercax.com
 domain_suffix_set:
 - 1ptba.com
