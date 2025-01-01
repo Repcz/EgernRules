@@ -1,0 +1,21 @@
+domain_set:
+domain_suffix_set:
+- le.com
+- lecloud.com
+- lelecdn.com
+- lemall.com
+- letv.com
+- letv8.com
+- letvcdn.com
+- letvcloud.com
+- letvimg.com
+- letvlive.com
+- letvstore.com
+- sanguowudi.com
+- videougc.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

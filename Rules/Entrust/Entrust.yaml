@@ -1,0 +1,16 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- affirmtrust.com
+- atos.net
+- certificat2.com
+- entrust.net
+- entrustdatacard.com
+- myatos.net
+- trendmicro.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

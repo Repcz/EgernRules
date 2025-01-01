@@ -1,0 +1,42 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- bf99.com
+- bldimg.com
+- bldlive.com
+- blue-city.com
+- blued.cdn-gw-dv.net
+- blued.cn
+- blued.com
+- blued.gw-dv.net
+- bluedgames.cn
+- bluedgames.com
+- bluedimg.cn
+- bluedimg.com
+- budimg.cn
+- caihongqi.com
+- danlan.org
+- danlancare.cn
+- danlancare.com
+- danlanlove.cn
+- danlanlove.com
+- fleeper.com
+- irisdt.cn
+- irisdt.com
+- irisdt.net
+- irisgw.cn
+- irisgw.com
+- irisgw.net
+- ourbluecity.cn
+- ourbluecity.com
+- xiaogegelive.cn
+- xiaogegelive.com
+- xiaolanapp.com
+- yijian-app.cn
+- yijian-app.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

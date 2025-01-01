@@ -1,0 +1,20 @@
+domain_set:
+domain_suffix_set:
+- freshhema.com
+- hemaapi.cn
+- hemamax.com
+- hemaopen.cn
+- hemaos.com
+- hemashare.cn
+- marioall.com
+- marioin.com
+- mariowap.com
+- rexpos.cn
+- rextech.cn
+- shyhhema.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

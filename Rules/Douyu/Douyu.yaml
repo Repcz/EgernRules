@@ -1,0 +1,21 @@
+domain_set:
+domain_suffix_set:
+- bytefcdnrd.com
+- douyu.com
+- douyu.tv
+- douyuba.cn
+- douyucdn.cn
+- douyucdn2.cn
+- douyupcdn.cn
+- douyuscdn.com
+- douyutv.com
+- doyonoc.com
+- edgesrv.com
+- guguyuyin.com
+- oywtv.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

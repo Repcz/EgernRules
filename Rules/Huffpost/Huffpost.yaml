@@ -1,0 +1,27 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- huffingtonpost.ca
+- huffingtonpost.co.uk
+- huffingtonpost.co.za
+- huffingtonpost.com
+- huffingtonpost.com.au
+- huffingtonpost.com.mx
+- huffingtonpost.de
+- huffingtonpost.es
+- huffingtonpost.fr
+- huffingtonpost.gr
+- huffingtonpost.in
+- huffingtonpost.it
+- huffingtonpost.jp
+- huffingtonpost.kr
+- huffpost.com
+- huffpostarabi.com
+- huffpostbrasil.com
+- huffpostmaghreb.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,31 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- bgr.in
+- bollywoodlife.com
+- careerfundas.com
+- cricketcountry.com
+- dnai.in
+- dnaindia.com
+- earngeek.com
+- ekhindi.com
+- ind.sh
+- india.com
+- indiancolleges.com
+- itripto.com
+- oncars.in
+- prepsure.com
+- thehealthsite.com
+- wionews.com
+- yo1health.com
+- zee.com
+- zeebiz.com
+- zeeentertainment.com
+- zeenews-fonts.s3.amazonaws.com
+- zeenews.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

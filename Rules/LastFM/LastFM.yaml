@@ -1,0 +1,40 @@
+no_resolve: true
+domain_set:
+- last.us11.list-manage.com
+- lastfm-img2.akamaized.net
+domain_suffix_set:
+- audioscrobbler.com
+- bbfc1.tk
+- bc9oa.tk
+- bvuno.tk
+- cqyos.tk
+- fuckyeahtfx.com
+- halkz.tk
+- itnnl.tk
+- jdw1v.tk
+- kn5ak.tk
+- kwcnn.tk
+- last.fm
+- lastfm.cn
+- lastfm.de
+- lastfm.es
+- lastfm.eu
+- lastfm.freetls.fastly.net
+- lastfm.ph
+- lastfm.pl
+- lastfm.ru
+- lastfmpresents.com
+- mwrel.tk
+- oilofhaemony.com
+- ouchmonkey.com
+- pqqx2.tk
+- rfnva.tk
+- rmohl.tk
+- tnjqk.tk
+- wznka.tk
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

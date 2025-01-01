@@ -1,0 +1,21 @@
+no_resolve: true
+domain_set:
+- apple.imap.mail.yahoo.com
+- apple.smtp.mail.yahoo.com
+- imap-mail.outlook.com
+- imap.gmail.com
+- outlook.office365.com
+- pop.gmail.com
+- smtp-mail.outlook.com
+- smtp.gmail.com
+- smtp.office365.com
+domain_suffix_set:
+- imap.yandex.com
+- m.hotmail.com
+- smtp.yandex.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

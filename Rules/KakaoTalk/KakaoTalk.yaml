@@ -1,0 +1,24 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- daum.net
+- daumcdn.net
+- daumkakao.io
+- daumpotplayer.com
+- kakao.co.kr
+- kakao.com
+- kakaocdn.net
+- kakaocorp.com
+- potplayer.tv
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+- 1.201.0.0/24
+- 103.246.56.0/22
+- 103.27.148.0/22
+- 110.76.140.0/22
+- 113.61.104.0/22
+- 27.0.236.0/22
+ip_cidr6_set:
+asn_set:
+url_regex_set:

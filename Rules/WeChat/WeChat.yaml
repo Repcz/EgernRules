@@ -1,0 +1,49 @@
+domain_set:
+- apd-pcdnwxlogin.teg.tencent-cloud.net
+- btrace.qq.com
+- dl.wechat.com
+- dldir1.qq.com
+- sgfindershort.wechat.com
+- sgilinkshort.wechat.com
+- sglong.wechat.com
+- sgminorshort.wechat.com
+- sgquic.wechat.com
+- sgshort.wechat.com
+- slife.xy-asia.com
+- soup.v.qq.com
+- tencentmap.wechat.com
+- vweixinf.tc.qq.com
+- weixin110.qq.com
+- wup.imtt.qq.com
+- wx.tenpay.com
+- wxapp.tc.qq.com
+domain_suffix_set:
+- iot-tencent.com
+- lbs.gtimg.com
+- map.qq.com
+- qlogo.cn
+- qpic.cn
+- servicewechat.com
+- tenpay.com
+- up-hl.3g.qq.com
+- vweixinthumb.tc.qq.com
+- wechat.com
+- wechatlegal.net
+- wechatos.net
+- wechatpay.com
+- weixin.com
+- weixin.qq.com
+- weixinbridge.com
+- weixinsxy.com
+- wx.gtimg.com
+- wx.qq.com
+- wxapp.tc.qq.com
+- wxs.qq.com
+- yun-hl.3g.qq.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+- '132203'
+url_regex_set:

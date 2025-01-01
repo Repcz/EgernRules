@@ -1,0 +1,23 @@
+domain_set:
+domain_suffix_set:
+- flyme.cn
+- flyme.com
+- flyme.net
+- flymeauto.com
+- lipro.com
+- lipro.net
+- mblu.com
+- meiklife.cn
+- meizu.cn
+- meizu.com
+- meizu.com.hk
+- meizuapi.com
+- mklink.com.cn
+- mzres.com
+- mzssp.cn
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

@@ -1,0 +1,168 @@
+name: Fork Filter lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 * * * *"
+  
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Shanghai'
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+    
+      # 拉取文件
+    - name: 复刻
+      run: |
+        rm -rf Rules/*
+        mkdir -p Rules
+        git clone https://github.com/blackmatrix7/ios_rule_script.git BM7_Tmp
+        cp -r BM7_Tmp/rule/QuantumultX/* Rules
+        rm -rf BM7_Tmp   
+
+      # 改名
+    - name: Rename
+      run: |
+        cd Rules
+        find . -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
+
+      # 适配 egern 规则 
+    - name: 编辑 
+      run: |
+        cd Rules
+        find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
+          if [ -f "$file" ]; then
+            # 适配
+            sed -i -e 's/, /,/g' \
+                   -e 's/;/# /g' \
+                   -e 's/host,/HOST,/g' \
+                   -e 's/host-/HOST-/g' \
+                   -e 's/-suffix/-SUFFIX/g' \
+                   -e 's/-keyword/-KEYWORD/g' \
+                   -e 's/ip-cidr/IP-CIDR/g' \
+                   -e 's/geoip/GEOIP/g' \
+                   -e 's/HOST,/DOMAIN,/g' \
+                   -e 's/HOST-/DOMAIN-/g' \
+                   -e 's/IP6-CIDR,/IP-CIDR6,/g' \
+                   -e 's/,extended-matching$//g' \
+                   -e 's/,REJECT$//g' \
+                   -e 's/,DIRECT$//g' \
+                   -e 's/,reject$//g' \
+                   -e 's/,direct$//g' \
+                   -e '/\(USER-AGENT\|OR\|AND\|NOT\),/ s/^/#/' \
+                   -e 's| \{1,\}//.*$||' \
+                   -e 's/,\*/,.*/g' \
+                   -e '/# 更新：/d' \
+                   -e '/# AUTHOR:/d' \
+                   -e '/# REPO:/d' \
+                   -e '/# UPDATED:/d' \
+                   -e '/404: Not Found/d' \
+                   "$file"
+    
+            cp "$file" tmpfile
+
+            domain_set=""
+            domain_suffix_set=""
+            domain_keyword_set=""
+            domain_regex_set=""
+            ip_cidr_set=""
+            ip_cidr6_set=""
+            asn_set=""
+            url_regex_set=""
+            
+            # 处理规则，将匹配的行添加到相应的集合中
+            awk -F, '
+              /^DOMAIN,/ {domain_set = domain_set "\n- " $2}
+              /^DOMAIN-SUFFIX,/ {domain_suffix_set = domain_suffix_set "\n- " $2}
+              /^DOMAIN-KEYWORD,/ {domain_keyword_set = domain_keyword_set "\n- " $2}
+              /^DOMAIN-WILDCARD,/ {domain_regex_set = domain_regex_set "\n- " $2}
+              /^IP-CIDR,/ {ip_cidr_set = ip_cidr_set "\n- " $2}
+              /^IP-CIDR6,/ {ip_cidr6_set = ip_cidr6_set "\n- " $2}
+              /^IP-ASN,/ {asn_set = asn_set "\n- '\''" $2 "'\''"}
+              /^URL-REGEX,/ {url_regex_set = url_regex_set "\n- '\''" $2 "'\''"}
+            END {
+              # 输出集合
+              print "domain_set:" domain_set
+              print "domain_suffix_set:" domain_suffix_set
+              print "domain_keyword_set:" domain_keyword_set
+              print "domain_regex_set:" domain_regex_set
+              print "ip_cidr_set:" ip_cidr_set
+              print "ip_cidr6_set:" ip_cidr6_set
+              print "asn_set:" asn_set
+              print "url_regex_set:" url_regex_set
+            }
+            ' tmpfile > "$file"
+
+          else
+            echo "$file not found."
+          fi
+        done
+
+        # 循环结束后删除tmpfile
+        rm tmpfile
+        
+      # 添加 no_resolve
+    - name: Add no_resolve
+      run: |
+        cd Rules
+        find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
+          if [ -f "$file" ]; then
+            # 检查文件名是否包含排除列表中的任何模式
+            if ! grep -E -q "(Direct|Lan|BiliBili|DiDi|MeiTu|Pinduoduo|Sina|Baidu|360|4399|VipShop|XiaoMi|Weibo|ByteDance|China|ChinaTest|ChinaIPs|CCTV|Xunlei|Huawei|ChinaMedia|NetEase|Youku|TencentVideo|iQIYI|Douyu|Himalaya|Alibaba|115|12306|17173|178|17zuoye|36kr|51Job|56|58TongCheng|ABC|Agora|AliPay|AnTianKeJi|Anjuke|BOC|BOCOM|BaiFenDian|BaoFengYingYin|BianFeng|Bootcss|CAS|CCB|CEB|CGB|CIBN|CKJR|CMB|CNKI|CNNIC|CSDN|AcFun|CaiNiao|CaiXinChuanMei|Camera360|ChinaMobile|ChinaNews|ChinaTelecom|ChinaUnicom|ChuangKeTie|ChunYou|DaMai|DanDanZan|Dandanplay|DangDang|Dedao|Deepin|DiSiFanShi|DianCeWangKe|DingTalk|DingXiangYuan|Domob|DouBan|EastMoney|Eleme|FanFou|FeiZhu|FengHuangWang|FengXiaWangLuo|Fiio|Funshion|6JianFang|GaoDe|GuiGuDongLi|HaiNanHangKong|HanYi|HeMa|HibyMusic|HuYa|HuaShuTV|HuanJu|HunanTV|Hupu|ICBC|JiGuangTuiSong|JianGuoYun|JianShu|JinJiangWenXue|JingDong|JueJin|Keep|KingSmith|Kingsoft|KouDaiShiShang|Ku6|KuKeMusic|KuaiDi100|KuaiShou|KuangShi|KugouKuwo|LanZouYun|LeJu|LeTV|Lenovo|LuDaShi|LvMiLianChuang|Maocloud|MeiTuan|MeiZu|MiWu|Migu|MingLueZhaoHui|Mogujie|Mojitianqi|NGAA|OPPO|OnePlus|OuPeng|PPTV|PSBC|PingAn|QiNiuYun|QingCloud|RuanMei|SFExpress|SMZDM|ShangHaiJuXiao|Shanling|ShenMa|ShiNongZhiKe|Sohu|SouFang|SuNing|SuiShiChuanMei|TCL|TaiKang|TaiheMusic|Teambition|TianTianKanKan|TianWeiChengXin|TianYaForum|TigerFintech|TongCheng|U17|UC|UCloud|UPYun|UnionPay|Vancl|Vivo|WanMeiShiJie|WangSuKeJi|WangXinKeJi|WenJuanXing|WiFiMaster|XiamiMusic|XianYu|XiaoGouKeJi|XiaoYuanKeJi|XieCheng|XueErSi|XueQiu|YYeTs|YiChe|YiXiaKeJi|YiZhiBo|YouMengChuangXiang|YouZan|YuanFuDao|YunFanJiaSu|ZDNS|ZhangYue|ZhiYunZhong|ZhongGuoShiHua|ZhongWeiShiJi|ZhongYuanYiShang|ZhuanZhuan|Hpplay|iFlytek|ifanr|BaiShanYunKeJi|DiLianWangLuo|LianMeng|WeiZhiYunDong|8btc|ChinaIPsBGP|ChengTongWangPan|ChinaMax|DuoWan|WanKaHuanJu|ZhiYinManKe|ChinaNoMedia|WeChat|ShiJiChaoXing|ChinaIPs/ChinaIPsTest|QuickConnect|WoLai|Zhihu|NGA|DouYin|XiaoHongShu|GovCN|MOOMusic|Marketing|TapTap|ZhongXingTongXun|Geely|ChinaMaxNoIP|BaiDuTieBa|ChinaASN|FangZhengDianZi|BeStore|ChinaMaxNoMedia|zhanqi|Wteam|Gitee|Wanfang|W3schools|Picacg|XingKongWuXian|Qyyjt|Coolapk|3dm|3Type|4Paradigm|BesTV|CETV|SMG|AiQiCha|AirChina|aiXcoder|Ali213|Antutu|Apifox|AmazonCN|Stripe)" <<< "$file"; then
+              sed -i '1s/^/no_resolve: true\n/' "$file"
+            fi
+          else
+            echo "$file not found."
+          fi
+        done
+  
+    - name: Edit README
+      run: |
+        cd Rules
+        find . -type f -name 'README.md' -print0 | while IFS= read -r -d $'\0' readme; do
+          if [ -f "$readme" ]; then
+            # 删除和替换指定的字符串
+            sed -i -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
+                   -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
+                   -e '/\(不定时更新\)/d' \
+                   -e '/blackmatrix7\/ios_rule_script\/release\/rule\/QuantumultX/d' \
+                   -e '/https:\/\/cdn.jsdelivr.net/d' \
+                   -e '/https:\/\/ghproxy.com/d' \
+                   -e 's|MASTER分支|X分支|g' \
+                   -e 's|## QuantumultX|## Egern|g' \
+                   -e 's|blackmatrix7/ios_rule_script/master/rule/QuantumultX|Repcz/EgernRules/X/Rules|g' \
+                   -e 's|github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX|github.com/Repcz/EgernRules/tree/X/Rules|g' \
+                   -e 's|HOST|DOMAIN|g' \
+                   -e 's|IP6-CIDR|IP-CIDR6|g' \
+                   -e 's|USER-AGENT|USER-AGENT(Egern不支持)|g' \
+                   -e 's|TOTAL|TOTAL(仅供参考)|g' \
+                   -e 's|QuantumultX定制化规则|Egern定制化规则|g' \
+                   -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
+                   -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
+                   "$readme"
+          else
+            echo "$readme not found."
+          fi
+        done
+
+    - name: Add and Commits
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit."
+        fi
+
+    - name: Cleanup Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 0
+        keep_minimum_runs: 2

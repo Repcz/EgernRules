@@ -1,0 +1,18 @@
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- z5.app
+- z5.com
+- zee5.com
+- zee5.in
+- zee5.tv
+- zeebioskop.com
+- zeetv.co.uk
+- zeetv.com
+- zeeuk.com
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

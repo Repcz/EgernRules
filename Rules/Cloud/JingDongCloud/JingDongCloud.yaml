@@ -1,0 +1,16 @@
+domain_set:
+domain_suffix_set:
+domain_keyword_set:
+domain_regex_set:
+ip_cidr_set:
+- 101.124.0.0/16
+- 103.224.220.0/22
+- 114.67.128.0/17
+- 117.72.248.0/22
+ip_cidr6_set:
+- 2402:db40::/33
+- 2402:dfc0:50::/44
+- 2402:dfc0::/44
+- 2403:1ec0:1200::/48
+asn_set:
+url_regex_set:
