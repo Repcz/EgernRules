@@ -39,18 +39,21 @@ domain_set:
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
-- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
 - open.trackerlist.xyz
+- opentor.org
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
 - public.tracker.vraphim.com
+- r.l5.ca
+- retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
 - retracker.x2k.ru
+- rfc5746.mywaifu.best
 - seeders-paradise.org
 - seedpeer.net
 - serpb.vpsburti.com
@@ -86,6 +89,7 @@ domain_set:
 - tracker.bz
 - tracker.cloudit.top
 - tracker.corpscorp.online
+- tracker.cyberia.is
 - tracker.darkness.services
 - tracker.deadorbit.nl
 - tracker.dler.com
@@ -97,10 +101,7 @@ domain_set:
 - tracker.filemail.com
 - tracker.fnix.net
 - tracker.gcrenwp.top
-- tracker.gigantino.net
 - tracker.gmi.gd
-- tracker.guguan.us.kg
-- tracker.ipfsscan.io
 - tracker.ipv6tracker.org
 - tracker.itscraftsoftware.my.id
 - tracker.kmzs123.tk
@@ -113,6 +114,7 @@ domain_set:
 - tracker.mywaifu.best
 - tracker.ololosh.space
 - tracker.opentrackr.org
+- tracker.openwebtorrent.com
 - tracker.pmman.tech
 - tracker.qu.ax
 - tracker.renfei.net
@@ -120,12 +122,10 @@ domain_set:
 - tracker.skynetcloud.site
 - tracker.skyts.net
 - tracker.srv00.com
-- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
 - tracker.tryhackx.org
-- tracker.valete.tf
 - tracker.vanitycore.co
 - tracker.vraphim.com
 - tracker.waaa.moe
@@ -282,6 +282,9 @@ domain_keyword_set:
 - torrent
 domain_regex_set:
 ip_cidr_set:
+- 207.241.226.111/32
+- 207.241.231.226/32
+- 52.58.128.163/32
 ip_cidr6_set:
 asn_set:
 url_regex_set:
