@@ -17,7 +17,6 @@ domain_set:
 - concen.org
 - cq.kmzs123.cn
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
@@ -39,6 +38,7 @@ domain_set:
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
@@ -96,11 +96,11 @@ domain_set:
 - tracker.dler.org
 - tracker.dmcomic.org
 - tracker.draatman.uk
-- tracker.dump.cl
 - tracker.edkj.club
 - tracker.filemail.com
 - tracker.fnix.net
 - tracker.gcrenwp.top
+- tracker.gigantino.net
 - tracker.gmi.gd
 - tracker.ipv6tracker.org
 - tracker.itscraftsoftware.my.id
@@ -112,7 +112,6 @@ domain_set:
 - tracker.moeking.me
 - tracker.moxing.party
 - tracker.mywaifu.best
-- tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.pmman.tech
