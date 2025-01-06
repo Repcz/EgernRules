@@ -5,7 +5,6 @@ domain_set:
 - 1337.abcvg.info
 - api.ipv4online.uk
 - bandito.byterunner.io
-- betelgeuse.freeddns.org
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
 - bt.poletracker.org
@@ -22,11 +21,12 @@ domain_set:
 - exodus.desync.com
 - explodie.org
 - finbytes.org
-- freedomalternative.com
 - highteahop.top
 - home.yxgz.club
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
+- ipv6.rer.lol
+- isk.richardsw.club
 - ismaarino.com
 - leet-tracker.moe
 - martin-gebhardt.eu
@@ -51,7 +51,6 @@ domain_set:
 - retracker.lanta.me
 - retracker.spark-rostov.ru
 - retracker.x2k.ru
-- rfc5746.mywaifu.best
 - seeders-paradise.org
 - seedpeer.net
 - serpb.vpsburti.com
@@ -75,7 +74,6 @@ domain_set:
 - tr2.trkb.ru
 - tr4ck3r.duckdns.org
 - trackarr.org
-- tracker-udp.gbitt.info
 - tracker-us.silksa.co.za
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
@@ -96,7 +94,6 @@ domain_set:
 - tracker.dler.org
 - tracker.dmcomic.org
 - tracker.draatman.uk
-- tracker.dump.cl
 - tracker.edkj.club
 - tracker.filemail.com
 - tracker.fnix.net
@@ -105,7 +102,6 @@ domain_set:
 - tracker.gmi.gd
 - tracker.ipv6tracker.org
 - tracker.itscraftsoftware.my.id
-- tracker.kmzs123.tk
 - tracker.kuroy.me
 - tracker.leechshield.link
 - tracker.lilithraws.org

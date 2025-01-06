@@ -229,6 +229,7 @@ domain_set:
 - audio.itunes.apple.com
 - mvod.itunes.apple.com
 - streamingaudio.itunes.apple.com
+- gspe1-ssl.ls.apple.com
 - news-client-search.apple.com
 - api-glb-sea.smoot.apple.com
 - apple.comscoreresearch.com
@@ -239,8 +240,6 @@ domain_set:
 - devimages-cdn.apple.com
 - devstreaming-cdn.apple.com
 - docs-assets.developer.apple.com
-- gspe1-ssl.ls.apple.com
-- hls-svod.itunes.apple.com
 - js-cdn.music.apple.com
 - lookup-api.apple.com
 - mask-api.fe.apple-dns.net
@@ -254,7 +253,6 @@ domain_set:
 - news-edge.apple.com
 - news-events.apple.com
 - sandbox.itunes.apple.com
-- testflight.apple.com
 - hls-amt.itunes.apple.com
 - hls.itunes.apple.com
 - np-edge.itunes.apple.com
@@ -265,8 +263,10 @@ domain_set:
 - fmipmobile.icloud.com
 - statici.icloud.com
 - amp-api.fitness.apple.com
+- hls-svod.itunes.apple.com
 - guzzoni.apple.com
 - beta.apple.com
+- testflight.apple.com
 - www-cdn.icloud.com.akadns.net
 domain_suffix_set:
 - 100beatscheap.com
@@ -1452,6 +1452,7 @@ domain_suffix_set:
 - applepaysupplies.tv
 - applewallet.com
 - applewallet.tv
+- appsto.re
 - appstore.co.id
 - appstore.com
 - appstore.hk
@@ -1812,12 +1813,11 @@ domain_suffix_set:
 - musickit.net
 - wwwapplemusic.com
 - apple-dns.net
-- appsto.re
-- cdn-apple.com
 - digicert.com
 - apple-cloudkit.com
 - apple-livephotoskit.com
 - apzones.com
+- cdn-apple.com
 domain_keyword_set:
 - apple-support.akadns.net
 - apple.com.akadns.net
