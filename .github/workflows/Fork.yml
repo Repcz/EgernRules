@@ -32,7 +32,7 @@ jobs:
         find EgernRules-repo/Rules -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
 
     # 适配 egern 规则 
-    - name: Edit
+    - name: Edit 1
       run: |
         find EgernRules-repo/Rules -type f -name "*.yaml" | while read -r file; do
           if [ -f "$file" ]; then
@@ -52,6 +52,8 @@ jobs:
           fi
         done
 
+    - name: Edit 2
+      run: |
         find EgernRules-repo/Rules -type f -name "*.yaml" | while read -r file; do
           if [ -f "$file" ]; then
             if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
