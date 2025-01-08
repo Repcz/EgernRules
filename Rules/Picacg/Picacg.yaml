@@ -1,18 +1,10 @@
-domain_set:
-domain_suffix_set:
-- bikaa.xyz
-- bikac.xyz
-- bikaios.xyz
-- manhuabika.com
-- picacgp.com
-- picacgy.com
-- picacn.xyz
-- picacomic.com
-- picacomic.xyz
-- wikawika.xyz
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bikaa.xyz
+DOMAIN-SUFFIX,bikac.xyz
+DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,picacgp.com
+DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,picacn.xyz
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,wikawika.xyz

@@ -1,22 +1,13 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- 9anime.cz
-- 9anime.id
-- 9anime.to
-- 9anime.ws
-- animedao-tv.com
-- crunchyroll.com
-- funimation.com
-- gogo-load.com
-- gogoanime.vc
-- gogoanime.wiki
-- gogocdn.net
-- hidive.com
-- vrv.co
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
+DOMAIN-SUFFIX,animedao-tv.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,hidive.com
+DOMAIN-SUFFIX,vrv.co

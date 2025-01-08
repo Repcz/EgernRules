@@ -19,11 +19,15 @@ USMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | ---- | ----  |
 | DOMAIN | 4  | 
 | DOMAIN-SUFFIX | 93  | 
+| PROCESS-NAME | 3  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 98  | 
+| TOTAL(仅供参考) | 101  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- USMedia.yaml，请使用RULE-SET。
 
 #### 配置建议
 - USMedia.yaml 单独使用。
@@ -31,13 +35,14 @@ USMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/USMedia/USMedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/USMedia/USMedia.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/USMedia/USMedia.list
 
 
 

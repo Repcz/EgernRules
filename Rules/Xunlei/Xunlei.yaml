@@ -1,39 +1,32 @@
-domain_set:
-domain_suffix_set:
-- 00cdn.com
-- 155.com
-- 2sonar.com
-- 88cdn.com
-- 8uri.cn
-- falconalliance.cn
-- fontong.com
-- geilijiasu.com
-- geilijiasu.net
-- gigaget.com
-- kanimg.com
-- kankan.com
-- kuaipan.cn
-- n0808.com
-- neoimaging.cn
-- newvr.com
-- p2cdn.com
-- sandai.net
-- sjzhushou.com
-- szxlxzb.com
-- thundercdn.com
-- thunderurl.com
-- xbase.cloud
-- xbase.xyz
-- xcloudbase.com
-- xlisp.net
-- xlpan.com
-- xlyouxi.net
-- xunlei.cn
-- xunlei.com
-- xunlei.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,155.com
+DOMAIN-SUFFIX,2sonar.com
+DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,8uri.cn
+DOMAIN-SUFFIX,falconalliance.cn
+DOMAIN-SUFFIX,fontong.com
+DOMAIN-SUFFIX,geilijiasu.com
+DOMAIN-SUFFIX,geilijiasu.net
+DOMAIN-SUFFIX,gigaget.com
+DOMAIN-SUFFIX,kanimg.com
+DOMAIN-SUFFIX,kankan.com
+DOMAIN-SUFFIX,kuaipan.cn
+DOMAIN-SUFFIX,n0808.com
+DOMAIN-SUFFIX,neoimaging.cn
+DOMAIN-SUFFIX,newvr.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,sjzhushou.com
+DOMAIN-SUFFIX,szxlxzb.com
+DOMAIN-SUFFIX,thundercdn.com
+DOMAIN-SUFFIX,thunderurl.com
+DOMAIN-SUFFIX,xbase.cloud
+DOMAIN-SUFFIX,xbase.xyz
+DOMAIN-SUFFIX,xcloudbase.com
+DOMAIN-SUFFIX,xlisp.net
+DOMAIN-SUFFIX,xlpan.com
+DOMAIN-SUFFIX,xlyouxi.net
+DOMAIN-SUFFIX,xunlei.cn
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,xunlei.net
+PROCESS-NAME,Thunder

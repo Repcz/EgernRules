@@ -21,21 +21,30 @@ ChinaASN规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 1009  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaASN.yaml，请使用RULE-SET。
+- ChinaASN_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ChinaASN_Resolve.yaml与ChinaASN.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - ChinaASN.yaml 单独使用。
+- ChinaASN_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaASN/ChinaASN.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaASN/ChinaASN.list
 
 
 

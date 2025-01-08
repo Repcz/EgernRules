@@ -1,18 +1,9 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- multiplay.cn
-- unity.cn
-- unity.com
-- unity3d.com
-- unity3dusercontent.com
-- unitychina.cn
-- unityedu.cn
-- unityedu.com
-- unityedu.com.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,multiplay.cn
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,unity.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,unity3dusercontent.com
+DOMAIN-SUFFIX,unitychina.cn
+DOMAIN-SUFFIX,unityedu.cn
+DOMAIN-SUFFIX,unityedu.com
+DOMAIN-SUFFIX,unityedu.com.cn

@@ -21,24 +21,34 @@ Twitch规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 8  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 1  | 
-| TOTAL(仅供参考) | 21  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 22  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Twitch.yaml，请使用RULE-SET。
+- Twitch_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Twitch_Resolve.yaml与Twitch.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Twitch.yaml 单独使用。
+- Twitch_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Twitch/Twitch.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Twitch/Twitch.list
 
 
 

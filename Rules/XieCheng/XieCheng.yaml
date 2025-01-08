@@ -1,37 +1,29 @@
-domain_set:
-domain_suffix_set:
-- c-ctrip.com
-- colinker.com
-- ctrip.cn
-- ctrip.co.id
-- ctrip.co.kr
-- ctrip.co.th
-- ctrip.com
-- ctrip.com.hk
-- ctrip.my
-- ctrip.sg
-- ctripbiz.com
-- ctripbuy.hk
-- ctripteam.com
-- doticloud.com
-- easytrip.com
-- hhtravel.com
-- hhtravel.com.tw
-- izuchebao.com
-- lvtds.com
-- shuntu.cn
-- skysea.com
-- suanya.cn
-- suanya.com
-- tieyou.com
-- toptown.cn
-- toursbms.com
-- trip.com
-- tripcdn.com
-- vipdlt.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,colinker.com
+DOMAIN-SUFFIX,ctrip.cn
+DOMAIN-SUFFIX,ctrip.co.id
+DOMAIN-SUFFIX,ctrip.co.kr
+DOMAIN-SUFFIX,ctrip.co.th
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,ctrip.com.hk
+DOMAIN-SUFFIX,ctrip.my
+DOMAIN-SUFFIX,ctrip.sg
+DOMAIN-SUFFIX,ctripbiz.com
+DOMAIN-SUFFIX,ctripbuy.hk
+DOMAIN-SUFFIX,ctripteam.com
+DOMAIN-SUFFIX,doticloud.com
+DOMAIN-SUFFIX,easytrip.com
+DOMAIN-SUFFIX,hhtravel.com
+DOMAIN-SUFFIX,hhtravel.com.tw
+DOMAIN-SUFFIX,izuchebao.com
+DOMAIN-SUFFIX,lvtds.com
+DOMAIN-SUFFIX,shuntu.cn
+DOMAIN-SUFFIX,skysea.com
+DOMAIN-SUFFIX,suanya.cn
+DOMAIN-SUFFIX,suanya.com
+DOMAIN-SUFFIX,tieyou.com
+DOMAIN-SUFFIX,toptown.cn
+DOMAIN-SUFFIX,toursbms.com
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,vipdlt.com

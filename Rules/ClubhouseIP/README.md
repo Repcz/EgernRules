@@ -25,21 +25,30 @@ ClubhouseIP规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 88  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ClubhouseIP.yaml，请使用RULE-SET。
+- ClubhouseIP_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ClubhouseIP_Resolve.yaml与ClubhouseIP.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - ClubhouseIP.yaml 单独使用。
+- ClubhouseIP_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ClubhouseIP/ClubhouseIP.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ClubhouseIP/ClubhouseIP.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ClubhouseIP/ClubhouseIP.list
 
 
 

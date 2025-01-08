@@ -31,26 +31,21 @@ AdGuard DNS Filter 规则！！
 | TOTAL(仅供参考) | 67033  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AdGuardSDNSFilter_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- AdGuardSDNSFilter_All.yaml与AdGuardSDNSFilter_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 
 #### 配置建议
-- AdGuardSDNSFilter.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- AdGuardSDNSFilter_All.yaml 单独使用。
+- AdGuardSDNSFilter_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 
 #### 规则链接
-**X分支 (每日更新)**
-
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AdGuardSDNSFilter/AdGuardSDNSFilter.yaml
-
-
-
-
-
-
-
-
-
-
-
 ## 子规则/排除规则
 
 

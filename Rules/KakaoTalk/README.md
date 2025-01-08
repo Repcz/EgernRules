@@ -22,21 +22,30 @@ KakaoTalk规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 15  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- KakaoTalk.yaml，请使用RULE-SET。
+- KakaoTalk_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- KakaoTalk_Resolve.yaml与KakaoTalk.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - KakaoTalk.yaml 单独使用。
+- KakaoTalk_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/KakaoTalk/KakaoTalk.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KakaoTalk/KakaoTalk.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/KakaoTalk/KakaoTalk.list
 
 
 

@@ -1,14 +1,5 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- jwpcdn.com
-- jwplatform.com
-- jwplayer.com
-- jwpltx.com
-- jwpsrv.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com

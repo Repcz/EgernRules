@@ -12,7 +12,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-01-08 02:14:57
+最后更新时间：2025-01-08 02:14:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -20,29 +20,44 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 421  | 
 | DOMAIN-KEYWORD | 11  | 
 | DOMAIN-SUFFIX | 96904  | 
-| DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8320  | 
 | IP-CIDR6 | 11937  | 
+| PROCESS-NAME | 12  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 117660  | 
+| TOTAL(仅供参考) | 117671  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaMaxNoMedia.yaml，请使用RULE-SET。
+- ChinaMaxNoMedia_Resolve.yaml，请使用RULE-SET。
+- ChinaMaxNoMedia_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- ChinaMaxNoMedia_All.yaml与ChinaMaxNoMedia_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- ChinaMaxNoMedia_Resolve.yaml与ChinaMaxNoMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- ChinaMaxNoMedia.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- ChinaMaxNoMedia_All.yaml 单独使用。
+- ChinaMaxNoMedia_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- ChinaMaxNoMedia.yaml、ChinaMaxNoMedia_Domain.list 共同使用。
+- ChinaMaxNoMedia_Resolve.yaml、ChinaMaxNoMedia_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list
 
 
 

@@ -1,12 +1,4 @@
-domain_set:
-domain_suffix_set:
-- kingsmith.cn
-- kingsmith.com.cn
-- walkingpad.cn
-- walkingpad.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,kingsmith.cn
+DOMAIN-SUFFIX,kingsmith.com.cn
+DOMAIN-SUFFIX,walkingpad.cn
+DOMAIN-SUFFIX,walkingpad.com

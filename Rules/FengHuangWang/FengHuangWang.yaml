@@ -1,17 +1,9 @@
-domain_set:
-domain_suffix_set:
-- fengcx.com
-- fengedu.com
-- fengzhibo.com.cn
-- ifeng.com
-- ifengimg.com
-- ifengweekly.com
-- phoenixcenter.cn
-- phoenixtv.com
-- phoenixtv.com.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,fengcx.com
+DOMAIN-SUFFIX,fengedu.com
+DOMAIN-SUFFIX,fengzhibo.com.cn
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,ifengweekly.com
+DOMAIN-SUFFIX,phoenixcenter.cn
+DOMAIN-SUFFIX,phoenixtv.com
+DOMAIN-SUFFIX,phoenixtv.com.cn

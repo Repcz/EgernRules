@@ -1,25 +1,18 @@
-domain_set:
-domain_suffix_set:
-- 9nali.com
-- conchdate.com
-- himalaya.com
-- himalaya.cool
-- qingxuetang.com
-- soundconch.com
-- tableauxmly.com
-- xima.tv
-- ximalaya.com
-- ximalaya.fm
-- ximalaya.tv
-- ximalayadata.com
-- xmcdn.com
-- zhishif.com
-- zhishinn.com
-- zhishiu.com
-- zhishiv.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,9nali.com
+DOMAIN-SUFFIX,conchdate.com
+DOMAIN-SUFFIX,himalaya.com
+DOMAIN-SUFFIX,himalaya.cool
+DOMAIN-SUFFIX,qingxuetang.com
+DOMAIN-SUFFIX,soundconch.com
+DOMAIN-SUFFIX,tableauxmly.com
+DOMAIN-SUFFIX,xima.tv
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,ximalaya.fm
+DOMAIN-SUFFIX,ximalaya.tv
+DOMAIN-SUFFIX,ximalayadata.com
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,zhishif.com
+DOMAIN-SUFFIX,zhishinn.com
+DOMAIN-SUFFIX,zhishiu.com
+DOMAIN-SUFFIX,zhishiv.com
+USER-AGENT,Himalaya*

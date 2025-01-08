@@ -18,10 +18,14 @@ BiliBiliIntl规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 1  | 
-| TOTAL(仅供参考) | 1  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 2  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- BiliBiliIntl.yaml，请使用RULE-SET。
 
 #### 配置建议
 - BiliBiliIntl.yaml 单独使用。
@@ -29,13 +33,14 @@ BiliBiliIntl规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/BiliBiliIntl/BiliBiliIntl.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/BiliBiliIntl/BiliBiliIntl.list
 
 
 

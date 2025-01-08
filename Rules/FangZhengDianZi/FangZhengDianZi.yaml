@@ -1,27 +1,19 @@
-domain_set:
-domain_suffix_set:
-- cloudpress.cn
-- cloudpub.cn
-- fangzhengshufa.com
-- founder.com.cn
-- founderfx.cn
-- founderfx.com.cn
-- founderss.cn
-- foundertype.com
-- fzdzyun.cn
-- fzdzyun.com
-- fzdzyun.com.cn
-- fzyun.cn
-- fzyun.net
-- newaircloud.com
-- study-cloud.cn
-- study-cloud.com
-- w2press.cn
-- wisestcloud.com
-- xiezixiansheng.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,cloudpress.cn
+DOMAIN-SUFFIX,cloudpub.cn
+DOMAIN-SUFFIX,fangzhengshufa.com
+DOMAIN-SUFFIX,founder.com.cn
+DOMAIN-SUFFIX,founderfx.cn
+DOMAIN-SUFFIX,founderfx.com.cn
+DOMAIN-SUFFIX,founderss.cn
+DOMAIN-SUFFIX,foundertype.com
+DOMAIN-SUFFIX,fzdzyun.cn
+DOMAIN-SUFFIX,fzdzyun.com
+DOMAIN-SUFFIX,fzdzyun.com.cn
+DOMAIN-SUFFIX,fzyun.cn
+DOMAIN-SUFFIX,fzyun.net
+DOMAIN-SUFFIX,newaircloud.com
+DOMAIN-SUFFIX,study-cloud.cn
+DOMAIN-SUFFIX,study-cloud.com
+DOMAIN-SUFFIX,w2press.cn
+DOMAIN-SUFFIX,wisestcloud.com
+DOMAIN-SUFFIX,xiezixiansheng.com

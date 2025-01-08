@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 12  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- KingsoftCloud.yaml，请使用RULE-SET。
+- KingsoftCloud_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- KingsoftCloud_Resolve.yaml与KingsoftCloud.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - KingsoftCloud.yaml 单独使用。
+- KingsoftCloud_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Cloud/KingsoftCloud/KingsoftCloud.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloud/KingsoftCloud/KingsoftCloud.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Cloud/KingsoftCloud/KingsoftCloud.list
 
 
 

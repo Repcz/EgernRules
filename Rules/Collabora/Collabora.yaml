@@ -1,13 +1,4 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- collabora.co.uk
-- collabora.com
-- collabora.org
-- collaboraoffice.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,collabora.co.uk
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com

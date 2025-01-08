@@ -1,11 +1,2 @@
-no_resolve: true
-domain_set:
-- litvfreemobile-hichannel.cdn.hinet.net
-domain_suffix_set:
-- litv.tv
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,litv.tv

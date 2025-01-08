@@ -1,15 +1,7 @@
-domain_set:
-domain_suffix_set:
-- 343480.com
-- baduziyuan.com
-- com-hs-hkdy.com
-- czybjz.com
-- dandanzan.com
-- fjhps.com
-- kuyunbo.club
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,343480.com
+DOMAIN-SUFFIX,baduziyuan.com
+DOMAIN-SUFFIX,com-hs-hkdy.com
+DOMAIN-SUFFIX,czybjz.com
+DOMAIN-SUFFIX,dandanzan.com
+DOMAIN-SUFFIX,fjhps.com
+DOMAIN-SUFFIX,kuyunbo.club

@@ -1,31 +1,22 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- bloomberg.co.kr
-- bloomberg.com
-- bloomberg.com.br
-- bloomberg.fm
-- bloomberg.tv
-- bloombergapps.com
-- bloombergarcade.com
-- bloombergbeta.com
-- blpprofessional.com
-- bmia.org
-- bnef.com
-- businessweek.com
-- businessweekmag.com
-- bwbx.io
-- citylab.com
-- gotraffic.net
-- londonmithraeum.com
-- neweconomyforum.com
-- newenergyfinance.com
-- quicktake.video
-- techatbloomberg.com
-- tictoc.video
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bloomberg.co.kr
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloomberg.com.br
+DOMAIN-SUFFIX,bloomberg.fm
+DOMAIN-SUFFIX,bloomberg.tv
+DOMAIN-SUFFIX,bloombergapps.com
+DOMAIN-SUFFIX,bloombergarcade.com
+DOMAIN-SUFFIX,bloombergbeta.com
+DOMAIN-SUFFIX,blpprofessional.com
+DOMAIN-SUFFIX,bmia.org
+DOMAIN-SUFFIX,bnef.com
+DOMAIN-SUFFIX,businessweek.com
+DOMAIN-SUFFIX,businessweekmag.com
+DOMAIN-SUFFIX,bwbx.io
+DOMAIN-SUFFIX,citylab.com
+DOMAIN-SUFFIX,gotraffic.net
+DOMAIN-SUFFIX,londonmithraeum.com
+DOMAIN-SUFFIX,neweconomyforum.com
+DOMAIN-SUFFIX,newenergyfinance.com
+DOMAIN-SUFFIX,quicktake.video
+DOMAIN-SUFFIX,techatbloomberg.com
+DOMAIN-SUFFIX,tictoc.video

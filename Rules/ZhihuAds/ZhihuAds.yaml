@@ -1,13 +1,13 @@
-domain_set:
-- appcloud2.in.zhihu.com
-- mqtt.zhihu.com
-- sugar.zhihu.com
-domain_suffix_set:
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-- 118.89.204.198/32
-ip_cidr6_set:
-- 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
-asn_set:
-url_regex_set:
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,mqtt.zhihu.com
+DOMAIN,sugar.zhihu.com
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/brand\/question\/\d+/card\?
+URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/launch_v2\?
+URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/explore\/entry\/tips
+URL-REGEX,^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/api\/v4/(questions|anwsers)\/\d+/related-readings
+URL-REGEX,^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/api\/v4\/answers\/\d+\/recommendations
+URL-REGEX,^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/banners_v3\/mobile_banner
+URL-REGEX,^https?:\/\/zhuanlan\.zhihu\.com\/api\/articles\/\d+\/recommendation
+USER-AGENT,AVOS*

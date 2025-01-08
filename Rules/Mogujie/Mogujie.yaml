@@ -1,18 +1,10 @@
-domain_set:
-domain_suffix_set:
-- juangua.com
-- linkeye.net
-- meili-inc.com
-- mogu.com
-- mogucdn.com
-- mogujie.com
-- mogujielive.com
-- styledata.cn
-- uniny.com
-- xdgogogo.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,juangua.com
+DOMAIN-SUFFIX,linkeye.net
+DOMAIN-SUFFIX,meili-inc.com
+DOMAIN-SUFFIX,mogu.com
+DOMAIN-SUFFIX,mogucdn.com
+DOMAIN-SUFFIX,mogujie.com
+DOMAIN-SUFFIX,mogujielive.com
+DOMAIN-SUFFIX,styledata.cn
+DOMAIN-SUFFIX,uniny.com
+DOMAIN-SUFFIX,xdgogogo.com

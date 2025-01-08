@@ -1,34 +1,28 @@
-no_resolve: true
-domain_set:
-- d1v5ir2lpwr8os.cloudfront.net
-- d22qjgkvxw22r6.cloudfront.net
-- d25xi40x97liuc.cloudfront.net
-- d27xxe7juh1us6.cloudfront.net
-- dmqdd6hw24ucf.cloudfront.net
-domain_suffix_set:
-- aiv-cdn.net
-- aiv-delivery.net
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
-- amazonprimevideos.com
-- amazonvideo.cc
-- amazonvideo.com
-- atv-ps.amazon.com
-- avodmp4s3ww-a.akamaihd.net
-- fls-na.amazon.com
-- llnwd.net
-- media-amazon.com
-- prime-video.com
-- primevideo.cc
-- primevideo.com
-- primevideo.info
-- primevideo.org
-- primevideo.tv
-- pv-cdn.net
-domain_keyword_set:
-- avoddashs
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,atv-ps.amazon.com
+DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
+DOMAIN-SUFFIX,fls-na.amazon.com
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN-KEYWORD,avoddashs
+PROCESS-NAME,com.amazon.avod.thirdpartyclient
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*

@@ -1,23 +1,14 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- 9cdn.net
-- 9nation.com.au
-- 9news.com.au
-- 9now.com.au
-- freeviewplus.net.au
-- mi9.com.au
-- mi9cdn.com
-- nine.com.au
-- nineentertainment.com.au
-- nineentertainmentco.com.au
-- ninemediaroom.com.au
-- ninemsn.com.au
-- static9.net.au
-- yourtv.com.au
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,9cdn.net
+DOMAIN-SUFFIX,9nation.com.au
+DOMAIN-SUFFIX,9news.com.au
+DOMAIN-SUFFIX,9now.com.au
+DOMAIN-SUFFIX,freeviewplus.net.au
+DOMAIN-SUFFIX,mi9.com.au
+DOMAIN-SUFFIX,mi9cdn.com
+DOMAIN-SUFFIX,nine.com.au
+DOMAIN-SUFFIX,nineentertainment.com.au
+DOMAIN-SUFFIX,nineentertainmentco.com.au
+DOMAIN-SUFFIX,ninemediaroom.com.au
+DOMAIN-SUFFIX,ninemsn.com.au
+DOMAIN-SUFFIX,static9.net.au
+DOMAIN-SUFFIX,yourtv.com.au

@@ -22,25 +22,35 @@ ChinaMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 236  | 
 | IP-CIDR | 50  | 
 | IP-CIDR6 | 29  | 
+| PROCESS-NAME | 6  | 
 | USER-AGENT(Egern不支持) | 35  | 
-| TOTAL(仅供参考) | 423  | 
+| TOTAL(仅供参考) | 429  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaMedia.yaml，请使用RULE-SET。
+- ChinaMedia_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ChinaMedia_Resolve.yaml与ChinaMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - ChinaMedia.yaml 单独使用。
+- ChinaMedia_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaMedia/ChinaMedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaMedia/ChinaMedia.list
 
 
 

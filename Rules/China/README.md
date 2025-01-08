@@ -20,28 +20,42 @@ China规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 15  | 
 | DOMAIN-KEYWORD | 9  | 
 | DOMAIN-SUFFIX | 3676  | 
-| DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 17  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 31  | 
-| TOTAL(仅供参考) | 3753  | 
+| TOTAL(仅供参考) | 3752  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- China.yaml，请使用RULE-SET。
+- China_Resolve.yaml，请使用RULE-SET。
+- China_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- China_All.yaml与China_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- China_Resolve.yaml与China.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- China.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- China_All.yaml 单独使用。
+- China_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- China.yaml、China_Domain.list 共同使用。
+- China_Resolve.yaml、China_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/China/China.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/China/China.list
 
 
 

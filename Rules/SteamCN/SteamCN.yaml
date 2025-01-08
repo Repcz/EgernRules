@@ -1,26 +1,17 @@
-no_resolve: true
-domain_set:
-- csgo.wmsj.cn
-- dl.steam.clngaa.com
-- dl.steam.ksyna.com
-- dota2.wmsj.cn
-- st.dl.bscstorage.net
-- st.dl.eccdnx.com
-- st.dl.pinyuncloud.com
-- steampipe.steamcontent.tnkjmec.com
-- steampowered.com.8686c.com
-- steamstatic.com.8686c.com
-- wmsjsteam.com
-- xz.pphimalayanrt.com
-domain_suffix_set:
-- cm.steampowered.com
-- steamchina.com
-- steamcontent.com
-- steamserver.net
-- steamusercontent.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,dota2.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+DOMAIN,wmsjsteam.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamusercontent.com

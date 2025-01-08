@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 iOS系统升级规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -17,12 +17,15 @@ iOS系统升级规则由《RULE GENERATOR 规则生成器》自动生成。
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 78  | 
+| DOMAIN | 65  | 
 | DOMAIN-SUFFIX | 13  | 
-| TOTAL(仅供参考) | 91  | 
+| TOTAL(仅供参考) | 78  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- SystemOTA.yaml，请使用RULE-SET。
 
 #### 配置建议
 - SystemOTA.yaml 单独使用。
@@ -30,13 +33,14 @@ iOS系统升级规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/SystemOTA/SystemOTA.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/SystemOTA/SystemOTA.list
 
 
 

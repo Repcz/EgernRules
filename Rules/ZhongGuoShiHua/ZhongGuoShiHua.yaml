@@ -1,13 +1,5 @@
-domain_set:
-domain_suffix_set:
-- sinopec-usa.com
-- sinopec.com
-- sinopecgroup.com
-- sinopecnews.com.cn
-- sinopecsales.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,sinopec-usa.com
+DOMAIN-SUFFIX,sinopec.com
+DOMAIN-SUFFIX,sinopecgroup.com
+DOMAIN-SUFFIX,sinopecnews.com.cn
+DOMAIN-SUFFIX,sinopecsales.com

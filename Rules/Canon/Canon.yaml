@@ -1,79 +1,70 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- c-ij.com
-- canon-cee.com
-- canon-cmos-sensors.com
-- canon-cna.com
-- canon-ebm.com.hk
-- canon-emea.com
-- canon-emirates.ae
-- canon-europa.com
-- canon-europe.com
-- canon-me.com
-- canon-ois.qa
-- canon-se.com.tw
-- canon.am
-- canon.at
-- canon.az
-- canon.ba
-- canon.be
-- canon.bg
-- canon.ca
-- canon.ch
-- canon.cn
-- canon.co.il
-- canon.co.uk
-- canon.co.za
-- canon.com
-- canon.com.al
-- canon.com.au
-- canon.com.by
-- canon.com.cn
-- canon.com.cy
-- canon.com.hk
-- canon.com.mk
-- canon.com.mt
-- canon.com.my
-- canon.com.tr
-- canon.com.tw
-- canon.cz
-- canon.de
-- canon.dk
-- canon.ee
-- canon.es
-- canon.fi
-- canon.fr
-- canon.ge
-- canon.gr
-- canon.hr
-- canon.hu
-- canon.ie
-- canon.it
-- canon.kz
-- canon.lt
-- canon.lu
-- canon.lv
-- canon.me
-- canon.net
-- canon.nl
-- canon.no
-- canon.pl
-- canon.pt
-- canon.ro
-- canon.rs
-- canon.ru
-- canon.se
-- canon.si
-- canon.sk
-- canon.tj
-- canon.ua
-- canon.uz
-- canonfoundation.org
-- canonproprinters.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,c-ij.com
+DOMAIN-SUFFIX,canon-cee.com
+DOMAIN-SUFFIX,canon-cmos-sensors.com
+DOMAIN-SUFFIX,canon-cna.com
+DOMAIN-SUFFIX,canon-ebm.com.hk
+DOMAIN-SUFFIX,canon-emea.com
+DOMAIN-SUFFIX,canon-emirates.ae
+DOMAIN-SUFFIX,canon-europa.com
+DOMAIN-SUFFIX,canon-europe.com
+DOMAIN-SUFFIX,canon-me.com
+DOMAIN-SUFFIX,canon-ois.qa
+DOMAIN-SUFFIX,canon-se.com.tw
+DOMAIN-SUFFIX,canon.am
+DOMAIN-SUFFIX,canon.at
+DOMAIN-SUFFIX,canon.az
+DOMAIN-SUFFIX,canon.ba
+DOMAIN-SUFFIX,canon.be
+DOMAIN-SUFFIX,canon.bg
+DOMAIN-SUFFIX,canon.ca
+DOMAIN-SUFFIX,canon.ch
+DOMAIN-SUFFIX,canon.cn
+DOMAIN-SUFFIX,canon.co.il
+DOMAIN-SUFFIX,canon.co.uk
+DOMAIN-SUFFIX,canon.co.za
+DOMAIN-SUFFIX,canon.com
+DOMAIN-SUFFIX,canon.com.al
+DOMAIN-SUFFIX,canon.com.au
+DOMAIN-SUFFIX,canon.com.by
+DOMAIN-SUFFIX,canon.com.cn
+DOMAIN-SUFFIX,canon.com.cy
+DOMAIN-SUFFIX,canon.com.hk
+DOMAIN-SUFFIX,canon.com.mk
+DOMAIN-SUFFIX,canon.com.mt
+DOMAIN-SUFFIX,canon.com.my
+DOMAIN-SUFFIX,canon.com.tr
+DOMAIN-SUFFIX,canon.com.tw
+DOMAIN-SUFFIX,canon.cz
+DOMAIN-SUFFIX,canon.de
+DOMAIN-SUFFIX,canon.dk
+DOMAIN-SUFFIX,canon.ee
+DOMAIN-SUFFIX,canon.es
+DOMAIN-SUFFIX,canon.fi
+DOMAIN-SUFFIX,canon.fr
+DOMAIN-SUFFIX,canon.ge
+DOMAIN-SUFFIX,canon.gr
+DOMAIN-SUFFIX,canon.hr
+DOMAIN-SUFFIX,canon.hu
+DOMAIN-SUFFIX,canon.ie
+DOMAIN-SUFFIX,canon.it
+DOMAIN-SUFFIX,canon.kz
+DOMAIN-SUFFIX,canon.lt
+DOMAIN-SUFFIX,canon.lu
+DOMAIN-SUFFIX,canon.lv
+DOMAIN-SUFFIX,canon.me
+DOMAIN-SUFFIX,canon.net
+DOMAIN-SUFFIX,canon.nl
+DOMAIN-SUFFIX,canon.no
+DOMAIN-SUFFIX,canon.pl
+DOMAIN-SUFFIX,canon.pt
+DOMAIN-SUFFIX,canon.ro
+DOMAIN-SUFFIX,canon.rs
+DOMAIN-SUFFIX,canon.ru
+DOMAIN-SUFFIX,canon.se
+DOMAIN-SUFFIX,canon.si
+DOMAIN-SUFFIX,canon.sk
+DOMAIN-SUFFIX,canon.tj
+DOMAIN-SUFFIX,canon.ua
+DOMAIN-SUFFIX,canon.uz
+DOMAIN-SUFFIX,canonfoundation.org
+DOMAIN-SUFFIX,canonproprinters.com

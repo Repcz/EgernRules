@@ -21,7 +21,10 @@
 | TOTAL(仅供参考) | 7  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- 9to5.yaml，请使用RULE-SET。
 
 #### 配置建议
 - 9to5.yaml 单独使用。
@@ -29,13 +32,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/9to5/9to5.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9to5/9to5.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/9to5/9to5.list
 
 
 

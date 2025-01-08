@@ -21,7 +21,10 @@ Canon规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 70  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Canon.yaml，请使用RULE-SET。
 
 #### 配置建议
 - Canon.yaml 单独使用。
@@ -29,13 +32,14 @@ Canon规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Canon/Canon.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Canon/Canon.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Canon/Canon.list
 
 
 

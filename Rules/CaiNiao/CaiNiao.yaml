@@ -1,17 +1,9 @@
-domain_set:
-domain_suffix_set:
-- 56che.com
-- cainiao-inc.cn
-- cainiao-inc.com
-- cainiao-inc.net
-- cainiao.com
-- cainiao.com.cn
-- cainiaoyizhan.com
-- guoguo-app.com
-- xiaog.xyz
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,56che.com
+DOMAIN-SUFFIX,cainiao-inc.cn
+DOMAIN-SUFFIX,cainiao-inc.com
+DOMAIN-SUFFIX,cainiao-inc.net
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiao.com.cn
+DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,xiaog.xyz

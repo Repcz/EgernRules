@@ -1,14 +1,5 @@
-no_resolve: true
-domain_set:
-- amp.akamaized.net
-domain_suffix_set:
-- amp.dev
-- ampproject.com
-- ampproject.net
-- ampproject.org
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,amp.akamaized.net
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org

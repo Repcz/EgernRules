@@ -21,7 +21,10 @@
 | TOTAL(仅供参考) | 95  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- IKEA.yaml，请使用RULE-SET。
 
 #### 配置建议
 - IKEA.yaml 单独使用。
@@ -29,13 +32,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/IKEA/IKEA.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IKEA/IKEA.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/IKEA/IKEA.list
 
 
 

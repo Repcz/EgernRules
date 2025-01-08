@@ -19,24 +19,34 @@
 | ---- | ----  |
 | DOMAIN-SUFFIX | 135  | 
 | IP-CIDR | 5  | 
-| TOTAL(仅供参考) | 140  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 141  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- XiaoMi.yaml，请使用RULE-SET。
+- XiaoMi_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- XiaoMi_Resolve.yaml与XiaoMi.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - XiaoMi.yaml 单独使用。
+- XiaoMi_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/XiaoMi/XiaoMi.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoMi/XiaoMi.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/XiaoMi/XiaoMi.list
 
 
 

@@ -1,14 +1,5 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- dai.ly
-- dailymotion.com
-- dm-event.net
-- dmcdn.net
-- dmxleo.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,dai.ly
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmxleo.com

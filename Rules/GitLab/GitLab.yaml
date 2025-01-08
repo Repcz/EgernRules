@@ -1,15 +1,6 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- gitlab-assets.oss-cn-hongkong.aliyuncs.com
-- gitlab-static.net
-- gitlab.com
-- gitlab.net
-- gitter-static.net
-- gitter.im
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitter-static.net
+DOMAIN-SUFFIX,gitter.im

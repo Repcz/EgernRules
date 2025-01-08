@@ -1,17 +1,8 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- biggggg.com
-- mudvod.tv
-- nbys.tv
-- nbys1.tv
-- nbyy.tv
-- newpppp.com
-- vod360.net
-domain_keyword_set:
-- nivod
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nbys.tv
+DOMAIN-SUFFIX,nbys1.tv
+DOMAIN-SUFFIX,nbyy.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,vod360.net
+DOMAIN-KEYWORD,nivod

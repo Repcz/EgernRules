@@ -12,7 +12,7 @@ PayPal规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-05 02:11:12
+最后更新时间：2024-07-03 16:16:11
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -23,7 +23,10 @@ PayPal规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 248  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- PayPal.yaml，请使用RULE-SET。
 
 #### 配置建议
 - PayPal.yaml 单独使用。
@@ -31,13 +34,14 @@ PayPal规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/PayPal/PayPal.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/PayPal/PayPal.list
 
 
 

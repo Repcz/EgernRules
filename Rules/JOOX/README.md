@@ -20,25 +20,35 @@ JOOX规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 3  | 
 | IP-CIDR | 2  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 2  | 
-| TOTAL(仅供参考) | 8  | 
+| TOTAL(仅供参考) | 9  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- JOOX.yaml，请使用RULE-SET。
+- JOOX_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- JOOX_Resolve.yaml与JOOX.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - JOOX.yaml 单独使用。
+- JOOX_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/JOOX/JOOX.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/JOOX/JOOX.list
 
 
 

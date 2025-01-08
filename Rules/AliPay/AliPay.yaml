@@ -1,29 +1,21 @@
-domain_set:
-domain_suffix_set:
-- alipay
-- alipay-corp.com
-- alipay-eco.com
-- alipay-inc.com
-- alipay-traffic.com
-- alipay.cn
-- alipay.com
-- alipay.com.cn
-- alipay.hk
-- alipay.net
-- alipaydesign.com
-- alipaydev.com
-- alipaydns.com
-- alipayeshop.com
-- alipaylog.com
-- alipaymo.com
-- alipayobjects.com
-- alipayplus.com
-- ifaa.org.cn
-- luohanacademy.com
-- sinopayment.com.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,alipay-corp.com
+DOMAIN-SUFFIX,alipay-eco.com
+DOMAIN-SUFFIX,alipay-inc.com
+DOMAIN-SUFFIX,alipay-traffic.com
+DOMAIN-SUFFIX,alipay.cn
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.com.cn
+DOMAIN-SUFFIX,alipay.hk
+DOMAIN-SUFFIX,alipay.net
+DOMAIN-SUFFIX,alipaydesign.com
+DOMAIN-SUFFIX,alipaydev.com
+DOMAIN-SUFFIX,alipaydns.com
+DOMAIN-SUFFIX,alipayeshop.com
+DOMAIN-SUFFIX,alipaylog.com
+DOMAIN-SUFFIX,alipaymo.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alipayplus.com
+DOMAIN-SUFFIX,ifaa.org.cn
+DOMAIN-SUFFIX,luohanacademy.com
+DOMAIN-SUFFIX,sinopayment.com.cn

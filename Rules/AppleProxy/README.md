@@ -12,18 +12,22 @@ AppleProxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-05 02:11:18
+最后更新时间：2024-07-03 16:16:17
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 27  | 
 | DOMAIN-SUFFIX | 12  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 5  | 
-| TOTAL(仅供参考) | 44  | 
+| TOTAL(仅供参考) | 45  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AppleProxy.yaml，请使用RULE-SET。
 
 #### 配置建议
 - AppleProxy.yaml 单独使用。
@@ -31,13 +35,14 @@ AppleProxy规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AppleProxy/AppleProxy.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AppleProxy/AppleProxy.list
 
 
 

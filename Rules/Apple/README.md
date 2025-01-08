@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,35 +12,50 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-08-14 02:10:36
+最后更新时间：2024-07-07 02:08:59
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 268  | 
+| DOMAIN | 10  | 
 | DOMAIN-KEYWORD | 7  | 
 | DOMAIN-SUFFIX | 1549  | 
-| DOMAIN-WILDCARD | 15  | 
 | IP-CIDR | 10  | 
+| PROCESS-NAME | 13  | 
 | USER-AGENT(Egern不支持) | 23  | 
-| TOTAL(仅供参考) | 1872  | 
+| TOTAL(仅供参考) | 1612  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Apple.yaml，请使用RULE-SET。
+- Apple_Resolve.yaml，请使用RULE-SET。
+- Apple_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- Apple_All.yaml与Apple_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- Apple_Resolve.yaml与Apple.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- Apple.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Apple_All.yaml 单独使用。
+- Apple_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- Apple.yaml、Apple_Domain.list 共同使用。
+- Apple_Resolve.yaml、Apple_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Apple/Apple.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Apple/Apple.list
 
 
 

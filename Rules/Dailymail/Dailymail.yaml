@@ -1,26 +1,17 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- anm.co.uk
-- dailym.ai
-- dailymail.co.uk
-- dailymail.com
-- dailymail.com.au
-- dailymail.dk
-- dailymailonline.com
-- dmgmediaprivacy.co.uk
-- mailhealth.com
-- mailonline.co.uk
-- mailonline.com
-- mailonsunday.co.uk
-- mailonsunday.ie
-- metro.co.uk
-- mol.im
-- thisismoney.co.uk
-- thismon.ee
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,anm.co.uk
+DOMAIN-SUFFIX,dailym.ai
+DOMAIN-SUFFIX,dailymail.co.uk
+DOMAIN-SUFFIX,dailymail.com
+DOMAIN-SUFFIX,dailymail.com.au
+DOMAIN-SUFFIX,dailymail.dk
+DOMAIN-SUFFIX,dailymailonline.com
+DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+DOMAIN-SUFFIX,mailhealth.com
+DOMAIN-SUFFIX,mailonline.co.uk
+DOMAIN-SUFFIX,mailonline.com
+DOMAIN-SUFFIX,mailonsunday.co.uk
+DOMAIN-SUFFIX,mailonsunday.ie
+DOMAIN-SUFFIX,metro.co.uk
+DOMAIN-SUFFIX,mol.im
+DOMAIN-SUFFIX,thisismoney.co.uk
+DOMAIN-SUFFIX,thismon.ee

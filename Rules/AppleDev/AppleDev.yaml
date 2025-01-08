@@ -1,45 +1,36 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- apple-cloudkit.com
-- apple-mapkit.com
-- apple.com.akadns.net
-- appleswift.com
-- appleworldwidedeveloper.hb-api.omtrdc.net
-- appleworldwidedeveloper.sc.omtrdc.net
-- calendarserver.org
-- carekit.org
-- courier-push-apple.com.akadns.net
-- cups.org
-- developer.apple.com
-- devimages-cdn.apple.com
-- devstreaming-cdn.apple.com
-- foundationdb.org
-- macosforge.org
-- macruby.com
-- macruby.net
-- macruby.org
-- p-events-delivery.akamaized.net
-- playgrounds-cdn.apple.com
-- push-apple.com.akadns.net
-- researchandcare.org
-- researchkit.cn
-- researchkit.com.cn
-- researchkit.hk
-- researchkit.net
-- researchkit.org
-- researchkit.tv
-- servicetalk.io
-- swift.org
-- swiftui.cn
-- swiftui.com.cn
-- webkit.org
-- webkitgtk.org
-- webobjects.com
-- wpewebkit.org
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN-SUFFIX,calendarserver.org
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,cups.org
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,foundationdb.org
+DOMAIN-SUFFIX,macosforge.org
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.org
+DOMAIN-SUFFIX,p-events-delivery.akamaized.net
+DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,researchandcare.org
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,researchkit.tv
+DOMAIN-SUFFIX,servicetalk.io
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,webobjects.com
+DOMAIN-SUFFIX,wpewebkit.org

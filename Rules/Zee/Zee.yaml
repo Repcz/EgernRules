@@ -1,31 +1,22 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- bgr.in
-- bollywoodlife.com
-- careerfundas.com
-- cricketcountry.com
-- dnai.in
-- dnaindia.com
-- earngeek.com
-- ekhindi.com
-- ind.sh
-- india.com
-- indiancolleges.com
-- itripto.com
-- oncars.in
-- prepsure.com
-- thehealthsite.com
-- wionews.com
-- yo1health.com
-- zee.com
-- zeebiz.com
-- zeeentertainment.com
-- zeenews-fonts.s3.amazonaws.com
-- zeenews.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bgr.in
+DOMAIN-SUFFIX,bollywoodlife.com
+DOMAIN-SUFFIX,careerfundas.com
+DOMAIN-SUFFIX,cricketcountry.com
+DOMAIN-SUFFIX,dnai.in
+DOMAIN-SUFFIX,dnaindia.com
+DOMAIN-SUFFIX,earngeek.com
+DOMAIN-SUFFIX,ekhindi.com
+DOMAIN-SUFFIX,ind.sh
+DOMAIN-SUFFIX,india.com
+DOMAIN-SUFFIX,indiancolleges.com
+DOMAIN-SUFFIX,itripto.com
+DOMAIN-SUFFIX,oncars.in
+DOMAIN-SUFFIX,prepsure.com
+DOMAIN-SUFFIX,thehealthsite.com
+DOMAIN-SUFFIX,wionews.com
+DOMAIN-SUFFIX,yo1health.com
+DOMAIN-SUFFIX,zee.com
+DOMAIN-SUFFIX,zeebiz.com
+DOMAIN-SUFFIX,zeeentertainment.com
+DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
+DOMAIN-SUFFIX,zeenews.com

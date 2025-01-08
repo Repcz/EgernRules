@@ -1,52 +1,43 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- cispaletter.com
-- cispaletter.org
-- cometotheduckside.com
-- ddg.co
-- ddg.gg
-- ddh.gg
-- dgg.gg
-- dontbubble.us
-- donttrack.us
-- duck.co
-- duck.com
-- duckduckco.com
-- duckduckco.de
-- duckduckgo.ca
-- duckduckgo.co
-- duckduckgo.co.uk
-- duckduckgo.com
-- duckduckgo.com.mx
-- duckduckgo.com.tw
-- duckduckgo.de
-- duckduckgo.dk
-- duckduckgo.in
-- duckduckgo.jp
-- duckduckgo.ke
-- duckduckgo.mx
-- duckduckgo.nl
-- duckduckgo.org
-- duckduckgo.pl
-- duckduckgo.sg
-- duckduckgo.uk
-- duckduckhack.com
-- duckgo.com
-- ducksear.ch
-- duckside.com
-- dukgo.com
-- enteentegeh.de
-- fixtracking.com
-- goduckgo.com
-- hacksear.ch
-- justduckit.com
-- privacysimplified.com
-- privatebrowsingmyths.com
-- spreadprivacy.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,cispaletter.com
+DOMAIN-SUFFIX,cispaletter.org
+DOMAIN-SUFFIX,cometotheduckside.com
+DOMAIN-SUFFIX,ddg.co
+DOMAIN-SUFFIX,ddg.gg
+DOMAIN-SUFFIX,ddh.gg
+DOMAIN-SUFFIX,dgg.gg
+DOMAIN-SUFFIX,dontbubble.us
+DOMAIN-SUFFIX,donttrack.us
+DOMAIN-SUFFIX,duck.co
+DOMAIN-SUFFIX,duck.com
+DOMAIN-SUFFIX,duckduckco.com
+DOMAIN-SUFFIX,duckduckco.de
+DOMAIN-SUFFIX,duckduckgo.ca
+DOMAIN-SUFFIX,duckduckgo.co
+DOMAIN-SUFFIX,duckduckgo.co.uk
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,duckduckgo.com.mx
+DOMAIN-SUFFIX,duckduckgo.com.tw
+DOMAIN-SUFFIX,duckduckgo.de
+DOMAIN-SUFFIX,duckduckgo.dk
+DOMAIN-SUFFIX,duckduckgo.in
+DOMAIN-SUFFIX,duckduckgo.jp
+DOMAIN-SUFFIX,duckduckgo.ke
+DOMAIN-SUFFIX,duckduckgo.mx
+DOMAIN-SUFFIX,duckduckgo.nl
+DOMAIN-SUFFIX,duckduckgo.org
+DOMAIN-SUFFIX,duckduckgo.pl
+DOMAIN-SUFFIX,duckduckgo.sg
+DOMAIN-SUFFIX,duckduckgo.uk
+DOMAIN-SUFFIX,duckduckhack.com
+DOMAIN-SUFFIX,duckgo.com
+DOMAIN-SUFFIX,ducksear.ch
+DOMAIN-SUFFIX,duckside.com
+DOMAIN-SUFFIX,dukgo.com
+DOMAIN-SUFFIX,enteentegeh.de
+DOMAIN-SUFFIX,fixtracking.com
+DOMAIN-SUFFIX,goduckgo.com
+DOMAIN-SUFFIX,hacksear.ch
+DOMAIN-SUFFIX,justduckit.com
+DOMAIN-SUFFIX,privacysimplified.com
+DOMAIN-SUFFIX,privatebrowsingmyths.com
+DOMAIN-SUFFIX,spreadprivacy.com

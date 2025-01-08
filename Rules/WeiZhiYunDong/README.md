@@ -22,7 +22,10 @@
 | TOTAL(仅供参考) | 5  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- WeiZhiYunDong.yaml，请使用RULE-SET。
 
 #### 配置建议
 - WeiZhiYunDong.yaml 单独使用。
@@ -30,13 +33,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/WeiZhiYunDong/WeiZhiYunDong.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list
 
 
 

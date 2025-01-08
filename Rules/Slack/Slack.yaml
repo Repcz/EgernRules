@@ -1,20 +1,11 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- slack-core.com
-- slack-edge.com
-- slack-files.com
-- slack-imgs.com
-- slack-msgs.com
-- slack-redir.net
-- slack.com
-- slackb.com
-- slackcertified.com
-- slackdemo.com
-- slackhq.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,slack-core.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-redir.net
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slackcertified.com
+DOMAIN-SUFFIX,slackdemo.com
+DOMAIN-SUFFIX,slackhq.com

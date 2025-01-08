@@ -20,25 +20,35 @@ WeTV规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 1  | 
 | DOMAIN-SUFFIX | 7  | 
 | IP-CIDR | 1  | 
+| PROCESS-NAME | 2  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 10  | 
+| TOTAL(仅供参考) | 12  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- WeTV.yaml，请使用RULE-SET。
+- WeTV_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- WeTV_Resolve.yaml与WeTV.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - WeTV.yaml 单独使用。
+- WeTV_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/WeTV/WeTV.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeTV/WeTV.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/WeTV/WeTV.list
 
 
 

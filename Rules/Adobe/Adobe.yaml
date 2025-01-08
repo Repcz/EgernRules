@@ -1,146 +1,137 @@
-no_resolve: true
-domain_set:
-- cc-ext-prod-pkgs.s3.amazonaws.com
-domain_suffix_set:
-- 10xfotolia.com
-- 2o7.net
-- acrobat.com
-- adbecrsl.com
-- adobe-aemassets-value.com
-- adobe-audience-finder.com
-- adobe-video-partner-finder.com
-- adobe.com
-- adobe.io
-- adobe.ly
-- adobeaemcloud.com
-- adobeaemcloud.net
-- adobeawards.com
-- adobecc.com
-- adobecce.com
-- adobeccstatic.com
-- adobecontent.io
-- adobecreativityawards.com
-- adobedc.cn
-- adobedc.net
-- adobedemo.com
-- adobedtm.com
-- adobeexchange.com
-- adobeexperienceawards.com
-- adobegov.com
-- adobehiddentreasures.com
-- adobejanus.com
-- adobeku.com
-- adobelanding.com
-- adobelogin.com
-- adobeoobe.com
-- adobeplatinumclub.com
-- adobeprojectm.com
-- adobesc.com
-- adobesign.com
-- adobesigncdn.com
-- adobespark.com
-- adobess.com
-- adobestock.com
-- adobetag.com
-- adobetarget.com
-- adobetcstrialdvd.com
-- adobetechcomm.com
-- adobetechcommcallback.com
-- adobetechcommdemo.com
-- adobexdplatform.com
-- assetsadobe.com
-- authorxml.com
-- bam.nr-data.net
-- behance.net
-- bluefootcms.com
-- businesscatalyst.com
-- ccnsite.com
-- ccpsx.com
-- compresspdf.new
-- cotolia.com
-- creativecloud.com
-- creativesdk.com
-- demandbase.com
-- demdex.net
-- developria.com
-- dollarfotoclub.com
-- dollarphotoclub.com
-- dollarphotosclub.com
-- douwriteright.com
-- echocdn.com
-- echosign.com
-- edgefonts.net
-- enablementadobe.com
-- ffotolia.com
-- fiotolia.com
-- foftolia.com
-- fonolia.com
-- fotiolia.com
-- fotoiia.com
-- fotolia-noticias.com
-- fotolia.cc
-- fotolia.com
-- fotolia.tv
-- fotolja.com
-- fptolia.com
-- ftcdn.net
-- geotrust.com
-- gfotolia.com
-- globalsign.com
-- godaddy.com
-- gostorego.com
-- imagineecommerce.com
-- macromedia.com
-- mageconf.com
-- mageconf.com.ua
-- magento.com
-- magento.net
-- magentocommerce.com
-- magentoliveconference.com
-- magentomobile.com
-- marketing-cloud.com
-- marketing-nirvana.com
-- marketo.co.uk
-- marketo.com
-- marketo.net
-- marketo.tv
-- marketodesigner.com
-- marketolive.com
-- mktdns.com
-- mkto-c0100.com
-- mktorest.com
-- mktroute.com
-- mobilemarketo.com
-- motolia.com
-- newrelic.com
-- omniroot.com
-- omniture.com
-- omtrdc.net
-- pdf.new
-- photolia.net
-- photoshop.com
-- placesdocs.com
-- revenue-performance-management.com
-- s2stagehance.com
-- scene7.com
-- sign.new
-- sundanceignite2016.com
-- symantec.com
-- symcb.com
-- symcd.com
-- tenbyfotolia.com
-- thawte.com
-- toutapp.com
-- typekit.com
-- typekit.net
-- verisign.com
-- votolia.com
-- worldsecureemail.com
-- worldsecuresystems.com
-domain_keyword_set:
-- adobe
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
+DOMAIN-SUFFIX,10xfotolia.com
+DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,acrobat.com
+DOMAIN-SUFFIX,adbecrsl.com
+DOMAIN-SUFFIX,adobe-aemassets-value.com
+DOMAIN-SUFFIX,adobe-audience-finder.com
+DOMAIN-SUFFIX,adobe-video-partner-finder.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe.ly
+DOMAIN-SUFFIX,adobeaemcloud.com
+DOMAIN-SUFFIX,adobeaemcloud.net
+DOMAIN-SUFFIX,adobeawards.com
+DOMAIN-SUFFIX,adobecc.com
+DOMAIN-SUFFIX,adobecce.com
+DOMAIN-SUFFIX,adobeccstatic.com
+DOMAIN-SUFFIX,adobecontent.io
+DOMAIN-SUFFIX,adobecreativityawards.com
+DOMAIN-SUFFIX,adobedc.cn
+DOMAIN-SUFFIX,adobedc.net
+DOMAIN-SUFFIX,adobedemo.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adobeexchange.com
+DOMAIN-SUFFIX,adobeexperienceawards.com
+DOMAIN-SUFFIX,adobegov.com
+DOMAIN-SUFFIX,adobehiddentreasures.com
+DOMAIN-SUFFIX,adobejanus.com
+DOMAIN-SUFFIX,adobeku.com
+DOMAIN-SUFFIX,adobelanding.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobeoobe.com
+DOMAIN-SUFFIX,adobeplatinumclub.com
+DOMAIN-SUFFIX,adobeprojectm.com
+DOMAIN-SUFFIX,adobesc.com
+DOMAIN-SUFFIX,adobesign.com
+DOMAIN-SUFFIX,adobesigncdn.com
+DOMAIN-SUFFIX,adobespark.com
+DOMAIN-SUFFIX,adobess.com
+DOMAIN-SUFFIX,adobestock.com
+DOMAIN-SUFFIX,adobetag.com
+DOMAIN-SUFFIX,adobetarget.com
+DOMAIN-SUFFIX,adobetcstrialdvd.com
+DOMAIN-SUFFIX,adobetechcomm.com
+DOMAIN-SUFFIX,adobetechcommcallback.com
+DOMAIN-SUFFIX,adobetechcommdemo.com
+DOMAIN-SUFFIX,adobexdplatform.com
+DOMAIN-SUFFIX,assetsadobe.com
+DOMAIN-SUFFIX,authorxml.com
+DOMAIN-SUFFIX,bam.nr-data.net
+DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,bluefootcms.com
+DOMAIN-SUFFIX,businesscatalyst.com
+DOMAIN-SUFFIX,ccnsite.com
+DOMAIN-SUFFIX,ccpsx.com
+DOMAIN-SUFFIX,compresspdf.new
+DOMAIN-SUFFIX,cotolia.com
+DOMAIN-SUFFIX,creativecloud.com
+DOMAIN-SUFFIX,creativesdk.com
+DOMAIN-SUFFIX,demandbase.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,developria.com
+DOMAIN-SUFFIX,dollarfotoclub.com
+DOMAIN-SUFFIX,dollarphotoclub.com
+DOMAIN-SUFFIX,dollarphotosclub.com
+DOMAIN-SUFFIX,douwriteright.com
+DOMAIN-SUFFIX,echocdn.com
+DOMAIN-SUFFIX,echosign.com
+DOMAIN-SUFFIX,edgefonts.net
+DOMAIN-SUFFIX,enablementadobe.com
+DOMAIN-SUFFIX,ffotolia.com
+DOMAIN-SUFFIX,fiotolia.com
+DOMAIN-SUFFIX,foftolia.com
+DOMAIN-SUFFIX,fonolia.com
+DOMAIN-SUFFIX,fotiolia.com
+DOMAIN-SUFFIX,fotoiia.com
+DOMAIN-SUFFIX,fotolia-noticias.com
+DOMAIN-SUFFIX,fotolia.cc
+DOMAIN-SUFFIX,fotolia.com
+DOMAIN-SUFFIX,fotolia.tv
+DOMAIN-SUFFIX,fotolja.com
+DOMAIN-SUFFIX,fptolia.com
+DOMAIN-SUFFIX,ftcdn.net
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,gfotolia.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,gostorego.com
+DOMAIN-SUFFIX,imagineecommerce.com
+DOMAIN-SUFFIX,macromedia.com
+DOMAIN-SUFFIX,mageconf.com
+DOMAIN-SUFFIX,mageconf.com.ua
+DOMAIN-SUFFIX,magento.com
+DOMAIN-SUFFIX,magento.net
+DOMAIN-SUFFIX,magentocommerce.com
+DOMAIN-SUFFIX,magentoliveconference.com
+DOMAIN-SUFFIX,magentomobile.com
+DOMAIN-SUFFIX,marketing-cloud.com
+DOMAIN-SUFFIX,marketing-nirvana.com
+DOMAIN-SUFFIX,marketo.co.uk
+DOMAIN-SUFFIX,marketo.com
+DOMAIN-SUFFIX,marketo.net
+DOMAIN-SUFFIX,marketo.tv
+DOMAIN-SUFFIX,marketodesigner.com
+DOMAIN-SUFFIX,marketolive.com
+DOMAIN-SUFFIX,mktdns.com
+DOMAIN-SUFFIX,mkto-c0100.com
+DOMAIN-SUFFIX,mktorest.com
+DOMAIN-SUFFIX,mktroute.com
+DOMAIN-SUFFIX,mobilemarketo.com
+DOMAIN-SUFFIX,motolia.com
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,omniroot.com
+DOMAIN-SUFFIX,omniture.com
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,pdf.new
+DOMAIN-SUFFIX,photolia.net
+DOMAIN-SUFFIX,photoshop.com
+DOMAIN-SUFFIX,placesdocs.com
+DOMAIN-SUFFIX,revenue-performance-management.com
+DOMAIN-SUFFIX,s2stagehance.com
+DOMAIN-SUFFIX,scene7.com
+DOMAIN-SUFFIX,sign.new
+DOMAIN-SUFFIX,sundanceignite2016.com
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,tenbyfotolia.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,toutapp.com
+DOMAIN-SUFFIX,typekit.com
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,verisign.com
+DOMAIN-SUFFIX,votolia.com
+DOMAIN-SUFFIX,worldsecureemail.com
+DOMAIN-SUFFIX,worldsecuresystems.com
+DOMAIN-KEYWORD,adobe

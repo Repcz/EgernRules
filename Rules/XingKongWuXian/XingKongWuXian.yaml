@@ -1,27 +1,19 @@
-domain_set:
-domain_suffix_set:
-- avstar01.me
-- avstar02.me
-- avstar03.me
-- avstar04.com
-- avstar04.me
-- avstar05.me
-- avstar06.me
-- avstar07.com
-- avstar07.me
-- avstar09.com
-- avstar09.me
-- avstar1.com
-- avstar2.com
-- avstar3.com
-- avstar4.com
-- avstar5.com
-- avstar6.com
-- avstar8.com
-- avstar9.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,avstar01.me
+DOMAIN-SUFFIX,avstar02.me
+DOMAIN-SUFFIX,avstar03.me
+DOMAIN-SUFFIX,avstar04.com
+DOMAIN-SUFFIX,avstar04.me
+DOMAIN-SUFFIX,avstar05.me
+DOMAIN-SUFFIX,avstar06.me
+DOMAIN-SUFFIX,avstar07.com
+DOMAIN-SUFFIX,avstar07.me
+DOMAIN-SUFFIX,avstar09.com
+DOMAIN-SUFFIX,avstar09.me
+DOMAIN-SUFFIX,avstar1.com
+DOMAIN-SUFFIX,avstar2.com
+DOMAIN-SUFFIX,avstar3.com
+DOMAIN-SUFFIX,avstar4.com
+DOMAIN-SUFFIX,avstar5.com
+DOMAIN-SUFFIX,avstar6.com
+DOMAIN-SUFFIX,avstar8.com
+DOMAIN-SUFFIX,avstar9.com

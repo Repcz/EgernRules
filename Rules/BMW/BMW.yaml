@@ -1,738 +1,729 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- 4myminicard.com
-- aboutyourmini.com
-- alfera.com.hk
-- alfera.com.my
-- alfera.in
-- alfera.my
-- alphabet.asia
-- alphabet.at
-- alphabet.be
-- alphabet.biz
-- alphabet.ch
-- alphabet.co.hu
-- alphabet.co.uk
-- alphabet.co.za
-- alphabet.com
-- alphabet.com.cn
-- alphabet.com.es
-- alphabet.com.lv
-- alphabet.com.mx
-- alphabet.com.pl
-- alphabet.com.pt
-- alphabet.cz
-- alphabet.de
-- alphabet.es
-- alphabet.eu
-- alphabet.fr
-- alphabet.info
-- alphabet.jp
-- alphabet.lt
-- alphabet.lu
-- alphabet.lv
-- alphabet.mx
-- alphabet.net.cn
-- alphabet.no
-- alphabet.org.uk
-- alphabet.pl
-- alphabet.pt
-- alphabet.uk
-- alphabet.us
-- alphabetfinance.net
-- alphera-finance.co.in
-- alphera-finance.com.hk
-- alphera-finance.in
-- alphera.ca
-- alphera.co.in
-- alphera.co.nz
-- alphera.com
-- alphera.com.es
-- alphera.com.hk
-- alphera.com.my
-- alphera.de
-- alphera.es
-- alphera.ie
-- alphera.in
-- alphera.my
-- alphera.net
-- alpherafinance.com.hk
-- alpherafinancialservices.es
-- alpherafinancialservices.in
-- alpherafs.ca
-- alpherafs.co.nz
-- alpherafs.com.hk
-- alpherafs.com.my
-- alpherafs.ie
-- alpherafs.in
-- alpherafs.my
-- approvedusedbmw.com
-- atlantaminidealers.com
-- baltimorebmw.com
-- bayareabmw.com
-- bmw
-- bmw-abudhabi.com
-- bmw-adventskalender.com
-- bmw-albania.com
-- bmw-antilles.fr
-- bmw-art-journey.com
-- bmw-arts-design.com
-- bmw-asia.com
-- bmw-auslieferungszentrum.com
-- bmw-authority-vehicles.com
-- bmw-bahrain.com
-- bmw-businessdrive.com
-- bmw-calgary.ca
-- bmw-carit.de
-- bmw-classic.com
-- bmw-clubs-international.com
-- bmw-connected-drive.com
-- bmw-connecteddrive.ae
-- bmw-connecteddrive.at
-- bmw-connecteddrive.be
-- bmw-connecteddrive.bg
-- bmw-connecteddrive.ca
-- bmw-connecteddrive.ch
-- bmw-connecteddrive.co.nz
-- bmw-connecteddrive.co.uk
-- bmw-connecteddrive.co.za
-- bmw-connecteddrive.com
-- bmw-connecteddrive.com.au
-- bmw-connecteddrive.com.br
-- bmw-connecteddrive.com.cy
-- bmw-connecteddrive.com.hr
-- bmw-connecteddrive.com.kw
-- bmw-connecteddrive.com.mt
-- bmw-connecteddrive.cz
-- bmw-connecteddrive.de
-- bmw-connecteddrive.dk
-- bmw-connecteddrive.ee
-- bmw-connecteddrive.es
-- bmw-connecteddrive.fi
-- bmw-connecteddrive.fr
-- bmw-connecteddrive.gr
-- bmw-connecteddrive.hu
-- bmw-connecteddrive.ie
-- bmw-connecteddrive.it
-- bmw-connecteddrive.jp
-- bmw-connecteddrive.kr
-- bmw-connecteddrive.lt
-- bmw-connecteddrive.lu
-- bmw-connecteddrive.lv
-- bmw-connecteddrive.mx
-- bmw-connecteddrive.my
-- bmw-connecteddrive.nl
-- bmw-connecteddrive.no
-- bmw-connecteddrive.pl
-- bmw-connecteddrive.pt
-- bmw-connecteddrive.ro
-- bmw-connecteddrive.ru
-- bmw-connecteddrive.se
-- bmw-connecteddrive.sg
-- bmw-connecteddrive.si
-- bmw-connecteddrive.sk
-- bmw-connecteddrive.tw
-- bmw-corporate-sales.com
-- bmw-diplomatic-sales.com
-- bmw-driving-center.co.kr
-- bmw-drivingexperience.com
-- bmw-dubai.com
-- bmw-eg.com
-- bmw-fleet.net
-- bmw-ghana.com
-- bmw-golfsport.com
-- bmw-group.com
-- bmw-group.net
-- bmw-grouparchiv.de
-- bmw-grouparchives.com
-- bmw-gta.ca
-- bmw-i-pure-impulse.com
-- bmw-i.jp
-- bmw-int1.com
-- bmw-iraq.com
-- bmw-jordan.com
-- bmw-konzernarchiv.de
-- bmw-ksa.com
-- bmw-kuwait.com
-- bmw-lao.la
-- bmw-lebanon.com
-- bmw-m-safetycar.com
-- bmw-m.com
-- bmw-mdrivetour.com
-- bmw-me.com
-- bmw-military-sales.com
-- bmw-motorcycle.com
-- bmw-motorcycles.vn
-- bmw-motorrad-abudhabi.com
-- bmw-motorrad-authorities.com
-- bmw-motorrad-dubai.com
-- bmw-motorrad-motorsport.com
-- bmw-motorrad-now-or-never.com
-- bmw-motorrad-service-inclusive.com
-- bmw-motorrad-test-ride.com
-- bmw-motorrad.at
-- bmw-motorrad.be
-- bmw-motorrad.bg
-- bmw-motorrad.bh
-- bmw-motorrad.bo
-- bmw-motorrad.ca
-- bmw-motorrad.ch
-- bmw-motorrad.cl
-- bmw-motorrad.co
-- bmw-motorrad.co.id
-- bmw-motorrad.co.kr
-- bmw-motorrad.co.nz
-- bmw-motorrad.co.th
-- bmw-motorrad.co.uk
-- bmw-motorrad.co.za
-- bmw-motorrad.com
-- bmw-motorrad.com.ar
-- bmw-motorrad.com.au
-- bmw-motorrad.com.br
-- bmw-motorrad.com.do
-- bmw-motorrad.com.hr
-- bmw-motorrad.com.mx
-- bmw-motorrad.com.my
-- bmw-motorrad.com.pe
-- bmw-motorrad.com.py
-- bmw-motorrad.com.tr
-- bmw-motorrad.cr
-- bmw-motorrad.cz
-- bmw-motorrad.de
-- bmw-motorrad.dk
-- bmw-motorrad.dz
-- bmw-motorrad.ec
-- bmw-motorrad.ee
-- bmw-motorrad.es
-- bmw-motorrad.fi
-- bmw-motorrad.fr
-- bmw-motorrad.gr
-- bmw-motorrad.gt
-- bmw-motorrad.hu
-- bmw-motorrad.in
-- bmw-motorrad.it
-- bmw-motorrad.jp
-- bmw-motorrad.lu
-- bmw-motorrad.ma
-- bmw-motorrad.nl
-- bmw-motorrad.no
-- bmw-motorrad.pa
-- bmw-motorrad.pl
-- bmw-motorrad.pt
-- bmw-motorrad.ro
-- bmw-motorrad.rs
-- bmw-motorrad.ru
-- bmw-motorrad.sa
-- bmw-motorrad.se
-- bmw-motorrad.si
-- bmw-motorrad.sk
-- bmw-motorrad.sv
-- bmw-motorrad.tw
-- bmw-motorrad.ua
-- bmw-motorrad.uy
-- bmw-motorsport.com
-- bmw-mountains.com
-- bmw-museum.com
-- bmw-museum.net
-- bmw-nigeria.com
-- bmw-oman.com
-- bmw-ottawa.ca
-- bmw-pakistan.com
-- bmw-plant-munich.com
-- bmw-pma.com.sg
-- bmw-powertrain.com
-- bmw-product-highlights.com
-- bmw-qatar.com
-- bmw-routes.com
-- bmw-rp.com
-- bmw-rrdays.com
-- bmw-saudiarabia.com
-- bmw-security-vehicles.com
-- bmw-special-sales.com
-- bmw-sports.com
-- bmw-sudan.com
-- bmw-tahiti.com
-- bmw-tunisia.com
-- bmw-vancouver.ca
-- bmw-voli.me
-- bmw-welt.com
-- bmw-welt.net
-- bmw-welt.tv
-- bmw-werk-berlin.de
-- bmw-world.com
-- bmw-world.net
-- bmw-world.tv
-- bmw-worldfinal.com
-- bmw-yachtsport.com
-- bmw-yeg.ca
-- bmw-yemen.com
-- bmw.am
-- bmw.at
-- bmw.az
-- bmw.ba
-- bmw.bb
-- bmw.be
-- bmw.bg
-- bmw.bm
-- bmw.bs
-- bmw.by
-- bmw.ca
-- bmw.cc
-- bmw.ch
-- bmw.cl
-- bmw.co.ao
-- bmw.co.cr
-- bmw.co.id
-- bmw.co.il
-- bmw.co.jp
-- bmw.co.ke
-- bmw.co.kr
-- bmw.co.nz
-- bmw.co.th
-- bmw.co.uk
-- bmw.co.za
-- bmw.com
-- bmw.com.ar
-- bmw.com.au
-- bmw.com.bd
-- bmw.com.bn
-- bmw.com.bo
-- bmw.com.br
-- bmw.com.cn
-- bmw.com.co
-- bmw.com.cy
-- bmw.com.do
-- bmw.com.ec
-- bmw.com.ge
-- bmw.com.gt
-- bmw.com.kh
-- bmw.com.ky
-- bmw.com.mk
-- bmw.com.mo
-- bmw.com.mt
-- bmw.com.mx
-- bmw.com.my
-- bmw.com.ni
-- bmw.com.pa
-- bmw.com.pe
-- bmw.com.ph
-- bmw.com.py
-- bmw.com.sg
-- bmw.com.sv
-- bmw.com.tr
-- bmw.com.tw
-- bmw.com.uy
-- bmw.com.ve
-- bmw.cw
-- bmw.cz
-- bmw.de
-- bmw.dk
-- bmw.dz
-- bmw.ee
-- bmw.es
-- bmw.fi
-- bmw.fr
-- bmw.gp
-- bmw.gr
-- bmw.hn
-- bmw.hr
-- bmw.ht
-- bmw.hu
-- bmw.ie
-- bmw.in
-- bmw.is
-- bmw.it
-- bmw.kg
-- bmw.kz
-- bmw.lc
-- bmw.lk
-- bmw.lt
-- bmw.lu
-- bmw.lv
-- bmw.ly
-- bmw.ma
-- bmw.md
-- bmw.mn
-- bmw.mq
-- bmw.mu
-- bmw.nc
-- bmw.nl
-- bmw.no
-- bmw.pl
-- bmw.ps
-- bmw.pt
-- bmw.re
-- bmw.ro
-- bmw.rs
-- bmw.se
-- bmw.si
-- bmw.sk
-- bmw.sn
-- bmw.tm
-- bmw.tt
-- bmw.ua
-- bmw.uz
-- bmw.vn
-- bmwarchiv.at
-- bmwarchiv.de
-- bmwartjourney.com
-- bmwasia.com
-- bmwauslieferungszentrum.com
-- bmwbikes.com
-- bmwbkk.de
-- bmwccrc.ca
-- bmwcenternet.com
-- bmwchampionship.com
-- bmwchampionshipusa.com
-- bmwcharitygolf.com
-- bmwcitychallenge.com
-- bmwclassic.com
-- bmwcolorado.com
-- bmwconnecteddrive.com
-- bmwcustomapparel.com
-- bmwdcsnet.net
-- bmwdealercareers.com
-- bmwdealerdirect.com
-- bmwdelawarevalley.com
-- bmwfilms.com
-- bmwgroup-classic-heart.com
-- bmwgroup-classic.com
-- bmwgroup-gaad.com
-- bmwgroup-plants.com
-- bmwgroup-posdigital.com
-- bmwgroup-werke.com
-- bmwgroup.at
-- bmwgroup.com
-- bmwgroup.jobs
-- bmwgroup.net
-- bmwgroupclassic.com
-- bmwgroupdesignworks.com
-- bmwgroupdirect.com
-- bmwgroupfs.com
-- bmwgroupinfobahn.com
-- bmwgroupna.com
-- bmwhk.com
-- bmwi.ca
-- bmwi.jp
-- bmwiventures.com
-- bmwjamaica.com
-- bmwlat.com
-- bmwlifestyle.ca
-- bmwm.com
-- bmwmagazine.com
-- bmwmagazine.de
-- bmwmass.com
-- bmwmass.net
-- bmwmc.net
-- bmwmontreal.ca
-- bmwmotorcycles.com
-- bmwmotorcycleusa.com
-- bmwmotorrad.co.kr
-- bmwmotorrad.com.au
-- bmwmotorrad.com.ph
-- bmwmotorrad.com.sg
-- bmwmotorradhk.com
-- bmwmotorshowblog.com
-- bmwmotorsport.com
-- bmwmperformance.com
-- bmwmuseum.net
-- bmwmyanmar.com
-- bmwofannapolis.com
-- bmwofcentralpa.com
-- bmwoftulsa.com
-- bmwondemandusa.com
-- bmworegon.com
-- bmwperformancecenter.com
-- bmwpittsburgh.com
-- bmwproductnews.com
-- bmwsafari.com
-- bmwsfl.com
-- bmwsfl.net
-- bmwshop.ca
-- bmwspecialoffers.ca
-- bmwsports.com
-- bmwstartupgarage.com
-- bmwstep.com
-- bmwstepconnections.com
-- bmwsummerschool.com
-- bmwtampabay.com
-- bmwusa.com
-- bmwusaservice.com
-- bmwusatires.com
-- bmwusfactory.com
-- bmwusrideracademy.com
-- bmwvalueservice.com
-- bmwwholesaleconnect.com
-- bmwworld.com
-- bmwworld.net
-- bmwworld.tv
-- bmwzentrum.com
-- brand-protection-team.com
-- cencoastbmw.com
-- chargenow.com
-- chargenowusa.com
-- chicagolandbmw.com
-- connected-drive.com
-- daytonbmw.com
-- dealerspeed.net
-- desertbmw.com
-- dreambmw.ca
-- electricluxury.com
-- greatergothammini.com
-- grupobmw.com
-- guambmw.com
-- hackthedrive.com
-- hawaiibmw.com
-- iaablog.com
-- lasvegasbmw.com
-- m-power.com
-- midatlanticbmwmotorcycles.com
-- mini
-- mini-abudhabi.com
-- mini-antilles.fr
-- mini-bahrain.com
-- mini-bosnia.com
-- mini-clubs-international.com
-- mini-connected.at
-- mini-connected.be
-- mini-connected.ch
-- mini-connected.co.uk
-- mini-connected.com
-- mini-connected.cz
-- mini-connected.de
-- mini-connected.dk
-- mini-connected.ee
-- mini-connected.es
-- mini-connected.fi
-- mini-connected.fr
-- mini-connected.ie
-- mini-connected.it
-- mini-connected.lt
-- mini-connected.lu
-- mini-connected.lv
-- mini-connected.nl
-- mini-connected.no
-- mini-connected.pl
-- mini-connected.pt
-- mini-connected.se
-- mini-corporate-sales.com
-- mini-coupe.ca
-- mini-dubai.com
-- mini-e.com
-- mini-egypt.com
-- mini-georgia.com
-- mini-grouparchiv.de
-- mini-grouparchive.com
-- mini-jordan.com
-- mini-ksa.com
-- mini-kuwait.com
-- mini-lebanon.com
-- mini-me.com
-- mini-oman.com
-- mini-qatar.com
-- mini-srilanka.com
-- mini-stjohns.ca
-- mini-stjohns.com
-- mini-tahiti.com
-- mini-vietnam.com
-- mini-windsor.ca
-- mini-windsor.com
-- mini.am
-- mini.at
-- mini.be
-- mini.bg
-- mini.by
-- mini.ca
-- mini.cc
-- mini.ch
-- mini.cl
-- mini.co.cr
-- mini.co.id
-- mini.co.il
-- mini.co.kr
-- mini.co.me
-- mini.co.th
-- mini.co.uk
-- mini.co.za
-- mini.com
-- mini.com.ar
-- mini.com.bn
-- mini.com.br
-- mini.com.co
-- mini.com.cy
-- mini.com.do
-- mini.com.ec
-- mini.com.gr
-- mini.com.gt
-- mini.com.hr
-- mini.com.mk
-- mini.com.mo
-- mini.com.mt
-- mini.com.mx
-- mini.com.pa
-- mini.com.pe
-- mini.com.ph
-- mini.com.pl
-- mini.com.py
-- mini.com.sg
-- mini.com.tr
-- mini.com.tw
-- mini.com.uy
-- mini.cz
-- mini.de
-- mini.dk
-- mini.dz
-- mini.es
-- mini.fi
-- mini.fr
-- mini.gp
-- mini.hu
-- mini.ie
-- mini.in
-- mini.is
-- mini.it
-- mini.jp
-- mini.kz
-- mini.lu
-- mini.ma
-- mini.md
-- mini.mq
-- mini.mu
-- mini.my
-- mini.nc
-- mini.nl
-- mini.no
-- mini.pt
-- mini.re
-- mini.ro
-- mini.rs
-- mini.ru
-- mini.se
-- mini.si
-- mini.sk
-- mini.tm
-- mini.tn
-- mini.ua
-- mini101.ca
-- miniargentina.com
-- minibrossard.ca
-- minibrossard.com
-- minicanada.ca
-- minicaribbean.com
-- miniccrc.ca
-- minicooper.ca
-- minidealer.com
-- minidealernet.com
-- minidowntown.ca
-- minidowntown.com
-- minidrivingexperienceusa.com
-- minidurham.ca
-- minidurham.com
-- minie.com
-- minifs.com
-- minigeorgian.ca
-- minigrandriver.com
-- minihalifax.ca
-- minihalifax.com
-- minihk.com
-- miniinvasion.ca
-- miniitalianjob.com
-- minikelowna.ca
-- minikelowna.com
-- minilangley.ca
-- minilangley.com
-- minilat.com
-- minilaval.ca
-- minilaval.com
-- minilondon.ca
-- minilondon.co
-- minimarkham.ca
-- minimarkham.com
-- minimoncton.ca
-- minimoncton.com
-- minimontrealcentre.ca
-- minimontroyal.ca
-- minimontroyal.com
-- minimotoringrewards.com
-- minimotoringschool.com
-- minimotorsport.com
-- mininanaimo.ca
-- mininanaimo.com
-- minioakville.com
-- miniofmonrovia.com
-- minipetfriendly.com
-- minirichmond.ca
-- minirichmond.com
-- minisaskatoon.ca
-- minisaskatoon.com
-- minishop.ca
-- minispace.com
-- minispecialoffers.ca
-- minispygear.com
-- ministcatharines.ca
-- ministeagathe.com
-- ministjohns.ca
-- minitakesthestates.com
-- minitoronto.ca
-- minitroisrivieres.ca
-- miniusa.com
-- miniusaservice.com
-- miniusatires.com
-- minivalueservice.com
-- minivancouver.ca
-- minivaughanwest.ca
-- minivaughanwest.com
-- minivictoria.ca
-- minivictoria.com
-- minivilledequebec.ca
-- minivilledequebec.com
-- miniwholesaleconnect.com
-- miniwidget.ca
-- miniwindsor.com
-- miniworkshop.com
-- miniyaletown.ca
-- minneapolisbmw.com
-- minneapolisbmw.net
-- motorshowblog.com
-- mybmw.ca
-- mybmw.com
-- newhampshirebmw.com
-- nmbmw.com
-- ocbmwdealers.com
-- offresspecialesbmw.ca
-- park-now.com
-- parkinfo.com
-- pdxbmw.com
-- phxbmw.com
-- pre-bmwgroup.jobs
-- premiumfs.de
-- pugetsoundbmw.com
-- pugetsoundmini.com
-- rentaride.com
-- rentaride.de
-- rhodeislandbmw.com
-- rolls-roycecullinan.com
-- rolls-roycemotorcars.com
-- rolls-roycemotorcarsna.com
-- rrtis.com
-- sdcountybmw.com
-- shopbmwmotorcycles.com
-- shopbmwusa.com
-- shopminiusa.com
-- socalbmw.com
-- southfloridamini.com
-- spiritofecstasy.com
-- stlouisbmw.net
-- the-m-festival.com
-- tristatebmw.com
-- trmini.com
-- troisrivieresmini.com
-- vancouverbmwretailers.ca
-- washingtondcbmw.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,4myminicard.com
+DOMAIN-SUFFIX,aboutyourmini.com
+DOMAIN-SUFFIX,alfera.com.hk
+DOMAIN-SUFFIX,alfera.com.my
+DOMAIN-SUFFIX,alfera.in
+DOMAIN-SUFFIX,alfera.my
+DOMAIN-SUFFIX,alphabet.asia
+DOMAIN-SUFFIX,alphabet.at
+DOMAIN-SUFFIX,alphabet.be
+DOMAIN-SUFFIX,alphabet.biz
+DOMAIN-SUFFIX,alphabet.ch
+DOMAIN-SUFFIX,alphabet.co.hu
+DOMAIN-SUFFIX,alphabet.co.uk
+DOMAIN-SUFFIX,alphabet.co.za
+DOMAIN-SUFFIX,alphabet.com
+DOMAIN-SUFFIX,alphabet.com.cn
+DOMAIN-SUFFIX,alphabet.com.es
+DOMAIN-SUFFIX,alphabet.com.lv
+DOMAIN-SUFFIX,alphabet.com.mx
+DOMAIN-SUFFIX,alphabet.com.pl
+DOMAIN-SUFFIX,alphabet.com.pt
+DOMAIN-SUFFIX,alphabet.cz
+DOMAIN-SUFFIX,alphabet.de
+DOMAIN-SUFFIX,alphabet.es
+DOMAIN-SUFFIX,alphabet.eu
+DOMAIN-SUFFIX,alphabet.fr
+DOMAIN-SUFFIX,alphabet.info
+DOMAIN-SUFFIX,alphabet.jp
+DOMAIN-SUFFIX,alphabet.lt
+DOMAIN-SUFFIX,alphabet.lu
+DOMAIN-SUFFIX,alphabet.lv
+DOMAIN-SUFFIX,alphabet.mx
+DOMAIN-SUFFIX,alphabet.net.cn
+DOMAIN-SUFFIX,alphabet.no
+DOMAIN-SUFFIX,alphabet.org.uk
+DOMAIN-SUFFIX,alphabet.pl
+DOMAIN-SUFFIX,alphabet.pt
+DOMAIN-SUFFIX,alphabet.uk
+DOMAIN-SUFFIX,alphabet.us
+DOMAIN-SUFFIX,alphabetfinance.net
+DOMAIN-SUFFIX,alphera-finance.co.in
+DOMAIN-SUFFIX,alphera-finance.com.hk
+DOMAIN-SUFFIX,alphera-finance.in
+DOMAIN-SUFFIX,alphera.ca
+DOMAIN-SUFFIX,alphera.co.in
+DOMAIN-SUFFIX,alphera.co.nz
+DOMAIN-SUFFIX,alphera.com
+DOMAIN-SUFFIX,alphera.com.es
+DOMAIN-SUFFIX,alphera.com.hk
+DOMAIN-SUFFIX,alphera.com.my
+DOMAIN-SUFFIX,alphera.de
+DOMAIN-SUFFIX,alphera.es
+DOMAIN-SUFFIX,alphera.ie
+DOMAIN-SUFFIX,alphera.in
+DOMAIN-SUFFIX,alphera.my
+DOMAIN-SUFFIX,alphera.net
+DOMAIN-SUFFIX,alpherafinance.com.hk
+DOMAIN-SUFFIX,alpherafinancialservices.es
+DOMAIN-SUFFIX,alpherafinancialservices.in
+DOMAIN-SUFFIX,alpherafs.ca
+DOMAIN-SUFFIX,alpherafs.co.nz
+DOMAIN-SUFFIX,alpherafs.com.hk
+DOMAIN-SUFFIX,alpherafs.com.my
+DOMAIN-SUFFIX,alpherafs.ie
+DOMAIN-SUFFIX,alpherafs.in
+DOMAIN-SUFFIX,alpherafs.my
+DOMAIN-SUFFIX,approvedusedbmw.com
+DOMAIN-SUFFIX,atlantaminidealers.com
+DOMAIN-SUFFIX,baltimorebmw.com
+DOMAIN-SUFFIX,bayareabmw.com
+DOMAIN-SUFFIX,bmw
+DOMAIN-SUFFIX,bmw-abudhabi.com
+DOMAIN-SUFFIX,bmw-adventskalender.com
+DOMAIN-SUFFIX,bmw-albania.com
+DOMAIN-SUFFIX,bmw-antilles.fr
+DOMAIN-SUFFIX,bmw-art-journey.com
+DOMAIN-SUFFIX,bmw-arts-design.com
+DOMAIN-SUFFIX,bmw-asia.com
+DOMAIN-SUFFIX,bmw-auslieferungszentrum.com
+DOMAIN-SUFFIX,bmw-authority-vehicles.com
+DOMAIN-SUFFIX,bmw-bahrain.com
+DOMAIN-SUFFIX,bmw-businessdrive.com
+DOMAIN-SUFFIX,bmw-calgary.ca
+DOMAIN-SUFFIX,bmw-carit.de
+DOMAIN-SUFFIX,bmw-classic.com
+DOMAIN-SUFFIX,bmw-clubs-international.com
+DOMAIN-SUFFIX,bmw-connected-drive.com
+DOMAIN-SUFFIX,bmw-connecteddrive.ae
+DOMAIN-SUFFIX,bmw-connecteddrive.at
+DOMAIN-SUFFIX,bmw-connecteddrive.be
+DOMAIN-SUFFIX,bmw-connecteddrive.bg
+DOMAIN-SUFFIX,bmw-connecteddrive.ca
+DOMAIN-SUFFIX,bmw-connecteddrive.ch
+DOMAIN-SUFFIX,bmw-connecteddrive.co.nz
+DOMAIN-SUFFIX,bmw-connecteddrive.co.uk
+DOMAIN-SUFFIX,bmw-connecteddrive.co.za
+DOMAIN-SUFFIX,bmw-connecteddrive.com
+DOMAIN-SUFFIX,bmw-connecteddrive.com.au
+DOMAIN-SUFFIX,bmw-connecteddrive.com.br
+DOMAIN-SUFFIX,bmw-connecteddrive.com.cy
+DOMAIN-SUFFIX,bmw-connecteddrive.com.hr
+DOMAIN-SUFFIX,bmw-connecteddrive.com.kw
+DOMAIN-SUFFIX,bmw-connecteddrive.com.mt
+DOMAIN-SUFFIX,bmw-connecteddrive.cz
+DOMAIN-SUFFIX,bmw-connecteddrive.de
+DOMAIN-SUFFIX,bmw-connecteddrive.dk
+DOMAIN-SUFFIX,bmw-connecteddrive.ee
+DOMAIN-SUFFIX,bmw-connecteddrive.es
+DOMAIN-SUFFIX,bmw-connecteddrive.fi
+DOMAIN-SUFFIX,bmw-connecteddrive.fr
+DOMAIN-SUFFIX,bmw-connecteddrive.gr
+DOMAIN-SUFFIX,bmw-connecteddrive.hu
+DOMAIN-SUFFIX,bmw-connecteddrive.ie
+DOMAIN-SUFFIX,bmw-connecteddrive.it
+DOMAIN-SUFFIX,bmw-connecteddrive.jp
+DOMAIN-SUFFIX,bmw-connecteddrive.kr
+DOMAIN-SUFFIX,bmw-connecteddrive.lt
+DOMAIN-SUFFIX,bmw-connecteddrive.lu
+DOMAIN-SUFFIX,bmw-connecteddrive.lv
+DOMAIN-SUFFIX,bmw-connecteddrive.mx
+DOMAIN-SUFFIX,bmw-connecteddrive.my
+DOMAIN-SUFFIX,bmw-connecteddrive.nl
+DOMAIN-SUFFIX,bmw-connecteddrive.no
+DOMAIN-SUFFIX,bmw-connecteddrive.pl
+DOMAIN-SUFFIX,bmw-connecteddrive.pt
+DOMAIN-SUFFIX,bmw-connecteddrive.ro
+DOMAIN-SUFFIX,bmw-connecteddrive.ru
+DOMAIN-SUFFIX,bmw-connecteddrive.se
+DOMAIN-SUFFIX,bmw-connecteddrive.sg
+DOMAIN-SUFFIX,bmw-connecteddrive.si
+DOMAIN-SUFFIX,bmw-connecteddrive.sk
+DOMAIN-SUFFIX,bmw-connecteddrive.tw
+DOMAIN-SUFFIX,bmw-corporate-sales.com
+DOMAIN-SUFFIX,bmw-diplomatic-sales.com
+DOMAIN-SUFFIX,bmw-driving-center.co.kr
+DOMAIN-SUFFIX,bmw-drivingexperience.com
+DOMAIN-SUFFIX,bmw-dubai.com
+DOMAIN-SUFFIX,bmw-eg.com
+DOMAIN-SUFFIX,bmw-fleet.net
+DOMAIN-SUFFIX,bmw-ghana.com
+DOMAIN-SUFFIX,bmw-golfsport.com
+DOMAIN-SUFFIX,bmw-group.com
+DOMAIN-SUFFIX,bmw-group.net
+DOMAIN-SUFFIX,bmw-grouparchiv.de
+DOMAIN-SUFFIX,bmw-grouparchives.com
+DOMAIN-SUFFIX,bmw-gta.ca
+DOMAIN-SUFFIX,bmw-i-pure-impulse.com
+DOMAIN-SUFFIX,bmw-i.jp
+DOMAIN-SUFFIX,bmw-int1.com
+DOMAIN-SUFFIX,bmw-iraq.com
+DOMAIN-SUFFIX,bmw-jordan.com
+DOMAIN-SUFFIX,bmw-konzernarchiv.de
+DOMAIN-SUFFIX,bmw-ksa.com
+DOMAIN-SUFFIX,bmw-kuwait.com
+DOMAIN-SUFFIX,bmw-lao.la
+DOMAIN-SUFFIX,bmw-lebanon.com
+DOMAIN-SUFFIX,bmw-m-safetycar.com
+DOMAIN-SUFFIX,bmw-m.com
+DOMAIN-SUFFIX,bmw-mdrivetour.com
+DOMAIN-SUFFIX,bmw-me.com
+DOMAIN-SUFFIX,bmw-military-sales.com
+DOMAIN-SUFFIX,bmw-motorcycle.com
+DOMAIN-SUFFIX,bmw-motorcycles.vn
+DOMAIN-SUFFIX,bmw-motorrad-abudhabi.com
+DOMAIN-SUFFIX,bmw-motorrad-authorities.com
+DOMAIN-SUFFIX,bmw-motorrad-dubai.com
+DOMAIN-SUFFIX,bmw-motorrad-motorsport.com
+DOMAIN-SUFFIX,bmw-motorrad-now-or-never.com
+DOMAIN-SUFFIX,bmw-motorrad-service-inclusive.com
+DOMAIN-SUFFIX,bmw-motorrad-test-ride.com
+DOMAIN-SUFFIX,bmw-motorrad.at
+DOMAIN-SUFFIX,bmw-motorrad.be
+DOMAIN-SUFFIX,bmw-motorrad.bg
+DOMAIN-SUFFIX,bmw-motorrad.bh
+DOMAIN-SUFFIX,bmw-motorrad.bo
+DOMAIN-SUFFIX,bmw-motorrad.ca
+DOMAIN-SUFFIX,bmw-motorrad.ch
+DOMAIN-SUFFIX,bmw-motorrad.cl
+DOMAIN-SUFFIX,bmw-motorrad.co
+DOMAIN-SUFFIX,bmw-motorrad.co.id
+DOMAIN-SUFFIX,bmw-motorrad.co.kr
+DOMAIN-SUFFIX,bmw-motorrad.co.nz
+DOMAIN-SUFFIX,bmw-motorrad.co.th
+DOMAIN-SUFFIX,bmw-motorrad.co.uk
+DOMAIN-SUFFIX,bmw-motorrad.co.za
+DOMAIN-SUFFIX,bmw-motorrad.com
+DOMAIN-SUFFIX,bmw-motorrad.com.ar
+DOMAIN-SUFFIX,bmw-motorrad.com.au
+DOMAIN-SUFFIX,bmw-motorrad.com.br
+DOMAIN-SUFFIX,bmw-motorrad.com.do
+DOMAIN-SUFFIX,bmw-motorrad.com.hr
+DOMAIN-SUFFIX,bmw-motorrad.com.mx
+DOMAIN-SUFFIX,bmw-motorrad.com.my
+DOMAIN-SUFFIX,bmw-motorrad.com.pe
+DOMAIN-SUFFIX,bmw-motorrad.com.py
+DOMAIN-SUFFIX,bmw-motorrad.com.tr
+DOMAIN-SUFFIX,bmw-motorrad.cr
+DOMAIN-SUFFIX,bmw-motorrad.cz
+DOMAIN-SUFFIX,bmw-motorrad.de
+DOMAIN-SUFFIX,bmw-motorrad.dk
+DOMAIN-SUFFIX,bmw-motorrad.dz
+DOMAIN-SUFFIX,bmw-motorrad.ec
+DOMAIN-SUFFIX,bmw-motorrad.ee
+DOMAIN-SUFFIX,bmw-motorrad.es
+DOMAIN-SUFFIX,bmw-motorrad.fi
+DOMAIN-SUFFIX,bmw-motorrad.fr
+DOMAIN-SUFFIX,bmw-motorrad.gr
+DOMAIN-SUFFIX,bmw-motorrad.gt
+DOMAIN-SUFFIX,bmw-motorrad.hu
+DOMAIN-SUFFIX,bmw-motorrad.in
+DOMAIN-SUFFIX,bmw-motorrad.it
+DOMAIN-SUFFIX,bmw-motorrad.jp
+DOMAIN-SUFFIX,bmw-motorrad.lu
+DOMAIN-SUFFIX,bmw-motorrad.ma
+DOMAIN-SUFFIX,bmw-motorrad.nl
+DOMAIN-SUFFIX,bmw-motorrad.no
+DOMAIN-SUFFIX,bmw-motorrad.pa
+DOMAIN-SUFFIX,bmw-motorrad.pl
+DOMAIN-SUFFIX,bmw-motorrad.pt
+DOMAIN-SUFFIX,bmw-motorrad.ro
+DOMAIN-SUFFIX,bmw-motorrad.rs
+DOMAIN-SUFFIX,bmw-motorrad.ru
+DOMAIN-SUFFIX,bmw-motorrad.sa
+DOMAIN-SUFFIX,bmw-motorrad.se
+DOMAIN-SUFFIX,bmw-motorrad.si
+DOMAIN-SUFFIX,bmw-motorrad.sk
+DOMAIN-SUFFIX,bmw-motorrad.sv
+DOMAIN-SUFFIX,bmw-motorrad.tw
+DOMAIN-SUFFIX,bmw-motorrad.ua
+DOMAIN-SUFFIX,bmw-motorrad.uy
+DOMAIN-SUFFIX,bmw-motorsport.com
+DOMAIN-SUFFIX,bmw-mountains.com
+DOMAIN-SUFFIX,bmw-museum.com
+DOMAIN-SUFFIX,bmw-museum.net
+DOMAIN-SUFFIX,bmw-nigeria.com
+DOMAIN-SUFFIX,bmw-oman.com
+DOMAIN-SUFFIX,bmw-ottawa.ca
+DOMAIN-SUFFIX,bmw-pakistan.com
+DOMAIN-SUFFIX,bmw-plant-munich.com
+DOMAIN-SUFFIX,bmw-pma.com.sg
+DOMAIN-SUFFIX,bmw-powertrain.com
+DOMAIN-SUFFIX,bmw-product-highlights.com
+DOMAIN-SUFFIX,bmw-qatar.com
+DOMAIN-SUFFIX,bmw-routes.com
+DOMAIN-SUFFIX,bmw-rp.com
+DOMAIN-SUFFIX,bmw-rrdays.com
+DOMAIN-SUFFIX,bmw-saudiarabia.com
+DOMAIN-SUFFIX,bmw-security-vehicles.com
+DOMAIN-SUFFIX,bmw-special-sales.com
+DOMAIN-SUFFIX,bmw-sports.com
+DOMAIN-SUFFIX,bmw-sudan.com
+DOMAIN-SUFFIX,bmw-tahiti.com
+DOMAIN-SUFFIX,bmw-tunisia.com
+DOMAIN-SUFFIX,bmw-vancouver.ca
+DOMAIN-SUFFIX,bmw-voli.me
+DOMAIN-SUFFIX,bmw-welt.com
+DOMAIN-SUFFIX,bmw-welt.net
+DOMAIN-SUFFIX,bmw-welt.tv
+DOMAIN-SUFFIX,bmw-werk-berlin.de
+DOMAIN-SUFFIX,bmw-world.com
+DOMAIN-SUFFIX,bmw-world.net
+DOMAIN-SUFFIX,bmw-world.tv
+DOMAIN-SUFFIX,bmw-worldfinal.com
+DOMAIN-SUFFIX,bmw-yachtsport.com
+DOMAIN-SUFFIX,bmw-yeg.ca
+DOMAIN-SUFFIX,bmw-yemen.com
+DOMAIN-SUFFIX,bmw.am
+DOMAIN-SUFFIX,bmw.at
+DOMAIN-SUFFIX,bmw.az
+DOMAIN-SUFFIX,bmw.ba
+DOMAIN-SUFFIX,bmw.bb
+DOMAIN-SUFFIX,bmw.be
+DOMAIN-SUFFIX,bmw.bg
+DOMAIN-SUFFIX,bmw.bm
+DOMAIN-SUFFIX,bmw.bs
+DOMAIN-SUFFIX,bmw.by
+DOMAIN-SUFFIX,bmw.ca
+DOMAIN-SUFFIX,bmw.cc
+DOMAIN-SUFFIX,bmw.ch
+DOMAIN-SUFFIX,bmw.cl
+DOMAIN-SUFFIX,bmw.co.ao
+DOMAIN-SUFFIX,bmw.co.cr
+DOMAIN-SUFFIX,bmw.co.id
+DOMAIN-SUFFIX,bmw.co.il
+DOMAIN-SUFFIX,bmw.co.jp
+DOMAIN-SUFFIX,bmw.co.ke
+DOMAIN-SUFFIX,bmw.co.kr
+DOMAIN-SUFFIX,bmw.co.nz
+DOMAIN-SUFFIX,bmw.co.th
+DOMAIN-SUFFIX,bmw.co.uk
+DOMAIN-SUFFIX,bmw.co.za
+DOMAIN-SUFFIX,bmw.com
+DOMAIN-SUFFIX,bmw.com.ar
+DOMAIN-SUFFIX,bmw.com.au
+DOMAIN-SUFFIX,bmw.com.bd
+DOMAIN-SUFFIX,bmw.com.bn
+DOMAIN-SUFFIX,bmw.com.bo
+DOMAIN-SUFFIX,bmw.com.br
+DOMAIN-SUFFIX,bmw.com.cn
+DOMAIN-SUFFIX,bmw.com.co
+DOMAIN-SUFFIX,bmw.com.cy
+DOMAIN-SUFFIX,bmw.com.do
+DOMAIN-SUFFIX,bmw.com.ec
+DOMAIN-SUFFIX,bmw.com.ge
+DOMAIN-SUFFIX,bmw.com.gt
+DOMAIN-SUFFIX,bmw.com.kh
+DOMAIN-SUFFIX,bmw.com.ky
+DOMAIN-SUFFIX,bmw.com.mk
+DOMAIN-SUFFIX,bmw.com.mo
+DOMAIN-SUFFIX,bmw.com.mt
+DOMAIN-SUFFIX,bmw.com.mx
+DOMAIN-SUFFIX,bmw.com.my
+DOMAIN-SUFFIX,bmw.com.ni
+DOMAIN-SUFFIX,bmw.com.pa
+DOMAIN-SUFFIX,bmw.com.pe
+DOMAIN-SUFFIX,bmw.com.ph
+DOMAIN-SUFFIX,bmw.com.py
+DOMAIN-SUFFIX,bmw.com.sg
+DOMAIN-SUFFIX,bmw.com.sv
+DOMAIN-SUFFIX,bmw.com.tr
+DOMAIN-SUFFIX,bmw.com.tw
+DOMAIN-SUFFIX,bmw.com.uy
+DOMAIN-SUFFIX,bmw.com.ve
+DOMAIN-SUFFIX,bmw.cw
+DOMAIN-SUFFIX,bmw.cz
+DOMAIN-SUFFIX,bmw.de
+DOMAIN-SUFFIX,bmw.dk
+DOMAIN-SUFFIX,bmw.dz
+DOMAIN-SUFFIX,bmw.ee
+DOMAIN-SUFFIX,bmw.es
+DOMAIN-SUFFIX,bmw.fi
+DOMAIN-SUFFIX,bmw.fr
+DOMAIN-SUFFIX,bmw.gp
+DOMAIN-SUFFIX,bmw.gr
+DOMAIN-SUFFIX,bmw.hn
+DOMAIN-SUFFIX,bmw.hr
+DOMAIN-SUFFIX,bmw.ht
+DOMAIN-SUFFIX,bmw.hu
+DOMAIN-SUFFIX,bmw.ie
+DOMAIN-SUFFIX,bmw.in
+DOMAIN-SUFFIX,bmw.is
+DOMAIN-SUFFIX,bmw.it
+DOMAIN-SUFFIX,bmw.kg
+DOMAIN-SUFFIX,bmw.kz
+DOMAIN-SUFFIX,bmw.lc
+DOMAIN-SUFFIX,bmw.lk
+DOMAIN-SUFFIX,bmw.lt
+DOMAIN-SUFFIX,bmw.lu
+DOMAIN-SUFFIX,bmw.lv
+DOMAIN-SUFFIX,bmw.ly
+DOMAIN-SUFFIX,bmw.ma
+DOMAIN-SUFFIX,bmw.md
+DOMAIN-SUFFIX,bmw.mn
+DOMAIN-SUFFIX,bmw.mq
+DOMAIN-SUFFIX,bmw.mu
+DOMAIN-SUFFIX,bmw.nc
+DOMAIN-SUFFIX,bmw.nl
+DOMAIN-SUFFIX,bmw.no
+DOMAIN-SUFFIX,bmw.pl
+DOMAIN-SUFFIX,bmw.ps
+DOMAIN-SUFFIX,bmw.pt
+DOMAIN-SUFFIX,bmw.re
+DOMAIN-SUFFIX,bmw.ro
+DOMAIN-SUFFIX,bmw.rs
+DOMAIN-SUFFIX,bmw.se
+DOMAIN-SUFFIX,bmw.si
+DOMAIN-SUFFIX,bmw.sk
+DOMAIN-SUFFIX,bmw.sn
+DOMAIN-SUFFIX,bmw.tm
+DOMAIN-SUFFIX,bmw.tt
+DOMAIN-SUFFIX,bmw.ua
+DOMAIN-SUFFIX,bmw.uz
+DOMAIN-SUFFIX,bmw.vn
+DOMAIN-SUFFIX,bmwarchiv.at
+DOMAIN-SUFFIX,bmwarchiv.de
+DOMAIN-SUFFIX,bmwartjourney.com
+DOMAIN-SUFFIX,bmwasia.com
+DOMAIN-SUFFIX,bmwauslieferungszentrum.com
+DOMAIN-SUFFIX,bmwbikes.com
+DOMAIN-SUFFIX,bmwbkk.de
+DOMAIN-SUFFIX,bmwccrc.ca
+DOMAIN-SUFFIX,bmwcenternet.com
+DOMAIN-SUFFIX,bmwchampionship.com
+DOMAIN-SUFFIX,bmwchampionshipusa.com
+DOMAIN-SUFFIX,bmwcharitygolf.com
+DOMAIN-SUFFIX,bmwcitychallenge.com
+DOMAIN-SUFFIX,bmwclassic.com
+DOMAIN-SUFFIX,bmwcolorado.com
+DOMAIN-SUFFIX,bmwconnecteddrive.com
+DOMAIN-SUFFIX,bmwcustomapparel.com
+DOMAIN-SUFFIX,bmwdcsnet.net
+DOMAIN-SUFFIX,bmwdealercareers.com
+DOMAIN-SUFFIX,bmwdealerdirect.com
+DOMAIN-SUFFIX,bmwdelawarevalley.com
+DOMAIN-SUFFIX,bmwfilms.com
+DOMAIN-SUFFIX,bmwgroup-classic-heart.com
+DOMAIN-SUFFIX,bmwgroup-classic.com
+DOMAIN-SUFFIX,bmwgroup-gaad.com
+DOMAIN-SUFFIX,bmwgroup-plants.com
+DOMAIN-SUFFIX,bmwgroup-posdigital.com
+DOMAIN-SUFFIX,bmwgroup-werke.com
+DOMAIN-SUFFIX,bmwgroup.at
+DOMAIN-SUFFIX,bmwgroup.com
+DOMAIN-SUFFIX,bmwgroup.jobs
+DOMAIN-SUFFIX,bmwgroup.net
+DOMAIN-SUFFIX,bmwgroupclassic.com
+DOMAIN-SUFFIX,bmwgroupdesignworks.com
+DOMAIN-SUFFIX,bmwgroupdirect.com
+DOMAIN-SUFFIX,bmwgroupfs.com
+DOMAIN-SUFFIX,bmwgroupinfobahn.com
+DOMAIN-SUFFIX,bmwgroupna.com
+DOMAIN-SUFFIX,bmwhk.com
+DOMAIN-SUFFIX,bmwi.ca
+DOMAIN-SUFFIX,bmwi.jp
+DOMAIN-SUFFIX,bmwiventures.com
+DOMAIN-SUFFIX,bmwjamaica.com
+DOMAIN-SUFFIX,bmwlat.com
+DOMAIN-SUFFIX,bmwlifestyle.ca
+DOMAIN-SUFFIX,bmwm.com
+DOMAIN-SUFFIX,bmwmagazine.com
+DOMAIN-SUFFIX,bmwmagazine.de
+DOMAIN-SUFFIX,bmwmass.com
+DOMAIN-SUFFIX,bmwmass.net
+DOMAIN-SUFFIX,bmwmc.net
+DOMAIN-SUFFIX,bmwmontreal.ca
+DOMAIN-SUFFIX,bmwmotorcycles.com
+DOMAIN-SUFFIX,bmwmotorcycleusa.com
+DOMAIN-SUFFIX,bmwmotorrad.co.kr
+DOMAIN-SUFFIX,bmwmotorrad.com.au
+DOMAIN-SUFFIX,bmwmotorrad.com.ph
+DOMAIN-SUFFIX,bmwmotorrad.com.sg
+DOMAIN-SUFFIX,bmwmotorradhk.com
+DOMAIN-SUFFIX,bmwmotorshowblog.com
+DOMAIN-SUFFIX,bmwmotorsport.com
+DOMAIN-SUFFIX,bmwmperformance.com
+DOMAIN-SUFFIX,bmwmuseum.net
+DOMAIN-SUFFIX,bmwmyanmar.com
+DOMAIN-SUFFIX,bmwofannapolis.com
+DOMAIN-SUFFIX,bmwofcentralpa.com
+DOMAIN-SUFFIX,bmwoftulsa.com
+DOMAIN-SUFFIX,bmwondemandusa.com
+DOMAIN-SUFFIX,bmworegon.com
+DOMAIN-SUFFIX,bmwperformancecenter.com
+DOMAIN-SUFFIX,bmwpittsburgh.com
+DOMAIN-SUFFIX,bmwproductnews.com
+DOMAIN-SUFFIX,bmwsafari.com
+DOMAIN-SUFFIX,bmwsfl.com
+DOMAIN-SUFFIX,bmwsfl.net
+DOMAIN-SUFFIX,bmwshop.ca
+DOMAIN-SUFFIX,bmwspecialoffers.ca
+DOMAIN-SUFFIX,bmwsports.com
+DOMAIN-SUFFIX,bmwstartupgarage.com
+DOMAIN-SUFFIX,bmwstep.com
+DOMAIN-SUFFIX,bmwstepconnections.com
+DOMAIN-SUFFIX,bmwsummerschool.com
+DOMAIN-SUFFIX,bmwtampabay.com
+DOMAIN-SUFFIX,bmwusa.com
+DOMAIN-SUFFIX,bmwusaservice.com
+DOMAIN-SUFFIX,bmwusatires.com
+DOMAIN-SUFFIX,bmwusfactory.com
+DOMAIN-SUFFIX,bmwusrideracademy.com
+DOMAIN-SUFFIX,bmwvalueservice.com
+DOMAIN-SUFFIX,bmwwholesaleconnect.com
+DOMAIN-SUFFIX,bmwworld.com
+DOMAIN-SUFFIX,bmwworld.net
+DOMAIN-SUFFIX,bmwworld.tv
+DOMAIN-SUFFIX,bmwzentrum.com
+DOMAIN-SUFFIX,brand-protection-team.com
+DOMAIN-SUFFIX,cencoastbmw.com
+DOMAIN-SUFFIX,chargenow.com
+DOMAIN-SUFFIX,chargenowusa.com
+DOMAIN-SUFFIX,chicagolandbmw.com
+DOMAIN-SUFFIX,connected-drive.com
+DOMAIN-SUFFIX,daytonbmw.com
+DOMAIN-SUFFIX,dealerspeed.net
+DOMAIN-SUFFIX,desertbmw.com
+DOMAIN-SUFFIX,dreambmw.ca
+DOMAIN-SUFFIX,electricluxury.com
+DOMAIN-SUFFIX,greatergothammini.com
+DOMAIN-SUFFIX,grupobmw.com
+DOMAIN-SUFFIX,guambmw.com
+DOMAIN-SUFFIX,hackthedrive.com
+DOMAIN-SUFFIX,hawaiibmw.com
+DOMAIN-SUFFIX,iaablog.com
+DOMAIN-SUFFIX,lasvegasbmw.com
+DOMAIN-SUFFIX,m-power.com
+DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
+DOMAIN-SUFFIX,mini
+DOMAIN-SUFFIX,mini-abudhabi.com
+DOMAIN-SUFFIX,mini-antilles.fr
+DOMAIN-SUFFIX,mini-bahrain.com
+DOMAIN-SUFFIX,mini-bosnia.com
+DOMAIN-SUFFIX,mini-clubs-international.com
+DOMAIN-SUFFIX,mini-connected.at
+DOMAIN-SUFFIX,mini-connected.be
+DOMAIN-SUFFIX,mini-connected.ch
+DOMAIN-SUFFIX,mini-connected.co.uk
+DOMAIN-SUFFIX,mini-connected.com
+DOMAIN-SUFFIX,mini-connected.cz
+DOMAIN-SUFFIX,mini-connected.de
+DOMAIN-SUFFIX,mini-connected.dk
+DOMAIN-SUFFIX,mini-connected.ee
+DOMAIN-SUFFIX,mini-connected.es
+DOMAIN-SUFFIX,mini-connected.fi
+DOMAIN-SUFFIX,mini-connected.fr
+DOMAIN-SUFFIX,mini-connected.ie
+DOMAIN-SUFFIX,mini-connected.it
+DOMAIN-SUFFIX,mini-connected.lt
+DOMAIN-SUFFIX,mini-connected.lu
+DOMAIN-SUFFIX,mini-connected.lv
+DOMAIN-SUFFIX,mini-connected.nl
+DOMAIN-SUFFIX,mini-connected.no
+DOMAIN-SUFFIX,mini-connected.pl
+DOMAIN-SUFFIX,mini-connected.pt
+DOMAIN-SUFFIX,mini-connected.se
+DOMAIN-SUFFIX,mini-corporate-sales.com
+DOMAIN-SUFFIX,mini-coupe.ca
+DOMAIN-SUFFIX,mini-dubai.com
+DOMAIN-SUFFIX,mini-e.com
+DOMAIN-SUFFIX,mini-egypt.com
+DOMAIN-SUFFIX,mini-georgia.com
+DOMAIN-SUFFIX,mini-grouparchiv.de
+DOMAIN-SUFFIX,mini-grouparchive.com
+DOMAIN-SUFFIX,mini-jordan.com
+DOMAIN-SUFFIX,mini-ksa.com
+DOMAIN-SUFFIX,mini-kuwait.com
+DOMAIN-SUFFIX,mini-lebanon.com
+DOMAIN-SUFFIX,mini-me.com
+DOMAIN-SUFFIX,mini-oman.com
+DOMAIN-SUFFIX,mini-qatar.com
+DOMAIN-SUFFIX,mini-srilanka.com
+DOMAIN-SUFFIX,mini-stjohns.ca
+DOMAIN-SUFFIX,mini-stjohns.com
+DOMAIN-SUFFIX,mini-tahiti.com
+DOMAIN-SUFFIX,mini-vietnam.com
+DOMAIN-SUFFIX,mini-windsor.ca
+DOMAIN-SUFFIX,mini-windsor.com
+DOMAIN-SUFFIX,mini.am
+DOMAIN-SUFFIX,mini.at
+DOMAIN-SUFFIX,mini.be
+DOMAIN-SUFFIX,mini.bg
+DOMAIN-SUFFIX,mini.by
+DOMAIN-SUFFIX,mini.ca
+DOMAIN-SUFFIX,mini.cc
+DOMAIN-SUFFIX,mini.ch
+DOMAIN-SUFFIX,mini.cl
+DOMAIN-SUFFIX,mini.co.cr
+DOMAIN-SUFFIX,mini.co.id
+DOMAIN-SUFFIX,mini.co.il
+DOMAIN-SUFFIX,mini.co.kr
+DOMAIN-SUFFIX,mini.co.me
+DOMAIN-SUFFIX,mini.co.th
+DOMAIN-SUFFIX,mini.co.uk
+DOMAIN-SUFFIX,mini.co.za
+DOMAIN-SUFFIX,mini.com
+DOMAIN-SUFFIX,mini.com.ar
+DOMAIN-SUFFIX,mini.com.bn
+DOMAIN-SUFFIX,mini.com.br
+DOMAIN-SUFFIX,mini.com.co
+DOMAIN-SUFFIX,mini.com.cy
+DOMAIN-SUFFIX,mini.com.do
+DOMAIN-SUFFIX,mini.com.ec
+DOMAIN-SUFFIX,mini.com.gr
+DOMAIN-SUFFIX,mini.com.gt
+DOMAIN-SUFFIX,mini.com.hr
+DOMAIN-SUFFIX,mini.com.mk
+DOMAIN-SUFFIX,mini.com.mo
+DOMAIN-SUFFIX,mini.com.mt
+DOMAIN-SUFFIX,mini.com.mx
+DOMAIN-SUFFIX,mini.com.pa
+DOMAIN-SUFFIX,mini.com.pe
+DOMAIN-SUFFIX,mini.com.ph
+DOMAIN-SUFFIX,mini.com.pl
+DOMAIN-SUFFIX,mini.com.py
+DOMAIN-SUFFIX,mini.com.sg
+DOMAIN-SUFFIX,mini.com.tr
+DOMAIN-SUFFIX,mini.com.tw
+DOMAIN-SUFFIX,mini.com.uy
+DOMAIN-SUFFIX,mini.cz
+DOMAIN-SUFFIX,mini.de
+DOMAIN-SUFFIX,mini.dk
+DOMAIN-SUFFIX,mini.dz
+DOMAIN-SUFFIX,mini.es
+DOMAIN-SUFFIX,mini.fi
+DOMAIN-SUFFIX,mini.fr
+DOMAIN-SUFFIX,mini.gp
+DOMAIN-SUFFIX,mini.hu
+DOMAIN-SUFFIX,mini.ie
+DOMAIN-SUFFIX,mini.in
+DOMAIN-SUFFIX,mini.is
+DOMAIN-SUFFIX,mini.it
+DOMAIN-SUFFIX,mini.jp
+DOMAIN-SUFFIX,mini.kz
+DOMAIN-SUFFIX,mini.lu
+DOMAIN-SUFFIX,mini.ma
+DOMAIN-SUFFIX,mini.md
+DOMAIN-SUFFIX,mini.mq
+DOMAIN-SUFFIX,mini.mu
+DOMAIN-SUFFIX,mini.my
+DOMAIN-SUFFIX,mini.nc
+DOMAIN-SUFFIX,mini.nl
+DOMAIN-SUFFIX,mini.no
+DOMAIN-SUFFIX,mini.pt
+DOMAIN-SUFFIX,mini.re
+DOMAIN-SUFFIX,mini.ro
+DOMAIN-SUFFIX,mini.rs
+DOMAIN-SUFFIX,mini.ru
+DOMAIN-SUFFIX,mini.se
+DOMAIN-SUFFIX,mini.si
+DOMAIN-SUFFIX,mini.sk
+DOMAIN-SUFFIX,mini.tm
+DOMAIN-SUFFIX,mini.tn
+DOMAIN-SUFFIX,mini.ua
+DOMAIN-SUFFIX,mini101.ca
+DOMAIN-SUFFIX,miniargentina.com
+DOMAIN-SUFFIX,minibrossard.ca
+DOMAIN-SUFFIX,minibrossard.com
+DOMAIN-SUFFIX,minicanada.ca
+DOMAIN-SUFFIX,minicaribbean.com
+DOMAIN-SUFFIX,miniccrc.ca
+DOMAIN-SUFFIX,minicooper.ca
+DOMAIN-SUFFIX,minidealer.com
+DOMAIN-SUFFIX,minidealernet.com
+DOMAIN-SUFFIX,minidowntown.ca
+DOMAIN-SUFFIX,minidowntown.com
+DOMAIN-SUFFIX,minidrivingexperienceusa.com
+DOMAIN-SUFFIX,minidurham.ca
+DOMAIN-SUFFIX,minidurham.com
+DOMAIN-SUFFIX,minie.com
+DOMAIN-SUFFIX,minifs.com
+DOMAIN-SUFFIX,minigeorgian.ca
+DOMAIN-SUFFIX,minigrandriver.com
+DOMAIN-SUFFIX,minihalifax.ca
+DOMAIN-SUFFIX,minihalifax.com
+DOMAIN-SUFFIX,minihk.com
+DOMAIN-SUFFIX,miniinvasion.ca
+DOMAIN-SUFFIX,miniitalianjob.com
+DOMAIN-SUFFIX,minikelowna.ca
+DOMAIN-SUFFIX,minikelowna.com
+DOMAIN-SUFFIX,minilangley.ca
+DOMAIN-SUFFIX,minilangley.com
+DOMAIN-SUFFIX,minilat.com
+DOMAIN-SUFFIX,minilaval.ca
+DOMAIN-SUFFIX,minilaval.com
+DOMAIN-SUFFIX,minilondon.ca
+DOMAIN-SUFFIX,minilondon.co
+DOMAIN-SUFFIX,minimarkham.ca
+DOMAIN-SUFFIX,minimarkham.com
+DOMAIN-SUFFIX,minimoncton.ca
+DOMAIN-SUFFIX,minimoncton.com
+DOMAIN-SUFFIX,minimontrealcentre.ca
+DOMAIN-SUFFIX,minimontroyal.ca
+DOMAIN-SUFFIX,minimontroyal.com
+DOMAIN-SUFFIX,minimotoringrewards.com
+DOMAIN-SUFFIX,minimotoringschool.com
+DOMAIN-SUFFIX,minimotorsport.com
+DOMAIN-SUFFIX,mininanaimo.ca
+DOMAIN-SUFFIX,mininanaimo.com
+DOMAIN-SUFFIX,minioakville.com
+DOMAIN-SUFFIX,miniofmonrovia.com
+DOMAIN-SUFFIX,minipetfriendly.com
+DOMAIN-SUFFIX,minirichmond.ca
+DOMAIN-SUFFIX,minirichmond.com
+DOMAIN-SUFFIX,minisaskatoon.ca
+DOMAIN-SUFFIX,minisaskatoon.com
+DOMAIN-SUFFIX,minishop.ca
+DOMAIN-SUFFIX,minispace.com
+DOMAIN-SUFFIX,minispecialoffers.ca
+DOMAIN-SUFFIX,minispygear.com
+DOMAIN-SUFFIX,ministcatharines.ca
+DOMAIN-SUFFIX,ministeagathe.com
+DOMAIN-SUFFIX,ministjohns.ca
+DOMAIN-SUFFIX,minitakesthestates.com
+DOMAIN-SUFFIX,minitoronto.ca
+DOMAIN-SUFFIX,minitroisrivieres.ca
+DOMAIN-SUFFIX,miniusa.com
+DOMAIN-SUFFIX,miniusaservice.com
+DOMAIN-SUFFIX,miniusatires.com
+DOMAIN-SUFFIX,minivalueservice.com
+DOMAIN-SUFFIX,minivancouver.ca
+DOMAIN-SUFFIX,minivaughanwest.ca
+DOMAIN-SUFFIX,minivaughanwest.com
+DOMAIN-SUFFIX,minivictoria.ca
+DOMAIN-SUFFIX,minivictoria.com
+DOMAIN-SUFFIX,minivilledequebec.ca
+DOMAIN-SUFFIX,minivilledequebec.com
+DOMAIN-SUFFIX,miniwholesaleconnect.com
+DOMAIN-SUFFIX,miniwidget.ca
+DOMAIN-SUFFIX,miniwindsor.com
+DOMAIN-SUFFIX,miniworkshop.com
+DOMAIN-SUFFIX,miniyaletown.ca
+DOMAIN-SUFFIX,minneapolisbmw.com
+DOMAIN-SUFFIX,minneapolisbmw.net
+DOMAIN-SUFFIX,motorshowblog.com
+DOMAIN-SUFFIX,mybmw.ca
+DOMAIN-SUFFIX,mybmw.com
+DOMAIN-SUFFIX,newhampshirebmw.com
+DOMAIN-SUFFIX,nmbmw.com
+DOMAIN-SUFFIX,ocbmwdealers.com
+DOMAIN-SUFFIX,offresspecialesbmw.ca
+DOMAIN-SUFFIX,park-now.com
+DOMAIN-SUFFIX,parkinfo.com
+DOMAIN-SUFFIX,pdxbmw.com
+DOMAIN-SUFFIX,phxbmw.com
+DOMAIN-SUFFIX,pre-bmwgroup.jobs
+DOMAIN-SUFFIX,premiumfs.de
+DOMAIN-SUFFIX,pugetsoundbmw.com
+DOMAIN-SUFFIX,pugetsoundmini.com
+DOMAIN-SUFFIX,rentaride.com
+DOMAIN-SUFFIX,rentaride.de
+DOMAIN-SUFFIX,rhodeislandbmw.com
+DOMAIN-SUFFIX,rolls-roycecullinan.com
+DOMAIN-SUFFIX,rolls-roycemotorcars.com
+DOMAIN-SUFFIX,rolls-roycemotorcarsna.com
+DOMAIN-SUFFIX,rrtis.com
+DOMAIN-SUFFIX,sdcountybmw.com
+DOMAIN-SUFFIX,shopbmwmotorcycles.com
+DOMAIN-SUFFIX,shopbmwusa.com
+DOMAIN-SUFFIX,shopminiusa.com
+DOMAIN-SUFFIX,socalbmw.com
+DOMAIN-SUFFIX,southfloridamini.com
+DOMAIN-SUFFIX,spiritofecstasy.com
+DOMAIN-SUFFIX,stlouisbmw.net
+DOMAIN-SUFFIX,the-m-festival.com
+DOMAIN-SUFFIX,tristatebmw.com
+DOMAIN-SUFFIX,trmini.com
+DOMAIN-SUFFIX,troisrivieresmini.com
+DOMAIN-SUFFIX,vancouverbmwretailers.ca
+DOMAIN-SUFFIX,washingtondcbmw.com

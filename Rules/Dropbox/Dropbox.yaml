@@ -1,26 +1,17 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- db.tt
-- dropbox-dns.com
-- dropbox.com
-- dropbox.tech
-- dropbox.zendesk.com
-- dropboxapi.com
-- dropboxbusiness.com
-- dropboxcaptcha.com
-- dropboxforum.com
-- dropboxforums.com
-- dropboxinsiders.com
-- dropboxmail.com
-- dropboxpartners.com
-- dropboxstatic.com
-- dropboxusercontent.com
-- getdropbox.com
-- paper-attachments.s3.amazonaws.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropbox.zendesk.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com

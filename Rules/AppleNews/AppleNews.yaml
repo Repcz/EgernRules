@@ -1,11 +1,4 @@
-no_resolve: true
-domain_set:
-- gspe1-ssl.ls.apple.com
-- news-client-search.apple.com
-domain_suffix_set:
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*

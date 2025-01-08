@@ -1,35 +1,27 @@
-domain_set:
-domain_suffix_set:
-- 5253.com
-- bcshipgo.com
-- bigda.com
-- blogchina.org
-- c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
-- chinaduo.com
-- duowan.cn
-- duowan.com
-- duowan.com.cn
-- dwstatic.com
-- hiido.cn
-- hiido.com
-- hiido.net
-- huanju.cn
-- huanju.net
-- huanjuyun.com
-- joyy.com
-- joyyinc.com
-- joyyued.com
-- pikoplay.com
-- vooedit.com
-- yy.com
-- yy.com.cn
-- yyclouds.com
-- yygamedev.com
-- yystatic.com
-- zhiniu8.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,5253.com
+DOMAIN-SUFFIX,bcshipgo.com
+DOMAIN-SUFFIX,bigda.com
+DOMAIN-SUFFIX,blogchina.org
+DOMAIN-SUFFIX,c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
+DOMAIN-SUFFIX,chinaduo.com
+DOMAIN-SUFFIX,duowan.cn
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,duowan.com.cn
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,hiido.cn
+DOMAIN-SUFFIX,hiido.com
+DOMAIN-SUFFIX,hiido.net
+DOMAIN-SUFFIX,huanju.cn
+DOMAIN-SUFFIX,huanju.net
+DOMAIN-SUFFIX,huanjuyun.com
+DOMAIN-SUFFIX,joyy.com
+DOMAIN-SUFFIX,joyyinc.com
+DOMAIN-SUFFIX,joyyued.com
+DOMAIN-SUFFIX,pikoplay.com
+DOMAIN-SUFFIX,vooedit.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yy.com.cn
+DOMAIN-SUFFIX,yyclouds.com
+DOMAIN-SUFFIX,yygamedev.com
+DOMAIN-SUFFIX,yystatic.com
+DOMAIN-SUFFIX,zhiniu8.com

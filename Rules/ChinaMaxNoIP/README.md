@@ -23,26 +23,38 @@ ChinaMax排除相关IP规则版本
 | DOMAIN | 425  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 97001  | 
-| DOMAIN-WILDCARD | 1  | 
+| PROCESS-NAME | 12  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 97505  | 
+| TOTAL(仅供参考) | 97516  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaMaxNoIP.yaml，请使用RULE-SET。
+- ChinaMaxNoIP_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- ChinaMaxNoIP_All.yaml与ChinaMaxNoIP_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 
 #### 配置建议
-- ChinaMaxNoIP.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- ChinaMaxNoIP_All.yaml 单独使用。
+- ChinaMaxNoIP_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- ChinaMaxNoIP.yaml、ChinaMaxNoIP_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list
 
 
 

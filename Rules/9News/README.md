@@ -21,7 +21,10 @@
 | TOTAL(仅供参考) | 14  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- 9News.yaml，请使用RULE-SET。
 
 #### 配置建议
 - 9News.yaml 单独使用。
@@ -29,13 +32,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/9News/9News.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9News/9News.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/9News/9News.list
 
 
 

@@ -1,15 +1,6 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- cnn.com
-- cnn.io
-- cnn.it
-- cnnarabic.com
-- cnnlabs.com
-- cnnmoney.ch
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch

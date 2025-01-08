@@ -1,18 +1,9 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- logi.com
-- logicool.co.jp
-- logicoolg.com
-- logitech.biz
-- logitech.com
-- logitech.fr
-- logitechg.com
-- logitechg.fr
-- worldsfastestgamer.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,logi.com
+DOMAIN-SUFFIX,logicool.co.jp
+DOMAIN-SUFFIX,logicoolg.com
+DOMAIN-SUFFIX,logitech.biz
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,logitech.fr
+DOMAIN-SUFFIX,logitechg.com
+DOMAIN-SUFFIX,logitechg.fr
+DOMAIN-SUFFIX,worldsfastestgamer.net

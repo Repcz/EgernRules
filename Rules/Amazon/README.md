@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) ![](https://shields.io/badge/-正则推导DOMAINNAME-033da7) 
 
 Amazon规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,34 +12,45 @@ Amazon规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-08-14 02:12:04
+最后更新时间：2024-07-03 16:16:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 186  | 
-| DOMAIN-WILDCARD | 5  | 
 | IP-CIDR | 15  | 
+| PROCESS-NAME | 1  | 
+| URL-REGEX | 1  | 
 | USER-AGENT(Egern不支持) | 2  | 
-| TOTAL(仅供参考) | 209  | 
+| TOTAL(仅供参考) | 206  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Amazon.yaml，请使用RULE-SET。
+- Amazon_Resolve.yaml，请使用RULE-SET。
+- URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置Amazon_MITM.sgmodule，仅供参考。
+
+#### 文件区别
+- Amazon_Resolve.yaml与Amazon.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Amazon.yaml 单独使用。
+- Amazon_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Amazon/Amazon.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Amazon/Amazon.list
 
 
 

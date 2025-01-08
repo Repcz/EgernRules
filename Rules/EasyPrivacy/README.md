@@ -27,26 +27,21 @@ AdBlock Plus EasyPrivacy，仅抽取DOMAIN-SUFFIX类型。
 | TOTAL(仅供参考) | 39158  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- EasyPrivacy_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- EasyPrivacy_All.yaml与EasyPrivacy_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 
 #### 配置建议
-- EasyPrivacy.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- EasyPrivacy_All.yaml 单独使用。
+- EasyPrivacy_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 
 #### 规则链接
-**X分支 (每日更新)**
-
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/EasyPrivacy/EasyPrivacy.yaml
-
-
-
-
-
-
-
-
-
-
-
 ## 子规则/排除规则
 
 

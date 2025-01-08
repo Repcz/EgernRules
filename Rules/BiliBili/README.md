@@ -20,25 +20,35 @@ BiliBili规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 53  | 
 | DOMAIN-SUFFIX | 62  | 
 | IP-CIDR | 8  | 
+| PROCESS-NAME | 6  | 
 | USER-AGENT(Egern不支持) | 4  | 
-| TOTAL(仅供参考) | 127  | 
+| TOTAL(仅供参考) | 133  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- BiliBili.yaml，请使用RULE-SET。
+- BiliBili_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- BiliBili_Resolve.yaml与BiliBili.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - BiliBili.yaml 单独使用。
+- BiliBili_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/BiliBili/BiliBili.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/BiliBili/BiliBili.list
 
 
 

@@ -21,7 +21,10 @@ Discord规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 29  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Discord.yaml，请使用RULE-SET。
 
 #### 配置建议
 - Discord.yaml 单独使用。
@@ -29,13 +32,14 @@ Discord规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Discord/Discord.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Discord/Discord.list
 
 
 

@@ -1,12 +1,3 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- edcity.hk
-- hkedcity.net
-- hkreadingcity.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net

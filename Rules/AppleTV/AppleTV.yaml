@@ -1,16 +1,10 @@
-no_resolve: true
-domain_set:
-- hls-amt.itunes.apple.com
-- hls.itunes.apple.com
-- np-edge.itunes.apple.com
-- play-edge.itunes.apple.com
-- tv.applemusic.com
-- uts-api.itunes.apple.com
-domain_suffix_set:
-- tv.apple.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+PROCESS-NAME,TV
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*

@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN与DOMAIN--KEYWORD合并-9cf) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 PikPak规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -18,11 +18,14 @@ PikPak规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 7  | 
-| TOTAL(仅供参考) | 8  | 
+| DOMAIN-SUFFIX | 6  | 
+| TOTAL(仅供参考) | 7  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- PikPak.yaml，请使用RULE-SET。
 
 #### 配置建议
 - PikPak.yaml 单独使用。
@@ -30,13 +33,14 @@ PikPak规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/PikPak/PikPak.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PikPak/PikPak.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/PikPak/PikPak.list
 
 
 

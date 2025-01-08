@@ -1,13 +1,4 @@
-no_resolve: true
-domain_set:
-- gog.salesmanago.com
-domain_suffix_set:
-- gog-statics.com
-- gog.com
-- gog.qtlglb.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,gog.salesmanago.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog.qtlglb.com

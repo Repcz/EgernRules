@@ -23,21 +23,30 @@
 | TOTAL(仅供参考) | 37  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Youku.yaml，请使用RULE-SET。
+- Youku_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Youku_Resolve.yaml与Youku.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Youku.yaml 单独使用。
+- Youku_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Youku/Youku.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Youku/Youku.list
 
 
 

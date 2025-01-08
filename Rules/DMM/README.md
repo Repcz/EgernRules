@@ -22,21 +22,30 @@ DMM规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 20  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- DMM.yaml，请使用RULE-SET。
+- DMM_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- DMM_Resolve.yaml与DMM.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - DMM.yaml 单独使用。
+- DMM_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/DMM/DMM.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/DMM/DMM.list
 
 
 

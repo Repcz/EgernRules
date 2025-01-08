@@ -1,91 +1,82 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- bby.com
-- bbycastatic.ca
-- bbycloud.com
-- bbycontent.com
-- bbycontent.net
-- bbyintl.com
-- bbystatic.com
-- bbyurl.us
-- bestbhy.com
-- bestbuy-audio.com
-- bestbuy-communityrelations.com
-- bestbuy-giftcard.info
-- bestbuy-int.com
-- bestbuy-jobs.com
-- bestbuy.ca
-- bestbuy.cn
-- bestbuy.com
-- bestbuy.com.cn
-- bestbuy.com.mx
-- bestbuy.info
-- bestbuy24x7solutions.com
-- bestbuybusiness.com
-- bestbuybusinessadvantageaccount.com
-- bestbuycanada.ca
-- bestbuycanada.com
-- bestbuycanadaltd.ca
-- bestbuycharityclassic.com
-- bestbuycoffeemakers.com
-- bestbuyethics.com
-- bestbuyforbusiness.ca
-- bestbuygsm.com
-- bestbuyideax.com
-- bestbuyphotoworkshoptours.com
-- bestbuyrewards.com
-- bestbuyrewardzone.ca
-- bestbuys.com
-- bestbuysgeeksquad.com
-- bestbuysolutions.net
-- bestbuystores.com
-- bestbuytradein.com
-- bestbuyus.com
-- besztbuy.com
-- bextbuy.com
-- bienvenuechezbestbuy.ca
-- cowboom.com
-- dealtree.org
-- futureshop.ca
-- geek-squad-support.com
-- geek-squad.net
-- geek-squad.org
-- geek-squads.net
-- geeksquad.ca
-- geeksquad.cc
-- geeksquad.com
-- geeksquad.net
-- geeksquad.tv
-- geeksquadcares.com
-- geeksquadcentral.com
-- geeksquadforums.com
-- geeksquadonline.com
-- geeksquadprotectionplan.org
-- geeksquadservices.org
-- geeksquadwebroot.org
-- gscanada.info
-- gsccdn.com
-- gslink.us
-- initproducts.com
-- magnoliaav.com.cn
-- mybestbuy.com
-- mybestbuyclaims.com
-- myrewardzone.com
-- myrz.com
-- onlinegeeksquad.com
-- pacifickitchenandhome.com
-- rocketfishproducts.com
-- techliquidators.com
-- tiendabestbuy.com
-- unbrandedproducts.com
-- welcometobestbuy.ca
-- wolfatbestbuy.com
-- wolfatbestbuy.net
-- www-bestbuystores.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bby.com
+DOMAIN-SUFFIX,bbycastatic.ca
+DOMAIN-SUFFIX,bbycloud.com
+DOMAIN-SUFFIX,bbycontent.com
+DOMAIN-SUFFIX,bbycontent.net
+DOMAIN-SUFFIX,bbyintl.com
+DOMAIN-SUFFIX,bbystatic.com
+DOMAIN-SUFFIX,bbyurl.us
+DOMAIN-SUFFIX,bestbhy.com
+DOMAIN-SUFFIX,bestbuy-audio.com
+DOMAIN-SUFFIX,bestbuy-communityrelations.com
+DOMAIN-SUFFIX,bestbuy-giftcard.info
+DOMAIN-SUFFIX,bestbuy-int.com
+DOMAIN-SUFFIX,bestbuy-jobs.com
+DOMAIN-SUFFIX,bestbuy.ca
+DOMAIN-SUFFIX,bestbuy.cn
+DOMAIN-SUFFIX,bestbuy.com
+DOMAIN-SUFFIX,bestbuy.com.cn
+DOMAIN-SUFFIX,bestbuy.com.mx
+DOMAIN-SUFFIX,bestbuy.info
+DOMAIN-SUFFIX,bestbuy24x7solutions.com
+DOMAIN-SUFFIX,bestbuybusiness.com
+DOMAIN-SUFFIX,bestbuybusinessadvantageaccount.com
+DOMAIN-SUFFIX,bestbuycanada.ca
+DOMAIN-SUFFIX,bestbuycanada.com
+DOMAIN-SUFFIX,bestbuycanadaltd.ca
+DOMAIN-SUFFIX,bestbuycharityclassic.com
+DOMAIN-SUFFIX,bestbuycoffeemakers.com
+DOMAIN-SUFFIX,bestbuyethics.com
+DOMAIN-SUFFIX,bestbuyforbusiness.ca
+DOMAIN-SUFFIX,bestbuygsm.com
+DOMAIN-SUFFIX,bestbuyideax.com
+DOMAIN-SUFFIX,bestbuyphotoworkshoptours.com
+DOMAIN-SUFFIX,bestbuyrewards.com
+DOMAIN-SUFFIX,bestbuyrewardzone.ca
+DOMAIN-SUFFIX,bestbuys.com
+DOMAIN-SUFFIX,bestbuysgeeksquad.com
+DOMAIN-SUFFIX,bestbuysolutions.net
+DOMAIN-SUFFIX,bestbuystores.com
+DOMAIN-SUFFIX,bestbuytradein.com
+DOMAIN-SUFFIX,bestbuyus.com
+DOMAIN-SUFFIX,besztbuy.com
+DOMAIN-SUFFIX,bextbuy.com
+DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
+DOMAIN-SUFFIX,cowboom.com
+DOMAIN-SUFFIX,dealtree.org
+DOMAIN-SUFFIX,futureshop.ca
+DOMAIN-SUFFIX,geek-squad-support.com
+DOMAIN-SUFFIX,geek-squad.net
+DOMAIN-SUFFIX,geek-squad.org
+DOMAIN-SUFFIX,geek-squads.net
+DOMAIN-SUFFIX,geeksquad.ca
+DOMAIN-SUFFIX,geeksquad.cc
+DOMAIN-SUFFIX,geeksquad.com
+DOMAIN-SUFFIX,geeksquad.net
+DOMAIN-SUFFIX,geeksquad.tv
+DOMAIN-SUFFIX,geeksquadcares.com
+DOMAIN-SUFFIX,geeksquadcentral.com
+DOMAIN-SUFFIX,geeksquadforums.com
+DOMAIN-SUFFIX,geeksquadonline.com
+DOMAIN-SUFFIX,geeksquadprotectionplan.org
+DOMAIN-SUFFIX,geeksquadservices.org
+DOMAIN-SUFFIX,geeksquadwebroot.org
+DOMAIN-SUFFIX,gscanada.info
+DOMAIN-SUFFIX,gsccdn.com
+DOMAIN-SUFFIX,gslink.us
+DOMAIN-SUFFIX,initproducts.com
+DOMAIN-SUFFIX,magnoliaav.com.cn
+DOMAIN-SUFFIX,mybestbuy.com
+DOMAIN-SUFFIX,mybestbuyclaims.com
+DOMAIN-SUFFIX,myrewardzone.com
+DOMAIN-SUFFIX,myrz.com
+DOMAIN-SUFFIX,onlinegeeksquad.com
+DOMAIN-SUFFIX,pacifickitchenandhome.com
+DOMAIN-SUFFIX,rocketfishproducts.com
+DOMAIN-SUFFIX,techliquidators.com
+DOMAIN-SUFFIX,tiendabestbuy.com
+DOMAIN-SUFFIX,unbrandedproducts.com
+DOMAIN-SUFFIX,welcometobestbuy.ca
+DOMAIN-SUFFIX,wolfatbestbuy.com
+DOMAIN-SUFFIX,wolfatbestbuy.net
+DOMAIN-SUFFIX,www-bestbuystores.com

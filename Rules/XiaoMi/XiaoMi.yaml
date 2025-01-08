@@ -1,148 +1,141 @@
-domain_set:
-domain_suffix_set:
-- 408399.com
-- 408399.net
-- 816798.net
-- account-cn.huami.com
-- airstar.com
-- airstarfinance.net
-- aleenote.cn
-- aleenote.com
-- alibiji.cn
-- alinotes.cn
-- aos-incentive.huami.com
-- api-aos-cnbj6.huami.com
-- api-mifit-cn.huami.com
-- api-mifit.huami.com
-- app-analytics-cn.huami.com
-- duokan.com
-- duokanbox.com
-- facephoto.com
-- fe-cdn.huami.com
-- fe-static.huami.com
-- growth.ai.srv
-- heihei.com
-- hongmi.cn
-- i3ciebwk6ixfb.com
-- kewucool.com
-- kssdata-yz1.kuaipandata.com
-- kssdata-yz2-lt.kuaipandata.com
-- kssdata-yz2.kuaipandata.com
-- kssm.kuaipandata.com
-- kssv-w-yz01.kuaipandata.com
-- leijun.com
-- m3-cloud.com
-- mgslb.cn
-- mgslb.com
-- mgslb.net
-- mgslb.org
-- mi-ae.cn
-- mi-ae.com
-- mi-ae.com.cn
-- mi-ae.net
-- mi-cache.com
-- mi-cdn.com
-- mi-customer.com
-- mi-idc.com
-- mi-img.com
-- mi-img1.com
-- mi-img2.com
-- mi-img3.com
-- mi-img4.com
-- mi-img5.com
-- mi-static.com
-- mi.cn
-- mi.com
-- mi.com.cn
-- mi0.cc
-- mi1.cc
-- miav-cse.avlyun.com
-- micoce.com.cn
-- micode.cn
-- micode.com.cn
-- micode.net
-- mieco.net
-- mifile.cn
-- mij.cc
-- mijia.tech
-- mikge.com
-- miliao.com
-- milliant.com
-- mioffice.cn
-- mios.cn
-- mios.com.cn
-- mipay.com
-- mipush.com
-- miredian.com
-- miren.cn
-- mitalk.com
-- mitvos.com
-- mitvos.net
-- miui-fxcse.avlyun.com
-- miui.cn
-- miui.com
-- miwifi.com
-- mixinshe.com
-- miyun.com
-- peijian.com
-- qsb.browser.miui.srv
-- res.mi.baidu.com
-- restapi.amap.com
-- shunwei.cn
-- singapore01.kuaipandata.com
-- store-cdn.huami.com
-- thumb-yz01.kuaipandata.com
-- thumb-yz02.kuaipandata.com
-- thumb-yz69.kuaipandata.com
-- thumb-yz96.kuaipandata.com
-- timipc.com
-- tj1-miui-bn-stage01.kscn
-- wali.com
-- xiaoaiassist.com
-- xiaoaiscan.net
-- xiaoaisound.com
-- xiaomi.cn
-- xiaomi.com
-- xiaomi.net
-- xiaomi.open.qingting.fm
-- xiaomi.org
-- xiaomicache.com
-- xiaomicorp.cn
-- xiaomicorp.com
-- xiaomicorp.com.cn
-- xiaomicorp.net
-- xiaomicp.com
-- xiaomidns.cn
-- xiaomidns.com
-- xiaomidns.com.cn
-- xiaomidns.net
-- xiaomiev.com
-- xiaomiinc.cn
-- xiaomiinc.com
-- xiaomiinc.com.cn
-- xiaomiinc.net
-- xiaomimobile.com
-- xiaominr.com
-- xiaomiprint.com
-- xiaomisa.cn
-- xiaomisa.com
-- xiaomisa.net
-- xiaomisa.org
-- xiaomiwear.com
-- xiaomixiaoai.com
-- xiaomiyoupin.com
-- xlaomi.net
-- youpin.cn
-- youpin.com.cn
-- zhutidasai.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-- 110.43.63.242/32
-- 120.133.33.222/32
-- 47.241.176.221/32
-- 58.220.58.152/31
-- 58.220.59.2/32
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,408399.com
+DOMAIN-SUFFIX,408399.net
+DOMAIN-SUFFIX,816798.net
+DOMAIN-SUFFIX,account-cn.huami.com
+DOMAIN-SUFFIX,airstar.com
+DOMAIN-SUFFIX,airstarfinance.net
+DOMAIN-SUFFIX,aleenote.cn
+DOMAIN-SUFFIX,aleenote.com
+DOMAIN-SUFFIX,alibiji.cn
+DOMAIN-SUFFIX,alinotes.cn
+DOMAIN-SUFFIX,aos-incentive.huami.com
+DOMAIN-SUFFIX,api-aos-cnbj6.huami.com
+DOMAIN-SUFFIX,api-mifit-cn.huami.com
+DOMAIN-SUFFIX,api-mifit.huami.com
+DOMAIN-SUFFIX,app-analytics-cn.huami.com
+DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,duokanbox.com
+DOMAIN-SUFFIX,facephoto.com
+DOMAIN-SUFFIX,fe-cdn.huami.com
+DOMAIN-SUFFIX,fe-static.huami.com
+DOMAIN-SUFFIX,growth.ai.srv
+DOMAIN-SUFFIX,heihei.com
+DOMAIN-SUFFIX,hongmi.cn
+DOMAIN-SUFFIX,i3ciebwk6ixfb.com
+DOMAIN-SUFFIX,kewucool.com
+DOMAIN-SUFFIX,kssdata-yz1.kuaipandata.com
+DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
+DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
+DOMAIN-SUFFIX,kssm.kuaipandata.com
+DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
+DOMAIN-SUFFIX,leijun.com
+DOMAIN-SUFFIX,m3-cloud.com
+DOMAIN-SUFFIX,mgslb.cn
+DOMAIN-SUFFIX,mgslb.com
+DOMAIN-SUFFIX,mgslb.net
+DOMAIN-SUFFIX,mgslb.org
+DOMAIN-SUFFIX,mi-ae.cn
+DOMAIN-SUFFIX,mi-ae.com
+DOMAIN-SUFFIX,mi-ae.com.cn
+DOMAIN-SUFFIX,mi-ae.net
+DOMAIN-SUFFIX,mi-cache.com
+DOMAIN-SUFFIX,mi-cdn.com
+DOMAIN-SUFFIX,mi-customer.com
+DOMAIN-SUFFIX,mi-idc.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mi-img1.com
+DOMAIN-SUFFIX,mi-img2.com
+DOMAIN-SUFFIX,mi-img3.com
+DOMAIN-SUFFIX,mi-img4.com
+DOMAIN-SUFFIX,mi-img5.com
+DOMAIN-SUFFIX,mi-static.com
+DOMAIN-SUFFIX,mi.cn
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mi.com.cn
+DOMAIN-SUFFIX,mi0.cc
+DOMAIN-SUFFIX,mi1.cc
+DOMAIN-SUFFIX,miav-cse.avlyun.com
+DOMAIN-SUFFIX,micoce.com.cn
+DOMAIN-SUFFIX,micode.cn
+DOMAIN-SUFFIX,micode.com.cn
+DOMAIN-SUFFIX,micode.net
+DOMAIN-SUFFIX,mieco.net
+DOMAIN-SUFFIX,mifile.cn
+DOMAIN-SUFFIX,mij.cc
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,mikge.com
+DOMAIN-SUFFIX,miliao.com
+DOMAIN-SUFFIX,milliant.com
+DOMAIN-SUFFIX,mioffice.cn
+DOMAIN-SUFFIX,mios.cn
+DOMAIN-SUFFIX,mios.com.cn
+DOMAIN-SUFFIX,mipay.com
+DOMAIN-SUFFIX,mipush.com
+DOMAIN-SUFFIX,miredian.com
+DOMAIN-SUFFIX,miren.cn
+DOMAIN-SUFFIX,mitalk.com
+DOMAIN-SUFFIX,mitvos.com
+DOMAIN-SUFFIX,mitvos.net
+DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+DOMAIN-SUFFIX,miui.cn
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,mixinshe.com
+DOMAIN-SUFFIX,miyun.com
+DOMAIN-SUFFIX,peijian.com
+DOMAIN-SUFFIX,qsb.browser.miui.srv
+DOMAIN-SUFFIX,res.mi.baidu.com
+DOMAIN-SUFFIX,restapi.amap.com
+DOMAIN-SUFFIX,shunwei.cn
+DOMAIN-SUFFIX,singapore01.kuaipandata.com
+DOMAIN-SUFFIX,store-cdn.huami.com
+DOMAIN-SUFFIX,thumb-yz01.kuaipandata.com
+DOMAIN-SUFFIX,thumb-yz02.kuaipandata.com
+DOMAIN-SUFFIX,thumb-yz69.kuaipandata.com
+DOMAIN-SUFFIX,thumb-yz96.kuaipandata.com
+DOMAIN-SUFFIX,timipc.com
+DOMAIN-SUFFIX,tj1-miui-bn-stage01.kscn
+DOMAIN-SUFFIX,wali.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaoaiscan.net
+DOMAIN-SUFFIX,xiaoaisound.com
+DOMAIN-SUFFIX,xiaomi.cn
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,xiaomi.open.qingting.fm
+DOMAIN-SUFFIX,xiaomi.org
+DOMAIN-SUFFIX,xiaomicache.com
+DOMAIN-SUFFIX,xiaomicorp.cn
+DOMAIN-SUFFIX,xiaomicorp.com
+DOMAIN-SUFFIX,xiaomicorp.com.cn
+DOMAIN-SUFFIX,xiaomicorp.net
+DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,xiaomidns.cn
+DOMAIN-SUFFIX,xiaomidns.com
+DOMAIN-SUFFIX,xiaomidns.com.cn
+DOMAIN-SUFFIX,xiaomidns.net
+DOMAIN-SUFFIX,xiaomiev.com
+DOMAIN-SUFFIX,xiaomiinc.cn
+DOMAIN-SUFFIX,xiaomiinc.com
+DOMAIN-SUFFIX,xiaomiinc.com.cn
+DOMAIN-SUFFIX,xiaomiinc.net
+DOMAIN-SUFFIX,xiaomimobile.com
+DOMAIN-SUFFIX,xiaominr.com
+DOMAIN-SUFFIX,xiaomiprint.com
+DOMAIN-SUFFIX,xiaomisa.cn
+DOMAIN-SUFFIX,xiaomisa.com
+DOMAIN-SUFFIX,xiaomisa.net
+DOMAIN-SUFFIX,xiaomisa.org
+DOMAIN-SUFFIX,xiaomiwear.com
+DOMAIN-SUFFIX,xiaomixiaoai.com
+DOMAIN-SUFFIX,xiaomiyoupin.com
+DOMAIN-SUFFIX,xlaomi.net
+DOMAIN-SUFFIX,youpin.cn
+DOMAIN-SUFFIX,youpin.com.cn
+DOMAIN-SUFFIX,zhutidasai.com
+IP-CIDR,110.43.63.242/32,no-resolve
+IP-CIDR,120.133.33.222/32,no-resolve
+IP-CIDR,47.241.176.221/32,no-resolve
+IP-CIDR,58.220.58.152/31,no-resolve
+IP-CIDR,58.220.59.2/32,no-resolve
+PROCESS-NAME,com.xiaomi.mibrain.speech

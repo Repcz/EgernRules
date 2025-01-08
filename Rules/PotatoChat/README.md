@@ -21,21 +21,30 @@ PotatoChat规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 3  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- PotatoChat.yaml，请使用RULE-SET。
+- PotatoChat_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- PotatoChat_Resolve.yaml与PotatoChat.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - PotatoChat.yaml 单独使用。
+- PotatoChat_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/PotatoChat/PotatoChat.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PotatoChat/PotatoChat.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/PotatoChat/PotatoChat.list
 
 
 

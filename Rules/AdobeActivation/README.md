@@ -22,21 +22,30 @@ AdobeActivation规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 118  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AdobeActivation.yaml，请使用RULE-SET。
+- AdobeActivation_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- AdobeActivation_Resolve.yaml与AdobeActivation.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - AdobeActivation.yaml 单独使用。
+- AdobeActivation_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AdobeActivation/AdobeActivation.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdobeActivation/AdobeActivation.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AdobeActivation/AdobeActivation.list
 
 
 

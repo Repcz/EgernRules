@@ -1,41 +1,32 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- appledaily.com
-- appledaily.com.hk
-- appledaily.com.tw
-- appledaily.hk
-- applefruity.com
-- applehealth.com.hk
-- atnext.com
-- bestmallawards.com
-- deluxe.com.hk
-- eracom.com.tw
-- next.hk
-- nextdigital.com.hk
-- nextdigital.com.tw
-- nextfilm.com.hk
-- nextmag.com.tw
-- nextmedia.com
-- nextmedia.com.tw
-- nextmgz.com
-- nextplus.com.hk
-- nexttv.com.tw
-- nextwork.com.hk
-- nextwork.com.tw
-- nextwork.hk
-- nextwork.tw
-- nxtdig.com.hk
-- nxtdig.com.tw
-- omoplanet.com
-- privilege.hk
-- privilege.tw
-- sharpdaily.tw
-- tomonews.net
-- twnextdigital.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,appledaily.com.hk
+DOMAIN-SUFFIX,appledaily.com.tw
+DOMAIN-SUFFIX,appledaily.hk
+DOMAIN-SUFFIX,applefruity.com
+DOMAIN-SUFFIX,applehealth.com.hk
+DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,bestmallawards.com
+DOMAIN-SUFFIX,deluxe.com.hk
+DOMAIN-SUFFIX,eracom.com.tw
+DOMAIN-SUFFIX,next.hk
+DOMAIN-SUFFIX,nextdigital.com.hk
+DOMAIN-SUFFIX,nextdigital.com.tw
+DOMAIN-SUFFIX,nextfilm.com.hk
+DOMAIN-SUFFIX,nextmag.com.tw
+DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nextmedia.com.tw
+DOMAIN-SUFFIX,nextmgz.com
+DOMAIN-SUFFIX,nextplus.com.hk
+DOMAIN-SUFFIX,nexttv.com.tw
+DOMAIN-SUFFIX,nextwork.com.hk
+DOMAIN-SUFFIX,nextwork.com.tw
+DOMAIN-SUFFIX,nextwork.hk
+DOMAIN-SUFFIX,nextwork.tw
+DOMAIN-SUFFIX,nxtdig.com.hk
+DOMAIN-SUFFIX,nxtdig.com.tw
+DOMAIN-SUFFIX,omoplanet.com
+DOMAIN-SUFFIX,privilege.hk
+DOMAIN-SUFFIX,privilege.tw
+DOMAIN-SUFFIX,sharpdaily.tw
+DOMAIN-SUFFIX,tomonews.net
+DOMAIN-SUFFIX,twnextdigital.com

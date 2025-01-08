@@ -1,18 +1,12 @@
-no_resolve: true
-domain_set:
-- wetv.qq.com
-domain_suffix_set:
-- iflix-images.akamaized.net
-- iflix.com
-- v.smtcdns.com
-- v.smtcdns.net
-- vv.video.qq.com
-- wetv.vip
-- wetvinfo.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-- 150.109.28.51/32
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,wetv.qq.com
+DOMAIN-SUFFIX,iflix-images.akamaized.net
+DOMAIN-SUFFIX,iflix.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,v.smtcdns.net
+DOMAIN-SUFFIX,vv.video.qq.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+IP-CIDR,150.109.28.51/32,no-resolve
+PROCESS-NAME,com.tencent.qqlivei18n
+PROCESS-NAME,com.tencent.qqlivei18n.us
+USER-AGENT,WeTV*

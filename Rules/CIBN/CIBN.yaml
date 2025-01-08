@@ -1,79 +1,71 @@
-domain_set:
-domain_suffix_set:
-- apecn.com
-- china-ceec-cooperation.com
-- china.com
-- chinabroadcast.cn
-- chinamwh.com
-- chinaradio.cn
-- chinesecity.com.cn
-- chinesefilms.cn
-- chineseradio.cn
-- chineseradio.com.cn
-- cibn-intl.com
-- cibn.cc
-- cibnlive.cn
-- cibnlive.com
-- cibnott.net
-- cibntv.net
-- cri-grandera.com
-- cri-on.com
-- cri.cn
-- cri.com.cn
-- criankara.com
-- criarabic.com
-- criberlin.com
-- cribsas.com
-- crichinese.cn
-- cricr.cn
-- cricz.cn
-- crieasyfm.com
-- crienglish.com
-- criezfm.cn
-- criezfm.com
-- crilondon.com
-- crimoscow.com
-- crinewsradio.cn
-- crinihaochina.com
-- crionline.cn
-- cririo.com
-- criseoul.com
-- crisydney.com
-- critokyo.com
-- criwashington.com
-- discoverplusradio.cn
-- discoverplusradio.com.cn
-- globalfm.cn
-- guotv.com
-- guotv.com.cn
-- gvmedia.com.cn
-- hitfm.cn
-- huawangzhixun.com
-- imgcdc.com
-- inetradio.cn
-- itaiwannews.cn
-- musicplusradio.cn
-- newsplusradio.cn
-- nihaotv.net
-- novotrail.com
-- novotrails.com
-- primeplusradio.cn
-- readingchinese.cn
-- silkroddream.com
-- silktrek.com
-- sinorusfocus.com
-- sinorussian21st.org
-- starschina.cn
-- starschina.com
-- starschina.com.cn
-- starschinalive.com
-- temyee.com
-- vdnplus.cn
-- vdnplus.com
-- vdnplus.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,apecn.com
+DOMAIN-SUFFIX,china-ceec-cooperation.com
+DOMAIN-SUFFIX,china.com
+DOMAIN-SUFFIX,chinabroadcast.cn
+DOMAIN-SUFFIX,chinamwh.com
+DOMAIN-SUFFIX,chinaradio.cn
+DOMAIN-SUFFIX,chinesecity.com.cn
+DOMAIN-SUFFIX,chinesefilms.cn
+DOMAIN-SUFFIX,chineseradio.cn
+DOMAIN-SUFFIX,chineseradio.com.cn
+DOMAIN-SUFFIX,cibn-intl.com
+DOMAIN-SUFFIX,cibn.cc
+DOMAIN-SUFFIX,cibnlive.cn
+DOMAIN-SUFFIX,cibnlive.com
+DOMAIN-SUFFIX,cibnott.net
+DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,cri-grandera.com
+DOMAIN-SUFFIX,cri-on.com
+DOMAIN-SUFFIX,cri.cn
+DOMAIN-SUFFIX,cri.com.cn
+DOMAIN-SUFFIX,criankara.com
+DOMAIN-SUFFIX,criarabic.com
+DOMAIN-SUFFIX,criberlin.com
+DOMAIN-SUFFIX,cribsas.com
+DOMAIN-SUFFIX,crichinese.cn
+DOMAIN-SUFFIX,cricr.cn
+DOMAIN-SUFFIX,cricz.cn
+DOMAIN-SUFFIX,crieasyfm.com
+DOMAIN-SUFFIX,crienglish.com
+DOMAIN-SUFFIX,criezfm.cn
+DOMAIN-SUFFIX,criezfm.com
+DOMAIN-SUFFIX,crilondon.com
+DOMAIN-SUFFIX,crimoscow.com
+DOMAIN-SUFFIX,crinewsradio.cn
+DOMAIN-SUFFIX,crinihaochina.com
+DOMAIN-SUFFIX,crionline.cn
+DOMAIN-SUFFIX,cririo.com
+DOMAIN-SUFFIX,criseoul.com
+DOMAIN-SUFFIX,crisydney.com
+DOMAIN-SUFFIX,critokyo.com
+DOMAIN-SUFFIX,criwashington.com
+DOMAIN-SUFFIX,discoverplusradio.cn
+DOMAIN-SUFFIX,discoverplusradio.com.cn
+DOMAIN-SUFFIX,globalfm.cn
+DOMAIN-SUFFIX,guotv.com
+DOMAIN-SUFFIX,guotv.com.cn
+DOMAIN-SUFFIX,gvmedia.com.cn
+DOMAIN-SUFFIX,hitfm.cn
+DOMAIN-SUFFIX,huawangzhixun.com
+DOMAIN-SUFFIX,imgcdc.com
+DOMAIN-SUFFIX,inetradio.cn
+DOMAIN-SUFFIX,itaiwannews.cn
+DOMAIN-SUFFIX,musicplusradio.cn
+DOMAIN-SUFFIX,newsplusradio.cn
+DOMAIN-SUFFIX,nihaotv.net
+DOMAIN-SUFFIX,novotrail.com
+DOMAIN-SUFFIX,novotrails.com
+DOMAIN-SUFFIX,primeplusradio.cn
+DOMAIN-SUFFIX,readingchinese.cn
+DOMAIN-SUFFIX,silkroddream.com
+DOMAIN-SUFFIX,silktrek.com
+DOMAIN-SUFFIX,sinorusfocus.com
+DOMAIN-SUFFIX,sinorussian21st.org
+DOMAIN-SUFFIX,starschina.cn
+DOMAIN-SUFFIX,starschina.com
+DOMAIN-SUFFIX,starschina.com.cn
+DOMAIN-SUFFIX,starschinalive.com
+DOMAIN-SUFFIX,temyee.com
+DOMAIN-SUFFIX,vdnplus.cn
+DOMAIN-SUFFIX,vdnplus.com
+DOMAIN-SUFFIX,vdnplus.net

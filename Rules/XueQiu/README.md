@@ -21,7 +21,10 @@
 | TOTAL(仅供参考) | 11  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- XueQiu.yaml，请使用RULE-SET。
 
 #### 配置建议
 - XueQiu.yaml 单独使用。
@@ -29,13 +32,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/XueQiu/XueQiu.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueQiu/XueQiu.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/XueQiu/XueQiu.list
 
 
 

@@ -20,24 +20,34 @@ MEGA规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 3  | 
 | IP-CIDR | 3  | 
 | IP-CIDR6 | 7  | 
-| TOTAL(仅供参考) | 13  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 14  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- MEGA.yaml，请使用RULE-SET。
+- MEGA_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- MEGA_Resolve.yaml与MEGA.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - MEGA.yaml 单独使用。
+- MEGA_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/MEGA/MEGA.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MEGA/MEGA.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/MEGA/MEGA.list
 
 
 

@@ -1,15 +1,6 @@
-no_resolve: true
-domain_set:
-- speed.dler.io
-domain_suffix_set:
-- fast.com
-- ooklaserver.net
-- speed.cloudflare.com
-- speed.dler.io
-domain_keyword_set:
-- speedtest
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*

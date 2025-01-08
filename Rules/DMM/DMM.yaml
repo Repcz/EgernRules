@@ -1,29 +1,20 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- akabeesoft2.com
-- akabeesoft3.com
-- akatsukiworks.com
-- alicesoft.com
-- api-p.videomarket.jp
-- cosmiccute.com
-- ddo.jp
-- dmm-extension.com
-- dmm.co.jp
-- dmm.com
-- dmm.hk
-- dmmapis.com
-- dmmrex.com
-- hibiki-site.com
-- minori.ph
-- navismithapis-cdn.com
-- tenco.cc
-- wheel-soft.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-- 125.6.189.7/32
-- 203.104.209.7/32
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve

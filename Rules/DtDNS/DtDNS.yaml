@@ -1,26 +1,17 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- 3d-game.com
-- 4irc.com
-- b0ne.com
-- chatnook.com
-- darktech.org
-- deaftone.com
-- dtdns.com
-- dtdns.net
-- effers.com
-- etowns.net
-- etowns.org
-- flnet.org
-- gotgeeks.com
-- scieron.com
-- slyip.com
-- slyip.net
-- suroot.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,3d-game.com
+DOMAIN-SUFFIX,4irc.com
+DOMAIN-SUFFIX,b0ne.com
+DOMAIN-SUFFIX,chatnook.com
+DOMAIN-SUFFIX,darktech.org
+DOMAIN-SUFFIX,deaftone.com
+DOMAIN-SUFFIX,dtdns.com
+DOMAIN-SUFFIX,dtdns.net
+DOMAIN-SUFFIX,effers.com
+DOMAIN-SUFFIX,etowns.net
+DOMAIN-SUFFIX,etowns.org
+DOMAIN-SUFFIX,flnet.org
+DOMAIN-SUFFIX,gotgeeks.com
+DOMAIN-SUFFIX,scieron.com
+DOMAIN-SUFFIX,slyip.com
+DOMAIN-SUFFIX,slyip.net
+DOMAIN-SUFFIX,suroot.com

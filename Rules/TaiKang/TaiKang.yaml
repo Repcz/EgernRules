@@ -1,46 +1,38 @@
-domain_set:
-domain_suffix_set:
-- 12333tc.com
-- 95522.cn
-- 95522.com.cn
-- 95522.net.cn
-- bjsjsch12333.com
-- changhu12333.com
-- eagent.cn
-- gzch12333.com
-- jmch12333.com
-- jxch12333.com
-- qqhrch12333.com
-- sdhz12333.com
-- sdrz12333.com
-- shzch12333.com
-- srch12333.cn
-- taihealthcare.com
-- taikang.com
-- taikang.net.cn
-- taikangfoundation.org.cn
-- taikanginv.com
-- taikanglife.cn
-- taikanglife.com
-- taikanglife.com.cn
-- taikanglife.net
-- taikanglife.net.cn
-- taikangonline.cn
-- taikangonline.com
-- taikangonline.net
-- taikangonline.net.cn
-- taikangph.com
-- taikangzhijia.com
-- tanxingfuli.cn
-- tanxingfuli.com
-- tanxingfuli.com.cn
-- tk-life.com
-- tk.cn
-- tkhealthcare.com
-- tkmedicare.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,12333tc.com
+DOMAIN-SUFFIX,95522.cn
+DOMAIN-SUFFIX,95522.com.cn
+DOMAIN-SUFFIX,95522.net.cn
+DOMAIN-SUFFIX,bjsjsch12333.com
+DOMAIN-SUFFIX,changhu12333.com
+DOMAIN-SUFFIX,eagent.cn
+DOMAIN-SUFFIX,gzch12333.com
+DOMAIN-SUFFIX,jmch12333.com
+DOMAIN-SUFFIX,jxch12333.com
+DOMAIN-SUFFIX,qqhrch12333.com
+DOMAIN-SUFFIX,sdhz12333.com
+DOMAIN-SUFFIX,sdrz12333.com
+DOMAIN-SUFFIX,shzch12333.com
+DOMAIN-SUFFIX,srch12333.cn
+DOMAIN-SUFFIX,taihealthcare.com
+DOMAIN-SUFFIX,taikang.com
+DOMAIN-SUFFIX,taikang.net.cn
+DOMAIN-SUFFIX,taikangfoundation.org.cn
+DOMAIN-SUFFIX,taikanginv.com
+DOMAIN-SUFFIX,taikanglife.cn
+DOMAIN-SUFFIX,taikanglife.com
+DOMAIN-SUFFIX,taikanglife.com.cn
+DOMAIN-SUFFIX,taikanglife.net
+DOMAIN-SUFFIX,taikanglife.net.cn
+DOMAIN-SUFFIX,taikangonline.cn
+DOMAIN-SUFFIX,taikangonline.com
+DOMAIN-SUFFIX,taikangonline.net
+DOMAIN-SUFFIX,taikangonline.net.cn
+DOMAIN-SUFFIX,taikangph.com
+DOMAIN-SUFFIX,taikangzhijia.com
+DOMAIN-SUFFIX,tanxingfuli.cn
+DOMAIN-SUFFIX,tanxingfuli.com
+DOMAIN-SUFFIX,tanxingfuli.com.cn
+DOMAIN-SUFFIX,tk-life.com
+DOMAIN-SUFFIX,tk.cn
+DOMAIN-SUFFIX,tkhealthcare.com
+DOMAIN-SUFFIX,tkmedicare.com

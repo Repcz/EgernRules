@@ -18,10 +18,14 @@
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 7  | 
-| TOTAL(仅供参考) | 7  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 8  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- JinJiangWenXue.yaml，请使用RULE-SET。
 
 #### 配置建议
 - JinJiangWenXue.yaml 单独使用。
@@ -29,13 +33,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/JinJiangWenXue/JinJiangWenXue.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JinJiangWenXue/JinJiangWenXue.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/JinJiangWenXue/JinJiangWenXue.list
 
 
 

@@ -29,22 +29,36 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 31523  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaIPsTest.yaml，请使用RULE-SET。
+- ChinaIPsTest_Resolve.yaml，请使用RULE-SET。
+- ChinaIPsTest_No_IPv6.yaml，请使用RULE-SET。
+- ChinaIPsTest_No_IPv6_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ChinaIPsTest_Resolve.yaml与ChinaIPsTest.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
+- ChinaIPsTest.yaml与ChinaIPsTest_No_IPv6.list的区别仅在于后者不带IPv6类型的规则，适用纯IPv4网络。
+- ChinaIPsTest_Resolve.yaml与ChinaIPsTest_No_IPv6_Resolve.list的区别仅在于后者不带IPv6类型的规则，且不带no-resolve，适用纯IPv4网络。
 
 #### 配置建议
 - ChinaIPsTest.yaml 单独使用。
-- ChinaIPsTest_No_IPv6.yaml 单独使用。
+- ChinaIPsTest_Resolve.yaml 单独使用。
+- ChinaIPsTest_No_IPv6.yaml 纯IPv4网络，单独使用。
+- ChinaIPsTest_No_IPv6_Resolve.yaml 纯IPv4网络，单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaIPs/ChinaIPsTest/ChinaIPsTest.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list
 
 
 

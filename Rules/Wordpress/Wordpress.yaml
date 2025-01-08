@@ -1,17 +1,8 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- videopress.com
-- w.org
-- wordpress.com
-- wordpress.org
-- wordpress.tv
-- wp-themes.com
-- wp.com
-- wpvip.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com

@@ -1,38 +1,29 @@
-no_resolve: true
-domain_set:
-- a0.app.xiaomi.com
-- api.installer.xiaomi.com
-- api.jr.mi.com
-- auth.be.sec.miui.com
-- ccc.sys.miui.com
-- cn.app.chat.xiaomi.net
-- data.mistat.xiaomi.com
-- diagnosis.ad.xiaomi.com
-- etl-xlmc-ssl.sandai.net
-- flash.sec.miui.com
-- idm.api.io.mi.com
-- ixav-cse.avlyun.com
-- jupiter.sys.miui.com
-- log.ad.xiaomi.com
-- log.avlyun.sec.intl.miui.com
-- logupdate.avlyun.sec.miui.com
-- m.track.ad.xiaomi.com
-- mazu.sec.miui.com
-- metok.sys.miui.com
-- miav-cse.avlyun.com
-- miui-fxcse.avlyun.com
-- qsb.browser.miui.srv
-- rom.pt.miui.srv
-- sdkconf.avlyun.com
-- sdkconfig.ad.xiaomi.com
-- ssl-cdn.static.browser.mi-img.com
-- tmfsdk.m.qq.com
-- tracking.miui.com
-- update.avlyun.sec.miui.com
-domain_suffix_set:
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,a0.app.xiaomi.com
+DOMAIN,api.installer.xiaomi.com
+DOMAIN,api.jr.mi.com
+DOMAIN,auth.be.sec.miui.com
+DOMAIN,ccc.sys.miui.com
+DOMAIN,cn.app.chat.xiaomi.net
+DOMAIN,data.mistat.xiaomi.com
+DOMAIN,diagnosis.ad.xiaomi.com
+DOMAIN,etl-xlmc-ssl.sandai.net
+DOMAIN,flash.sec.miui.com
+DOMAIN,idm.api.io.mi.com
+DOMAIN,ixav-cse.avlyun.com
+DOMAIN,jupiter.sys.miui.com
+DOMAIN,log.ad.xiaomi.com
+DOMAIN,log.avlyun.sec.intl.miui.com
+DOMAIN,logupdate.avlyun.sec.miui.com
+DOMAIN,m.track.ad.xiaomi.com
+DOMAIN,mazu.sec.miui.com
+DOMAIN,metok.sys.miui.com
+DOMAIN,miav-cse.avlyun.com
+DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,qsb.browser.miui.srv
+DOMAIN,rom.pt.miui.srv
+DOMAIN,sdkconf.avlyun.com
+DOMAIN,sdkconfig.ad.xiaomi.com
+DOMAIN,ssl-cdn.static.browser.mi-img.com
+DOMAIN,tmfsdk.m.qq.com
+DOMAIN,tracking.miui.com
+DOMAIN,update.avlyun.sec.miui.com

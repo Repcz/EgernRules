@@ -24,21 +24,36 @@
 | TOTAL(仅供参考) | 39054  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Privacy.yaml，请使用RULE-SET。
+- Privacy_Resolve.yaml，请使用RULE-SET。
+- Privacy_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- Privacy_All.yaml与Privacy_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- Privacy_Resolve.yaml与Privacy.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- Privacy.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Privacy_All.yaml 单独使用。
+- Privacy_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- Privacy.yaml、Privacy_Domain.list 共同使用。
+- Privacy_Resolve.yaml、Privacy_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Privacy/Privacy.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Privacy/Privacy.list
 
 
 

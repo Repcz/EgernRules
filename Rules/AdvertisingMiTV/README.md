@@ -28,7 +28,10 @@ https://www.zhihu.com/question/307466160
 | TOTAL(仅供参考) | 165  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AdvertisingMiTV.yaml，请使用RULE-SET。
 
 #### 配置建议
 - AdvertisingMiTV.yaml 单独使用。
@@ -36,13 +39,14 @@ https://www.zhihu.com/question/307466160
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AdvertisingMiTV/AdvertisingMiTV.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list
 
 
 

@@ -1,45 +1,37 @@
-domain_set:
-domain_suffix_set:
-- cdndo.com
-- ecloud-gdu.com
-- fshark.cn
-- ibusre.cn
-- ipbaohe.com
-- ipssh.net
-- u-cdn.com
-- u-cdn.net
-- ucgslb.cn
-- ucgslb.com
-- ucgslb.info
-- ucgslb.net
-- ucgslb.top
-- ucloud.cn
-- ucloud.com.cn
-- ucloud365.com
-- ucloudadmin.com
-- ucloudapi.com
-- ucloudgda.com
-- ucloudoss.com
-- ucloudstack.cn
-- ucloudstack.com
-- ucloudstack.net
-- uclouduewaf.com
-- ucloudufile.com
-- uewaf.com
-- ufileos.com
-- ugslb.cn
-- ugslb.com
-- ugslb.info
-- ugslb.net
-- ugslb.top
-- ugslb2.net
-- uhasadmin.com
-- unaming.net
-- urome.cn
-- urtc.com.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,cdndo.com
+DOMAIN-SUFFIX,ecloud-gdu.com
+DOMAIN-SUFFIX,fshark.cn
+DOMAIN-SUFFIX,ibusre.cn
+DOMAIN-SUFFIX,ipbaohe.com
+DOMAIN-SUFFIX,ipssh.net
+DOMAIN-SUFFIX,u-cdn.com
+DOMAIN-SUFFIX,u-cdn.net
+DOMAIN-SUFFIX,ucgslb.cn
+DOMAIN-SUFFIX,ucgslb.com
+DOMAIN-SUFFIX,ucgslb.info
+DOMAIN-SUFFIX,ucgslb.net
+DOMAIN-SUFFIX,ucgslb.top
+DOMAIN-SUFFIX,ucloud.cn
+DOMAIN-SUFFIX,ucloud.com.cn
+DOMAIN-SUFFIX,ucloud365.com
+DOMAIN-SUFFIX,ucloudadmin.com
+DOMAIN-SUFFIX,ucloudapi.com
+DOMAIN-SUFFIX,ucloudgda.com
+DOMAIN-SUFFIX,ucloudoss.com
+DOMAIN-SUFFIX,ucloudstack.cn
+DOMAIN-SUFFIX,ucloudstack.com
+DOMAIN-SUFFIX,ucloudstack.net
+DOMAIN-SUFFIX,uclouduewaf.com
+DOMAIN-SUFFIX,ucloudufile.com
+DOMAIN-SUFFIX,uewaf.com
+DOMAIN-SUFFIX,ufileos.com
+DOMAIN-SUFFIX,ugslb.cn
+DOMAIN-SUFFIX,ugslb.com
+DOMAIN-SUFFIX,ugslb.info
+DOMAIN-SUFFIX,ugslb.net
+DOMAIN-SUFFIX,ugslb.top
+DOMAIN-SUFFIX,ugslb2.net
+DOMAIN-SUFFIX,uhasadmin.com
+DOMAIN-SUFFIX,unaming.net
+DOMAIN-SUFFIX,urome.cn
+DOMAIN-SUFFIX,urtc.com.cn

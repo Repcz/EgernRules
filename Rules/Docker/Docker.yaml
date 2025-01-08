@@ -1,16 +1,7 @@
-no_resolve: true
-domain_set:
-- d1q6f0aelx0por.cloudfront.net
-- d2wy8f7a9ursnm.cloudfront.net
-- d36jcksde1wxzq.cloudfront.net
-domain_suffix_set:
-- compose-spec.io
-- docker.com
-- docker.io
-- dockerhub.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com

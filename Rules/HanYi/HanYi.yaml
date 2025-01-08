@@ -1,17 +1,9 @@
-domain_set:
-- hellofontpreview.oss-cn-beijing.aliyuncs.com
-- hellowebfonts.oss-cn-beijing.aliyuncs.com
-domain_suffix_set:
-- fontstar.com.cn
-- fontstudio.cn
-- hanyi.com
-- hanyi.com.cn
-- hellowebfont.com
-- ifont.cn
-- joytype.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,fontstar.com.cn
+DOMAIN-SUFFIX,fontstudio.cn
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+DOMAIN-SUFFIX,hellowebfont.com
+DOMAIN-SUFFIX,ifont.cn
+DOMAIN-SUFFIX,joytype.com

@@ -1,13 +1,4 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- 2k.com
-- 2kcoretech.online
-- 2kgames.com
-- take2games.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,take2games.com

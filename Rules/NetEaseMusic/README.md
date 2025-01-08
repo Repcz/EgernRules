@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2024-07-05 02:11:37
+最后更新时间：2024-07-03 16:16:37
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -24,21 +24,30 @@
 | TOTAL(仅供参考) | 30  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- NetEaseMusic.yaml，请使用RULE-SET。
+- NetEaseMusic_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- NetEaseMusic_Resolve.yaml与NetEaseMusic.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - NetEaseMusic.yaml 单独使用。
+- NetEaseMusic_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/NetEaseMusic/NetEaseMusic.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NetEaseMusic/NetEaseMusic.list
 
 
 

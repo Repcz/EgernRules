@@ -1,13 +1,5 @@
-domain_set:
-domain_suffix_set:
-- bitauto.com
-- bitautoimg.com
-- cheyisou.com
-- yccdn.com
-- yiche.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,bitautoimg.com
+DOMAIN-SUFFIX,cheyisou.com
+DOMAIN-SUFFIX,yccdn.com
+DOMAIN-SUFFIX,yiche.com

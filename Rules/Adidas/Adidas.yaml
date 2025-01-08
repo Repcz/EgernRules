@@ -1,28 +1,19 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- adidas.at
-- adidas.be
-- adidas.ch
-- adidas.co.in
-- adidas.co.uk
-- adidas.com
-- adidas.com.cn
-- adidas.com.sa
-- adidas.com.tw
-- adidas.cz
-- adidas.de
-- adidas.dk
-- adidas.hu
-- adidas.ie
-- adidas.it
-- adidas.nl
-- adidas.pl
-- adidas.ru
-- adidas.se
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,adidas.at
+DOMAIN-SUFFIX,adidas.be
+DOMAIN-SUFFIX,adidas.ch
+DOMAIN-SUFFIX,adidas.co.in
+DOMAIN-SUFFIX,adidas.co.uk
+DOMAIN-SUFFIX,adidas.com
+DOMAIN-SUFFIX,adidas.com.cn
+DOMAIN-SUFFIX,adidas.com.sa
+DOMAIN-SUFFIX,adidas.com.tw
+DOMAIN-SUFFIX,adidas.cz
+DOMAIN-SUFFIX,adidas.de
+DOMAIN-SUFFIX,adidas.dk
+DOMAIN-SUFFIX,adidas.hu
+DOMAIN-SUFFIX,adidas.ie
+DOMAIN-SUFFIX,adidas.it
+DOMAIN-SUFFIX,adidas.nl
+DOMAIN-SUFFIX,adidas.pl
+DOMAIN-SUFFIX,adidas.ru
+DOMAIN-SUFFIX,adidas.se

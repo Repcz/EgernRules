@@ -1,12 +1,4 @@
-domain_set:
-domain_suffix_set:
-- 178.com
-- nga.cn
-- ngabbs.com
-- ngacn.cc
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,ngabbs.com
+DOMAIN-SUFFIX,ngacn.cc

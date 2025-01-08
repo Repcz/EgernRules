@@ -1,21 +1,12 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- codei.sh
-- codeish.co
-- codeish.io
-- heroku-app.com
-- heroku-charge.com
-- heroku.co
-- heroku.com
-- heroku.me
-- herokuapp.com
-- herokucdn.com
-- herokucharge.com
-- herokussl.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,codei.sh
+DOMAIN-SUFFIX,codeish.co
+DOMAIN-SUFFIX,codeish.io
+DOMAIN-SUFFIX,heroku-app.com
+DOMAIN-SUFFIX,heroku-charge.com
+DOMAIN-SUFFIX,heroku.co
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,heroku.me
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokucdn.com
+DOMAIN-SUFFIX,herokucharge.com
+DOMAIN-SUFFIX,herokussl.com

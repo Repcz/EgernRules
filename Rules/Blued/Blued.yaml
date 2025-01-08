@@ -1,42 +1,33 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- bf99.com
-- bldimg.com
-- bldlive.com
-- blue-city.com
-- blued.cdn-gw-dv.net
-- blued.cn
-- blued.com
-- blued.gw-dv.net
-- bluedgames.cn
-- bluedgames.com
-- bluedimg.cn
-- bluedimg.com
-- budimg.cn
-- caihongqi.com
-- danlan.org
-- danlancare.cn
-- danlancare.com
-- danlanlove.cn
-- danlanlove.com
-- fleeper.com
-- irisdt.cn
-- irisdt.com
-- irisdt.net
-- irisgw.cn
-- irisgw.com
-- irisgw.net
-- ourbluecity.cn
-- ourbluecity.com
-- xiaogegelive.cn
-- xiaogegelive.com
-- xiaolanapp.com
-- yijian-app.cn
-- yijian-app.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bf99.com
+DOMAIN-SUFFIX,bldimg.com
+DOMAIN-SUFFIX,bldlive.com
+DOMAIN-SUFFIX,blue-city.com
+DOMAIN-SUFFIX,blued.cdn-gw-dv.net
+DOMAIN-SUFFIX,blued.cn
+DOMAIN-SUFFIX,blued.com
+DOMAIN-SUFFIX,blued.gw-dv.net
+DOMAIN-SUFFIX,bluedgames.cn
+DOMAIN-SUFFIX,bluedgames.com
+DOMAIN-SUFFIX,bluedimg.cn
+DOMAIN-SUFFIX,bluedimg.com
+DOMAIN-SUFFIX,budimg.cn
+DOMAIN-SUFFIX,caihongqi.com
+DOMAIN-SUFFIX,danlan.org
+DOMAIN-SUFFIX,danlancare.cn
+DOMAIN-SUFFIX,danlancare.com
+DOMAIN-SUFFIX,danlanlove.cn
+DOMAIN-SUFFIX,danlanlove.com
+DOMAIN-SUFFIX,fleeper.com
+DOMAIN-SUFFIX,irisdt.cn
+DOMAIN-SUFFIX,irisdt.com
+DOMAIN-SUFFIX,irisdt.net
+DOMAIN-SUFFIX,irisgw.cn
+DOMAIN-SUFFIX,irisgw.com
+DOMAIN-SUFFIX,irisgw.net
+DOMAIN-SUFFIX,ourbluecity.cn
+DOMAIN-SUFFIX,ourbluecity.com
+DOMAIN-SUFFIX,xiaogegelive.cn
+DOMAIN-SUFFIX,xiaogegelive.com
+DOMAIN-SUFFIX,xiaolanapp.com
+DOMAIN-SUFFIX,yijian-app.cn
+DOMAIN-SUFFIX,yijian-app.com

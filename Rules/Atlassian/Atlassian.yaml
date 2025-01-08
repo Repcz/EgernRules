@@ -1,14 +1,5 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- atlassian.com
-- bitbucket.org
-- statuspage.io
-- trello.com
-- trellocdn.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com

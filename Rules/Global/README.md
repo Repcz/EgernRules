@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -21,35 +21,51 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-01-06 02:11:54
+最后更新时间：2025-01-06 02:11:37
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 535  | 
+| DOMAIN | 84  | 
 | DOMAIN-KEYWORD | 36  | 
-| DOMAIN-SUFFIX | 30787  | 
+| DOMAIN-SUFFIX | 30755  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 46  | 
-| TOTAL(仅供参考) | 31520  | 
+| TOTAL(仅供参考) | 31038  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Global.yaml，请使用RULE-SET。
+- Global_Resolve.yaml，请使用RULE-SET。
+- Global_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- Global_All.yaml与Global_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- Global_Resolve.yaml与Global.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- Global.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Global_All.yaml 单独使用。
+- Global_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- Global.yaml、Global_Domain.list 共同使用。
+- Global_Resolve.yaml、Global_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Global/Global.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Global/Global.list
 
 
 

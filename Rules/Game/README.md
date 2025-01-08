@@ -27,21 +27,30 @@
 | TOTAL(仅供参考) | 597  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Game.yaml，请使用RULE-SET。
+- Game_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Game_Resolve.yaml与Game.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Game.yaml 单独使用。
+- Game_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Game/Game.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Game/Game.list
 
 
 

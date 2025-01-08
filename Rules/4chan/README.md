@@ -21,7 +21,10 @@
 | TOTAL(仅供参考) | 3  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- 4chan.yaml，请使用RULE-SET。
 
 #### 配置建议
 - 4chan.yaml 单独使用。
@@ -29,13 +32,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/4chan/4chan.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4chan/4chan.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/4chan/4chan.list
 
 
 

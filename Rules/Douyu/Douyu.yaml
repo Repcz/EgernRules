@@ -1,21 +1,13 @@
-domain_set:
-domain_suffix_set:
-- bytefcdnrd.com
-- douyu.com
-- douyu.tv
-- douyuba.cn
-- douyucdn.cn
-- douyucdn2.cn
-- douyupcdn.cn
-- douyuscdn.com
-- douyutv.com
-- doyonoc.com
-- edgesrv.com
-- guguyuyin.com
-- oywtv.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bytefcdnrd.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyuba.cn
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,douyupcdn.cn
+DOMAIN-SUFFIX,douyuscdn.com
+DOMAIN-SUFFIX,douyutv.com
+DOMAIN-SUFFIX,doyonoc.com
+DOMAIN-SUFFIX,edgesrv.com
+DOMAIN-SUFFIX,guguyuyin.com
+DOMAIN-SUFFIX,oywtv.com

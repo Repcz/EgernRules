@@ -1,17 +1,9 @@
-domain_set:
-domain_suffix_set:
-- a-map.cn
-- a-map.co
-- a-map.link
-- a-map.vip
-- amap.com
-- amapauto.com
-- anav.com
-- autonavi.com
-- gaode.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,a-map.cn
+DOMAIN-SUFFIX,a-map.co
+DOMAIN-SUFFIX,a-map.link
+DOMAIN-SUFFIX,a-map.vip
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amapauto.com
+DOMAIN-SUFFIX,anav.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,gaode.com

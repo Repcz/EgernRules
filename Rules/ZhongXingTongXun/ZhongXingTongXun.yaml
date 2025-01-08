@@ -1,28 +1,20 @@
-domain_set:
-domain_suffix_set:
-- 3gcare.cn
-- nubia.cc
-- nubia.cn
-- nubia.com
-- nubia.com.cn
-- nubia.mobi
-- nubia.net.cn
-- redmagic.com
-- shouhubao.com.cn
-- zte.com.cn
-- zte.net
-- ztedevice.com
-- ztedevice.com.cn
-- ztedevices.com
-- ztehotel.com
-- ztehotel.com.cn
-- ztehotel.net
-- ztemall.com
-- ztems.com
-- zxingyun.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,3gcare.cn
+DOMAIN-SUFFIX,nubia.cc
+DOMAIN-SUFFIX,nubia.cn
+DOMAIN-SUFFIX,nubia.com
+DOMAIN-SUFFIX,nubia.com.cn
+DOMAIN-SUFFIX,nubia.mobi
+DOMAIN-SUFFIX,nubia.net.cn
+DOMAIN-SUFFIX,redmagic.com
+DOMAIN-SUFFIX,shouhubao.com.cn
+DOMAIN-SUFFIX,zte.com.cn
+DOMAIN-SUFFIX,zte.net
+DOMAIN-SUFFIX,ztedevice.com
+DOMAIN-SUFFIX,ztedevice.com.cn
+DOMAIN-SUFFIX,ztedevices.com
+DOMAIN-SUFFIX,ztehotel.com
+DOMAIN-SUFFIX,ztehotel.com.cn
+DOMAIN-SUFFIX,ztehotel.net
+DOMAIN-SUFFIX,ztemall.com
+DOMAIN-SUFFIX,ztems.com
+DOMAIN-SUFFIX,zxingyun.com

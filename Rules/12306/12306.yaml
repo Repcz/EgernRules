@@ -1,23 +1,15 @@
-domain_set:
-domain_suffix_set:
-- 12306.cn
-- 95306.cn
-- 95572.com
-- china-railway.com.cn
-- china-ric.com
-- crct.com
-- cre.cn
-- crecc.com.cn
-- creip.cn
-- crscl.com.cn
-- gzrailway.com.cn
-- nntlj.com
-- peoplerail.com
-- rails.cn
-- tdpress.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,95306.cn
+DOMAIN-SUFFIX,95572.com
+DOMAIN-SUFFIX,china-railway.com.cn
+DOMAIN-SUFFIX,china-ric.com
+DOMAIN-SUFFIX,crct.com
+DOMAIN-SUFFIX,cre.cn
+DOMAIN-SUFFIX,crecc.com.cn
+DOMAIN-SUFFIX,creip.cn
+DOMAIN-SUFFIX,crscl.com.cn
+DOMAIN-SUFFIX,gzrailway.com.cn
+DOMAIN-SUFFIX,nntlj.com
+DOMAIN-SUFFIX,peoplerail.com
+DOMAIN-SUFFIX,rails.cn
+DOMAIN-SUFFIX,tdpress.com

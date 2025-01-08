@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) ![](https://shields.io/badge/-正则推导DOMAINNAME-033da7) 
 
 GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -20,28 +20,45 @@ GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 27  | 
 | DOMAIN-KEYWORD | 24  | 
 | DOMAIN-SUFFIX | 1256  | 
-| DOMAIN-WILDCARD | 10  | 
 | IP-CIDR | 918  | 
 | IP-CIDR6 | 6  | 
+| PROCESS-NAME | 3  | 
+| URL-REGEX | 1  | 
 | USER-AGENT(Egern不支持) | 69  | 
-| TOTAL(仅供参考) | 2310  | 
+| TOTAL(仅供参考) | 2304  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- GlobalMedia.yaml，请使用RULE-SET。
+- GlobalMedia_Resolve.yaml，请使用RULE-SET。
+- GlobalMedia_Domain.yaml，请使用DOMAIN-SET。
+- URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置GlobalMedia_MITM.sgmodule，仅供参考。
+
+#### 文件区别
+- GlobalMedia_All.yaml与GlobalMedia_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- GlobalMedia_Resolve.yaml与GlobalMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- GlobalMedia.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- GlobalMedia_All.yaml 单独使用。
+- GlobalMedia_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- GlobalMedia.yaml、GlobalMedia_Domain.list 共同使用。
+- GlobalMedia_Resolve.yaml、GlobalMedia_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/GlobalMedia/GlobalMedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/GlobalMedia/GlobalMedia.list
 
 
 

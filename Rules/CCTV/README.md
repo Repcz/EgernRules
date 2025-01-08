@@ -21,7 +21,10 @@ CCTV规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 37  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- CCTV.yaml，请使用RULE-SET。
 
 #### 配置建议
 - CCTV.yaml 单独使用。
@@ -29,13 +32,14 @@ CCTV规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/CCTV/CCTV.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCTV/CCTV.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/CCTV/CCTV.list
 
 
 

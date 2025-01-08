@@ -1,18 +1,10 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- dmc.nico
-- nicodic.jp
-- nicomanga.jp
-- niconico.com
-- nicoseiga.jp
-- nicovideo.jp
-- nimg.jp
-- simg.jp
-- socdm.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,socdm.com
+USER-AGENT,Niconico*

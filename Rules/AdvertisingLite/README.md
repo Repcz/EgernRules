@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-移除无法解析的域名-important) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN与DOMAIN--KEYWORD合并-9cf) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-移除无法解析的域名-important) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN与DOMAIN--KEYWORD合并-9cf) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) ![](https://shields.io/badge/-正则推导DOMAINNAME-033da7) 
 
 去广告精简版规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -20,29 +20,47 @@
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| AND | 1  | 
 | DOMAIN | 23745  | 
 | DOMAIN-KEYWORD | 187  | 
 | DOMAIN-SUFFIX | 13910  | 
 | IP-CIDR | 184  | 
 | IP-CIDR6 | 1  | 
-| TOTAL(仅供参考) | 38027  | 
+| URL-REGEX | 2  | 
+| TOTAL(仅供参考) | 38030  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AdvertisingLite.yaml，请使用RULE-SET。
+- AdvertisingLite_Resolve.yaml，请使用RULE-SET。
+- AdvertisingLite_Domain.yaml，请使用DOMAIN-SET。
+- URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置AdvertisingLite_MITM.sgmodule，仅供参考。
+
+#### 文件区别
+- AdvertisingLite_All.yaml与AdvertisingLite_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- AdvertisingLite_Resolve.yaml与AdvertisingLite.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- AdvertisingLite.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- AdvertisingLite_All.yaml 单独使用。
+- AdvertisingLite_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- AdvertisingLite.yaml、AdvertisingLite_Domain.list 共同使用。
+- AdvertisingLite_Resolve.yaml、AdvertisingLite_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AdvertisingLite/AdvertisingLite.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AdvertisingLite/AdvertisingLite.list
 
 
 

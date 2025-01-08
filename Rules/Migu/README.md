@@ -22,7 +22,10 @@
 | TOTAL(仅供参考) | 5  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Migu.yaml，请使用RULE-SET。
 
 #### 配置建议
 - Migu.yaml 单独使用。
@@ -30,13 +33,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Migu/Migu.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Migu/Migu.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Migu/Migu.list
 
 
 

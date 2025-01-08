@@ -26,7 +26,10 @@ AdGuard DNS Filter 中的例外规则，现在单独作为Direct文件。
 | TOTAL(仅供参考) | 131  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Direct.yaml，请使用RULE-SET。
 
 #### 配置建议
 - Direct.yaml 单独使用。
@@ -34,13 +37,14 @@ AdGuard DNS Filter 中的例外规则，现在单独作为Direct文件。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AdGuardSDNSFilter/Direct/Direct.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdGuardSDNSFilter/Direct/Direct.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AdGuardSDNSFilter/Direct/Direct.list
 
 
 

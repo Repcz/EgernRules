@@ -1,17 +1,9 @@
-domain_set:
-domain_suffix_set:
-- adbxb.cn
-- adbxb.com
-- opfed.com
-- opthink.cn
-- oupeng.com
-- oupeng.net.cn
-- oupeng9.com
-- oupengcloud.cn
-- oupengcloud.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,adbxb.cn
+DOMAIN-SUFFIX,adbxb.com
+DOMAIN-SUFFIX,opfed.com
+DOMAIN-SUFFIX,opthink.cn
+DOMAIN-SUFFIX,oupeng.com
+DOMAIN-SUFFIX,oupeng.net.cn
+DOMAIN-SUFFIX,oupeng9.com
+DOMAIN-SUFFIX,oupengcloud.cn
+DOMAIN-SUFFIX,oupengcloud.net

@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 Telegram规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,7 +12,7 @@ Telegram规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-07 02:10:13
+最后更新时间：2024-12-08 02:12:03
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -23,24 +23,35 @@ Telegram规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-ASN | 5  | 
 | IP-CIDR | 4  | 
 | IP-CIDR6 | 4  | 
-| TOTAL(仅供参考) | 38  | 
+| OR | 1  | 
+| PROCESS-NAME | 5  | 
+| TOTAL(仅供参考) | 44  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Telegram.yaml，请使用RULE-SET。
+- Telegram_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Telegram_Resolve.yaml与Telegram.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Telegram.yaml 单独使用。
+- Telegram_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Telegram/Telegram.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Telegram/Telegram.list
 
 
 

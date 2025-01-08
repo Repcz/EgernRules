@@ -1,25 +1,17 @@
-domain_set:
-domain_suffix_set:
-- afdvr.cc
-- aiwei365.com.cn
-- aiwei365.net.cn
-- cloudsee.com
-- cloudsee.net
-- cloudseetech.com
-- jovcloud.com
-- jovetech.cn
-- jovetech.com
-- jovision.cn
-- jovision.com
-- jovisionai.com
-- jovmall.com
-- nvsip.com
-- soovvi.com
-- sunywo.com
-- xunvision.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,afdvr.cc
+DOMAIN-SUFFIX,aiwei365.com.cn
+DOMAIN-SUFFIX,aiwei365.net.cn
+DOMAIN-SUFFIX,cloudsee.com
+DOMAIN-SUFFIX,cloudsee.net
+DOMAIN-SUFFIX,cloudseetech.com
+DOMAIN-SUFFIX,jovcloud.com
+DOMAIN-SUFFIX,jovetech.cn
+DOMAIN-SUFFIX,jovetech.com
+DOMAIN-SUFFIX,jovision.cn
+DOMAIN-SUFFIX,jovision.com
+DOMAIN-SUFFIX,jovisionai.com
+DOMAIN-SUFFIX,jovmall.com
+DOMAIN-SUFFIX,nvsip.com
+DOMAIN-SUFFIX,soovvi.com
+DOMAIN-SUFFIX,sunywo.com
+DOMAIN-SUFFIX,xunvision.com

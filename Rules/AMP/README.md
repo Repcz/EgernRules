@@ -22,7 +22,10 @@ AMP规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 5  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AMP.yaml，请使用RULE-SET。
 
 #### 配置建议
 - AMP.yaml 单独使用。
@@ -30,13 +33,14 @@ AMP规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AMP/AMP.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMP/AMP.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AMP/AMP.list
 
 
 

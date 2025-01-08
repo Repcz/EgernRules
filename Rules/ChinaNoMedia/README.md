@@ -23,28 +23,42 @@ ChinaNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 15  | 
 | DOMAIN-KEYWORD | 9  | 
 | DOMAIN-SUFFIX | 3585  | 
-| DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 31  | 
-| TOTAL(仅供参考) | 3656  | 
+| TOTAL(仅供参考) | 3655  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaNoMedia.yaml，请使用RULE-SET。
+- ChinaNoMedia_Resolve.yaml，请使用RULE-SET。
+- ChinaNoMedia_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- ChinaNoMedia_All.yaml与ChinaNoMedia_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- ChinaNoMedia_Resolve.yaml与ChinaNoMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- ChinaNoMedia.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- ChinaNoMedia_All.yaml 单独使用。
+- ChinaNoMedia_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- ChinaNoMedia.yaml、ChinaNoMedia_Domain.list 共同使用。
+- ChinaNoMedia_Resolve.yaml、ChinaNoMedia_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaNoMedia/ChinaNoMedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNoMedia/ChinaNoMedia.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaNoMedia/ChinaNoMedia.list
 
 
 

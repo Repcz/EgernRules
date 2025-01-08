@@ -21,7 +21,7 @@
 
 ## 规则统计
 
-最后更新时间：2025-01-08 02:13:53
+最后更新时间：2025-01-08 02:13:52
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -29,30 +29,50 @@
 | DOMAIN | 426  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 97346  | 
-| DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8320  | 
 | IP-CIDR6 | 11937  | 
+| PROCESS-NAME | 12  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 118109  | 
+| TOTAL(仅供参考) | 118120  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaMax.yaml，请使用RULE-SET。
+- ChinaMax_Resolve.yaml，请使用RULE-SET。
+- ChinaMax_No_IPv6.yaml，请使用RULE-SET。
+- ChinaMax_No_IPv6_Resolve.yaml，请使用RULE-SET。
+- ChinaMax_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- ChinaMax_All.yaml与ChinaMax_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- ChinaMax_Resolve.yaml与ChinaMax.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
+- ChinaMax.yaml与ChinaMax_No_IPv6.list的区别仅在于后者不带IPv6类型的规则，适用纯IPv4网络。
+- ChinaMax_Resolve.yaml与ChinaMax_No_IPv6_Resolve.list的区别仅在于后者不带IPv6类型的规则，且不带no-resolve，适用纯IPv4网络。
 
 #### 配置建议
-- ChinaMax.yaml 单独使用。
-- ChinaMax_No_IPv6.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- ChinaMax_All.yaml 单独使用。
+- ChinaMax_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- ChinaMax.yaml、ChinaMax_Domain.list 共同使用。
+- ChinaMax_Resolve.yaml、ChinaMax_Domain.list 共同使用。
+- ChinaMax_No_IPv6.yaml、ChinaMax_Domain.list 纯IPv4网络，共同使用。
+- ChinaMax_No_IPv6_Resolve.yaml、ChinaMax_Domain.list 纯IPv4网络，共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaMax/ChinaMax.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaMax/ChinaMax.list
 
 
 

@@ -18,11 +18,15 @@ LastPass规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 1  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 2  | 
+| TOTAL(仅供参考) | 3  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- LastPass.yaml，请使用RULE-SET。
 
 #### 配置建议
 - LastPass.yaml 单独使用。
@@ -30,13 +34,14 @@ LastPass规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/LastPass/LastPass.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastPass/LastPass.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/LastPass/LastPass.list
 
 
 

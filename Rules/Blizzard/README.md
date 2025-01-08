@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 62  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Blizzard.yaml，请使用RULE-SET。
+- Blizzard_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Blizzard_Resolve.yaml与Blizzard.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Blizzard.yaml 单独使用。
+- Blizzard_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Blizzard/Blizzard.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blizzard/Blizzard.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Blizzard/Blizzard.list
 
 
 

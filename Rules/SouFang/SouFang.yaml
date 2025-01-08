@@ -1,18 +1,10 @@
-domain_set:
-domain_suffix_set:
-- fang.com
-- hkproperty.com
-- houselight.cn
-- nree.cn
-- soufun.com
-- soufun.com.cn
-- soufunimg.com
-- txsf.com
-- villachina.com
-- villachina.com.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,fang.com
+DOMAIN-SUFFIX,hkproperty.com
+DOMAIN-SUFFIX,houselight.cn
+DOMAIN-SUFFIX,nree.cn
+DOMAIN-SUFFIX,soufun.com
+DOMAIN-SUFFIX,soufun.com.cn
+DOMAIN-SUFFIX,soufunimg.com
+DOMAIN-SUFFIX,txsf.com
+DOMAIN-SUFFIX,villachina.com
+DOMAIN-SUFFIX,villachina.com.cn

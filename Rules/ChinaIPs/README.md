@@ -22,22 +22,36 @@ ChinaIPs规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 29956  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaIPs.yaml，请使用RULE-SET。
+- ChinaIPs_Resolve.yaml，请使用RULE-SET。
+- ChinaIPs_No_IPv6.yaml，请使用RULE-SET。
+- ChinaIPs_No_IPv6_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ChinaIPs_Resolve.yaml与ChinaIPs.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
+- ChinaIPs.yaml与ChinaIPs_No_IPv6.list的区别仅在于后者不带IPv6类型的规则，适用纯IPv4网络。
+- ChinaIPs_Resolve.yaml与ChinaIPs_No_IPv6_Resolve.list的区别仅在于后者不带IPv6类型的规则，且不带no-resolve，适用纯IPv4网络。
 
 #### 配置建议
 - ChinaIPs.yaml 单独使用。
-- ChinaIPs_No_IPv6.yaml 单独使用。
+- ChinaIPs_Resolve.yaml 单独使用。
+- ChinaIPs_No_IPv6.yaml 纯IPv4网络，单独使用。
+- ChinaIPs_No_IPv6_Resolve.yaml 纯IPv4网络，单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaIPs/ChinaIPs.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaIPs/ChinaIPs.list
 
 
 

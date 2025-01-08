@@ -1,17 +1,9 @@
-domain_set:
-domain_suffix_set:
-- bjesound.com
-- earlymen.com.cn
-- esound.cn
-- esound.net.cn
-- esound.vip
-- flymodem.cn
-- flymodem.com.cn
-- flymodem.net
-- iotboss.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bjesound.com
+DOMAIN-SUFFIX,earlymen.com.cn
+DOMAIN-SUFFIX,esound.cn
+DOMAIN-SUFFIX,esound.net.cn
+DOMAIN-SUFFIX,esound.vip
+DOMAIN-SUFFIX,flymodem.cn
+DOMAIN-SUFFIX,flymodem.com.cn
+DOMAIN-SUFFIX,flymodem.net
+DOMAIN-SUFFIX,iotboss.cn

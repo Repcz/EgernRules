@@ -18,11 +18,15 @@ ViuTV规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 8  | 
+| PROCESS-NAME | 3  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 9  | 
+| TOTAL(仅供参考) | 12  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ViuTV.yaml，请使用RULE-SET。
 
 #### 配置建议
 - ViuTV.yaml 单独使用。
@@ -30,13 +34,14 @@ ViuTV规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ViuTV/ViuTV.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ViuTV/ViuTV.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ViuTV/ViuTV.list
 
 
 

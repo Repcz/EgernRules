@@ -1,27 +1,18 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- ebates.com
-- infoseek.co.jp
-- o50.jp
-- r10.to
-- r10s.com
-- r10s.jp
-- rakuten-static.com
-- rakuten.ca
-- rakuten.co.jp
-- rakuten.com
-- rakuten.com.tw
-- rakuten.ne.jp
-- rakuten.tw
-- rclon.com
-- rebates.jp
-- showtime.co.jp
-- viber.co.jp
-- viber.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,ebates.com
+DOMAIN-SUFFIX,infoseek.co.jp
+DOMAIN-SUFFIX,o50.jp
+DOMAIN-SUFFIX,r10.to
+DOMAIN-SUFFIX,r10s.com
+DOMAIN-SUFFIX,r10s.jp
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,rakuten.ca
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,rakuten.com
+DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.ne.jp
+DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rclon.com
+DOMAIN-SUFFIX,rebates.jp
+DOMAIN-SUFFIX,showtime.co.jp
+DOMAIN-SUFFIX,viber.co.jp
+DOMAIN-SUFFIX,viber.com

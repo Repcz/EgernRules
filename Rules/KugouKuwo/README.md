@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 109  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- KugouKuwo.yaml，请使用RULE-SET。
+- KugouKuwo_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- KugouKuwo_Resolve.yaml与KugouKuwo.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - KugouKuwo.yaml 单独使用。
+- KugouKuwo_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/KugouKuwo/KugouKuwo.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/KugouKuwo/KugouKuwo.list
 
 
 

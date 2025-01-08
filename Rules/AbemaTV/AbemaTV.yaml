@@ -1,32 +1,24 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- abema-tv.com
-- abema.io
-- abema.tv
-- abematv.akamaized.net
-- adx.promo
-- ameba.jp
-- amebame.com
-- amebaownd.com
-- amebaowndme.com
-- ameblo.jp
-- bucketeer.jp
-- d1otoma47x30pg.cloudfront.net
-- d2wy8f7a9ursnm.cloudfront.net
-- dokusho-ojikan.jp
-- ds-linear-abematv.akamaized.net
-- ds-vod-abematv.akamaized.net
-- hayabusa.dev
-- hayabusa.io
-- hayabusa.media
-- linear-abematv.akamaized.net
-- vod-abematv.akamaized.net
-- winticket.jp
-domain_keyword_set:
-- abematv.akamaized.net
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abematv.akamaized.net
+DOMAIN-SUFFIX,adx.promo
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,amebaownd.com
+DOMAIN-SUFFIX,amebaowndme.com
+DOMAIN-SUFFIX,ameblo.jp
+DOMAIN-SUFFIX,bucketeer.jp
+DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
+DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN-SUFFIX,dokusho-ojikan.jp
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+DOMAIN-SUFFIX,hayabusa.dev
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,linear-abematv.akamaized.net
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,winticket.jp
+DOMAIN-KEYWORD,abematv.akamaized.net
+USER-AGENT,AbemaTV*

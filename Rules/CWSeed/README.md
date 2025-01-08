@@ -19,10 +19,14 @@ CWSeed规则由《RULE GENERATOR 规则生成器》自动生成。
 | ---- | ----  |
 | DOMAIN | 2  | 
 | DOMAIN-SUFFIX | 3  | 
-| TOTAL(仅供参考) | 5  | 
+| PROCESS-NAME | 2  | 
+| TOTAL(仅供参考) | 7  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- CWSeed.yaml，请使用RULE-SET。
 
 #### 配置建议
 - CWSeed.yaml 单独使用。
@@ -30,13 +34,14 @@ CWSeed规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/CWSeed/CWSeed.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CWSeed/CWSeed.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/CWSeed/CWSeed.list
 
 
 

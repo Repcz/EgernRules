@@ -1,28 +1,20 @@
-domain_set:
-domain_suffix_set:
-- feng1.com
-- fslinker.com
-- hbjia.net
-- rongechain.com
-- sf-airlines.com
-- sf-cityrush.com
-- sf-express.com
-- sf-financial.com
-- sf-intra-city.com
-- sf-jf.com
-- sf-saas.cn
-- sf-saas.com
-- sf-saas.com.cn
-- sf-tech.com.cn
-- sf.cn
-- sfair.com
-- sfbuy.com
-- sfcar.hk
-- sffix.cn
-- sfgy.org
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,feng1.com
+DOMAIN-SUFFIX,fslinker.com
+DOMAIN-SUFFIX,hbjia.net
+DOMAIN-SUFFIX,rongechain.com
+DOMAIN-SUFFIX,sf-airlines.com
+DOMAIN-SUFFIX,sf-cityrush.com
+DOMAIN-SUFFIX,sf-express.com
+DOMAIN-SUFFIX,sf-financial.com
+DOMAIN-SUFFIX,sf-intra-city.com
+DOMAIN-SUFFIX,sf-jf.com
+DOMAIN-SUFFIX,sf-saas.cn
+DOMAIN-SUFFIX,sf-saas.com
+DOMAIN-SUFFIX,sf-saas.com.cn
+DOMAIN-SUFFIX,sf-tech.com.cn
+DOMAIN-SUFFIX,sf.cn
+DOMAIN-SUFFIX,sfair.com
+DOMAIN-SUFFIX,sfbuy.com
+DOMAIN-SUFFIX,sfcar.hk
+DOMAIN-SUFFIX,sffix.cn
+DOMAIN-SUFFIX,sfgy.org

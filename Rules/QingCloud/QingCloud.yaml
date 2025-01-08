@@ -1,20 +1,12 @@
-domain_set:
-domain_suffix_set:
-- anybox.com
-- frontwize.com
-- kubesphere.com.cn
-- qingcache.com
-- qingcloud.cn
-- qingcloud.com
-- qingcloud.com.cn
-- qingstor.com
-- qingstorage.com
-- quanxiangyun.com
-- routewize.com
-- yunify.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,anybox.com
+DOMAIN-SUFFIX,frontwize.com
+DOMAIN-SUFFIX,kubesphere.com.cn
+DOMAIN-SUFFIX,qingcache.com
+DOMAIN-SUFFIX,qingcloud.cn
+DOMAIN-SUFFIX,qingcloud.com
+DOMAIN-SUFFIX,qingcloud.com.cn
+DOMAIN-SUFFIX,qingstor.com
+DOMAIN-SUFFIX,qingstorage.com
+DOMAIN-SUFFIX,quanxiangyun.com
+DOMAIN-SUFFIX,routewize.com
+DOMAIN-SUFFIX,yunify.com

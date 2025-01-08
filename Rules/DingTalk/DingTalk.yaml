@@ -1,19 +1,11 @@
-domain_set:
-domain_suffix_set:
-- ddurl.to
-- dg-work.cn
-- dingding.xin
-- dingtalk.cn
-- dingtalk.com
-- dingtalk.com.cn
-- dingtalk.net
-- dingtalkapps.com
-- laiwang.com
-- lwurl.to
-- realapp.xin
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dg-work.cn
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.com.cn
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,realapp.xin

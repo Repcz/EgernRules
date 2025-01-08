@@ -1,12 +1,4 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- fox.com
-- foxdcg.com
-- uplynk.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+USER-AGENT,FOX%20NOW*

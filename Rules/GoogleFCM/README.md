@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 35  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- GoogleFCM.yaml，请使用RULE-SET。
+- GoogleFCM_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- GoogleFCM_Resolve.yaml与GoogleFCM.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - GoogleFCM.yaml 单独使用。
+- GoogleFCM_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/GoogleFCM/GoogleFCM.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/GoogleFCM/GoogleFCM.list
 
 
 

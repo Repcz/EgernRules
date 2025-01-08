@@ -1,26 +1,18 @@
-domain_set:
-domain_suffix_set:
-- 3wnet.cn
-- admonitor.org
-- grpindex.com
-- miaozhen.cn
-- miaozhen.com
-- mlt.pub
-- momentad.com
-- mzfile.com
-- mzhen.cn
-- mzhen.com
-- mzsvn.com
-- stfile.com
-- supertool.net.cn
-- touchjoin.com
-- touchjoint.com
-- withdata.cn
-- withwinds.com
-- xueto.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,3wnet.cn
+DOMAIN-SUFFIX,admonitor.org
+DOMAIN-SUFFIX,grpindex.com
+DOMAIN-SUFFIX,miaozhen.cn
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,mlt.pub
+DOMAIN-SUFFIX,momentad.com
+DOMAIN-SUFFIX,mzfile.com
+DOMAIN-SUFFIX,mzhen.cn
+DOMAIN-SUFFIX,mzhen.com
+DOMAIN-SUFFIX,mzsvn.com
+DOMAIN-SUFFIX,stfile.com
+DOMAIN-SUFFIX,supertool.net.cn
+DOMAIN-SUFFIX,touchjoin.com
+DOMAIN-SUFFIX,touchjoint.com
+DOMAIN-SUFFIX,withdata.cn
+DOMAIN-SUFFIX,withwinds.com
+DOMAIN-SUFFIX,xueto.com

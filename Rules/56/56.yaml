@@ -1,18 +1,10 @@
-domain_set:
-domain_suffix_set:
-- 56.com
-- 56img.com
-- 56imgs.com
-- icaneasy.com
-- icanvideo.com
-- qf.com.cn
-- qianfan.tv
-- somama.com
-- v-56.com
-- vicovico.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,56.com
+DOMAIN-SUFFIX,56img.com
+DOMAIN-SUFFIX,56imgs.com
+DOMAIN-SUFFIX,icaneasy.com
+DOMAIN-SUFFIX,icanvideo.com
+DOMAIN-SUFFIX,qf.com.cn
+DOMAIN-SUFFIX,qianfan.tv
+DOMAIN-SUFFIX,somama.com
+DOMAIN-SUFFIX,v-56.com
+DOMAIN-SUFFIX,vicovico.com

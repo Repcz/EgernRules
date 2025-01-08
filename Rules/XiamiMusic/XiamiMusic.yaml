@@ -1,11 +1,5 @@
-domain_set:
-domain_suffix_set:
-- xiami.com
-- xiami.fm
-- xiami.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.fm
+DOMAIN-SUFFIX,xiami.net
+USER-AGENT,walkman*
+USER-AGENT,xiami*

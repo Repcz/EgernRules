@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 8  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- JingDongCloud.yaml，请使用RULE-SET。
+- JingDongCloud_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- JingDongCloud_Resolve.yaml与JingDongCloud.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - JingDongCloud.yaml 单独使用。
+- JingDongCloud_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Cloud/JingDongCloud/JingDongCloud.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloud/JingDongCloud/JingDongCloud.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Cloud/JingDongCloud/JingDongCloud.list
 
 
 

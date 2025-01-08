@@ -1,22 +1,13 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- anrdoezrs.net
-- galaxyappstore.com
-- galaxymobile.jp
-- game-platform.net
-- knoxemm.com
-- samsung.com
-- samsungapps.com
-- samsungcloud.com
-- samsungdm.com
-- samsungeshop.com.cn
-- samsunggalaxyfriends.com
-- samsungknox.com
-- samsungqbe.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,anrdoezrs.net
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,galaxymobile.jp
+DOMAIN-SUFFIX,game-platform.net
+DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunggalaxyfriends.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungqbe.com

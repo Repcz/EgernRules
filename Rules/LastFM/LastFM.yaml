@@ -1,40 +1,31 @@
-no_resolve: true
-domain_set:
-- last.us11.list-manage.com
-- lastfm-img2.akamaized.net
-domain_suffix_set:
-- audioscrobbler.com
-- bbfc1.tk
-- bc9oa.tk
-- bvuno.tk
-- cqyos.tk
-- fuckyeahtfx.com
-- halkz.tk
-- itnnl.tk
-- jdw1v.tk
-- kn5ak.tk
-- kwcnn.tk
-- last.fm
-- lastfm.cn
-- lastfm.de
-- lastfm.es
-- lastfm.eu
-- lastfm.freetls.fastly.net
-- lastfm.ph
-- lastfm.pl
-- lastfm.ru
-- lastfmpresents.com
-- mwrel.tk
-- oilofhaemony.com
-- ouchmonkey.com
-- pqqx2.tk
-- rfnva.tk
-- rmohl.tk
-- tnjqk.tk
-- wznka.tk
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,last.us11.list-manage.com
+DOMAIN,lastfm-img2.akamaized.net
+DOMAIN-SUFFIX,audioscrobbler.com
+DOMAIN-SUFFIX,bbfc1.tk
+DOMAIN-SUFFIX,bc9oa.tk
+DOMAIN-SUFFIX,bvuno.tk
+DOMAIN-SUFFIX,cqyos.tk
+DOMAIN-SUFFIX,fuckyeahtfx.com
+DOMAIN-SUFFIX,halkz.tk
+DOMAIN-SUFFIX,itnnl.tk
+DOMAIN-SUFFIX,jdw1v.tk
+DOMAIN-SUFFIX,kn5ak.tk
+DOMAIN-SUFFIX,kwcnn.tk
+DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,lastfm.cn
+DOMAIN-SUFFIX,lastfm.de
+DOMAIN-SUFFIX,lastfm.es
+DOMAIN-SUFFIX,lastfm.eu
+DOMAIN-SUFFIX,lastfm.freetls.fastly.net
+DOMAIN-SUFFIX,lastfm.ph
+DOMAIN-SUFFIX,lastfm.pl
+DOMAIN-SUFFIX,lastfm.ru
+DOMAIN-SUFFIX,lastfmpresents.com
+DOMAIN-SUFFIX,mwrel.tk
+DOMAIN-SUFFIX,oilofhaemony.com
+DOMAIN-SUFFIX,ouchmonkey.com
+DOMAIN-SUFFIX,pqqx2.tk
+DOMAIN-SUFFIX,rfnva.tk
+DOMAIN-SUFFIX,rmohl.tk
+DOMAIN-SUFFIX,tnjqk.tk
+DOMAIN-SUFFIX,wznka.tk

@@ -21,7 +21,10 @@ HashiCorp规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 8  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- HashiCorp.yaml，请使用RULE-SET。
 
 #### 配置建议
 - HashiCorp.yaml 单独使用。
@@ -29,13 +32,14 @@ HashiCorp规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/HashiCorp/HashiCorp.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HashiCorp/HashiCorp.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/HashiCorp/HashiCorp.list
 
 
 

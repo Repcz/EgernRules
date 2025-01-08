@@ -1,21 +1,13 @@
-domain_set:
-- lf3-static.bytednsdoc.com
-- v5-dy-o-abtest.zjcdn.com
-domain_suffix_set:
-- amemv.com
-- douyincdn.com
-- douyinpic.com
-- douyinstatic.com
-- douyinvod.com
-- idouyinvod.com
-- ixigua.com
-- ixiguavideo.com
-- pstatp.com
-- snssdk.com
-- toutiao.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com

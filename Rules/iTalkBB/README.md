@@ -18,10 +18,14 @@ iTalkBB规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 3  | 
-| TOTAL(仅供参考) | 3  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 4  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- iTalkBB.yaml，请使用RULE-SET。
 
 #### 配置建议
 - iTalkBB.yaml 单独使用。
@@ -29,13 +33,14 @@ iTalkBB规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/iTalkBB/iTalkBB.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iTalkBB/iTalkBB.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/iTalkBB/iTalkBB.list
 
 
 

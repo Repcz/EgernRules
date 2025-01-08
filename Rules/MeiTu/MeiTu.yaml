@@ -1,12 +1,4 @@
-domain_set:
-domain_suffix_set:
-- meipai.com
-- meitu.com
-- meitudata.com
-- meitustat.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,meipai.com
+DOMAIN-SUFFIX,meitu.com
+DOMAIN-SUFFIX,meitudata.com
+DOMAIN-SUFFIX,meitustat.com

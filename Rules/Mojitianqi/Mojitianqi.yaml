@@ -1,15 +1,7 @@
-domain_set:
-domain_suffix_set:
-- airnut.com
-- moji.com
-- mojicb.com
-- mojichina.com
-- mojitest.com
-- moweather.com
-- xiaomo.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,airnut.com
+DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,mojicb.com
+DOMAIN-SUFFIX,mojichina.com
+DOMAIN-SUFFIX,mojitest.com
+DOMAIN-SUFFIX,moweather.com
+DOMAIN-SUFFIX,xiaomo.cn

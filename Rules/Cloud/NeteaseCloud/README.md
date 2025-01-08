@@ -24,21 +24,30 @@
 | TOTAL(仅供参考) | 29  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- NeteaseCloud.yaml，请使用RULE-SET。
+- NeteaseCloud_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- NeteaseCloud_Resolve.yaml与NeteaseCloud.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - NeteaseCloud.yaml 单独使用。
+- NeteaseCloud_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Cloud/NeteaseCloud/NeteaseCloud.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloud/NeteaseCloud/NeteaseCloud.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Cloud/NeteaseCloud/NeteaseCloud.list
 
 
 

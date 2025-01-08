@@ -20,24 +20,40 @@
 | DOMAIN-SUFFIX | 1251  | 
 | IP-CIDR | 53  | 
 | IP-CIDR6 | 1  | 
-| TOTAL(仅供参考) | 1305  | 
+| PROCESS-NAME | 1  | 
+| TOTAL(仅供参考) | 1306  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Alibaba.yaml，请使用RULE-SET。
+- Alibaba_Resolve.yaml，请使用RULE-SET。
+- Alibaba_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- Alibaba_All.yaml与Alibaba_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- Alibaba_Resolve.yaml与Alibaba.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- Alibaba.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Alibaba_All.yaml 单独使用。
+- Alibaba_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- Alibaba.yaml、Alibaba_Domain.list 共同使用。
+- Alibaba_Resolve.yaml、Alibaba_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Alibaba/Alibaba.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Alibaba/Alibaba.list
 
 
 

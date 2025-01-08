@@ -21,7 +21,10 @@ XingKongWuXian规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 19  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- XingKongWuXian.yaml，请使用RULE-SET。
 
 #### 配置建议
 - XingKongWuXian.yaml 单独使用。
@@ -29,13 +32,14 @@ XingKongWuXian规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/XingKongWuXian/XingKongWuXian.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XingKongWuXian/XingKongWuXian.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/XingKongWuXian/XingKongWuXian.list
 
 
 

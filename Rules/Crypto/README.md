@@ -23,7 +23,10 @@ Crypto规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 200  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Crypto.yaml，请使用RULE-SET。
 
 #### 配置建议
 - Crypto.yaml 单独使用。
@@ -31,13 +34,14 @@ Crypto规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Crypto/Crypto.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Crypto/Crypto.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Crypto/Crypto.list
 
 
 

@@ -1,19 +1,11 @@
-domain_set:
-domain_suffix_set:
-- feedsp.com
-- juchang.cn
-- juchang.com.cn
-- ku6.cn
-- ku6.com
-- ku6.com.cn
-- ku6.net
-- ku6cdn.com
-- ku6img.com
-- ku6vms.com
-- weiguan.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,feedsp.com
+DOMAIN-SUFFIX,juchang.cn
+DOMAIN-SUFFIX,juchang.com.cn
+DOMAIN-SUFFIX,ku6.cn
+DOMAIN-SUFFIX,ku6.com
+DOMAIN-SUFFIX,ku6.com.cn
+DOMAIN-SUFFIX,ku6.net
+DOMAIN-SUFFIX,ku6cdn.com
+DOMAIN-SUFFIX,ku6img.com
+DOMAIN-SUFFIX,ku6vms.com
+DOMAIN-SUFFIX,weiguan.com

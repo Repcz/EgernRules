@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 25  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- KuangShi.yaml，请使用RULE-SET。
+- KuangShi_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- KuangShi_Resolve.yaml与KuangShi.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - KuangShi.yaml 单独使用。
+- KuangShi_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/KuangShi/KuangShi.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuangShi/KuangShi.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/KuangShi/KuangShi.list
 
 
 

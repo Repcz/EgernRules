@@ -1,30 +1,22 @@
-domain_set:
-domain_suffix_set:
-- bank-of-china.com
-- bankofchina.com
-- boc.cn
-- bocamchina.com
-- bocaviation.com
-- boccfc.cc
-- boccfc.cn
-- bocfullertonbank.com
-- bocgi.com
-- bocgins.com
-- bochk.com
-- bochkonline.com
-- bocichina.cn
-- bocichina.com
-- bocichina.com.cn
-- bocifunds.cn
-- bocifunds.com
-- bocifunds.com.cn
-- bocigroup.com
-- bocim.com
-- bocservices.com.cn
-- ftcwifi.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochkonline.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn
+DOMAIN-SUFFIX,ftcwifi.com

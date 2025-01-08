@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 34  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaUnicom.yaml，请使用RULE-SET。
+- ChinaUnicom_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ChinaUnicom_Resolve.yaml与ChinaUnicom.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - ChinaUnicom.yaml 单独使用。
+- ChinaUnicom_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaUnicom/ChinaUnicom.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaUnicom/ChinaUnicom.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaUnicom/ChinaUnicom.list
 
 
 

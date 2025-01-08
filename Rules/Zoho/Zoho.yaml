@@ -1,22 +1,13 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- zoho.com
-- zoho.com.au
-- zoho.eu
-- zoho.in
-- zohocdn.com
-- zohomeetups.com
-- zohomerchandise.com
-- zohopublic.com
-- zohoschools.com
-- zohostatic.com
-- zohostatic.in
-- zohouniversity.com
-- zohowebstatic.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,zoho.com
+DOMAIN-SUFFIX,zoho.com.au
+DOMAIN-SUFFIX,zoho.eu
+DOMAIN-SUFFIX,zoho.in
+DOMAIN-SUFFIX,zohocdn.com
+DOMAIN-SUFFIX,zohomeetups.com
+DOMAIN-SUFFIX,zohomerchandise.com
+DOMAIN-SUFFIX,zohopublic.com
+DOMAIN-SUFFIX,zohoschools.com
+DOMAIN-SUFFIX,zohostatic.com
+DOMAIN-SUFFIX,zohostatic.in
+DOMAIN-SUFFIX,zohouniversity.com
+DOMAIN-SUFFIX,zohowebstatic.com

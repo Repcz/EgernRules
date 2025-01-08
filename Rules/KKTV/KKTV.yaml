@@ -1,13 +1,6 @@
-no_resolve: true
-domain_set:
-- kktv-theater.kk.stream
-- theater-kktv.cdn.hinet.net
-domain_suffix_set:
-- kktv.com.tw
-- kktv.me
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*

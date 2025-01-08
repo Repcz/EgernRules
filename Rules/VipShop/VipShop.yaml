@@ -1,12 +1,4 @@
-domain_set:
-domain_suffix_set:
-- appsimg.com
-- appvipshop.com
-- vip.com
-- vipstatic.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,appvipshop.com
+DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,vipstatic.com

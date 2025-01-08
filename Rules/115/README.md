@@ -22,7 +22,10 @@
 | TOTAL(仅供参考) | 10  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- 115.yaml，请使用RULE-SET。
 
 #### 配置建议
 - 115.yaml 单独使用。
@@ -30,13 +33,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/115/115.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/115/115.list
 
 
 

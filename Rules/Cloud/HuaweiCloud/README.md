@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 31  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- HuaweiCloud.yaml，请使用RULE-SET。
+- HuaweiCloud_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- HuaweiCloud_Resolve.yaml与HuaweiCloud.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - HuaweiCloud.yaml 单独使用。
+- HuaweiCloud_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Cloud/HuaweiCloud/HuaweiCloud.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloud/HuaweiCloud/HuaweiCloud.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Cloud/HuaweiCloud/HuaweiCloud.list
 
 
 

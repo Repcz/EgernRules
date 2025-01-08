@@ -1,30 +1,21 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- bugzilla.org
-- crates.io
-- docs.rs
-- extensionworkshop.com
-- firefox.com
-- firefox.com.cn
-- firefoxusercontent.com
-- getpocket.com
-- mdn.mozillademos.org
-- media.prod.mdn.mozit.cloud
-- mofoprod.net
-- mozilla.com
-- mozilla.community
-- mozilla.net
-- mozilla.org
-- pocket-image-cache.com
-- rust-lang.org
-- rustup.rs
-- seamonkey-project.org
-- sentry.prod.mozaws.net
-- thunderbird.net
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,extensionworkshop.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.com.cn
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,mdn.mozillademos.org
+DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+DOMAIN-SUFFIX,mofoprod.net
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,pocket-image-cache.com
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,sentry.prod.mozaws.net
+DOMAIN-SUFFIX,thunderbird.net

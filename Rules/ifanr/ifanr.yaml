@@ -1,42 +1,34 @@
-domain_set:
-domain_suffix_set:
-- 01hub.com
-- app.so
-- appsolution.cc
-- bitbe.at
-- coolbuy.com
-- dongchehui.net
-- fabu.io
-- haomaishe.com
-- ifanr.cn
-- ifanr.com
-- ifanr.in
-- ifanrcloud.com
-- ifanrprod.cn
-- ifanrprod.com
-- ifanrprod.net
-- ifanrusercontent.com
-- ifdesigninc.cn
-- ifdesignstudio.cn
-- jmp.gd
-- menhu.io
-- minapp.com
-- mindstore.io
-- minshop.com
-- socialbase.cn
-- socialbasecustomercontent.com
-- socialbaseusercontent.com
-- triorder.com
-- tyqian.com
-- wantwu.com
-- weimen.hu
-- wuzhii.com
-- xiaoapp.io
-- xiaoma.io
-- zhixiaochengxu.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,01hub.com
+DOMAIN-SUFFIX,app.so
+DOMAIN-SUFFIX,appsolution.cc
+DOMAIN-SUFFIX,bitbe.at
+DOMAIN-SUFFIX,coolbuy.com
+DOMAIN-SUFFIX,dongchehui.net
+DOMAIN-SUFFIX,fabu.io
+DOMAIN-SUFFIX,haomaishe.com
+DOMAIN-SUFFIX,ifanr.cn
+DOMAIN-SUFFIX,ifanr.com
+DOMAIN-SUFFIX,ifanr.in
+DOMAIN-SUFFIX,ifanrcloud.com
+DOMAIN-SUFFIX,ifanrprod.cn
+DOMAIN-SUFFIX,ifanrprod.com
+DOMAIN-SUFFIX,ifanrprod.net
+DOMAIN-SUFFIX,ifanrusercontent.com
+DOMAIN-SUFFIX,ifdesigninc.cn
+DOMAIN-SUFFIX,ifdesignstudio.cn
+DOMAIN-SUFFIX,jmp.gd
+DOMAIN-SUFFIX,menhu.io
+DOMAIN-SUFFIX,minapp.com
+DOMAIN-SUFFIX,mindstore.io
+DOMAIN-SUFFIX,minshop.com
+DOMAIN-SUFFIX,socialbase.cn
+DOMAIN-SUFFIX,socialbasecustomercontent.com
+DOMAIN-SUFFIX,socialbaseusercontent.com
+DOMAIN-SUFFIX,triorder.com
+DOMAIN-SUFFIX,tyqian.com
+DOMAIN-SUFFIX,wantwu.com
+DOMAIN-SUFFIX,weimen.hu
+DOMAIN-SUFFIX,wuzhii.com
+DOMAIN-SUFFIX,xiaoapp.io
+DOMAIN-SUFFIX,xiaoma.io
+DOMAIN-SUFFIX,zhixiaochengxu.com

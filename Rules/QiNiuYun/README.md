@@ -21,7 +21,10 @@
 | TOTAL(仅供参考) | 53  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- QiNiuYun.yaml，请使用RULE-SET。
 
 #### 配置建议
 - QiNiuYun.yaml 单独使用。
@@ -29,13 +32,14 @@
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/QiNiuYun/QiNiuYun.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QiNiuYun/QiNiuYun.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/QiNiuYun/QiNiuYun.list
 
 
 

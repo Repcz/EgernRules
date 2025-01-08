@@ -1,14 +1,5 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- comodo.com
-- comodoca.com
-- comodoca2.com
-- comodoca3.com
-- comodoca4.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,comodoca2.com
+DOMAIN-SUFFIX,comodoca3.com
+DOMAIN-SUFFIX,comodoca4.com

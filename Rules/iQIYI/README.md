@@ -20,25 +20,35 @@
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 34  | 
 | IP-CIDR | 21  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 6  | 
-| TOTAL(仅供参考) | 62  | 
+| TOTAL(仅供参考) | 63  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- iQIYI.yaml，请使用RULE-SET。
+- iQIYI_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- iQIYI_Resolve.yaml与iQIYI.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - iQIYI.yaml 单独使用。
+- iQIYI_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/iQIYI/iQIYI.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/iQIYI.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/iQIYI/iQIYI.list
 
 
 

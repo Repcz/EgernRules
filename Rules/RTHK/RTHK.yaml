@@ -1,22 +1,13 @@
-no_resolve: true
-domain_set:
-- rthklive2-lh.akamaihd.net
-- rthkradio1-live.akamaized.net
-- rthkradio2-live.akamaized.net
-- rthkradio3-live.akamaized.net
-- rthkradio4-live.akamaized.net
-- rthkradio5-live.akamaized.net
-- rthkradiocmgrgb-live.akamaized.net
-- rthkradiocnrhk-live.akamaized.net
-- rthkradiopth-live.akamaized.net
-- rthktv31-live.akamaized.net
-- rthktv32-live.akamaized.net
-domain_suffix_set:
-- rthk.hk
-- rthk.org.hk
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,rthklive2-lh.akamaihd.net
+DOMAIN,rthkradio1-live.akamaized.net
+DOMAIN,rthkradio2-live.akamaized.net
+DOMAIN,rthkradio3-live.akamaized.net
+DOMAIN,rthkradio4-live.akamaized.net
+DOMAIN,rthkradio5-live.akamaized.net
+DOMAIN,rthkradiocmgrgb-live.akamaized.net
+DOMAIN,rthkradiocnrhk-live.akamaized.net
+DOMAIN,rthkradiopth-live.akamaized.net
+DOMAIN,rthktv31-live.akamaized.net
+DOMAIN,rthktv32-live.akamaized.net
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,rthk.org.hk

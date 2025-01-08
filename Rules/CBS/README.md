@@ -12,17 +12,21 @@ CBS规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-08-08 02:11:34
+最后更新时间：2024-08-08 02:11:33
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 35  | 
+| PROCESS-NAME | 2  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 36  | 
+| TOTAL(仅供参考) | 38  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- CBS.yaml，请使用RULE-SET。
 
 #### 配置建议
 - CBS.yaml 单独使用。
@@ -30,13 +34,14 @@ CBS规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/CBS/CBS.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CBS/CBS.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/CBS/CBS.list
 
 
 

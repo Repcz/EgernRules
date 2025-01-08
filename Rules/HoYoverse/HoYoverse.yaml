@@ -1,17 +1,8 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- genshinimpact.com
-- honkaiimpact3.com
-- honkaistarrail.com
-- hoyo.link
-- hoyolab.com
-- hoyoverse.com
-- n0vadesktop.com
-- yuanshen.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,yuanshen.com

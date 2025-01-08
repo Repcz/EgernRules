@@ -1,15 +1,7 @@
-domain_set:
-domain_suffix_set:
-- dianping.com
-- maoyan.com
-- meituan.com
-- meituan.net
-- mtyun.com
-- neixin.cn
-- sankuai.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com

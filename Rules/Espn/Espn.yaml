@@ -1,20 +1,11 @@
-no_resolve: true
-domain_set:
-- espn.api.edge.bamgrid.com
-- espn.hb.omtrdc.net
-- espndotcom.tt.omtrdc.net
-domain_suffix_set:
-- dtci.co
-- dtci.technology
-- espn.co.uk
-- espn.com
-- espn.net
-- espncdn.com
-- espnqa.com
-- watchespn.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,espn.api.edge.bamgrid.com
+DOMAIN,espn.hb.omtrdc.net
+DOMAIN,espndotcom.tt.omtrdc.net
+DOMAIN-SUFFIX,dtci.co
+DOMAIN-SUFFIX,dtci.technology
+DOMAIN-SUFFIX,espn.co.uk
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,watchespn.com

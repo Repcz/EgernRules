@@ -1,25 +1,16 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- earth-pa.clients6.google.com
-- earth.google.com
-- kh.google.com
-- khm.google.com
-- khm.googleapis.com
-- khm0.google.com
-- khm0.googleapis.com
-- khm1.google.com
-- khm1.googleapis.com
-- khm2.google.com
-- khm2.googleapis.com
-- khm3.google.com
-- khm3.googleapis.com
-- khmdb.google.com
-- khmdb.googleapis.com
-- mw1.google.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,earth-pa.clients6.google.com
+DOMAIN-SUFFIX,earth.google.com
+DOMAIN-SUFFIX,kh.google.com
+DOMAIN-SUFFIX,khm.google.com
+DOMAIN-SUFFIX,khm.googleapis.com
+DOMAIN-SUFFIX,khm0.google.com
+DOMAIN-SUFFIX,khm0.googleapis.com
+DOMAIN-SUFFIX,khm1.google.com
+DOMAIN-SUFFIX,khm1.googleapis.com
+DOMAIN-SUFFIX,khm2.google.com
+DOMAIN-SUFFIX,khm2.googleapis.com
+DOMAIN-SUFFIX,khm3.google.com
+DOMAIN-SUFFIX,khm3.googleapis.com
+DOMAIN-SUFFIX,khmdb.google.com
+DOMAIN-SUFFIX,khmdb.googleapis.com
+DOMAIN-SUFFIX,mw1.google.com

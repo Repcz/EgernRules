@@ -22,21 +22,30 @@
 | TOTAL(仅供参考) | 9  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- 360Cloud.yaml，请使用RULE-SET。
+- 360Cloud_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- 360Cloud_Resolve.yaml与360Cloud.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - 360Cloud.yaml 单独使用。
+- 360Cloud_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Cloud/360Cloud/360Cloud.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloud/360Cloud/360Cloud.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Cloud/360Cloud/360Cloud.list
 
 
 

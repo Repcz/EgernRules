@@ -1,44 +1,38 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- amlg.io
-- cbs
-- cbs.com
-- cbsaavideo.com
-- cbscorporation.com
-- cbsi.com
-- cbsi.live.ott.irdeto.com
-- cbsi.video
-- cbsiam.com
-- cbsig.net
-- cbsimg.net
-- cbsinteractive.com
-- cbsistatic.com
-- cbsivideo.com
-- cbsnews.com
-- cbsplaylistserver.aws.syncbak.com
-- cbspressexpress.com
-- cbsradio.com
-- cbsservice.aws.syncbak.com
-- cbssports.com
-- cbsstatic.com
-- cbsstore.com
-- cbssvideo.com
-- cbstelevisioncity.com
-- mtvnservices.com
-- paramount.com
-- paramountplus.com
-- pluto.tv
-- plutotv.net
-- pplusstatic.com
-- showtime.com
-- viacbs.com
-- viacom.com
-- viacomcbs.com
-- viacomcbspressexpress.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,amlg.io
+DOMAIN-SUFFIX,cbs
+DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbscorporation.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
+DOMAIN-SUFFIX,cbsi.video
+DOMAIN-SUFFIX,cbsiam.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,cbsimg.net
+DOMAIN-SUFFIX,cbsinteractive.com
+DOMAIN-SUFFIX,cbsistatic.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+DOMAIN-SUFFIX,cbspressexpress.com
+DOMAIN-SUFFIX,cbsradio.com
+DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbsstore.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,cbstelevisioncity.com
+DOMAIN-SUFFIX,mtvnservices.com
+DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,showtime.com
+DOMAIN-SUFFIX,viacbs.com
+DOMAIN-SUFFIX,viacom.com
+DOMAIN-SUFFIX,viacomcbs.com
+DOMAIN-SUFFIX,viacomcbspressexpress.com
+PROCESS-NAME,com.cbs.app
+PROCESS-NAME,com.showtime.standalone
+USER-AGENT,PPlus*

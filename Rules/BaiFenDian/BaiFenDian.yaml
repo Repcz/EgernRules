@@ -1,18 +1,10 @@
-domain_set:
-domain_suffix_set:
-- baifendian.com
-- bfdcdn.com
-- bfdcloud.com
-- blingoffice.com
-- marimall.cn
-- mediaforce.cn
-- pdeepmatrix.com
-- percent.cn
-- pertalk.cn
-- xworld.net.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,baifendian.com
+DOMAIN-SUFFIX,bfdcdn.com
+DOMAIN-SUFFIX,bfdcloud.com
+DOMAIN-SUFFIX,blingoffice.com
+DOMAIN-SUFFIX,marimall.cn
+DOMAIN-SUFFIX,mediaforce.cn
+DOMAIN-SUFFIX,pdeepmatrix.com
+DOMAIN-SUFFIX,percent.cn
+DOMAIN-SUFFIX,pertalk.cn
+DOMAIN-SUFFIX,xworld.net.cn

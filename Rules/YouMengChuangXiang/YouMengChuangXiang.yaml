@@ -1,29 +1,21 @@
-domain_set:
-domain_suffix_set:
-- 97973.com
-- 97973.com.cn
-- carrydj.com
-- fldvz.cn
-- hj-dog.com
-- jyjqdn.cn
-- lccnxn.cn
-- ljnvb.cn
-- lzcmm9x.cn
-- maozhuar.cn
-- maozhuar.com
-- maozhuar.com.cn
-- shsyfzq.cn
-- smmdn.cn
-- sylqmn.cn
-- xcmy0.cn
-- xuanyaodang.cn
-- xuanyaodang.com
-- xuanyaodang.net
-- yblxyp.cn
-- youmengchuangxiang.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,97973.com.cn
+DOMAIN-SUFFIX,carrydj.com
+DOMAIN-SUFFIX,fldvz.cn
+DOMAIN-SUFFIX,hj-dog.com
+DOMAIN-SUFFIX,jyjqdn.cn
+DOMAIN-SUFFIX,lccnxn.cn
+DOMAIN-SUFFIX,ljnvb.cn
+DOMAIN-SUFFIX,lzcmm9x.cn
+DOMAIN-SUFFIX,maozhuar.cn
+DOMAIN-SUFFIX,maozhuar.com
+DOMAIN-SUFFIX,maozhuar.com.cn
+DOMAIN-SUFFIX,shsyfzq.cn
+DOMAIN-SUFFIX,smmdn.cn
+DOMAIN-SUFFIX,sylqmn.cn
+DOMAIN-SUFFIX,xcmy0.cn
+DOMAIN-SUFFIX,xuanyaodang.cn
+DOMAIN-SUFFIX,xuanyaodang.com
+DOMAIN-SUFFIX,xuanyaodang.net
+DOMAIN-SUFFIX,yblxyp.cn
+DOMAIN-SUFFIX,youmengchuangxiang.com

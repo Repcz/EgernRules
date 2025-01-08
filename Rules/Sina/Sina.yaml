@@ -1,116 +1,108 @@
-domain_set:
-domain_suffix_set:
-- 001wifi.com
-- 1kapp.com
-- 4sender.com
-- 4sender.net
-- 51xiancheng.com
-- 7g8g.cn
-- 97973.com
-- adimages.sina.com.hk
-- aduspot.com
-- appchizi.com
-- applinzi.com
-- appsina.com
-- ctws.com.cn
-- cva.com.cn
-- dnssina.com
-- huoxing.com
-- ikaola.cn
-- ilangqu.cn
-- ilangqu.com
-- ilangqu.com.cn
-- imark.cn
-- kandian.cn
-- kandian.com
-- kandian.net
-- kandian.tv
-- kanyouxi.cn
-- kanyouxi.com
-- kanyouxi.com.cn
-- kanyouxi.tv
-- leju.com
-- maileds.com
-- miaopai.com
-- mingxigu.com
-- oascentral.sina.com.hk
-- paogame.cn
-- picself.cn
-- picself.com.cn
-- qingmail.cn
-- qingmail.com
-- saebbs.com
-- sc2yun.com
-- senderline.com
-- senderline.net
-- simadata.cn
-- sina.cn
-- sina.com
-- sina.com.cn
-- sina.net
-- sinaapp.cn
-- sinaapp.com
-- sinacdn.com
-- sinacloud.cn
-- sinacloud.com
-- sinacloud.com.cn
-- sinacloud.net
-- sinacorp.cn
-- sinadaxue.cn
-- sinadaxue.com
-- sinadaxue.com.cn
-- sinaedge.cn
-- sinaedge.com
-- sinaimg.cn
-- sinaimg.com
-- sinaimg.com.cn
-- sinajs.cn
-- sinajs.com
-- sinanet.com
-- sinanode.com
-- sinas3.com
-- sinas3.net
-- sinastorage.cn
-- sinastorage.com
-- sinasws.com
-- sinauda.com
-- sinaurl.cn
-- smtcdn.com
-- t.cn
-- talldns.cn
-- talldns.com
-- talldns.net
-- twgame.cn
-- twgame.com.cn
-- ufc.cn
-- videoself.cn
-- vipappsina.com
-- vipsinaapp.com
-- vmoso.cn
-- volleychina.org
-- vshoucang.com
-- wan68.com
-- wapone.net
-- wbimg.cn
-- wbimg.com
-- wbimg.com.cn
-- wcdn.cn
-- weibo.com.cn
-- weibo.tv
-- weibocdn.cn
-- weiboums.com
-- weipan.cn
-- weipan.com.cn
-- xhaiwai.com
-- xiaoka.tv
-- yangfan.org.cn
-- weibo.cn
-- weibo.com
-- weibocdn.com
-domain_keyword_set:
-- weibo
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,001wifi.com
+DOMAIN-SUFFIX,1kapp.com
+DOMAIN-SUFFIX,4sender.com
+DOMAIN-SUFFIX,4sender.net
+DOMAIN-SUFFIX,51xiancheng.com
+DOMAIN-SUFFIX,7g8g.cn
+DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,adimages.sina.com.hk
+DOMAIN-SUFFIX,aduspot.com
+DOMAIN-SUFFIX,appchizi.com
+DOMAIN-SUFFIX,applinzi.com
+DOMAIN-SUFFIX,appsina.com
+DOMAIN-SUFFIX,ctws.com.cn
+DOMAIN-SUFFIX,cva.com.cn
+DOMAIN-SUFFIX,dnssina.com
+DOMAIN-SUFFIX,huoxing.com
+DOMAIN-SUFFIX,ikaola.cn
+DOMAIN-SUFFIX,ilangqu.cn
+DOMAIN-SUFFIX,ilangqu.com
+DOMAIN-SUFFIX,ilangqu.com.cn
+DOMAIN-SUFFIX,imark.cn
+DOMAIN-SUFFIX,kandian.cn
+DOMAIN-SUFFIX,kandian.com
+DOMAIN-SUFFIX,kandian.net
+DOMAIN-SUFFIX,kandian.tv
+DOMAIN-SUFFIX,kanyouxi.cn
+DOMAIN-SUFFIX,kanyouxi.com
+DOMAIN-SUFFIX,kanyouxi.com.cn
+DOMAIN-SUFFIX,kanyouxi.tv
+DOMAIN-SUFFIX,leju.com
+DOMAIN-SUFFIX,maileds.com
+DOMAIN-SUFFIX,miaopai.com
+DOMAIN-SUFFIX,mingxigu.com
+DOMAIN-SUFFIX,oascentral.sina.com.hk
+DOMAIN-SUFFIX,paogame.cn
+DOMAIN-SUFFIX,picself.cn
+DOMAIN-SUFFIX,picself.com.cn
+DOMAIN-SUFFIX,qingmail.cn
+DOMAIN-SUFFIX,qingmail.com
+DOMAIN-SUFFIX,saebbs.com
+DOMAIN-SUFFIX,sc2yun.com
+DOMAIN-SUFFIX,senderline.com
+DOMAIN-SUFFIX,senderline.net
+DOMAIN-SUFFIX,simadata.cn
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.net
+DOMAIN-SUFFIX,sinaapp.cn
+DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinacdn.com
+DOMAIN-SUFFIX,sinacloud.cn
+DOMAIN-SUFFIX,sinacloud.com
+DOMAIN-SUFFIX,sinacloud.com.cn
+DOMAIN-SUFFIX,sinacloud.net
+DOMAIN-SUFFIX,sinacorp.cn
+DOMAIN-SUFFIX,sinadaxue.cn
+DOMAIN-SUFFIX,sinadaxue.com
+DOMAIN-SUFFIX,sinadaxue.com.cn
+DOMAIN-SUFFIX,sinaedge.cn
+DOMAIN-SUFFIX,sinaedge.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinaimg.com.cn
+DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,sinajs.com
+DOMAIN-SUFFIX,sinanet.com
+DOMAIN-SUFFIX,sinanode.com
+DOMAIN-SUFFIX,sinas3.com
+DOMAIN-SUFFIX,sinas3.net
+DOMAIN-SUFFIX,sinastorage.cn
+DOMAIN-SUFFIX,sinastorage.com
+DOMAIN-SUFFIX,sinasws.com
+DOMAIN-SUFFIX,sinauda.com
+DOMAIN-SUFFIX,sinaurl.cn
+DOMAIN-SUFFIX,smtcdn.com
+DOMAIN-SUFFIX,t.cn
+DOMAIN-SUFFIX,talldns.cn
+DOMAIN-SUFFIX,talldns.com
+DOMAIN-SUFFIX,talldns.net
+DOMAIN-SUFFIX,twgame.cn
+DOMAIN-SUFFIX,twgame.com.cn
+DOMAIN-SUFFIX,ufc.cn
+DOMAIN-SUFFIX,videoself.cn
+DOMAIN-SUFFIX,vipappsina.com
+DOMAIN-SUFFIX,vipsinaapp.com
+DOMAIN-SUFFIX,vmoso.cn
+DOMAIN-SUFFIX,volleychina.org
+DOMAIN-SUFFIX,vshoucang.com
+DOMAIN-SUFFIX,wan68.com
+DOMAIN-SUFFIX,wapone.net
+DOMAIN-SUFFIX,wbimg.cn
+DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,wbimg.com.cn
+DOMAIN-SUFFIX,wcdn.cn
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.com.cn
+DOMAIN-SUFFIX,weibo.tv
+DOMAIN-SUFFIX,weibocdn.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,weiboums.com
+DOMAIN-SUFFIX,weipan.cn
+DOMAIN-SUFFIX,weipan.com.cn
+DOMAIN-SUFFIX,xhaiwai.com
+DOMAIN-SUFFIX,xiaoka.tv
+DOMAIN-SUFFIX,yangfan.org.cn
+DOMAIN-KEYWORD,weibo

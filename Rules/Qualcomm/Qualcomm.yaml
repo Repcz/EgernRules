@@ -1,54 +1,45 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- airgonetworks.com
-- berkanawireless.com
-- brewmp.com
-- cdmatech.com
-- dragoniscoming.com
-- gobianywhere.com
-- gpsonextra.net
-- hellosmartbook.com
-- imod.com
-- ipleadership.org
-- iskoot.com
-- izatcloud.net
-- meetsmartbook.com
-- patenttruth.org
-- pixtronix.com
-- qceventscenter.com.cn
-- qctconnect.com
-- qprize.com
-- qualcomm-email.com
-- qualcomm.cn
-- qualcomm.co.id
-- qualcomm.co.in
-- qualcomm.co.jp
-- qualcomm.co.kr
-- qualcomm.co.uk
-- qualcomm.com
-- qualcomm.com.br
-- qualcomm.com.tw
-- qualcomm.de
-- qualcomm.fr
-- qualcomm.sc.omtrdc.net
-- qualcommhalo.com
-- qualcommlabs.com
-- qualcommmea.com
-- qualcommretail.com
-- qualcommventures.cn
-- qualcommventures.com
-- qualphone.com
-- quicinc.com
-- snapdragon.cn
-- snapdragonbooth.com
-- uplinq.com
-- wipower.com
-- wirelessreach.com
-- xtracloud.cn
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,airgonetworks.com
+DOMAIN-SUFFIX,berkanawireless.com
+DOMAIN-SUFFIX,brewmp.com
+DOMAIN-SUFFIX,cdmatech.com
+DOMAIN-SUFFIX,dragoniscoming.com
+DOMAIN-SUFFIX,gobianywhere.com
+DOMAIN-SUFFIX,gpsonextra.net
+DOMAIN-SUFFIX,hellosmartbook.com
+DOMAIN-SUFFIX,imod.com
+DOMAIN-SUFFIX,ipleadership.org
+DOMAIN-SUFFIX,iskoot.com
+DOMAIN-SUFFIX,izatcloud.net
+DOMAIN-SUFFIX,meetsmartbook.com
+DOMAIN-SUFFIX,patenttruth.org
+DOMAIN-SUFFIX,pixtronix.com
+DOMAIN-SUFFIX,qceventscenter.com.cn
+DOMAIN-SUFFIX,qctconnect.com
+DOMAIN-SUFFIX,qprize.com
+DOMAIN-SUFFIX,qualcomm-email.com
+DOMAIN-SUFFIX,qualcomm.cn
+DOMAIN-SUFFIX,qualcomm.co.id
+DOMAIN-SUFFIX,qualcomm.co.in
+DOMAIN-SUFFIX,qualcomm.co.jp
+DOMAIN-SUFFIX,qualcomm.co.kr
+DOMAIN-SUFFIX,qualcomm.co.uk
+DOMAIN-SUFFIX,qualcomm.com
+DOMAIN-SUFFIX,qualcomm.com.br
+DOMAIN-SUFFIX,qualcomm.com.tw
+DOMAIN-SUFFIX,qualcomm.de
+DOMAIN-SUFFIX,qualcomm.fr
+DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
+DOMAIN-SUFFIX,qualcommhalo.com
+DOMAIN-SUFFIX,qualcommlabs.com
+DOMAIN-SUFFIX,qualcommmea.com
+DOMAIN-SUFFIX,qualcommretail.com
+DOMAIN-SUFFIX,qualcommventures.cn
+DOMAIN-SUFFIX,qualcommventures.com
+DOMAIN-SUFFIX,qualphone.com
+DOMAIN-SUFFIX,quicinc.com
+DOMAIN-SUFFIX,snapdragon.cn
+DOMAIN-SUFFIX,snapdragonbooth.com
+DOMAIN-SUFFIX,uplinq.com
+DOMAIN-SUFFIX,wipower.com
+DOMAIN-SUFFIX,wirelessreach.com
+DOMAIN-SUFFIX,xtracloud.cn

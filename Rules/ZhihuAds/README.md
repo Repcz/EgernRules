@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-MITM--DOMAINNAME合并-brightgreen) ![](https://shields.io/badge/-正则推导DOMAINNAME-033da7) 
 
 知乎广告拦截规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -23,25 +23,36 @@
 | DOMAIN | 3  | 
 | IP-CIDR | 1  | 
 | IP-CIDR6 | 1  | 
+| URL-REGEX | 7  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 6  | 
+| TOTAL(仅供参考) | 13  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ZhihuAds.yaml，请使用RULE-SET。
+- ZhihuAds_Resolve.yaml，请使用RULE-SET。
+- URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置ZhihuAds_MITM.sgmodule，仅供参考。
+
+#### 文件区别
+- ZhihuAds_Resolve.yaml与ZhihuAds.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - ZhihuAds.yaml 单独使用。
+- ZhihuAds_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ZhihuAds/ZhihuAds.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ZhihuAds/ZhihuAds.list
 
 
 

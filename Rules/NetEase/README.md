@@ -23,21 +23,30 @@
 | TOTAL(仅供参考) | 143  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- NetEase.yaml，请使用RULE-SET。
+- NetEase_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- NetEase_Resolve.yaml与NetEase.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - NetEase.yaml 单独使用。
+- NetEase_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/NetEase/NetEase.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NetEase/NetEase.list
 
 
 

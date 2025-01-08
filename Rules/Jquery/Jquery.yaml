@@ -1,12 +1,3 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- jquery.com
-- jquerymobile.com
-- jqueryui.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com

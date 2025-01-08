@@ -1,21 +1,13 @@
-domain_set:
-domain_suffix_set:
-- gz12301.com
-- hainan.com
-- hainan.net
-- hi114.cn
-- hibusiness.com
-- hifortune.net
-- laibafile.cn
-- tianya.cn
-- tianya.com.cn
-- tianyablog.com
-- tianyaclub.com
-- tianyaui.com
-- tysurl.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,gz12301.com
+DOMAIN-SUFFIX,hainan.com
+DOMAIN-SUFFIX,hainan.net
+DOMAIN-SUFFIX,hi114.cn
+DOMAIN-SUFFIX,hibusiness.com
+DOMAIN-SUFFIX,hifortune.net
+DOMAIN-SUFFIX,laibafile.cn
+DOMAIN-SUFFIX,tianya.cn
+DOMAIN-SUFFIX,tianya.com.cn
+DOMAIN-SUFFIX,tianyablog.com
+DOMAIN-SUFFIX,tianyaclub.com
+DOMAIN-SUFFIX,tianyaui.com
+DOMAIN-SUFFIX,tysurl.com

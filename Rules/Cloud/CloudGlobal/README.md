@@ -23,21 +23,30 @@
 | TOTAL(仅供参考) | 2861  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- CloudGlobal.yaml，请使用RULE-SET。
+- CloudGlobal_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- CloudGlobal_Resolve.yaml与CloudGlobal.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - CloudGlobal.yaml 单独使用。
+- CloudGlobal_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Cloud/CloudGlobal/CloudGlobal.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloud/CloudGlobal/CloudGlobal.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Cloud/CloudGlobal/CloudGlobal.list
 
 
 

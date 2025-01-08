@@ -20,11 +20,15 @@ TikTok规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 3  | 
 | DOMAIN-KEYWORD | 2  | 
 | DOMAIN-SUFFIX | 22  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 28  | 
+| TOTAL(仅供参考) | 29  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- TikTok.yaml，请使用RULE-SET。
 
 #### 配置建议
 - TikTok.yaml 单独使用。
@@ -32,13 +36,14 @@ TikTok规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/TikTok/TikTok.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TikTok/TikTok.list
 
 
 

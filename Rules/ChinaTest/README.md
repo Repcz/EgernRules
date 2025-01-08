@@ -12,7 +12,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-01-07 02:13:33
+最后更新时间：2025-01-07 02:13:32
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -20,28 +20,42 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 106  | 
 | DOMAIN-KEYWORD | 9  | 
 | DOMAIN-SUFFIX | 95027  | 
-| DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 31  | 
-| TOTAL(仅供参考) | 95189  | 
+| TOTAL(仅供参考) | 95188  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ChinaTest.yaml，请使用RULE-SET。
+- ChinaTest_Resolve.yaml，请使用RULE-SET。
+- ChinaTest_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- ChinaTest_All.yaml与ChinaTest_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- ChinaTest_Resolve.yaml与ChinaTest.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- ChinaTest.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- ChinaTest_All.yaml 单独使用。
+- ChinaTest_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- ChinaTest.yaml、ChinaTest_Domain.list 共同使用。
+- ChinaTest_Resolve.yaml、ChinaTest_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaTest/ChinaTest.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaTest/ChinaTest.list
 
 
 

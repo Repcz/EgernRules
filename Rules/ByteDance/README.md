@@ -19,25 +19,35 @@
 | ---- | ----  |
 | DOMAIN-SUFFIX | 328  | 
 | IP-CIDR | 1  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 330  | 
+| TOTAL(仅供参考) | 331  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- ByteDance.yaml，请使用RULE-SET。
+- ByteDance_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- ByteDance_Resolve.yaml与ByteDance.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - ByteDance.yaml 单独使用。
+- ByteDance_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ByteDance/ByteDance.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ByteDance/ByteDance.list
 
 
 

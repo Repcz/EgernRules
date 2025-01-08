@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-Egern定制化规则-7cd1e3) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN与DOMAIN--KEYWORD合并-9cf) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
 Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -17,30 +17,45 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 19  | 
+| DOMAIN | 12  | 
 | DOMAIN-KEYWORD | 26  | 
-| DOMAIN-SUFFIX | 6370  | 
+| DOMAIN-SUFFIX | 5925  | 
 | IP-CIDR | 93  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 8  | 
-| TOTAL(仅供参考) | 6520  | 
+| TOTAL(仅供参考) | 6068  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Proxy.yaml，请使用RULE-SET。
+- Proxy_Resolve.yaml，请使用RULE-SET。
+- Proxy_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- Proxy_All.yaml与Proxy_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- Proxy_Resolve.yaml与Proxy.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- Proxy.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Proxy_All.yaml 单独使用。
+- Proxy_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- Proxy.yaml、Proxy_Domain.list 共同使用。
+- Proxy_Resolve.yaml、Proxy_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Proxy/Proxy.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Proxy/Proxy.list
 
 
 

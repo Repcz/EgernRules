@@ -1,14 +1,5 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- ecapi-pchome.cdn.hinet.net
-- ecimg.tw
-- pchome.com.tw
-- pchomepay.com.tw
-- pcloud.tw
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomepay.com.tw
+DOMAIN-SUFFIX,pcloud.tw

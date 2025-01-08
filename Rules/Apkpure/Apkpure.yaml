@@ -1,13 +1,4 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- apkpure.com
-- cdnpure.com
-- pureapk.com
-- winudf.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com

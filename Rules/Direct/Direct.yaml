@@ -1,228 +1,257 @@
-domain_set:
-- ad.10010.com
-- ad.12306.cn
-- ain.bgm.tv
-- alt1-mtalk.google.com
-- alt2-mtalk.google.com
-- alt3-mtalk.google.com
-- alt4-mtalk.google.com
-- alt5-mtalk.google.com
-- alt6-mtalk.google.com
-- alt7-mtalk.google.com
-- alt8-mtalk.google.com
-- analytics.95516.com
-- analytics.strava.com
-- app.adjust.com
-- app.appsflyer.com
-- bdtj.tagtic.cn
-- cdn.jsdelivr.net
-- clientservices.googleapis.com
-- deo.shopeemobile.com
-- dl.google.com
-- dl.l.google.com
-- eco-push-api-client.meiqia.com
-- errlog.umeng.com
-- fairplay.l.qq.com
-- image.maimn.com
-- img.bfzypic.com
-- img.ffzypic.com
-- img.kuaikanzy.net
-- img.liangzipic.com
-- init.ess.apple.com
-- itunes.apple.com
-- lain.bgm.tv
-- livew.l.qq.com
-- log.mmstat.com
-- m3u8.255tv.tk
-- m3u8.mstopq.com
-- msg.umeng.com
-- msg.umengcloud.com
-- mtalk.google.com
-- new-api.meiqia.com
-- ok.zuidapic.com
-- origin-a.akamaihd.net
-- rewards.hypixel.net
-- sdk.alibaba.com.ailbaba.me
-- smp-device-content.apple.com
-- static.jssp.tv
-- sycm.mmstat.com
-- tiao.cjkypo.com
-- time.apple.com
-- tracking.miui.com
-- ts.thefilehosting.com
-- update.googleapis.com
-- vd.l.qq.com
-- vi.l.qq.com
-- vip.ffzyread.com
-- vip.imgffzy.com
-domain_suffix_set:
-- 52pt.site
-- acg.rip
-- acm.org
-- aidoru-online.me
-- alpharatio.cc
-- animebytes.tv
-- anthelion.me
-- asiancinema.me
-- avgv.cc
-- avistaz.to
-- awesome-hd.me
-- baomitu.com
-- beitai.pt
-- beyond-hd.me
-- bibliotik.me
-- blackwell-synergy.com
-- blog.google
-- blutopia.xyz
-- bootcss.com
-- broadcasthe.net
-- bt.byr.cn
-- bt.neu6.edu.cn
-- btschool.club
-- cabdirect.org
-- ccfbits.org
-- cgpeers.com
-- cinemageddon.net
-- cinematik.net
-- cinemaz.to
-- classix-unlimited.co.uk
-- comicat.org
-- concertos.live
-- dicmusic.club
-- discfan.net
-- dizhensubao.getui.com
-- doi.org
-- dxdhd.com
-- eastgame.org
-- empornium.me
-- et8.org
-- exoticaz.to
-- f.video.weibocdn.com
-- filelist.io
-- fus.cdn.krcom.cn
-- gazellegames.net
-- gfxpeers.net
-- googletraveladservices.com
-- hd-space.org
-- hd4.xyz
-- hd4fans.org
-- hdarea.co
-- hdatmos.club
-- hdbd.us
-- hdbits.org
-- hdchina.org
-- hdcity.city
-- hddolby.com
-- hdfans.org
-- hdhome.org
-- hdpost.top
-- hdroute.org
-- hdsky.me
-- hdstreet.club
-- hdtime.org
-- hdupt.com
-- hdzone.me
-- hitpt.com
-- hitpt.org
-- hudbt.hust.edu.cn
-- icetorrent.org
-- ieee.org
-- j99.info
-- jiasule.com
-- joyhd.net
-- jpopsuki.eu
-- jstor.org
-- karagarga.in
-- keepfrds.com
-- koodomobile.ca
-- koodomobile.com
-- leaguehd.com
-- lztr.me
-- m-team.cc
-- madsrevolution.net
-- moecat.best
-- morethan.tv
-- msg.vg
-- myanonamouse.net
-- nanyangpt.com
-- nature.com
-- ncore.cc
-- nebulance.io
-- nicept.net
-- npupt.com
-- ol.epicgames.com
-- open.cd
-- oppaiti.me
-- orpheus.network
-- osapublishing.org
-- oup.com
-- ourbits.club
-- passthepopcorn.me
-- pornbits.net
-- privatehd.to
-- pterclub.com
-- pthome.net
-- ptsbao.club
-- redacted.ch
-- researchgate.net
-- sciencemag.org
-- scopus.com
-- sdbits.org
-- skyey2.com
-- soulvoice.club
-- springer.com
-- springernature.com
-- springsunday.net
-- staticfile.org
-- tjupt.org
-- totheglory.im
-- tracking-protection.cdn.mozilla.net
-- trontv.com
-- uhdbits.org
-- upaiyun.com
-- weather-analytics-events.apple.com
-- weather-data.apple.com
-- weather-map.apple.com
-- wiley.com
-- xunlei.com
-domain_keyword_set:
-- anti-ad.net
-- api-adservices.apple.com
-- api.smoot.apple.cn
-- api.smoot.apple.com
-- aw-s.tripcdn.com
-- ax1x.com
-- bfzycdn.com
-- buy.itunes.apple.com
-- cnki.net
-- ctc.qzs.qzone.qq.com
-- deepdyve
-- els-cdn
-- elsevier
-- ess.apple.com
-- gsa.apple.com
-- humb.apple.com
-- icloud.com
-- ls.apple.com
-- o.lencr.org
-- pkulaw
-- push.apple.com
-- readcube
-- sciencedirect
-- ssl.apple.com
-- trip.com
-- ttcdn-tos.kkimg.cc
-- vip.ffzy-online
-- vip.ffzy-play
-- vip.kuaikan-cdn
-- vip.lz-cdn
-- wanfangdata
-- wb_ad
-- weather-adge.apple.com
-- weather-edge.apple.com
-- westlawchina
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,ad.10010.com
+DOMAIN,ad.12306.cn
+DOMAIN,ain.bgm.tv
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,analytics.95516.com
+DOMAIN,analytics.strava.com
+DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,bdtj.tagtic.cn
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,clientservices.googleapis.com
+DOMAIN,deo.shopeemobile.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,eco-push-api-client.meiqia.com
+DOMAIN,errlog.umeng.com
+DOMAIN,fairplay.l.qq.com
+DOMAIN,image.maimn.com
+DOMAIN,img.bfzypic.com
+DOMAIN,img.ffzypic.com
+DOMAIN,img.kuaikanzy.net
+DOMAIN,img.liangzipic.com
+DOMAIN,init.ess.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,lain.bgm.tv
+DOMAIN,livew.l.qq.com
+DOMAIN,log.mmstat.com
+DOMAIN,m3u8.255tv.tk
+DOMAIN,m3u8.mstopq.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+DOMAIN,mtalk.google.com
+DOMAIN,new-api.meiqia.com
+DOMAIN,ok.zuidapic.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,rewards.hypixel.net
+DOMAIN,sdk.alibaba.com.ailbaba.me
+DOMAIN,smp-device-content.apple.com
+DOMAIN,static.jssp.tv
+DOMAIN,sycm.mmstat.com
+DOMAIN,tiao.cjkypo.com
+DOMAIN,time.apple.com
+DOMAIN,tracking.miui.com
+DOMAIN,ts.thefilehosting.com
+DOMAIN,update.googleapis.com
+DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com
+DOMAIN,vip.ffzyread.com
+DOMAIN,vip.imgffzy.com
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,aidoru-online.me
+DOMAIN-SUFFIX,alpharatio.cc
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,asiancinema.me
+DOMAIN-SUFFIX,avgv.cc
+DOMAIN-SUFFIX,avistaz.to
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,beitai.pt
+DOMAIN-SUFFIX,beyond-hd.me
+DOMAIN-SUFFIX,bibliotik.me
+DOMAIN-SUFFIX,blackwell-synergy.com
+DOMAIN-SUFFIX,blog.google
+DOMAIN-SUFFIX,blutopia.xyz
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,bt.byr.cn
+DOMAIN-SUFFIX,bt.neu6.edu.cn
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,cabdirect.org
+DOMAIN-SUFFIX,ccfbits.org
+DOMAIN-SUFFIX,cgpeers.com
+DOMAIN-SUFFIX,cinemageddon.net
+DOMAIN-SUFFIX,cinematik.net
+DOMAIN-SUFFIX,cinemaz.to
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,dizhensubao.getui.com
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,dxdhd.com
+DOMAIN-SUFFIX,eastgame.org
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,exoticaz.to
+DOMAIN-SUFFIX,f.video.weibocdn.com
+DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,fus.cdn.krcom.cn
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,gfxpeers.net
+DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,hd-space.org
+DOMAIN-SUFFIX,hd4.xyz
+DOMAIN-SUFFIX,hd4fans.org
+DOMAIN-SUFFIX,hdarea.co
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hdbd.us
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdpost.top
+DOMAIN-SUFFIX,hdroute.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,hdstreet.club
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdupt.com
+DOMAIN-SUFFIX,hdzone.me
+DOMAIN-SUFFIX,hitpt.com
+DOMAIN-SUFFIX,hitpt.org
+DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,j99.info
+DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,joyhd.net
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,karagarga.in
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,koodomobile.ca
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,leaguehd.com
+DOMAIN-SUFFIX,lztr.me
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,moecat.best
+DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,msg.vg
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,npupt.com
+DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,oppaiti.me
+DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,pornbits.net
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,sdbits.org
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+DOMAIN-SUFFIX,trontv.com
+DOMAIN-SUFFIX,uhdbits.org
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,weather-map.apple.com
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-KEYWORD,anti-ad.net
+DOMAIN-KEYWORD,api-adservices.apple.com
+DOMAIN-KEYWORD,api.smoot.apple.cn
+DOMAIN-KEYWORD,api.smoot.apple.com
+DOMAIN-KEYWORD,aw-s.tripcdn.com
+DOMAIN-KEYWORD,ax1x.com
+DOMAIN-KEYWORD,bfzycdn.com
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,cnki.net
+DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+DOMAIN-KEYWORD,deepdyve
+DOMAIN-KEYWORD,els-cdn
+DOMAIN-KEYWORD,elsevier
+DOMAIN-KEYWORD,ess.apple.com
+DOMAIN-KEYWORD,gsa.apple.com
+DOMAIN-KEYWORD,humb.apple.com
+DOMAIN-KEYWORD,icloud.com
+DOMAIN-KEYWORD,ls.apple.com
+DOMAIN-KEYWORD,o.lencr.org
+DOMAIN-KEYWORD,pkulaw
+DOMAIN-KEYWORD,push.apple.com
+DOMAIN-KEYWORD,readcube
+DOMAIN-KEYWORD,sciencedirect
+DOMAIN-KEYWORD,ssl.apple.com
+DOMAIN-KEYWORD,trip.com
+DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
+DOMAIN-KEYWORD,vip.ffzy-online
+DOMAIN-KEYWORD,vip.ffzy-play
+DOMAIN-KEYWORD,vip.kuaikan-cdn
+DOMAIN-KEYWORD,vip.lz-cdn
+DOMAIN-KEYWORD,wanfangdata
+DOMAIN-KEYWORD,wb_ad
+DOMAIN-KEYWORD,weather-adge.apple.com
+DOMAIN-KEYWORD,weather-edge.apple.com
+DOMAIN-KEYWORD,westlawchina
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,BitComet
+PROCESS-NAME,ClashX
+PROCESS-NAME,DownloadService
+PROCESS-NAME,Folx
+PROCESS-NAME,LogiOptions
+PROCESS-NAME,LogiOptionsDaemon
+PROCESS-NAME,Motrix.app
+PROCESS-NAME,NetTransport
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,SunloginClient_Helper
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,Transmission
+PROCESS-NAME,UUBooster
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrentHelper
+PROCESS-NAME,amuled
+PROCESS-NAME,aria2c
+PROCESS-NAME,clash
+PROCESS-NAME,cloudflared
+PROCESS-NAME,fdm
+PROCESS-NAME,parsecd
+PROCESS-NAME,privoxy
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent*
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,ss-local
+PROCESS-NAME,tailscaled
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,uTorrent
+PROCESS-NAME,v2ray
+PROCESS-NAME,xray
+USER-AGENT,%E8%BF%85%E9%9B%B7

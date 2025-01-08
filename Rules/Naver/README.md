@@ -21,25 +21,35 @@ Naver规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 24  | 
 | IP-CIDR | 32  | 
 | IP-CIDR6 | 1  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 1  | 
-| TOTAL(仅供参考) | 60  | 
+| TOTAL(仅供参考) | 61  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Naver.yaml，请使用RULE-SET。
+- Naver_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Naver_Resolve.yaml与Naver.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Naver.yaml 单独使用。
+- Naver_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Naver/Naver.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Naver/Naver.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Naver/Naver.list
 
 
 

@@ -22,21 +22,30 @@ TelegramUS规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 2  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- TelegramUS.yaml，请使用RULE-SET。
+- TelegramUS_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- TelegramUS_Resolve.yaml与TelegramUS.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - TelegramUS.yaml 单独使用。
+- TelegramUS_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/TelegramUS/TelegramUS.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramUS/TelegramUS.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TelegramUS/TelegramUS.list
 
 
 

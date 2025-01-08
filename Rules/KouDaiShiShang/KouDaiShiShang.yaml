@@ -1,30 +1,22 @@
-domain_set:
-domain_suffix_set:
-- 91ruyu.com
-- bibikan.cn
-- fang.xin
-- fangxin.com
-- geili.cn
-- geilicdn.com
-- kou6ai.cn
-- koudai.cn
-- koudai.com
-- v5.cc
-- vdian.com
-- wdfangyi.com
-- weidian-inc.com
-- weidian.cc
-- weidian.cn
-- weidian.com
-- weidianfans.com
-- xihuan.com.cn
-- youshop01.com
-- youshop02.com
-- youshop03.com
-- youshop04.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,91ruyu.com
+DOMAIN-SUFFIX,bibikan.cn
+DOMAIN-SUFFIX,fang.xin
+DOMAIN-SUFFIX,fangxin.com
+DOMAIN-SUFFIX,geili.cn
+DOMAIN-SUFFIX,geilicdn.com
+DOMAIN-SUFFIX,kou6ai.cn
+DOMAIN-SUFFIX,koudai.cn
+DOMAIN-SUFFIX,koudai.com
+DOMAIN-SUFFIX,v5.cc
+DOMAIN-SUFFIX,vdian.com
+DOMAIN-SUFFIX,wdfangyi.com
+DOMAIN-SUFFIX,weidian-inc.com
+DOMAIN-SUFFIX,weidian.cc
+DOMAIN-SUFFIX,weidian.cn
+DOMAIN-SUFFIX,weidian.com
+DOMAIN-SUFFIX,weidianfans.com
+DOMAIN-SUFFIX,xihuan.com.cn
+DOMAIN-SUFFIX,youshop01.com
+DOMAIN-SUFFIX,youshop02.com
+DOMAIN-SUFFIX,youshop03.com
+DOMAIN-SUFFIX,youshop04.com

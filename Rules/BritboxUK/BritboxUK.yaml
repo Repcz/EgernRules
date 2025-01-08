@@ -1,17 +1,8 @@
-no_resolve: true
-domain_set:
-- itvpnp.live.ott.irdeto.com
-- itvpnp.stage.ott.irdeto.com
-domain_suffix_set:
-- bb-static.com
-- bbc.co.uk
-- britbox.co.uk
-- britbox.com
-- itv.com
-- massive-itv.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,itvpnp.live.ott.irdeto.com
+DOMAIN,itvpnp.stage.ott.irdeto.com
+DOMAIN-SUFFIX,bb-static.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,britbox.co.uk
+DOMAIN-SUFFIX,britbox.com
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,massive-itv.com

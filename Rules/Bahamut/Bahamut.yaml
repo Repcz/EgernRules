@@ -1,16 +1,8 @@
-no_resolve: true
-domain_set:
-- bahamut.akamaized.net
-domain_suffix_set:
-- bahamut.com.tw
-- digicert.com
-- gamer.com.tw
-- gvt1.com
-- hinet.net
-- viblast.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+USER-AGENT,Anime*

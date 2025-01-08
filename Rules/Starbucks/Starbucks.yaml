@@ -1,41 +1,32 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- sbux.com.my
-- sbuxcard.com
-- starbucks-stars.com
-- starbucks.ad
-- starbucks.at
-- starbucks.be
-- starbucks.bg
-- starbucks.ca
-- starbucks.ch
-- starbucks.co.id
-- starbucks.co.jp
-- starbucks.co.nz
-- starbucks.co.th
-- starbucks.co.uk
-- starbucks.co.za
-- starbucks.com
-- starbucks.com.ar
-- starbucks.com.bn
-- starbucks.com.cn
-- starbucks.com.co
-- starbucks.com.cy
-- starbucks.com.gr
-- starbucks.com.hk
-- starbucks.com.kh
-- starbucks.com.kz
-- starbucks.com.mx
-- starbucks.com.my
-- starbucks.de
-- starbucks.fr
-- starbucks.ie
-- starbucksathome.com
-- starbucksreserve.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,sbux.com.my
+DOMAIN-SUFFIX,sbuxcard.com
+DOMAIN-SUFFIX,starbucks-stars.com
+DOMAIN-SUFFIX,starbucks.ad
+DOMAIN-SUFFIX,starbucks.at
+DOMAIN-SUFFIX,starbucks.be
+DOMAIN-SUFFIX,starbucks.bg
+DOMAIN-SUFFIX,starbucks.ca
+DOMAIN-SUFFIX,starbucks.ch
+DOMAIN-SUFFIX,starbucks.co.id
+DOMAIN-SUFFIX,starbucks.co.jp
+DOMAIN-SUFFIX,starbucks.co.nz
+DOMAIN-SUFFIX,starbucks.co.th
+DOMAIN-SUFFIX,starbucks.co.uk
+DOMAIN-SUFFIX,starbucks.co.za
+DOMAIN-SUFFIX,starbucks.com
+DOMAIN-SUFFIX,starbucks.com.ar
+DOMAIN-SUFFIX,starbucks.com.bn
+DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,starbucks.com.co
+DOMAIN-SUFFIX,starbucks.com.cy
+DOMAIN-SUFFIX,starbucks.com.gr
+DOMAIN-SUFFIX,starbucks.com.hk
+DOMAIN-SUFFIX,starbucks.com.kh
+DOMAIN-SUFFIX,starbucks.com.kz
+DOMAIN-SUFFIX,starbucks.com.mx
+DOMAIN-SUFFIX,starbucks.com.my
+DOMAIN-SUFFIX,starbucks.de
+DOMAIN-SUFFIX,starbucks.fr
+DOMAIN-SUFFIX,starbucks.ie
+DOMAIN-SUFFIX,starbucksathome.com
+DOMAIN-SUFFIX,starbucksreserve.com

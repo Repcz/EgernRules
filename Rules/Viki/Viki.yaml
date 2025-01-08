@@ -1,17 +1,8 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- kalhlspd-a.akamaihd.net
-- m-content-viki.s.llnwi.net
-- twemoji.maxcdn.com
-- viki.com
-- viki.io
-- viki.net
-- vikidash.akamaized.net
-- vikiplatform.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,kalhlspd-a.akamaihd.net
+DOMAIN-SUFFIX,m-content-viki.s.llnwi.net
+DOMAIN-SUFFIX,twemoji.maxcdn.com
+DOMAIN-SUFFIX,viki.com
+DOMAIN-SUFFIX,viki.io
+DOMAIN-SUFFIX,viki.net
+DOMAIN-SUFFIX,vikidash.akamaized.net
+DOMAIN-SUFFIX,vikiplatform.com

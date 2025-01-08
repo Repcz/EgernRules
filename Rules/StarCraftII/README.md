@@ -21,21 +21,30 @@ StarCraftII规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 8  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- StarCraftII.yaml，请使用RULE-SET。
+- StarCraftII_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- StarCraftII_Resolve.yaml与StarCraftII.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - StarCraftII.yaml 单独使用。
+- StarCraftII_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/StarCraftII/StarCraftII.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/StarCraftII/StarCraftII.list
 
 
 

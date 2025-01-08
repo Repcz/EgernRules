@@ -12,7 +12,7 @@ MOMO購物網规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-03 16:17:00
+最后更新时间：2024-07-03 16:16:59
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -21,7 +21,10 @@ MOMO購物網规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 4  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- MOMOShop.yaml，请使用RULE-SET。
 
 #### 配置建议
 - MOMOShop.yaml 单独使用。
@@ -29,13 +32,14 @@ MOMO購物網规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/MOMOShop/MOMOShop.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOMOShop/MOMOShop.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/MOMOShop/MOMOShop.list
 
 
 

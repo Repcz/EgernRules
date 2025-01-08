@@ -1,19 +1,11 @@
-domain_set:
-domain_suffix_set:
-- counter-strike.cn
-- counter-strike.com.cn
-- csgo.com.cn
-- laohu.com
-- pwrdoverseagame.com
-- pwrdoverseas.com
-- wanmei.com
-- wanmei.net
-- wmupd.com
-- wmupd.com.cn
-- wmwm.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,counter-strike.cn
+DOMAIN-SUFFIX,counter-strike.com.cn
+DOMAIN-SUFFIX,csgo.com.cn
+DOMAIN-SUFFIX,laohu.com
+DOMAIN-SUFFIX,pwrdoverseagame.com
+DOMAIN-SUFFIX,pwrdoverseas.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wanmei.net
+DOMAIN-SUFFIX,wmupd.com
+DOMAIN-SUFFIX,wmupd.com.cn
+DOMAIN-SUFFIX,wmwm.com

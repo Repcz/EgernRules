@@ -1,30 +1,21 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- shopee.cl
-- shopee.cn
-- shopee.co.id
-- shopee.co.th
-- shopee.com
-- shopee.com.br
-- shopee.com.co
-- shopee.com.mx
-- shopee.com.my
-- shopee.es
-- shopee.fr
-- shopee.id
-- shopee.in
-- shopee.io
-- shopee.ph
-- shopee.sg
-- shopee.tw
-- shopee.vn
-- shopeemobile.com
-- shopeesz.com
-- shp.ee
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,shopee.cl
+DOMAIN-SUFFIX,shopee.cn
+DOMAIN-SUFFIX,shopee.co.id
+DOMAIN-SUFFIX,shopee.co.th
+DOMAIN-SUFFIX,shopee.com
+DOMAIN-SUFFIX,shopee.com.br
+DOMAIN-SUFFIX,shopee.com.co
+DOMAIN-SUFFIX,shopee.com.mx
+DOMAIN-SUFFIX,shopee.com.my
+DOMAIN-SUFFIX,shopee.es
+DOMAIN-SUFFIX,shopee.fr
+DOMAIN-SUFFIX,shopee.id
+DOMAIN-SUFFIX,shopee.in
+DOMAIN-SUFFIX,shopee.io
+DOMAIN-SUFFIX,shopee.ph
+DOMAIN-SUFFIX,shopee.sg
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,shopee.vn
+DOMAIN-SUFFIX,shopeemobile.com
+DOMAIN-SUFFIX,shopeesz.com
+DOMAIN-SUFFIX,shp.ee

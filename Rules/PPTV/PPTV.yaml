@@ -1,27 +1,19 @@
-domain_set:
-domain_suffix_set:
-- bkrent.cn
-- g1d.net
-- iptv.com.cn
-- jiwunote.com.cn
-- kidkk.cn
-- kidpp.cn
-- kidsn.cn
-- kidyy.cn
-- pplive.cn
-- pplive.com
-- pplive.com.cn
-- pplive.net
-- pptv.com
-- pptvdata.com
-- pptvimg.com
-- pptvnet.com
-- pptvyun.com
-- snrent.cn
-- synacast.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,bkrent.cn
+DOMAIN-SUFFIX,g1d.net
+DOMAIN-SUFFIX,iptv.com.cn
+DOMAIN-SUFFIX,jiwunote.com.cn
+DOMAIN-SUFFIX,kidkk.cn
+DOMAIN-SUFFIX,kidpp.cn
+DOMAIN-SUFFIX,kidsn.cn
+DOMAIN-SUFFIX,kidyy.cn
+DOMAIN-SUFFIX,pplive.cn
+DOMAIN-SUFFIX,pplive.com
+DOMAIN-SUFFIX,pplive.com.cn
+DOMAIN-SUFFIX,pplive.net
+DOMAIN-SUFFIX,pptv.com
+DOMAIN-SUFFIX,pptvdata.com
+DOMAIN-SUFFIX,pptvimg.com
+DOMAIN-SUFFIX,pptvnet.com
+DOMAIN-SUFFIX,pptvyun.com
+DOMAIN-SUFFIX,snrent.cn
+DOMAIN-SUFFIX,synacast.com

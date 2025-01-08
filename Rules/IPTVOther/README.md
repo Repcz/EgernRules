@@ -25,21 +25,36 @@ IPTV其他规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 2814  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- IPTVOther.yaml，请使用RULE-SET。
+- IPTVOther_Resolve.yaml，请使用RULE-SET。
+- IPTVOther_Domain.yaml，请使用DOMAIN-SET。
+
+#### 文件区别
+- IPTVOther_All.yaml与IPTVOther_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+- IPTVOther_Resolve.yaml与IPTVOther.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- IPTVOther.yaml 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- IPTVOther_All.yaml 单独使用。
+- IPTVOther_All_No_Resolve.yaml 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- IPTVOther.yaml、IPTVOther_Domain.list 共同使用。
+- IPTVOther_Resolve.yaml、IPTVOther_Domain.list 共同使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/IPTVOther/IPTVOther.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVOther/IPTVOther.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/IPTVOther/IPTVOther.list
 
 
 

@@ -20,24 +20,34 @@ iQIYIIntl规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 1  | 
 | DOMAIN-SUFFIX | 5  | 
 | IP-CIDR | 13  | 
-| TOTAL(仅供参考) | 19  | 
+| PROCESS-NAME | 2  | 
+| TOTAL(仅供参考) | 21  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- iQIYIIntl.yaml，请使用RULE-SET。
+- iQIYIIntl_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- iQIYIIntl_Resolve.yaml与iQIYIIntl.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - iQIYIIntl.yaml 单独使用。
+- iQIYIIntl_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/iQIYIIntl/iQIYIIntl.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYIIntl/iQIYIIntl.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/iQIYIIntl/iQIYIIntl.list
 
 
 

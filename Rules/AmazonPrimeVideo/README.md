@@ -20,11 +20,15 @@ AmazonPrimeVideo规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 5  | 
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 19  | 
+| PROCESS-NAME | 1  | 
 | USER-AGENT(Egern不支持) | 2  | 
-| TOTAL(仅供参考) | 27  | 
+| TOTAL(仅供参考) | 28  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- AmazonPrimeVideo.yaml，请使用RULE-SET。
 
 #### 配置建议
 - AmazonPrimeVideo.yaml 单独使用。
@@ -32,13 +36,14 @@ AmazonPrimeVideo规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/AmazonPrimeVideo/AmazonPrimeVideo.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
 
 
 

@@ -1,19 +1,11 @@
-domain_set:
-domain_suffix_set:
-- ciweekforum.com
-- enet.com.cn
-- enet16.cn
-- enet16.com
-- enet16.com.cn
-- enet16.net
-- enet369.com
-- ezhu.cn
-- ezhu.com
-- mydor.com
-- xingzhiheyi.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,ciweekforum.com
+DOMAIN-SUFFIX,enet.com.cn
+DOMAIN-SUFFIX,enet16.cn
+DOMAIN-SUFFIX,enet16.com
+DOMAIN-SUFFIX,enet16.com.cn
+DOMAIN-SUFFIX,enet16.net
+DOMAIN-SUFFIX,enet369.com
+DOMAIN-SUFFIX,ezhu.cn
+DOMAIN-SUFFIX,ezhu.com
+DOMAIN-SUFFIX,mydor.com
+DOMAIN-SUFFIX,xingzhiheyi.com

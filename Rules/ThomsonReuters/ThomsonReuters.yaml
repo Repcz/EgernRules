@@ -1,40 +1,31 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- aranzadi.es
-- corepublishingsolutions.com
-- elite.com
-- legaltracker.com
-- livrariart.com.br
-- reuters.com
-- reuters.tv
-- reutersagency.cn
-- reutersmedia.net
-- sweetandmaxwell.co.uk
-- thomsonreuters.ca
-- thomsonreuters.cn
-- thomsonreuters.co.jp
-- thomsonreuters.co.kr
-- thomsonreuters.co.nz
-- thomsonreuters.co.uk
-- thomsonreuters.com
-- thomsonreuters.com.ar
-- thomsonreuters.com.au
-- thomsonreuters.com.br
-- thomsonreuters.com.hk
-- thomsonreuters.com.my
-- thomsonreuters.com.pe
-- thomsonreuters.com.sg
-- thomsonreuters.com.tr
-- thomsonreuters.es
-- thomsonreuters.in
-- thomsonreuters.ru
-- thomsonreutersmexico.com
-- tmsnrt.rs
-- tr.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,aranzadi.es
+DOMAIN-SUFFIX,corepublishingsolutions.com
+DOMAIN-SUFFIX,elite.com
+DOMAIN-SUFFIX,legaltracker.com
+DOMAIN-SUFFIX,livrariart.com.br
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reuters.tv
+DOMAIN-SUFFIX,reutersagency.cn
+DOMAIN-SUFFIX,reutersmedia.net
+DOMAIN-SUFFIX,sweetandmaxwell.co.uk
+DOMAIN-SUFFIX,thomsonreuters.ca
+DOMAIN-SUFFIX,thomsonreuters.cn
+DOMAIN-SUFFIX,thomsonreuters.co.jp
+DOMAIN-SUFFIX,thomsonreuters.co.kr
+DOMAIN-SUFFIX,thomsonreuters.co.nz
+DOMAIN-SUFFIX,thomsonreuters.co.uk
+DOMAIN-SUFFIX,thomsonreuters.com
+DOMAIN-SUFFIX,thomsonreuters.com.ar
+DOMAIN-SUFFIX,thomsonreuters.com.au
+DOMAIN-SUFFIX,thomsonreuters.com.br
+DOMAIN-SUFFIX,thomsonreuters.com.hk
+DOMAIN-SUFFIX,thomsonreuters.com.my
+DOMAIN-SUFFIX,thomsonreuters.com.pe
+DOMAIN-SUFFIX,thomsonreuters.com.sg
+DOMAIN-SUFFIX,thomsonreuters.com.tr
+DOMAIN-SUFFIX,thomsonreuters.es
+DOMAIN-SUFFIX,thomsonreuters.in
+DOMAIN-SUFFIX,thomsonreuters.ru
+DOMAIN-SUFFIX,thomsonreutersmexico.com
+DOMAIN-SUFFIX,tmsnrt.rs
+DOMAIN-SUFFIX,tr.com

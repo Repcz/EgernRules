@@ -1,13 +1,5 @@
-domain_set:
-domain_suffix_set:
-- hifengli.com
-- liexiulive.com
-- sndks.com
-- yizhibo.com
-- yzbo.tv
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,hifengli.com
+DOMAIN-SUFFIX,liexiulive.com
+DOMAIN-SUFFIX,sndks.com
+DOMAIN-SUFFIX,yizhibo.com
+DOMAIN-SUFFIX,yzbo.tv

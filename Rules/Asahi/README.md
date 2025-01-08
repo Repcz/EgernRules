@@ -22,7 +22,10 @@ Asahi规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 7  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- Asahi.yaml，请使用RULE-SET。
 
 #### 配置建议
 - Asahi.yaml 单独使用。
@@ -30,13 +33,14 @@ Asahi规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Asahi/Asahi.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Asahi/Asahi.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Asahi/Asahi.list
 
 
 

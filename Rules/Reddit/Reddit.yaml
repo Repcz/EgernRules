@@ -1,17 +1,8 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- redd.it
-- reddit.com
-- redditmail.com
-- redditmedia.com
-- redditstatic.com
-- reddituploads.com
-- reddituploads.com.cdn-cf.behance.net
-- reddituploads.com.cdn-cf.dropbox.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

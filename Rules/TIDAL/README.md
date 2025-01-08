@@ -22,7 +22,10 @@ TIDAL规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 6  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- TIDAL.yaml，请使用RULE-SET。
 
 #### 配置建议
 - TIDAL.yaml 单独使用。
@@ -30,13 +33,14 @@ TIDAL规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/TIDAL/TIDAL.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TIDAL/TIDAL.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TIDAL/TIDAL.list
 
 
 

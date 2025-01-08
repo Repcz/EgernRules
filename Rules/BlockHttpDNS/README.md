@@ -24,21 +24,30 @@ BlockHttpDNS规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL(仅供参考) | 59  | 
 
 
-## Egern 
+## Surge 
+
+#### 使用说明
+- BlockHttpDNS.yaml，请使用RULE-SET。
+- BlockHttpDNS_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- BlockHttpDNS_Resolve.yaml与BlockHttpDNS.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - BlockHttpDNS.yaml 单独使用。
+- BlockHttpDNS_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
 
-https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/BlockHttpDNS/BlockHttpDNS.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list
 
 
 
 
 
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/BlockHttpDNS/BlockHttpDNS.list
 
 
 

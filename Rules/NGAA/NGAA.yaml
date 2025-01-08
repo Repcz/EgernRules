@@ -1,37 +1,29 @@
-domain_set:
-domain_suffix_set:
-- chinagslb.cn
-- chinagslb.com
-- chinagslb.net
-- cngslb.cn
-- cngslb.com
-- cngslb.net
-- ispcache.cn
-- ispcache.net
-- kuaifan.shop
-- ngaa.cn
-- ngaa.com.cn
-- ngaa.info
-- ngaa.net.cn
-- ngaa.org.cn
-- ngaa.shop
-- ngaa.top
-- ngaacdn.cn
-- ngaacdn.com
-- ngaacdn.net
-- ngaagslb.cn
-- ngaagslb.com
-- ngaagslb.net
-- sinocache.cn
-- sinocache.com.cn
-- sinocache.net
-- sinogslb.cn
-- sinogslb.com
-- sinogslb.net
-- speedin.shop
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,chinagslb.cn
+DOMAIN-SUFFIX,chinagslb.com
+DOMAIN-SUFFIX,chinagslb.net
+DOMAIN-SUFFIX,cngslb.cn
+DOMAIN-SUFFIX,cngslb.com
+DOMAIN-SUFFIX,cngslb.net
+DOMAIN-SUFFIX,ispcache.cn
+DOMAIN-SUFFIX,ispcache.net
+DOMAIN-SUFFIX,kuaifan.shop
+DOMAIN-SUFFIX,ngaa.cn
+DOMAIN-SUFFIX,ngaa.com.cn
+DOMAIN-SUFFIX,ngaa.info
+DOMAIN-SUFFIX,ngaa.net.cn
+DOMAIN-SUFFIX,ngaa.org.cn
+DOMAIN-SUFFIX,ngaa.shop
+DOMAIN-SUFFIX,ngaa.top
+DOMAIN-SUFFIX,ngaacdn.cn
+DOMAIN-SUFFIX,ngaacdn.com
+DOMAIN-SUFFIX,ngaacdn.net
+DOMAIN-SUFFIX,ngaagslb.cn
+DOMAIN-SUFFIX,ngaagslb.com
+DOMAIN-SUFFIX,ngaagslb.net
+DOMAIN-SUFFIX,sinocache.cn
+DOMAIN-SUFFIX,sinocache.com.cn
+DOMAIN-SUFFIX,sinocache.net
+DOMAIN-SUFFIX,sinogslb.cn
+DOMAIN-SUFFIX,sinogslb.com
+DOMAIN-SUFFIX,sinogslb.net
+DOMAIN-SUFFIX,speedin.shop

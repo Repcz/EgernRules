@@ -1,21 +1,12 @@
-no_resolve: true
-domain_set:
-domain_suffix_set:
-- malayalamanorama.com
-- manorama.com
-- manoramanews.com
-- manoramaonline.com
-- manoramayearbook.in
-- onmanorama.com
-- radiomango.fm
-- theman.in
-- theweek.in
-- vanitaonline.com
-- vanitha.in
-- vanithaveedu.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN-SUFFIX,malayalamanorama.com
+DOMAIN-SUFFIX,manorama.com
+DOMAIN-SUFFIX,manoramanews.com
+DOMAIN-SUFFIX,manoramaonline.com
+DOMAIN-SUFFIX,manoramayearbook.in
+DOMAIN-SUFFIX,onmanorama.com
+DOMAIN-SUFFIX,radiomango.fm
+DOMAIN-SUFFIX,theman.in
+DOMAIN-SUFFIX,theweek.in
+DOMAIN-SUFFIX,vanitaonline.com
+DOMAIN-SUFFIX,vanitha.in
+DOMAIN-SUFFIX,vanithaveedu.com

@@ -1,139 +1,131 @@
-domain_set:
-- 5471782.fls.doubleclick.net
-- 79423.analytics.edgekey.net
-- a.adwolf.ru
-- a.sellpoint.net
-- ac.ebis.ne.jp
-- ad.10010.com
-- ad.abchina.com
-- ad.kazakinfo.com
-- ad.ourgame.com
-- adcdn.pingan.com
-- admin.dable.io
-- ads.tdbank.com
-- advert.kf5.com
-- afi-b.com
-- analytics.amplitude.com
-- anwb.webpower.eu
-- api.ads.tvb.com
-- api.docodoco.jp
-- api.karte.io
-- app-advertise.zhihuishu.com
-- app.adjust.com
-- app.appsflyer.com
-- artifactory.appodeal.com
-- awin1.com
-- buyad.bi-xenon.cn
-- c.office.com
-- captcha.su.baidu.com
-- catchup.thisisdax.com
-- cdn.duurzaam.greenchoice.nl
-- cdn.rozetka.com.ua
-- cindyholbrook.lpages.co
-- citiintl.122.2o7.net
-- cj.dotomi.com
-- classliving.lpages.co
-- click.appcast.io
-- click.cptrack.de
-- click.simba.taobao.com
-- click.trafficguard.ai
-- click.virt.exacttarget.com
-- clickattr.wayup.com
-- cloud.notification-naviextras.com
-- cm-beacon.nakanohito.jp
-- cm-widget.nakanohito.jp
-- cmp.inmobi.com
-- crm-cdn.peek-cloppenburg.com
-- cs.silverpop.com
-- cutcaptcha.com
-- daikoku.ebis.ne.jp
-- data.digital.costco.ca
-- data.digital.costco.com
-- e.customeriomail.com
-- email.awscloud.com
-- email.elitedangerous.com
-- email.procook.co.uk
-- envato.market
-- eum-blue-saas.instana.io
-- feed.adrelayer.com
-- forum.notebookreview.com
-- gate.first-id.fr
-- go.adjust.com
-- go.scorptec.com.au
-- goto.target.com
-- goto.walmart.com
-- grp07.ias.rakuten.co.jp
-- gs.statcounter.com
-- guce.advertising.com
-- hb.afl.rakuten.co.jp
-- health.halodoc.com
-- home.focusatwill.com
-- href.li
-- ia.hit.interia.pl
-- id.i2i.jp
-- img.ads.tvb.com
-- infra-api.newrelic.com
-- intersport.peerius.com
-- js.monitor.azure.com
-- leechers-paradise.org
-- link.morningbrew.com
-- linka.page
-- links.e.theatlantic.com
-- links.getblueshift.com
-- log.mmstat.com
-- logentries.com
-- login.sendpulse.com
-- ma135-r.analytics.edgekey.net
-- marketing.net.idealo-partner.com
-- media-consumer365.desigual.com
-- my.tealiumiq.com
-- netatmo.commander1.com
-- nineto5mac-d.openx.net
-- oa.tr.line.me
-- obituaries.therecord.com
-- official.paymaya.com
-- omniture.walmart.com
-- omsc.kpn.com
-- oneline.nextday.media
-- pagead.l.doubleclick.net
-- partner.everydays.de
-- promo.gramedia.com
-- proto2ad.durasite.net
-- pt.afl.rakuten.co.jp
-- public-cis.exponea.com
-- px.a8.net
-- radiofrance.targetspot.com
-- recommender.scarabresearch.com
-- redir.ownpage.fr
-- redir.tradedoubler.com
-- redirect.appmetrica.yandex.com
-- refer.discover.com
-- remembering.ca
-- sax.sina.com.cn
-- secureimage.securedataimages.com
-- sponsor.nitropay.com
-- stash.roistat.com
-- str.hit.gemius.pl
-- support-beacon.nakanohito.jp
-- support-widget.nakanohito.jp
-- surveymyopinion.researchnow.com
-- tags.crwdcntrl.net
-- thumbnail.thench.net
-- tlaol.com
-- tms.capitalone.com
-- torimochi.line-apps.com
-- tr.rdrtr.com
-- track.rutarget.ru
-- track.webgains.com
-- validate.perfdrive.com
-- vcentry3.valuecommerce.ne.jp
-- www.googleadservices.com
-- www.jdoqocy.com
-- www.statcounter.com
-domain_suffix_set:
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,5471782.fls.doubleclick.net
+DOMAIN,79423.analytics.edgekey.net
+DOMAIN,a.adwolf.ru
+DOMAIN,a.sellpoint.net
+DOMAIN,ac.ebis.ne.jp
+DOMAIN,ad.10010.com
+DOMAIN,ad.abchina.com
+DOMAIN,ad.kazakinfo.com
+DOMAIN,ad.ourgame.com
+DOMAIN,adcdn.pingan.com
+DOMAIN,admin.dable.io
+DOMAIN,ads.tdbank.com
+DOMAIN,advert.kf5.com
+DOMAIN,afi-b.com
+DOMAIN,analytics.amplitude.com
+DOMAIN,anwb.webpower.eu
+DOMAIN,api.ads.tvb.com
+DOMAIN,api.docodoco.jp
+DOMAIN,api.karte.io
+DOMAIN,app-advertise.zhihuishu.com
+DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,artifactory.appodeal.com
+DOMAIN,awin1.com
+DOMAIN,buyad.bi-xenon.cn
+DOMAIN,c.office.com
+DOMAIN,captcha.su.baidu.com
+DOMAIN,catchup.thisisdax.com
+DOMAIN,cdn.duurzaam.greenchoice.nl
+DOMAIN,cdn.rozetka.com.ua
+DOMAIN,cindyholbrook.lpages.co
+DOMAIN,citiintl.122.2o7.net
+DOMAIN,cj.dotomi.com
+DOMAIN,classliving.lpages.co
+DOMAIN,click.appcast.io
+DOMAIN,click.cptrack.de
+DOMAIN,click.simba.taobao.com
+DOMAIN,click.trafficguard.ai
+DOMAIN,click.virt.exacttarget.com
+DOMAIN,clickattr.wayup.com
+DOMAIN,cloud.notification-naviextras.com
+DOMAIN,cm-beacon.nakanohito.jp
+DOMAIN,cm-widget.nakanohito.jp
+DOMAIN,cmp.inmobi.com
+DOMAIN,crm-cdn.peek-cloppenburg.com
+DOMAIN,cs.silverpop.com
+DOMAIN,cutcaptcha.com
+DOMAIN,daikoku.ebis.ne.jp
+DOMAIN,data.digital.costco.ca
+DOMAIN,data.digital.costco.com
+DOMAIN,e.customeriomail.com
+DOMAIN,email.awscloud.com
+DOMAIN,email.elitedangerous.com
+DOMAIN,email.procook.co.uk
+DOMAIN,envato.market
+DOMAIN,eum-blue-saas.instana.io
+DOMAIN,feed.adrelayer.com
+DOMAIN,forum.notebookreview.com
+DOMAIN,gate.first-id.fr
+DOMAIN,go.adjust.com
+DOMAIN,go.scorptec.com.au
+DOMAIN,goto.target.com
+DOMAIN,goto.walmart.com
+DOMAIN,grp07.ias.rakuten.co.jp
+DOMAIN,gs.statcounter.com
+DOMAIN,guce.advertising.com
+DOMAIN,hb.afl.rakuten.co.jp
+DOMAIN,health.halodoc.com
+DOMAIN,home.focusatwill.com
+DOMAIN,href.li
+DOMAIN,ia.hit.interia.pl
+DOMAIN,id.i2i.jp
+DOMAIN,img.ads.tvb.com
+DOMAIN,infra-api.newrelic.com
+DOMAIN,intersport.peerius.com
+DOMAIN,js.monitor.azure.com
+DOMAIN,leechers-paradise.org
+DOMAIN,link.morningbrew.com
+DOMAIN,linka.page
+DOMAIN,links.e.theatlantic.com
+DOMAIN,links.getblueshift.com
+DOMAIN,log.mmstat.com
+DOMAIN,logentries.com
+DOMAIN,login.sendpulse.com
+DOMAIN,ma135-r.analytics.edgekey.net
+DOMAIN,marketing.net.idealo-partner.com
+DOMAIN,media-consumer365.desigual.com
+DOMAIN,my.tealiumiq.com
+DOMAIN,netatmo.commander1.com
+DOMAIN,nineto5mac-d.openx.net
+DOMAIN,oa.tr.line.me
+DOMAIN,obituaries.therecord.com
+DOMAIN,official.paymaya.com
+DOMAIN,omniture.walmart.com
+DOMAIN,omsc.kpn.com
+DOMAIN,oneline.nextday.media
+DOMAIN,pagead.l.doubleclick.net
+DOMAIN,partner.everydays.de
+DOMAIN,promo.gramedia.com
+DOMAIN,proto2ad.durasite.net
+DOMAIN,pt.afl.rakuten.co.jp
+DOMAIN,public-cis.exponea.com
+DOMAIN,px.a8.net
+DOMAIN,radiofrance.targetspot.com
+DOMAIN,recommender.scarabresearch.com
+DOMAIN,redir.ownpage.fr
+DOMAIN,redir.tradedoubler.com
+DOMAIN,redirect.appmetrica.yandex.com
+DOMAIN,refer.discover.com
+DOMAIN,remembering.ca
+DOMAIN,sax.sina.com.cn
+DOMAIN,secureimage.securedataimages.com
+DOMAIN,sponsor.nitropay.com
+DOMAIN,stash.roistat.com
+DOMAIN,str.hit.gemius.pl
+DOMAIN,support-beacon.nakanohito.jp
+DOMAIN,support-widget.nakanohito.jp
+DOMAIN,surveymyopinion.researchnow.com
+DOMAIN,tags.crwdcntrl.net
+DOMAIN,thumbnail.thench.net
+DOMAIN,tlaol.com
+DOMAIN,tms.capitalone.com
+DOMAIN,torimochi.line-apps.com
+DOMAIN,tr.rdrtr.com
+DOMAIN,track.rutarget.ru
+DOMAIN,track.webgains.com
+DOMAIN,validate.perfdrive.com
+DOMAIN,vcentry3.valuecommerce.ne.jp
+DOMAIN,www.googleadservices.com
+DOMAIN,www.jdoqocy.com
+DOMAIN,www.statcounter.com

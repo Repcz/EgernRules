@@ -1,14 +1,7 @@
-no_resolve: true
-domain_set:
-- cwtv-amd-akamai.akamaized.net
-- edge.cwtv-vod-ext.top.comcast.net
-domain_suffix_set:
-- cwseed.com
-- cwtv.com
-- thecwvideo.com
-domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+DOMAIN,cwtv-amd-akamai.akamaized.net
+DOMAIN,edge.cwtv-vod-ext.top.comcast.net
+DOMAIN-SUFFIX,cwseed.com
+DOMAIN-SUFFIX,cwtv.com
+DOMAIN-SUFFIX,thecwvideo.com
+PROCESS-NAME,com.cw.fullepisodes.android
+PROCESS-NAME,com.cw.seed.android
