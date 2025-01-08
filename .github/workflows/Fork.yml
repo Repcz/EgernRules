@@ -18,7 +18,7 @@ jobs:
         repository: Repcz/EgernRules
         path: EgernRules-repo
   
-      # 拉取文件
+    # 拉取文件
     - name: Clone
       run: |
         rm -rf Rules/*
@@ -27,10 +27,10 @@ jobs:
         cp -r BM7_Tmp/rule/Surge/* Rules
         rm -rf BM7_Tmp   
 
-      # 适配 egern 规则 
+    # 适配 egern 规则 
     - name: Edit
       run: |
-        for file in EgernRules-repo/Rules/*/*.list; do
+        find EgernRules-repo/Rules -type f -name "*.yaml" | while read -r file; do
           if [ -f "$file" ]; then
             # 删除不需要的行
             sed -i -e '/^USER-AGENT/d' "$file"
@@ -39,7 +39,6 @@ jobs:
 
             # 将 .list 文件转换为 .yaml 文件
             yaml_file="${file%.list}.yaml"
-            
             echo "# 规则名称: $(basename "$yaml_file" .yaml)" > "$yaml_file"
             echo "# 规则统计: $(grep -c '^DOMAIN\|^DOMAIN-SUFFIX\|^DOMAIN-KEYWORD\|^IP-CIDR\|^IP-CIDR6\|^IP-ASN\|^URL-REGEX\|^GEOIP' "$file")" >> "$yaml_file"
             echo "" >> "$yaml_file"
@@ -52,14 +51,14 @@ jobs:
             awk '/^IP-ASN,/ && !added {print "asn_set:"; added=1} {print}' "$file" | grep '^IP-ASN,' | sed 's/^IP-ASN,/  - /' >> "$yaml_file"
             awk '/^URL-REGEX,/ && !added {print "url_regex_set:"; added=1} {print}' "$file" | grep '^URL-REGEX,' | sed 's/^URL-REGEX,/  - /' >> "$yaml_file"
             awk '/^GEOIP,/ && !added {print "geoip_set:"; added=1} {print}' "$file" | grep '^GEOIP,' | sed 's/^GEOIP,/  - /' >> "$yaml_file"
-            # 删除原始的 .list 文件
             rm "$file"
           else
             echo "$file not found."
           fi
         done
 
-        for file in Tool-repo/Egern/Rules/*.yaml; do
+        # 处理 .yaml 文件
+        find EgernRules-repo/Rules -type f -name "*.yaml" | while read -r file; do
           if [ -f "$file" ]; then
             if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
               sed -i '1i\no_resolve: true' "$file"
@@ -79,8 +78,8 @@ jobs:
   
     - name: Edit README
       run: |
-        for file in EgernRules-repo/Rules/*/README.md; do
-          if [ -f "$readme" ]; then
+        find EgernRules-repo/Rules -type f -name "README.md" | while read -r file; do
+          if [ -f "$file" ]; then
             # 删除和替换指定的字符串
             sed -i -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
                    -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
@@ -99,9 +98,9 @@ jobs:
                    -e 's|Surge定制化规则|Egern定制化规则|g' \
                    -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
                    -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
-                   "$readme"
+                   "$file"
           else
-            echo "$readme not found."
+            echo "$file not found."
           fi
         done
 
