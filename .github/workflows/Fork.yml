@@ -14,9 +14,6 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4.2.2
-      with:
-        repository: Repcz/EgernRules
-        path: EgernRules-repo
   
     # 拉取文件
     - name: Clone
@@ -29,12 +26,14 @@ jobs:
 
     - name: Rename
       run: |
-        find EgernRules-repo/Rules -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
+        cd Rules
+        find . -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
 
     # 适配 egern 规则 
-    - name: Edit 1
+    - name: Edit
       run: |
-        find EgernRules-repo/Rules -type f -name "*.yaml" | while read -r file; do
+        cd Rules
+        find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
           if [ -f "$file" ]; then
             sed -i -e '/^USER-AGENT/d' "$file"
             sed -i -e '/^PROCESS-NAME/d' "$file"
@@ -52,9 +51,10 @@ jobs:
           fi
         done
 
-    - name: Edit 2
+    - name: Count
       run: |
-        find EgernRules-repo/Rules -type f -name "*.yaml" | while read -r file; do
+        cd Rules
+        find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
           if [ -f "$file" ]; then
             if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
             sed -i '1i\no_resolve: true' "$file"
@@ -72,22 +72,46 @@ jobs:
           fi
         done
   
-    - name: Delete README.md files
+    - name: Edit README
       run: |
-        find EgernRules-repo/Rules -type f -name "README.md" -delete
-
-    - name: Push Update
-      run: |
-        cd EgernRules-repo
-          if [[ -n $(git status -s) ]]; then
-            git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-            git config --local user.name "${{ github.actor }}"
-            git add -A
-            git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
-            git push origin X
+        cd Rules
+        find . -type f -name 'README.md' -print0 | while IFS= read -r -d $'\0' readme; do
+          if [ -f "$readme" ]; then
+            # 删除和替换指定的字符串
+            sed -i -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
+                   -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
+                   -e '/\(不定时更新\)/d' \
+                   -e '/blackmatrix7\/ios_rule_script\/release\/rule\/Surge/d' \
+                   -e '/https:\/\/cdn.jsdelivr.net/d' \
+                   -e '/https:\/\/ghproxy.com/d' \
+                   -e 's|MASTER分支|X分支|g' \
+                   -e 's|## Surge|## Egern|g' \
+                   -e 's|blackmatrix7/ios_rule_script/master/rule/Surge|Repcz/EgernRules/X/Rules|g' \
+                   -e 's|github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge|github.com/Repcz/EgernRules/tree/X/Rules|g' \
+                   -e 's|HOST|DOMAIN|g' \
+                   -e 's|IP6-CIDR|IP-CIDR6|g' \
+                   -e 's|USER-AGENT|USER-AGENT(Egern不支持)|g' \
+                   -e 's|TOTAL|TOTAL(仅供参考)|g' \
+                   -e 's|Surge定制化规则|Egern定制化规则|g' \
+                   -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
+                   -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
+                   "$readme"
           else
-            echo "No changes to commit."
+            echo "$readme not found."
           fi
+        done
+
+    - name: Add and Commits
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
+          git add -A
+          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit."
+        fi
 
     - name: Cleanup Workflow
       uses: Mattraks/delete-workflow-runs@main
