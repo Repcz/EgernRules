@@ -52,18 +52,14 @@ jobs:
             awk '/^IP-ASN,/ && !added {print "asn_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
             awk '/^URL-REGEX,/ && !added {print "url_regex_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
             awk '/^GEOIP,/ && !added {print "geoip_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-          else
-            echo "$file not found."
-          fi
-        done
-
-          if [ -f "$file" ]; then
+            # 处理 no-resolve 和修饰
             if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
-            sed -i '1i\no_resolve: true' "$file"
+              sed -i '1i\no_resolve: true' "$file"
             fi
             sed -i -E 's/^(URL-REGEX,)([^,]+)$/\1"\2"/' "$file"
             sed -i -E 's/^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|IP-CIDR|IP-CIDR6|IP-ASN|URL-REGEX|GEOIP),/  - /g' "$file"
             sed -i 's/,no-resolve//g' "$file"
+            # 添加规则名称和统计
             file_names=$(basename "$file" .yaml)
             line_count=$(grep -c '^  - ' "$file")
             awk -v fname="$file_names" 'NR==1 {print "# 规则名称: " fname} {print}' "$file" > tmpfile && mv tmpfile "$file"
