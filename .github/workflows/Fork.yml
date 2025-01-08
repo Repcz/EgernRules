@@ -19,7 +19,7 @@ jobs:
         path: EgernRules-repo
   
       # 拉取文件
-    - name: 复刻
+    - name: Clone
       run: |
         rm -rf Rules/*
         mkdir -p Rules
