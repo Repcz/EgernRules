@@ -21,7 +21,7 @@ jobs:
         rm -rf Rules/*
         mkdir -p Rules
         git clone https://github.com/blackmatrix7/ios_rule_script.git BM7_Tmp
-        cp -r BM7_Tmp/rule/QuantumultX/* Rules
+        cp -r BM7_Tmp/rule/Surge/* Rules
         rm -rf BM7_Tmp   
 
       # 改名
@@ -36,85 +36,37 @@ jobs:
         cd Rules
         find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
           if [ -f "$file" ]; then
-            # 适配
-            sed -i -e 's/, /,/g' \
-                   -e 's/;/# /g' \
-                   -e 's/host,/HOST,/g' \
-                   -e 's/host-/HOST-/g' \
-                   -e 's/-suffix/-SUFFIX/g' \
-                   -e 's/-keyword/-KEYWORD/g' \
-                   -e 's/ip-cidr/IP-CIDR/g' \
-                   -e 's/geoip/GEOIP/g' \
-                   -e 's/HOST,/DOMAIN,/g' \
-                   -e 's/HOST-/DOMAIN-/g' \
-                   -e 's/IP6-CIDR,/IP-CIDR6,/g' \
-                   -e 's/,extended-matching$//g' \
-                   -e 's/,REJECT$//g' \
-                   -e 's/,DIRECT$//g' \
-                   -e 's/,reject$//g' \
-                   -e 's/,direct$//g' \
-                   -e '/\(USER-AGENT\|OR\|AND\|NOT\),/ s/^/#/' \
-                   -e 's| \{1,\}//.*$||' \
-                   -e 's/,\*/,.*/g' \
-                   -e '/# 更新：/d' \
-                   -e '/# AUTHOR:/d' \
-                   -e '/# REPO:/d' \
-                   -e '/# UPDATED:/d' \
-                   -e '/404: Not Found/d' \
-                   "$file"
-    
-            cp "$file" tmpfile
-
-            domain_set=""
-            domain_suffix_set=""
-            domain_keyword_set=""
-            domain_regex_set=""
-            ip_cidr_set=""
-            ip_cidr6_set=""
-            asn_set=""
-            url_regex_set=""
-            
-            # 处理规则，将匹配的行添加到相应的集合中
-            awk -F, '
-              /^DOMAIN,/ {domain_set = domain_set "\n- " $2}
-              /^DOMAIN-SUFFIX,/ {domain_suffix_set = domain_suffix_set "\n- " $2}
-              /^DOMAIN-KEYWORD,/ {domain_keyword_set = domain_keyword_set "\n- " $2}
-              /^DOMAIN-WILDCARD,/ {domain_regex_set = domain_regex_set "\n- " $2}
-              /^IP-CIDR,/ {ip_cidr_set = ip_cidr_set "\n- " $2}
-              /^IP-CIDR6,/ {ip_cidr6_set = ip_cidr6_set "\n- " $2}
-              /^IP-ASN,/ {asn_set = asn_set "\n- '\''" $2 "'\''"}
-              /^URL-REGEX,/ {url_regex_set = url_regex_set "\n- '\''" $2 "'\''"}
-            END {
-              # 输出集合
-              print "domain_set:" domain_set
-              print "domain_suffix_set:" domain_suffix_set
-              print "domain_keyword_set:" domain_keyword_set
-              print "domain_regex_set:" domain_regex_set
-              print "ip_cidr_set:" ip_cidr_set
-              print "ip_cidr6_set:" ip_cidr6_set
-              print "asn_set:" asn_set
-              print "url_regex_set:" url_regex_set
-            }
-            ' tmpfile > "$file"
-
-          else
-            echo "$file not found."
-          fi
-        done
-
-        # 循环结束后删除tmpfile
-        rm tmpfile
-        
-      # 添加 no_resolve
-    - name: Add no_resolve
-      run: |
-        cd Rules
-        find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
-          if [ -f "$file" ]; then
-            # 检查文件名是否包含排除列表中的任何模式
-            if ! grep -E -q "(Direct|Lan|BiliBili|DiDi|MeiTu|Pinduoduo|Sina|Baidu|360|4399|VipShop|XiaoMi|Weibo|ByteDance|China|ChinaTest|ChinaIPs|CCTV|Xunlei|Huawei|ChinaMedia|NetEase|Youku|TencentVideo|iQIYI|Douyu|Himalaya|Alibaba|115|12306|17173|178|17zuoye|36kr|51Job|56|58TongCheng|ABC|Agora|AliPay|AnTianKeJi|Anjuke|BOC|BOCOM|BaiFenDian|BaoFengYingYin|BianFeng|Bootcss|CAS|CCB|CEB|CGB|CIBN|CKJR|CMB|CNKI|CNNIC|CSDN|AcFun|CaiNiao|CaiXinChuanMei|Camera360|ChinaMobile|ChinaNews|ChinaTelecom|ChinaUnicom|ChuangKeTie|ChunYou|DaMai|DanDanZan|Dandanplay|DangDang|Dedao|Deepin|DiSiFanShi|DianCeWangKe|DingTalk|DingXiangYuan|Domob|DouBan|EastMoney|Eleme|FanFou|FeiZhu|FengHuangWang|FengXiaWangLuo|Fiio|Funshion|6JianFang|GaoDe|GuiGuDongLi|HaiNanHangKong|HanYi|HeMa|HibyMusic|HuYa|HuaShuTV|HuanJu|HunanTV|Hupu|ICBC|JiGuangTuiSong|JianGuoYun|JianShu|JinJiangWenXue|JingDong|JueJin|Keep|KingSmith|Kingsoft|KouDaiShiShang|Ku6|KuKeMusic|KuaiDi100|KuaiShou|KuangShi|KugouKuwo|LanZouYun|LeJu|LeTV|Lenovo|LuDaShi|LvMiLianChuang|Maocloud|MeiTuan|MeiZu|MiWu|Migu|MingLueZhaoHui|Mogujie|Mojitianqi|NGAA|OPPO|OnePlus|OuPeng|PPTV|PSBC|PingAn|QiNiuYun|QingCloud|RuanMei|SFExpress|SMZDM|ShangHaiJuXiao|Shanling|ShenMa|ShiNongZhiKe|Sohu|SouFang|SuNing|SuiShiChuanMei|TCL|TaiKang|TaiheMusic|Teambition|TianTianKanKan|TianWeiChengXin|TianYaForum|TigerFintech|TongCheng|U17|UC|UCloud|UPYun|UnionPay|Vancl|Vivo|WanMeiShiJie|WangSuKeJi|WangXinKeJi|WenJuanXing|WiFiMaster|XiamiMusic|XianYu|XiaoGouKeJi|XiaoYuanKeJi|XieCheng|XueErSi|XueQiu|YYeTs|YiChe|YiXiaKeJi|YiZhiBo|YouMengChuangXiang|YouZan|YuanFuDao|YunFanJiaSu|ZDNS|ZhangYue|ZhiYunZhong|ZhongGuoShiHua|ZhongWeiShiJi|ZhongYuanYiShang|ZhuanZhuan|Hpplay|iFlytek|ifanr|BaiShanYunKeJi|DiLianWangLuo|LianMeng|WeiZhiYunDong|8btc|ChinaIPsBGP|ChengTongWangPan|ChinaMax|DuoWan|WanKaHuanJu|ZhiYinManKe|ChinaNoMedia|WeChat|ShiJiChaoXing|ChinaIPs/ChinaIPsTest|QuickConnect|WoLai|Zhihu|NGA|DouYin|XiaoHongShu|GovCN|MOOMusic|Marketing|TapTap|ZhongXingTongXun|Geely|ChinaMaxNoIP|BaiDuTieBa|ChinaASN|FangZhengDianZi|BeStore|ChinaMaxNoMedia|zhanqi|Wteam|Gitee|Wanfang|W3schools|Picacg|XingKongWuXian|Qyyjt|Coolapk|3dm|3Type|4Paradigm|BesTV|CETV|SMG|AiQiCha|AirChina|aiXcoder|Ali213|Antutu|Apifox|AmazonCN|Stripe)" <<< "$file"; then
-              sed -i '1s/^/no_resolve: true\n/' "$file"
-            fi
+            # 将以"."开头的行的第一个"."替换为 "DOMAIN-SUFFIX"
+            sed -i '/^\./s/^\./DOMAIN-SUFFIX,/' "$file"
+            # 将除了以 "#" 开头、"空行" 开头之外的行, 在行首添加 "DOMAIN"
+            sed -i -E '/^\s*$/b; /^\s*[#;]/b; /^DOMAIN,|^DOMAIN-SUFFIX,|^DOMAIN-KEYWORD,|^DOMAIN-WILDCARD,|^IP-CIDR,|^IP-CIDR6,|^IP-ASN,|^GEOIP,|^AND,|^OR,|^NOT,|^URL-REGEX,|^USER-AGENT,|^PROCESS-NAME,|^DEST-PORT,/b; s/^([^#])/DOMAIN,\1/' "$file"
+            # 删除文件中所有 [以 # 或 ; 开头的注释行] + [空行] + [每行中 // 及其后面的内容]
+            sed -i -e '/^\s*[#;]/d' -e '/^$/d' -e 's| //.*||'  "$file"
+            # 删除指定域名
+            sed -i -e '/DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' "$file"
+            # 修饰
+            sed -i -e 's/,reject$//' "$file"
+            sed -i -E '/^IP-CIDR,/!{/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+\/[0-9]+/s/^/IP-CIDR,/}' "$file"
+            sed -i -E '/^IP-CIDR6,/!{/^[a-fA-F0-9]+:|([a-fA-F0-9]+:+)+[a-fA-F0-9]+\/[0-9]+/s/^/IP-CIDR6,/}' "$file"
+            awk '
+            /^DOMAIN,/         { print "0 " $0; next }
+            /^DOMAIN-SUFFIX,/  { print "1 " $0; next }
+            /^DOMAIN-KEYWORD,/ { print "2 " $0; next }
+            /^DOMAIN-WILDCARD,/{ print "3 " $0; next }
+            /^IP-CIDR,/        { print "4 " $0; next }
+            /^IP-CIDR6,/       { print "5 " $0; next }
+            /^IP-ASN,/         { print "6 " $0; next }
+            /^PROCESS-NAME,/   { print "7 " $0; next }
+            /^URL-REGEX,/      { print "8 " $0; next }
+            /^USER-AGENT,/     { print "9 " $0; next }
+            /^GEOIP,/          { print "10 " $0; next }
+            /^AND,/            { print "11 " $0; next }
+            /^OR,/             { print "12 " $0; next }
+            /^NOT,/            { print "13 " $0; next }
+            /^DEST-PORT,/      { print "14 " $0; next }
+                               { print "15 " $0; next }
+            ' "$file" | sort -k1,1n -k2,2 | cut -d' ' -f2- > "$file.sorted" && mv "$file.sorted" "$file"
+            awk '!seen[tolower($0)]++' "$file" > temp && mv temp "$file"
           else
             echo "$file not found."
           fi
@@ -149,17 +101,18 @@ jobs:
           fi
         done
 
-    - name: Add and Commits
+    - name: Push Update
       run: |
-        if [[ -n $(git status -s) ]]; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
-          git push
-        else
-          echo "No changes to commit."
-        fi
+        cd EgernRules-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+            git config --local user.name "${{ github.actor }}"
+            git add -A
+            git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+            git push origin X
+          else
+            echo "No changes to commit."
+          fi
 
     - name: Cleanup Workflow
       uses: Mattraks/delete-workflow-runs@main
