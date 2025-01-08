@@ -103,16 +103,15 @@ jobs:
 
     - name: Push Update
       run: |
-        cd EgernRules-repo
-          if [[ -n $(git status -s) ]]; then
-            git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-            git config --local user.name "${{ github.actor }}"
-            git add -A
-            git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
-            git push origin X
-          else
-            echo "No changes to commit."
-          fi
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
+          git add -A
+          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit."
+        fi
 
     - name: Cleanup Workflow
       uses: Mattraks/delete-workflow-runs@main
