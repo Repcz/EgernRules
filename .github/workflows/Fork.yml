@@ -29,7 +29,6 @@ jobs:
 
     - name: Rename
       run: |
-        cd Rules
         find EgernRules-repo/Rules -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
 
     # 适配 egern 规则 
