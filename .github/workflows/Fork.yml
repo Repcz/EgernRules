@@ -11,10 +11,13 @@ jobs:
     env:
       TZ: 'Asia/Shanghai'
     
-    steps: 
-    - name: Checkout target repository
-      uses: actions/checkout@v4.1.0
-    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4.2.2
+      with:
+        repository: Repcz/EgernRules
+        path: EgernRules-repo
+  
       # 拉取文件
     - name: 复刻
       run: |
@@ -24,42 +27,47 @@ jobs:
         cp -r BM7_Tmp/rule/Surge/* Rules
         rm -rf BM7_Tmp   
 
-      # 改名
-    - name: Rename
-      run: |
-        cd Rules
-        find . -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
-
       # 适配 egern 规则 
-    - name: 编辑 
+    - name: Edit
       run: |
-        cd Rules
-        find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
+        # 处理 EgernRules-repo/Rules/*/*.list 文件
+        for file in EgernRules-repo/Rules/*/*.list; do
           if [ -f "$file" ]; then
-            # 删除文件中所有 [以 # 或 ; 开头的注释行] + [空行] + [每行中 // 及其后面的内容]
-            sed -i -e '/^\s*[#;]/d' -e '/^$/d' -e 's| //.*||'  "$file"
-            # 删除指定域名
-            sed -i -e '/DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' "$file"
-            # 修饰
+            # 删除不需要的行
             sed -i -e '/^USER-AGENT/d' "$file"
             sed -i -e '/^PROCESS-NAME/d' "$file"
             sed -i -e '/^DEST-PORT/d' "$file"
-            awk '/^DOMAIN,/ && !added {print "domain_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^DOMAIN-SUFFIX,/ && !added {print "domain_suffix_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^DOMAIN-KEYWORD,/ && !added {print "domain_keyword_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^IP-CIDR,/ && !added {print "ip_cidr_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^IP-CIDR6,/ && !added {print "ip_cidr6_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^IP-ASN,/ && !added {print "asn_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^URL-REGEX,/ && !added {print "url_regex_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^GEOIP,/ && !added {print "geoip_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            # 处理 no-resolve 和修饰
+
+            # 将 .list 文件转换为 .yaml 文件
+            yaml_file="${file%.list}.yaml"
+            
+            echo "# 规则名称: $(basename "$yaml_file" .yaml)" > "$yaml_file"
+            echo "# 规则统计: $(grep -c '^DOMAIN\|^DOMAIN-SUFFIX\|^DOMAIN-KEYWORD\|^IP-CIDR\|^IP-CIDR6\|^IP-ASN\|^URL-REGEX\|^GEOIP' "$file")" >> "$yaml_file"
+            echo "" >> "$yaml_file"
+
+            awk '/^DOMAIN,/ && !added {print "domain_set:"; added=1} {print}' "$file" | grep '^DOMAIN,' | sed 's/^DOMAIN,/  - /' >> "$yaml_file"
+            awk '/^DOMAIN-SUFFIX,/ && !added {print "domain_suffix_set:"; added=1} {print}' "$file" | grep '^DOMAIN-SUFFIX,' | sed 's/^DOMAIN-SUFFIX,/  - /' >> "$yaml_file"
+            awk '/^DOMAIN-KEYWORD,/ && !added {print "domain_keyword_set:"; added=1} {print}' "$file" | grep '^DOMAIN-KEYWORD,' | sed 's/^DOMAIN-KEYWORD,/  - /' >> "$yaml_file"
+            awk '/^IP-CIDR,/ && !added {print "ip_cidr_set:"; added=1} {print}' "$file" | grep '^IP-CIDR,' | sed 's/^IP-CIDR,/  - /' >> "$yaml_file"
+            awk '/^IP-CIDR6,/ && !added {print "ip_cidr6_set:"; added=1} {print}' "$file" | grep '^IP-CIDR6,' | sed 's/^IP-CIDR6,/  - /' >> "$yaml_file"
+            awk '/^IP-ASN,/ && !added {print "asn_set:"; added=1} {print}' "$file" | grep '^IP-ASN,' | sed 's/^IP-ASN,/  - /' >> "$yaml_file"
+            awk '/^URL-REGEX,/ && !added {print "url_regex_set:"; added=1} {print}' "$file" | grep '^URL-REGEX,' | sed 's/^URL-REGEX,/  - /' >> "$yaml_file"
+            awk '/^GEOIP,/ && !added {print "geoip_set:"; added=1} {print}' "$file" | grep '^GEOIP,' | sed 's/^GEOIP,/  - /' >> "$yaml_file"
+            # 删除原始的 .list 文件
+            rm "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
+        for file in Tool-repo/Egern/Rules/*.yaml; do
+          if [ -f "$file" ]; then
             if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
               sed -i '1i\no_resolve: true' "$file"
             fi
             sed -i -E 's/^(URL-REGEX,)([^,]+)$/\1"\2"/' "$file"
             sed -i -E 's/^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|IP-CIDR|IP-CIDR6|IP-ASN|URL-REGEX|GEOIP),/  - /g' "$file"
             sed -i 's/,no-resolve//g' "$file"
-            # 添加规则名称和统计
             file_names=$(basename "$file" .yaml)
             line_count=$(grep -c '^  - ' "$file")
             awk -v fname="$file_names" 'NR==1 {print "# 规则名称: " fname} {print}' "$file" > tmpfile && mv tmpfile "$file"
