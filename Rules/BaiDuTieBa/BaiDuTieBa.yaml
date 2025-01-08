@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,als.baidu.com
 DOMAIN,cdn.hiphotos.baidu.com
 DOMAIN,cpro.baidustatic.com
@@ -29,4 +30,5 @@ DOMAIN,tbmsg.baidu.com
 DOMAIN,tieba-ares.cdn.bcebos.com
 DOMAIN,tiebac.baidu.com
 DOMAIN,tiebapic.baidu.com
+domain_suffix_set:
 DOMAIN-SUFFIX,tieba.baidu.com

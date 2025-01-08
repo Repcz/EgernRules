@@ -1,7 +1,9 @@
+domain_set:
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN,link.theplatform.com
+domain_suffix_set:
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
@@ -95,7 +97,3 @@ DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com
 DOMAIN-SUFFIX,watchespn.com
 DOMAIN-SUFFIX,wwwhuluplus.com
-PROCESS-NAME,com.cbs.app
-PROCESS-NAME,com.hulu.plus
-PROCESS-NAME,com.showtime.standalone
-USER-AGENT,PPlus*

@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
 DOMAIN-SUFFIX,callhulu.com
@@ -56,4 +58,3 @@ DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,yb.uncn.jp
-PROCESS-NAME,com.hulu.plus

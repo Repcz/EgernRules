@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,http-inputs-notion.splunkcloud.com
+domain_suffix_set:
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new

@@ -1,9 +1,11 @@
+domain_set:
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
+domain_suffix_set:
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
@@ -24,8 +26,8 @@ DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tospotify.com
+domain_keyword_set:
 DOMAIN-KEYWORD,spotify
+ip_cidr_set:
 IP-CIDR,104.154.127.126/32
 IP-CIDR,35.186.224.47/32
-PROCESS-NAME,com.spotify.music
-USER-AGENT,Spotify*

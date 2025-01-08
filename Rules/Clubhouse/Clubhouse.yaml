@@ -1,5 +1,7 @@
+domain_set:
 DOMAIN,clubhouse.pubnub.com
 DOMAIN,clubhouseprod.s3.amazonaws.com
+domain_suffix_set:
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com

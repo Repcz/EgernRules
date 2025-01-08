@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,iphone-stun.strato-iphone.de
 DOMAIN,relay.webwormhole.io
 DOMAIN,stun.1-voip.com
@@ -348,6 +349,7 @@ DOMAIN,stun1.l.google.com
 DOMAIN,stun2.l.google.com
 DOMAIN,stun3.l.google.com
 DOMAIN,stun4.l.google.com
+ip_cidr6_set:
 IP-CIDR6,2001:4060:1:1005::10:32
 IP-CIDR6,2001:41d0:2:12b9::1
 IP-CIDR6,2001:678:b28::118

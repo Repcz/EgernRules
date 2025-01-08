@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
@@ -14,7 +15,8 @@ DOMAIN,hbounify-prod.evergent.com
 DOMAIN,players.brightcove.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,wmff.warnermediacdn.com
+domain_suffix_set:
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+domain_keyword_set:
 DOMAIN-KEYWORD,.hbogoasia.
-USER-AGENT,HBO%20GO%20PROD*

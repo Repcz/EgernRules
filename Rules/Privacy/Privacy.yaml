@@ -1,3 +1,4 @@
+domain_keyword_set:
 DOMAIN-KEYWORD,analytics.
 DOMAIN-KEYWORD,app-analytics
 DOMAIN-KEYWORD,app-log.
@@ -7,6 +8,7 @@ DOMAIN-KEYWORD,ios-log.
 DOMAIN-KEYWORD,ioslog.
 DOMAIN-KEYWORD,pc-log.
 DOMAIN-KEYWORD,pclog.
+ip_cidr_set:
 IP-CIDR,0.0.0.1/32,no-resolve
 IP-CIDR,109.123.233.251/32,no-resolve
 IP-CIDR,157.148.47.204/32,no-resolve

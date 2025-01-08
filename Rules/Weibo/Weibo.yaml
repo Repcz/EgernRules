@@ -1,4 +1,6 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
+domain_keyword_set:
 DOMAIN-KEYWORD,weibo

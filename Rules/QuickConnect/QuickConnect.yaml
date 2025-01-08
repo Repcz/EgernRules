@@ -1,6 +1,8 @@
+domain_set:
 DOMAIN,account.synology.com
 DOMAIN,global.quickconnect.cn
 DOMAIN,sns.synology.com
+domain_suffix_set:
 DOMAIN-SUFFIX,download.synology.com
 DOMAIN-SUFFIX,quickconnect.com
 DOMAIN-SUFFIX,quickconnect.to

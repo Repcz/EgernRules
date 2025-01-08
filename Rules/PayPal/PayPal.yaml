@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org
@@ -244,5 +245,5 @@ DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
+domain_keyword_set:
 DOMAIN-KEYWORD,paypal
-USER-AGENT,PayPal*

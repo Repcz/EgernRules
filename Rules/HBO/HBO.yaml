@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,wmff.warnermediacdn.com
+domain_suffix_set:
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,cinemax.com
@@ -44,6 +46,3 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
-PROCESS-NAME,com.hbo.hbonow
-USER-AGENT,HBO%20NOW*
-USER-AGENT,HBOMAX*

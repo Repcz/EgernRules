@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,408399.com
 DOMAIN-SUFFIX,408399.net
 DOMAIN-SUFFIX,816798.net
@@ -133,9 +134,9 @@ DOMAIN-SUFFIX,xlaomi.net
 DOMAIN-SUFFIX,youpin.cn
 DOMAIN-SUFFIX,youpin.com.cn
 DOMAIN-SUFFIX,zhutidasai.com
+ip_cidr_set:
 IP-CIDR,110.43.63.242/32,no-resolve
 IP-CIDR,120.133.33.222/32,no-resolve
 IP-CIDR,47.241.176.221/32,no-resolve
 IP-CIDR,58.220.58.152/31,no-resolve
 IP-CIDR,58.220.59.2/32,no-resolve
-PROCESS-NAME,com.xiaomi.mibrain.speech

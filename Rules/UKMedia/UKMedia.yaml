@@ -1,9 +1,11 @@
+domain_set:
 DOMAIN,itvpnp.live.ott.irdeto.com
 DOMAIN,itvpnp.stage.ott.irdeto.com
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,vod-dash-ww-live.akamaized.net
 DOMAIN,vod-thumb-ww-live.akamaized.net
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,bb-static.com
 DOMAIN-SUFFIX,bbc
 DOMAIN-SUFFIX,bbc-reporting-api.app
@@ -26,8 +28,6 @@ DOMAIN-SUFFIX,channel4.com
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,massive-itv.com
+domain_keyword_set:
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-USER-AGENT,All4*
-USER-AGENT,BBCiPlayer*
-USER-AGENT,ITV_Player*

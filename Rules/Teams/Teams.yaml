@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,teams.events.data.microsoft.com
+domain_suffix_set:
 DOMAIN-SUFFIX,teams.cdn.live.net
 DOMAIN-SUFFIX,teams.live.com
 DOMAIN-SUFFIX,teams.microsoft.com

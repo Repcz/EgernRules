@@ -1,6 +1,8 @@
+domain_set:
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteoversea.com
@@ -23,7 +25,6 @@ DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,ttwebview.com
+domain_keyword_set:
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
-PROCESS-NAME,com.zhiliaoapp.musically
-USER-AGENT,TikTok*

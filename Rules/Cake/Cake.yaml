@@ -1,7 +1,9 @@
+domain_set:
 DOMAIN,d1koerlbtsmkf8.cloudfront.net
 DOMAIN,d31wl6mro6753i.cloudfront.net
 DOMAIN,static-mycake.pstatic.net
 DOMAIN,vstatic-mycake.pstatic.net
+domain_suffix_set:
 DOMAIN-SUFFIX,cake.day
 DOMAIN-SUFFIX,cakeapp.me
 DOMAIN-SUFFIX,mycake.me

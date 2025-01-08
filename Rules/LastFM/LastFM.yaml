@@ -1,5 +1,7 @@
+domain_set:
 DOMAIN,last.us11.list-manage.com
 DOMAIN,lastfm-img2.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,audioscrobbler.com
 DOMAIN-SUFFIX,bbfc1.tk
 DOMAIN-SUFFIX,bc9oa.tk

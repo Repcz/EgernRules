@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
 DOMAIN,0026645142c89aeb1.com
@@ -23743,6 +23744,7 @@ DOMAIN,zzvvzfiwyfq.com
 DOMAIN,zzwajufm.com
 DOMAIN,zzxlukodff.com
 DOMAIN,zzxosget.com
+domain_suffix_set:
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,001union.com
 DOMAIN-SUFFIX,0024aaaa.com
@@ -37653,6 +37655,7 @@ DOMAIN-SUFFIX,zzwflxs.com
 DOMAIN-SUFFIX,zzyonghao.com
 DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
+domain_keyword_set:
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,a.9game.cn
@@ -37840,6 +37843,7 @@ DOMAIN-KEYWORD,xn--2qux23c9ziyrq
 DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-KEYWORD,ynuf.alipay.com
 DOMAIN-KEYWORD,zjtoolbar
+ip_cidr_set:
 IP-CIDR,1.3.0.10/32,no-resolve
 IP-CIDR,10.72.25.0/24,no-resolve
 IP-CIDR,101.124.19.122/32,no-resolve
@@ -38024,7 +38028,9 @@ IP-CIDR,67.229.224.28/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
+ip_cidr6_set:
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
+url_regex_set:
 URL-REGEX,^https?:\/\/cdn-1rtb\.caiyunapp\.com/creative/.*$
 URL-REGEX,^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/
 AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))

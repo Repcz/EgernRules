@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
 DOMAIN,imap-mail.outlook.com
@@ -7,6 +8,7 @@ DOMAIN,pop.gmail.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
+domain_suffix_set:
 DOMAIN-SUFFIX,imap.yandex.com
 DOMAIN-SUFFIX,m.hotmail.com
 DOMAIN-SUFFIX,smtp.yandex.com

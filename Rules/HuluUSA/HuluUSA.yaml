@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
 DOMAIN-SUFFIX,callhulu.com
@@ -50,4 +51,3 @@ DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
-PROCESS-NAME,com.hulu.plus

@@ -1,6 +1,7 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
+domain_keyword_set:
 DOMAIN-KEYWORD,speedtest
-USER-AGENT,SpeedTest*

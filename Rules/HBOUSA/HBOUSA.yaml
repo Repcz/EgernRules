@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,wmff.warnermediacdn.com
+domain_suffix_set:
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,h264.io
@@ -7,5 +9,3 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,maxgo.com
-PROCESS-NAME,com.hbo.hbonow
-USER-AGENT,HBOMAX*

@@ -1,6 +1,8 @@
+domain_set:
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
+domain_suffix_set:
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,285286.xyz
 DOMAIN-SUFFIX,agahk1.jmsooo.com
@@ -46,7 +48,7 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
+domain_keyword_set:
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-PROCESS-NAME,com.mb.android

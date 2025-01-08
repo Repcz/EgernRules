@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com
 DOMAIN,0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com
 DOMAIN,0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com
@@ -2297,6 +2298,7 @@ DOMAIN,zouglalive-lh.akamaihd.net
 DOMAIN,zsxj.chinashadt.com
 DOMAIN,zuzenean.goienamedia.eus
 DOMAIN,zypelive-lh.akamaihd.net
+ip_cidr_set:
 IP-CIDR,1.222.207.80/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
 IP-CIDR,101.71.255.229/32,no-resolve

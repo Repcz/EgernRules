@@ -1,5 +1,7 @@
+domain_set:
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+domain_suffix_set:
 DOMAIN-SUFFIX,fontstar.com.cn
 DOMAIN-SUFFIX,fontstudio.cn
 DOMAIN-SUFFIX,hanyi.com

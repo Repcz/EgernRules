@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,brainplusplus.com.cn
 DOMAIN-SUFFIX,brainpp.cn
 DOMAIN-SUFFIX,datafun.vip
@@ -21,5 +22,6 @@ DOMAIN-SUFFIX,xiaodaijl.com
 DOMAIN-SUFFIX,xlsdn.cn
 DOMAIN-SUFFIX,xlsdn.com
 DOMAIN-SUFFIX,yuesuoping.com
+ip_cidr_set:
 IP-CIDR,114.98.177.194/31
 IP-CIDR,114.98.177.196/32

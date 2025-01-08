@@ -1,7 +1,9 @@
+domain_set:
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
+domain_suffix_set:
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+domain_keyword_set:
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
-USER-AGENT,mytv*

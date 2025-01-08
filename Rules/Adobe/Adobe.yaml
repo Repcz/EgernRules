@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
+domain_suffix_set:
 DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,acrobat.com
@@ -134,4 +136,5 @@ DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,votolia.com
 DOMAIN-SUFFIX,worldsecureemail.com
 DOMAIN-SUFFIX,worldsecuresystems.com
+domain_keyword_set:
 DOMAIN-KEYWORD,adobe

@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,nbcstreaming.sc.omtrdc.net
+domain_suffix_set:
 DOMAIN-SUFFIX,bravotv.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com

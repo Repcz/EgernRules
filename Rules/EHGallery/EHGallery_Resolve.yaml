@@ -1,7 +1,9 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,ehwiki.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,hentaiverse.org
+ip_cidr_set:
 IP-CIDR,178.175.128.0/21

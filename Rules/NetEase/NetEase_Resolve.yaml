@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,netease.ugcvideoss.ourdvs.com
+domain_suffix_set:
 DOMAIN-SUFFIX,126.am
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.fm
@@ -113,6 +115,7 @@ DOMAIN-SUFFIX,yunxinsvr.com
 DOMAIN-SUFFIX,yunxinvcloud.com
 DOMAIN-SUFFIX,yunxinvideo.com
 DOMAIN-SUFFIX,zhuanzfx.com
+ip_cidr_set:
 IP-CIDR,101.71.154.241/32
 IP-CIDR,103.126.92.132/31
 IP-CIDR,112.13.119.17/32

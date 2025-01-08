@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,periscope.tv
@@ -23,7 +24,9 @@ DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
+domain_keyword_set:
 DOMAIN-KEYWORD,twitter
+ip_cidr_set:
 IP-CIDR,192.133.76.0/22
 IP-CIDR,199.59.148.0/22
 IP-CIDR,199.96.56.0/21

@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,gog.salesmanago.com
+domain_suffix_set:
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gog.qtlglb.com

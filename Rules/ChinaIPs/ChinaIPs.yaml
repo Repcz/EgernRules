@@ -1,3 +1,4 @@
+ip_cidr_set:
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -17599,6 +17600,7 @@ IP-CIDR,98.124.142.88/30,no-resolve
 IP-CIDR,98.96.246.0/23,no-resolve
 IP-CIDR,99.77.241.0/24,no-resolve
 IP-CIDR,99.83.96.0/24,no-resolve
+ip_cidr6_set:
 IP-CIDR6,2001:2000:3080:c80::/64,no-resolve
 IP-CIDR6,2001:2030:0:4d::/64,no-resolve
 IP-CIDR6,2001:2035:0:c80::/64,no-resolve

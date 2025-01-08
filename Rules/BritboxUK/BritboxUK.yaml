@@ -1,5 +1,7 @@
+domain_set:
 DOMAIN,itvpnp.live.ott.irdeto.com
 DOMAIN,itvpnp.stage.ott.irdeto.com
+domain_suffix_set:
 DOMAIN-SUFFIX,bb-static.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,britbox.co.uk

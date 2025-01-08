@@ -1,4 +1,5 @@
+domain_set:
 DOMAIN,itvpnpmobile-a.akamaihd.net
+domain_suffix_set:
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
-USER-AGENT,ITV_Player*

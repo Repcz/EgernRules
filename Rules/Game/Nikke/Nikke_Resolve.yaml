@@ -1,7 +1,9 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,centauriglobal.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,nikke-kr.com
+ip_cidr_set:
 IP-CIDR,43.152.114.31/32

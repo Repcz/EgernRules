@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,akabeesoft2.com
 DOMAIN-SUFFIX,akabeesoft3.com
 DOMAIN-SUFFIX,akatsukiworks.com
@@ -16,5 +17,6 @@ DOMAIN-SUFFIX,minori.ph
 DOMAIN-SUFFIX,navismithapis-cdn.com
 DOMAIN-SUFFIX,tenco.cc
 DOMAIN-SUFFIX,wheel-soft.com
+ip_cidr_set:
 IP-CIDR,125.6.189.7/32,no-resolve
 IP-CIDR,203.104.209.7/32,no-resolve

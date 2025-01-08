@@ -1,3 +1,4 @@
+ip_cidr_set:
 IP-CIDR,100.20.0.0/14,no-resolve
 IP-CIDR,100.24.0.0/13,no-resolve
 IP-CIDR,103.246.148.0/22,no-resolve

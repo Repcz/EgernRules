@@ -1,9 +1,13 @@
+domain_set:
 DOMAIN,graph.facebook.com
+domain_suffix_set:
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+domain_keyword_set:
 DOMAIN-KEYWORD,whatsapp
+ip_cidr_set:
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve
 IP-CIDR,158.85.5.192/27,no-resolve

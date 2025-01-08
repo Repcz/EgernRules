@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,weizhiyundong.list
+domain_suffix_set:
 DOMAIN-SUFFIX,dicom365.com
 DOMAIN-SUFFIX,dycom365.com
 DOMAIN-SUFFIX,wedcm.com

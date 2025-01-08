@@ -1,7 +1,9 @@
+domain_set:
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,ap-oversea.agora.io
 DOMAIN,ap-oversea2.agora.io
 DOMAIN,report-oversea.agora.io
+ip_cidr_set:
 IP-CIDR,103.59.49.10/32
 IP-CIDR,103.65.41.166/32
 IP-CIDR,103.65.41.169/32

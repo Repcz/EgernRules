@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,blizzard.gcdn.cloudn.co.kr
@@ -34,6 +35,7 @@ DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,us.cdn.blizzard.com
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
+domain_suffix_set:
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,steamcontent.com

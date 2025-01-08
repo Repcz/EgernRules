@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,wmff.warnermediacdn.com
+domain_suffix_set:
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
 DOMAIN-SUFFIX,hboasia2-i.akamaihd.net

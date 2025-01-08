@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,dns.jd.com
 DOMAIN,dns.weibo.cn
 DOMAIN,dns.weixin.qq.com
@@ -16,9 +17,11 @@ DOMAIN,httpdns.yunxindns.com
 DOMAIN,kuaishou.httpdns.pro
 DOMAIN,lofter.httpdns.c.163.com
 DOMAIN,music.httpdns.c.163.com
+domain_suffix_set:
 DOMAIN-SUFFIX,httpdns.baidu.com
 DOMAIN-SUFFIX,httpdns.baidubce.com
 DOMAIN-SUFFIX,httpsdns.baidu.com
+ip_cidr_set:
 IP-CIDR,101.124.19.122/32
 IP-CIDR,101.91.140.124/32
 IP-CIDR,101.91.140.224/32
@@ -53,6 +56,7 @@ IP-CIDR,47.100.123.169/32
 IP-CIDR,47.101.175.206/32
 IP-CIDR,59.111.239.61/32
 IP-CIDR,59.111.239.62/32
+ip_cidr6_set:
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128
 IP-CIDR6,2402:db40:5100:1011::5/128

@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,sonyliveevents-nonssai.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,cn-playnow.com.cn
 DOMAIN-SUFFIX,ginzasonypark.jp
 DOMAIN-SUFFIX,imageworks.com

@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,scholar.google.com
+domain_suffix_set:
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.domains
 DOMAIN-SUFFIX,1lib.education

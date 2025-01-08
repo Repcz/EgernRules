@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,2496.cn
 DOMAIN-SUFFIX,gouwo.com
 DOMAIN-SUFFIX,kgimg.com
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,shuoba.com
 DOMAIN-SUFFIX,shuoba.me
 DOMAIN-SUFFIX,shuoba.org
 DOMAIN-SUFFIX,tingkanbao.com
+ip_cidr_set:
 IP-CIDR,1.82.220.0/24,no-resolve
 IP-CIDR,101.71.122.0/24,no-resolve
 IP-CIDR,103.215.143.0/24,no-resolve

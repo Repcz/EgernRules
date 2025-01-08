@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,japonx.com
 DOMAIN-SUFFIX,japonx.net
 DOMAIN-SUFFIX,japonx.tv
@@ -6,5 +7,6 @@ DOMAIN-SUFFIX,japronx.com
 DOMAIN-SUFFIX,japronx.net
 DOMAIN-SUFFIX,japronx.tv
 DOMAIN-SUFFIX,japronx.vip
+domain_keyword_set:
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx

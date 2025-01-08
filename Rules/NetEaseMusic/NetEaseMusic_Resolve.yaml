@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,netease.ugcvideoss.ourdvs.com
+domain_suffix_set:
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,api.iplay.163.com
 DOMAIN-SUFFIX,hz.netease.com
@@ -8,6 +10,7 @@ DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
 DOMAIN-SUFFIX,yun-app.net
+ip_cidr_set:
 IP-CIDR,101.71.154.241/32
 IP-CIDR,103.126.92.132/31
 IP-CIDR,112.13.119.17/32
@@ -26,5 +29,3 @@ IP-CIDR,47.100.127.239/32
 IP-CIDR,59.111.128.0/17
 IP-CIDR,59.111.19.33/32
 IP-CIDR,59.111.21.14/31
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,NeteaseMusic*

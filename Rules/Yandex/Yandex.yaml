@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yadi.sk
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yastatic.net
+ip_cidr_set:
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
 IP-CIDR,178.154.128.0/18,no-resolve
@@ -48,5 +50,6 @@ IP-CIDR,77.88.0.0/18,no-resolve
 IP-CIDR,87.250.224.0/19,no-resolve
 IP-CIDR,93.158.128.0/18,no-resolve
 IP-CIDR,95.108.128.0/17,no-resolve
+ip_cidr6_set:
 IP-CIDR6,2620:10f:d000::/44,no-resolve
 IP-CIDR6,2a02:6b8::/29,no-resolve

@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs
 DOMAIN-SUFFIX,cbs.com
@@ -33,6 +34,3 @@ DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com
-PROCESS-NAME,com.cbs.app
-PROCESS-NAME,com.showtime.standalone
-USER-AGENT,PPlus*

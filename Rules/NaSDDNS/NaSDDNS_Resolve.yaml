@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,account.synology.com
@@ -30,7 +31,9 @@ DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,tpddns.cn
 DOMAIN-SUFFIX,whatismyip.akamai.com
+domain_keyword_set:
 DOMAIN-KEYWORD,qcloud
+ip_cidr_set:
 IP-CIDR,100.24.218.0/24
 IP-CIDR,18.214.42.0/24
 IP-CIDR,3.231.124.0/24

@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,biggggg.com
 DOMAIN-SUFFIX,mudvod.tv
 DOMAIN-SUFFIX,nbys.tv
@@ -5,4 +6,5 @@ DOMAIN-SUFFIX,nbys1.tv
 DOMAIN-SUFFIX,nbyy.tv
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,vod360.net
+domain_keyword_set:
 DOMAIN-KEYWORD,nivod

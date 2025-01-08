@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+domain_suffix_set:
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net

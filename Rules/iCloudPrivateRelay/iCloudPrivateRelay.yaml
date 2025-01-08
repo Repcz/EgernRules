@@ -1,6 +1,8 @@
+domain_set:
 DOMAIN,mask-api.fe.apple-dns.net
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask-t.apple-dns.net
 DOMAIN,mask.apple-dns.net
+domain_suffix_set:
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com

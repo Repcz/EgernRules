@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,d2f0395ykn6hxb.cloudfront.net
+domain_suffix_set:
 DOMAIN-SUFFIX,diskstation.me
 DOMAIN-SUFFIX,dscloud.biz
 DOMAIN-SUFFIX,dscloud.me
@@ -16,4 +18,5 @@ DOMAIN-SUFFIX,synodns.com
 DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
+domain_keyword_set:
 DOMAIN-KEYWORD,synology

@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,hmma.baidu.com
 DOMAIN,ios-pclog.i4.cn
 DOMAIN,js.users.51.la
@@ -16,6 +17,7 @@ DOMAIN,track.tenjin.io
 DOMAIN,tracking.intl.miui.com
 DOMAIN,wc.51.la
 DOMAIN,zgsdk.zhugeio.com
+domain_suffix_set:
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
 DOMAIN-SUFFIX,00px.net
@@ -39032,6 +39034,7 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzaoea.costacrociere.it
 DOMAIN-SUFFIX,zzqyxd.smartpozyczka.pl
 DOMAIN-SUFFIX,zzsqqx.shopjapan.co.jp
+domain_keyword_set:
 DOMAIN-KEYWORD,analytics.
 DOMAIN-KEYWORD,app-analytics
 DOMAIN-KEYWORD,app-log.
@@ -39041,6 +39044,7 @@ DOMAIN-KEYWORD,ios-log.
 DOMAIN-KEYWORD,ioslog.
 DOMAIN-KEYWORD,pc-log.
 DOMAIN-KEYWORD,pclog.
+ip_cidr_set:
 IP-CIDR,0.0.0.1/32
 IP-CIDR,109.123.233.251/32
 IP-CIDR,157.148.47.204/32

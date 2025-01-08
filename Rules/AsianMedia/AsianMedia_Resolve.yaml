@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.biliapi.com
@@ -17,11 +18,14 @@ DOMAIN,m.bilibili.com
 DOMAIN,mobileso.bz.mgtv.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,www.bilibili.com
+domain_suffix_set:
 DOMAIN-SUFFIX,api.mgtv.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
+domain_keyword_set:
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
+ip_cidr_set:
 IP-CIDR,103.44.56.0/22
 IP-CIDR,116.211.202.206/32
 IP-CIDR,116.211.202.216/32

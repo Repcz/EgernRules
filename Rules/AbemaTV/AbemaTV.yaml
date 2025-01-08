@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -20,5 +21,5 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,winticket.jp
+domain_keyword_set:
 DOMAIN-KEYWORD,abematv.akamaized.net
-USER-AGENT,AbemaTV*

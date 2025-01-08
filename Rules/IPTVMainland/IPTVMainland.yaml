@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,1.cache.applinzi.com
 DOMAIN,12371alic.v.myalicdn.com
@@ -988,6 +989,7 @@ DOMAIN,zv.3gv.ifeng.com
 DOMAIN,zycfcdn.gdwlcloud.com
 DOMAIN,zzlive.zzc-media.com
 DOMAIN,zzq12345.gearhostpreview.com
+ip_cidr_set:
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.180.237.9/32,no-resolve
 IP-CIDR,1.197.88.197/32,no-resolve

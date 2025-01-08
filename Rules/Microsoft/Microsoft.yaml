@@ -1,5 +1,6 @@
+domain_set:
 DOMAIN,vsmarketplacebadge.apphb.com
-DOMAIN-SUFFIX,1drv.com
+domain_suffix_set:
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
@@ -242,7 +243,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
 DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
 DOMAIN-SUFFIX,livingyourambition.com
 DOMAIN-SUFFIX,localytics.com
@@ -497,7 +497,6 @@ DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
 DOMAIN-SUFFIX,onedrive.co
 DOMAIN-SUFFIX,onedrive.co.uk
-DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.eu
 DOMAIN-SUFFIX,onedrive.net
 DOMAIN-SUFFIX,onedrive.org
@@ -553,8 +552,6 @@ DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.cn
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
@@ -562,7 +559,6 @@ DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skypeforbusiness.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,sqlserveronlinux.com
 DOMAIN-SUFFIX,staffhub.ms
@@ -661,12 +657,14 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-DOMAIN-KEYWORD,1drv
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+domain_keyword_set:
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
-USER-AGENT,Microsoft*
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*

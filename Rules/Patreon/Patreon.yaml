@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,live-patreon-marketing.pantheonsite.io
+domain_suffix_set:
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patreoncommunity.com
 DOMAIN-SUFFIX,patreonusercontent.com

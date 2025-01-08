@@ -1,3 +1,5 @@
+domain_set:
 DOMAIN,cdn.usefathom.com
+domain_suffix_set:
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai

@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,amp.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net

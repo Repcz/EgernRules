@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
@@ -10,10 +11,7 @@ DOMAIN-SUFFIX,skydrive.wns.windows.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
+domain_keyword_set:
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*

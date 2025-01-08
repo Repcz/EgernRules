@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,1b9khekel6.adobe.io
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
@@ -86,6 +87,7 @@ DOMAIN,www.wip1.adobe.com
 DOMAIN,www.wip2.adobe.com
 DOMAIN,www.wip3.adobe.com
 DOMAIN,www.wip4.adobe.com
+ip_cidr_set:
 IP-CIDR,100.24.211.130/32,no-resolve
 IP-CIDR,13.227.103.57/32,no-resolve
 IP-CIDR,162.247.242.20/32,no-resolve

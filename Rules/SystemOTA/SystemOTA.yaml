@@ -1,3 +1,4 @@
+domain_set:
 DOMAIN,appldnld-cdn.apple.com.akadns.net
 DOMAIN,appldnld-cdn.origin-apple.com.akadns.net
 DOMAIN,appldnld.apple.com.mwcname.com
@@ -63,6 +64,7 @@ DOMAIN,xp.apple.com
 DOMAIN,xp.apple.com.akadns.net
 DOMAIN,xp.apple.com.mwcname.com
 DOMAIN,xp.g.aaplimg.com
+domain_suffix_set:
 DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.apple.com.akadns.net

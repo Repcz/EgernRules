@@ -1,4 +1,6 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.pub
+ip_cidr_set:
 IP-CIDR,1.12.12.12/32

@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,10029.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,17lai.org
@@ -1249,6 +1250,7 @@ DOMAIN-SUFFIX,ztcexam.com
 DOMAIN-SUFFIX,zuodao.com
 DOMAIN-SUFFIX,zwmrxd.com
 DOMAIN-SUFFIX,zwtianshangm.com
+ip_cidr_set:
 IP-CIDR,103.206.40.0/22
 IP-CIDR,103.38.56.0/22
 IP-CIDR,103.52.196.0/22
@@ -1302,5 +1304,5 @@ IP-CIDR,59.82.248.0/22
 IP-CIDR,72.254.0.0/16
 IP-CIDR,8.128.0.0/10
 IP-CIDR,8.208.0.0/12
+ip_cidr6_set:
 IP-CIDR6,2400:b200::/32
-PROCESS-NAME,com.taobao.taobao

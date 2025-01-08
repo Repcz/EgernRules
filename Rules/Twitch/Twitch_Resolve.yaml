@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,live-video.net
@@ -6,7 +7,9 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
+domain_keyword_set:
 DOMAIN-KEYWORD,ttvnw
+ip_cidr_set:
 IP-CIDR,103.53.48.0/23
 IP-CIDR,185.42.204.0/22
 IP-CIDR,192.108.239.0/24
@@ -18,5 +21,5 @@ IP-CIDR,52.223.192.0/20
 IP-CIDR,52.223.208.0/21
 IP-CIDR,52.223.224.0/19
 IP-CIDR,99.181.64.0/18
+ip_cidr6_set:
 IP-CIDR6,2402:2a80::/32
-PROCESS-NAME,tv.twitch.android.app

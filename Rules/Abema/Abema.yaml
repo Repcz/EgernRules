@@ -1,8 +1,10 @@
+domain_set:
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,linear-abematv.akamaized.net
 DOMAIN,vod-abematv.akamaized.net
+domain_suffix_set:
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv

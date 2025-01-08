@@ -1,6 +1,8 @@
+domain_set:
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,netflix.com.edgesuite.net
+domain_suffix_set:
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
@@ -31,10 +33,12 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,us-west-2.amazonaws.com
+domain_keyword_set:
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,netflixdnstest
+ip_cidr_set:
 IP-CIDR,103.87.204.0/22
 IP-CIDR,107.23.255.0/26
 IP-CIDR,108.128.160.0/23
@@ -1150,9 +1154,8 @@ IP-CIDR,99.79.20.192/26
 IP-CIDR,99.80.34.48/28
 IP-CIDR,99.80.34.64/26
 IP-CIDR,99.80.88.0/25
+ip_cidr6_set:
 IP-CIDR6,2607:fb10::/32
 IP-CIDR6,2620:10c:7000::/44
 IP-CIDR6,2a00:86c0::/32
 IP-CIDR6,2a03:5640::/32
-PROCESS-NAME,com.netflix.mediaclient
-USER-AGENT,Argo*

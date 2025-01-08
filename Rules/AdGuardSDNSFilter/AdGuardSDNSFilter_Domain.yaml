@@ -1,5 +1,4 @@
-DOMAIN,167.71.252.38
-DOMAIN,213.8.137.51
+domain_suffix_set:
 DOMAIN-SUFFIX,0.code.cotsta.ru
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,0024ad98dd.com
@@ -67031,3 +67030,6 @@ DOMAIN-SUFFIX,zzyy20.top
 DOMAIN-SUFFIX,zzzjvqzkmqjlo.top
 DOMAIN-SUFFIX,zzzjvqzkmqjyb.top
 DOMAIN-SUFFIX,zzznews.ru
+domain_set:
+DOMAIN,167.71.252.38
+DOMAIN,213.8.137.51

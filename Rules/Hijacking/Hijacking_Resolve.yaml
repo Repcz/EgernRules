@@ -1,4 +1,6 @@
+domain_set:
 DOMAIN,geo2.adobe.com
+domain_suffix_set:
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189key.com
@@ -184,6 +186,7 @@ DOMAIN-SUFFIX,zmlled.cn
 DOMAIN-SUFFIX,zryydi.com
 DOMAIN-SUFFIX,zunmi.cn
 DOMAIN-SUFFIX,zzd6.com
+ip_cidr_set:
 IP-CIDR,103.49.209.27/32
 IP-CIDR,106.75.231.48/32
 IP-CIDR,111.175.220.163/32

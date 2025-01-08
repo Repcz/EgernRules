@@ -1,3 +1,4 @@
+domain_suffix_set:
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,docs.rs
