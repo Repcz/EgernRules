@@ -45,28 +45,35 @@ jobs:
             # 删除指定域名
             sed -i -e '/DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' "$file"
             # 修饰
-            sed -i -e 's/,reject$//' "$file"
-            sed -i -E '/^IP-CIDR,/!{/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+\/[0-9]+/s/^/IP-CIDR,/}' "$file"
-            sed -i -E '/^IP-CIDR6,/!{/^[a-fA-F0-9]+:|([a-fA-F0-9]+:+)+[a-fA-F0-9]+\/[0-9]+/s/^/IP-CIDR6,/}' "$file"
-            awk '
-            /^DOMAIN,/         { print "0 " $0; next }
-            /^DOMAIN-SUFFIX,/  { print "1 " $0; next }
-            /^DOMAIN-KEYWORD,/ { print "2 " $0; next }
-            /^DOMAIN-WILDCARD,/{ print "3 " $0; next }
-            /^IP-CIDR,/        { print "4 " $0; next }
-            /^IP-CIDR6,/       { print "5 " $0; next }
-            /^IP-ASN,/         { print "6 " $0; next }
-            /^PROCESS-NAME,/   { print "7 " $0; next }
-            /^URL-REGEX,/      { print "8 " $0; next }
-            /^USER-AGENT,/     { print "9 " $0; next }
-            /^GEOIP,/          { print "10 " $0; next }
-            /^AND,/            { print "11 " $0; next }
-            /^OR,/             { print "12 " $0; next }
-            /^NOT,/            { print "13 " $0; next }
-            /^DEST-PORT,/      { print "14 " $0; next }
-                               { print "15 " $0; next }
-            ' "$file" | sort -k1,1n -k2,2 | cut -d' ' -f2- > "$file.sorted" && mv "$file.sorted" "$file"
-            awk '!seen[tolower($0)]++' "$file" > temp && mv temp "$file"
+            sed -i -e '/^USER-AGENT/d' "$file"
+            sed -i -e '/^PROCESS-NAME/d' "$file"
+            sed -i -e '/^DEST-PORT/d' "$file"
+            awk '/^DOMAIN,/ && !added {print "domain_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^DOMAIN-SUFFIX,/ && !added {print "domain_suffix_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^DOMAIN-KEYWORD,/ && !added {print "domain_keyword_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^IP-CIDR,/ && !added {print "ip_cidr_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^IP-CIDR6,/ && !added {print "ip_cidr6_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^IP-ASN,/ && !added {print "asn_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^URL-REGEX,/ && !added {print "url_regex_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '/^GEOIP,/ && !added {print "geoip_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
+        for file in Tool-repo/Egern/Rules/*.yaml; do
+          if [ -f "$file" ]; then
+            if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
+            sed -i '1i\no_resolve: true' "$file"
+            fi
+            sed -i -E 's/^(URL-REGEX,)([^,]+)$/\1"\2"/' "$file"
+            sed -i -E 's/^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|IP-CIDR|IP-CIDR6|IP-ASN|URL-REGEX|GEOIP),/  - /g' "$file"
+            sed -i 's/,no-resolve//g' "$file"
+            file_names=$(basename "$file" .yaml)
+            line_count=$(grep -c '^  - ' "$file")
+            awk -v fname="$file_names" 'NR==1 {print "# 规则名称: " fname} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk -v count="$line_count" 'NR==2 {print "# 规则统计: " count} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            sed -i '2a\\' "$file"
           else
             echo "$file not found."
           fi
