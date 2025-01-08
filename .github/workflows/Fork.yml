@@ -88,18 +88,18 @@ jobs:
             sed -i -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
                    -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
                    -e '/\(不定时更新\)/d' \
-                   -e '/blackmatrix7\/ios_rule_script\/release\/rule\/QuantumultX/d' \
+                   -e '/blackmatrix7\/ios_rule_script\/release\/rule\/Surge/d' \
                    -e '/https:\/\/cdn.jsdelivr.net/d' \
                    -e '/https:\/\/ghproxy.com/d' \
                    -e 's|MASTER分支|X分支|g' \
-                   -e 's|## QuantumultX|## Egern|g' \
-                   -e 's|blackmatrix7/ios_rule_script/master/rule/QuantumultX|Repcz/EgernRules/X/Rules|g' \
-                   -e 's|github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX|github.com/Repcz/EgernRules/tree/X/Rules|g' \
+                   -e 's|## Surge## Egern|g' \
+                   -e 's|blackmatrix7/ios_rule_script/master/rule/SurgeRepcz/EgernRules/X/Rules|g' \
+                   -e '/https:\/\/raw.githubusercontent.com\/blackmatrix7\/ios_rule_script\/release\/rule\/*/d' \
                    -e 's|HOST|DOMAIN|g' \
                    -e 's|IP6-CIDR|IP-CIDR6|g' \
                    -e 's|USER-AGENT|USER-AGENT(Egern不支持)|g' \
                    -e 's|TOTAL|TOTAL(仅供参考)|g' \
-                   -e 's|QuantumultX定制化规则|Egern定制化规则|g' \
+                   -e 's|Surge定制化规则|Egern定制化规则|g' \
                    -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
                    -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
                    "$readme"
