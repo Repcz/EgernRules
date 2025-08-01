@@ -1,0 +1,5 @@
+domain_set:
+  - cdn.usefathom.com
+domain_suffix_set:
+  - anthropic.com
+  - claude.ai

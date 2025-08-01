@@ -1,0 +1,5 @@
+domain_set:
+  - servd-anthropic-website.b-cdn.net
+domain_suffix_set:
+  - anthropic.com
+  - claude.ai

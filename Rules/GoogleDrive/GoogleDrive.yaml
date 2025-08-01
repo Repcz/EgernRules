@@ -1,0 +1,7 @@
+domain_set:
+  - www.googleapis.com
+domain_suffix_set:
+  - docs.google.com
+  - drive.google.com
+  - googledrive.com
+  - googleusercontent.com

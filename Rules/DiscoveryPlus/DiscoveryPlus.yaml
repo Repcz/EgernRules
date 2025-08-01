@@ -1,0 +1,18 @@
+domain_set:
+  - discovery-us.conax.cloud
+  - dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
+  - dplus-northamerica.media-edge.prod-vod.h264.io
+domain_suffix_set:
+  - disco-api.com
+  - discovery.com
+  - discoveryplus.co.uk
+  - discoveryplus.com
+  - discoveryplus.in
+  - dnitv.com
+  - fwmrm.net
+  - getblueshift.com
+  - litix.io
+  - mobile-collector.newrelic.com
+  - uplynk.com
+domain_keyword_set:
+  - discovery.uplynk.com
