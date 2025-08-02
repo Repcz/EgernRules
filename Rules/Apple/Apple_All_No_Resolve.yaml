@@ -1191,6 +1191,7 @@ domain_suffix_set:
   - applepaysupplies.tv
   - applewallet.com
   - applewallet.tv
+  - appsto.re
   - appstore.co.id
   - appstore.com
   - appstore.hk
@@ -1504,7 +1505,6 @@ domain_suffix_set:
   - musickit.net
   - wwwapplemusic.com
   - apple-dns.net
-  - appsto.re
   - digicert.com
   - apple-cloudkit.com
   - apple-icloud.cn

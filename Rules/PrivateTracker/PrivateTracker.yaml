@@ -5,8 +5,6 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - admin.52ywp.com
-  - asiatorrent.ddns.net
-  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
@@ -45,7 +43,6 @@ domain_set:
   - opentor.org
   - opentracker.io
   - p4p.arenabg.com
-  - passpulse.net
   - public.tracker.vraphim.com
   - pybittrack.retiolus.net
   - retracker.hotplug.ru
@@ -89,7 +86,6 @@ domain_set:
   - tracker.dler.org
   - tracker.dmcomic.org
   - tracker.ducks.party
-  - tracker.dump.cl
   - tracker.expli.top
   - tracker.filemail.com
   - tracker.fnix.net
@@ -102,7 +98,6 @@ domain_set:
   - tracker.hifitechindia.com
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
-  - tracker.ipv6tracker.ru
   - tracker.jdx3.org
   - tracker.kmzs123.cn
   - tracker.kuroy.me
@@ -112,7 +107,6 @@ domain_set:
   - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.netmap.top
-  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
