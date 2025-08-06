@@ -4,9 +4,11 @@ domain_suffix_set:
   - 365yg.com
   - activity-zhendingtech.com
   - activitybyte.com
+  - aigcarena.com
   - aihst8.com
   - amemv.cn
   - amemv.net
+  - artistrylab.net
   - baike.com
   - bcy.net
   - bcyimg.com
@@ -19,8 +21,11 @@ domain_suffix_set:
   - betastar.cn
   - bqtalk.com
   - buydouke.com
+  - byte-ticket.com
   - byteac.com
   - byteactivity.com
+  - byteapk.cn
+  - byteapk.com
   - bytecdn.cn
   - bytecdn.com
   - bytecdntp.com
@@ -31,6 +36,8 @@ domain_suffix_set:
   - bytedance.net
   - bytedance.org
   - bytedanceapi.com
+  - bytedanceoss.net
+  - bytedancevod.com
   - bytedns.net
   - bytedns1.com
   - bytedns2.com
@@ -43,13 +50,19 @@ domain_suffix_set:
   - bytegslb.com
   - byteimg.com
   - bytelb.net
+  - bytelove.cn
   - bytemaimg.com
   - bytescm.com
   - bytesfield.com
   - bytesmanager.com
+  - bytesyscdn.com
   - bytetcc.com
   - bytetos.com
+  - byteurl.cn
   - bytexservice.com
+  - capturetheflag.fun
+  - cdn-build.com
+  - cdn-build.net
   - cdndns1.com
   - cdndns2.com
   - changdunovel.com
@@ -64,6 +77,7 @@ domain_suffix_set:
   - dcdapp.com
   - dongchedi.com
   - dongchediapp.com
+  - dou.top
   - doubao.cn
   - doubao.com
   - douyin.com
@@ -114,8 +128,10 @@ domain_suffix_set:
   - gogokid.com
   - gogokid.com.cn
   - goodluckcalendar.com
+  - goofy-edge.cn
   - healthybaike.com
   - heycan.com
+  - hijackorg.net
   - hotsoonapp.cn
   - hotsoonapp.com
   - hotsoonapp.net
@@ -165,6 +181,8 @@ domain_suffix_set:
   - jinritemai-inc.com
   - jinritemai.com
   - jinritoutiao.com
+  - jiyi.biz
+  - jiyi.top
   - jiyunhudong.cn
   - jiyunhudong.com
   - jiyunhudong.net
@@ -178,11 +196,12 @@ domain_suffix_set:
   - juliangyinqing.cn
   - juliangyinqing.com
   - juliangyinqing.net
+  - knightedge.com
   - kolbuyer.cn
   - kspkg.com
   - larksuite.com
   - larksuitecdn.com
-  - lf-rc1.yhgfb-cn-static.com
+  - lingovalley-cdn.cn
   - luckforcalendar.com
   - luckincalendar.com
   - luckycalendar.cn
@@ -224,12 +243,14 @@ domain_suffix_set:
   - pipix.com
   - qmoji.mobi
   - qmoji.net
+  - qwconnect.top
   - qznovelpic.com
   - qznovelstatic.com
   - qznovelvod.com
   - ribaoapi.com
   - ribaocdn.com
   - samasty.com
+  - semi.design
   - shoppingads.cn
   - smartisan.cn
   - smartisan.com
@@ -238,6 +259,8 @@ domain_suffix_set:
   - tekkenthree.com
   - temaiapi.com
   - tetrisone.com
+  - tiquality.cn
+  - tiquality.com.cn
   - toscdn.com
   - toutiao11.com
   - toutiao12.com
@@ -276,10 +299,20 @@ domain_suffix_set:
   - ttbyte.com
   - ttbyte.net
   - ttjisu.com
+  - ugapk.cn
+  - ugapk.com
+  - ugh5.cn
+  - ugsdk.cn
+  - ugurl.cc
+  - ugurl.cn
   - ulikecam.cn
   - ulikecam.com
   - ulikecam.mobi
   - ulikecam.net
+  - varchserverqa.com
+  - vireala.com
+  - vireala.net
+  - visactor.com
   - volccdn.com
   - volcdem.com
   - volceapplog.com
@@ -299,7 +332,9 @@ domain_suffix_set:
   - xiguavideo.cn
   - xiguavideo.net
   - xitu.io
+  - yhgfb-cn-static.com
   - youdianyisi.com
+  - yueantech.com.cn
   - zijieapi.com
   - zijiecdn.cn
   - zijiecdn.com
@@ -321,6 +356,8 @@ domain_suffix_set:
   - zjcdn.com
   - zjgslb.com
   - zjurl.cn
+  - zlinkurl.cn
+  - zlinkurl.com
   - amemv.com
   - douyincdn.com
   - douyinpic.com
