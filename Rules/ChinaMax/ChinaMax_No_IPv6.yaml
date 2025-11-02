@@ -8,7 +8,6 @@ domain_suffix_set:
   - ms
   - baidu
   - citic
-  - icbc
   - sohu
   - unicom
   - wang
@@ -44,6 +43,7 @@ domain_suffix_set:
   - xn--vuq861b
   - xn--xhq521b
   - xn--zfr164b
+  - icbc
 domain_keyword_set:
   - .tmall.com
   - alicdn
@@ -7566,6 +7566,7 @@ ip_cidr_set:
   - 44.30.28.0/24
   - 44.31.216.0/24
   - 44.31.28.0/24
+  - 44.31.42.0/24
   - 44.31.81.0/24
   - 44.31.96.0/24
   - 44.32.143.0/24
