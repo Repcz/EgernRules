@@ -1,14 +1,13 @@
 domain_suffix_set:
-  - cn
-  - ms
-  - alibaba
   - alipay
-  - baidu
-  - citic
-  - icbc
-  - sohu
+  - alibaba
   - taobao
   - tmall
+  - cn
+  - ms
+  - baidu
+  - citic
+  - sohu
   - unicom
   - wang
   - xn--1qqw23a
@@ -43,6 +42,7 @@ domain_suffix_set:
   - xn--vuq861b
   - xn--xhq521b
   - xn--zfr164b
+  - icbc
 domain_keyword_set:
   - .tmall.com
   - alicdn
@@ -53,10 +53,10 @@ domain_keyword_set:
   - officecdn
   - taobao
   - bilibili
+  - qiyi
   - hnagroup
   - stripe
   - weibo
-  - qiyi
 ip_cidr_set:
   - 0.0.0.0/32
   - 1.0.1.0/24
