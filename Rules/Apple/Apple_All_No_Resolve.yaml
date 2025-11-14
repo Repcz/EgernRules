@@ -1194,7 +1194,6 @@ domain_suffix_set:
   - applepaysupplies.tv
   - applewallet.com
   - applewallet.tv
-  - appsto.re
   - appstore.co.id
   - appstore.com
   - appstore.hk
@@ -1521,7 +1520,6 @@ domain_suffix_set:
   - appleenews.com
   - applemusic.berlin
   - applemusic.co
-  - applemusic.com
   - applemusic.com.au
   - applemusic.hamburg
   - applemusic.wang
@@ -1554,7 +1552,9 @@ domain_suffix_set:
   - iphoto.wang
   - musickit.net
   - wwwapplemusic.com
+  - applemusic.com
   - apple-dns.net
+  - appsto.re
   - cdn-apple.com
   - digicert.com
   - apple-cloudkit.com
