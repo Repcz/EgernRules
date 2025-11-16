@@ -364,6 +364,7 @@ domain_suffix_set:
   - aolnews.com
   - aomedia.org
   - aomiwang.com
+  - aoxvpn.com
   - ap.org
   - apache.org
   - apartmentratings.com
@@ -599,6 +600,7 @@ domain_suffix_set:
   - bet365.com
   - betaclouds.net
   - betfair.com
+  - bettergpt.chat
   - betterhash.net
   - betternet.co
   - bettervpn.com
@@ -865,6 +867,7 @@ domain_suffix_set:
   - cams.org.sg
   - canadameet.com
   - cantonese.asia
+  - canva.com
   - canyu.org
   - cao.im
   - caobian.info
@@ -907,6 +910,7 @@ domain_suffix_set:
   - ccdtr.org
   - ccfd.org.tw
   - cchere.com
+  - cchostvps.xyz
   - ccim.org
   - cclife.ca
   - cclife.org
@@ -971,8 +975,10 @@ domain_suffix_set:
   - chaos.social
   - chapm25.com
   - character.ai
+  - chat.com
   - chat.openai.com
   - chatnook.com
+  - chatpdf.com
   - chaturbate.com
   - checkgfw.com
   - chengmingmag.com
@@ -1333,6 +1339,7 @@ domain_suffix_set:
   - daozhongxing.org
   - darktech.org
   - darktoy.net
+  - darmau.co
   - darpa.mil
   - darrenliuwei.com
   - dartlang.org
@@ -1866,6 +1873,7 @@ domain_suffix_set:
   - figprayer.com
   - fileflyer.com
   - fileforum.com
+  - files.oaiusercontent.com
   - files2me.com
   - fileserve.com
   - filesor.com
@@ -1909,6 +1917,7 @@ domain_suffix_set:
   - flitto.com
   - flnet.org
   - flog.tw
+  - flowgpt.com
   - flowhongkong.net
   - flypool.org
   - flyvpn.com
@@ -1928,6 +1937,7 @@ domain_suffix_set:
   - fooooo.com
   - footwiball.com
   - forbes.com
+  - forefront.ai
   - foreignaffairs.com
   - foreignpolicy.com
   - form.new
@@ -2666,6 +2676,7 @@ domain_suffix_set:
   - hxwk.org
   - hxwq.org
   - hybrid-analysis.com
+  - hyperbeam.com
   - hyperrate.com
   - hypothes.is
   - hyread.com.tw
@@ -3189,6 +3200,7 @@ domain_suffix_set:
   - letou.com
   - letscorp.net
   - level-plus.net
+  - lexica.art
   - lflink.com
   - lflinkup.com
   - lflinkup.net
@@ -3234,6 +3246,7 @@ domain_suffix_set:
   - linkuswell.com
   - linode.com
   - linpie.com
+  - linux.do
   - linux.org.hk
   - linuxtoy.org
   - lionsroar.com
@@ -3270,6 +3283,7 @@ domain_suffix_set:
   - lkcn.net
   - llnwd.net
   - llss.me
+  - lmarena.ai
   - lmsys.org
   - load.to
   - lobsangwangyal.com
@@ -3305,6 +3319,7 @@ domain_suffix_set:
   - lsmradio.com
   - lsmwebcast.com
   - lsxszzg.com
+  - lt.sntp.uk
   - ltn.com.tw
   - luckydesigner.space
   - luckymobile.ca
@@ -4538,6 +4553,7 @@ domain_suffix_set:
   - releaseinternational.org
   - religionnews.com
   - religioustolerance.org
+  - rentry.co
   - renyurenquan.org
   - resilio.com
   - resistchina.org
@@ -5246,6 +5262,7 @@ domain_suffix_set:
   - tenzinpalmo.com
   - terabox.com
   - teraboxcdn.com
+  - terobox.com
   - tew.org
   - textnow.com
   - textnow.me
