@@ -1,0 +1,9 @@
+domain_suffix_set:
+  - consul.io
+  - hashicorp.com
+  - nomadproject.io
+  - packer.io
+  - terraform.io
+  - vagrantcloud.com
+  - vagrantup.com
+  - vaultproject.io

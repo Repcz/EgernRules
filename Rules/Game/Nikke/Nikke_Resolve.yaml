@@ -1,0 +1,9 @@
+domain_suffix_set:
+  - anticheatexpert.com
+  - centauriglobal.com
+  - gamepass.com
+  - iegcom.com
+  - intlgame.com
+  - nikke-kr.com
+ip_cidr_set:
+  - 43.152.114.31/32

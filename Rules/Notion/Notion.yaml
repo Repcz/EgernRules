@@ -1,0 +1,8 @@
+domain_set:
+  - http-inputs-notion.splunkcloud.com
+domain_suffix_set:
+  - notion-static.com
+  - notion.com
+  - notion.new
+  - notion.site
+  - notion.so
