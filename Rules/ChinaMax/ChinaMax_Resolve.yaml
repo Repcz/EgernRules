@@ -1,10 +1,10 @@
 domain_suffix_set:
-  - alipay
   - alibaba
   - taobao
   - tmall
   - cn
   - ms
+  - alipay
   - baidu
   - citic
   - sohu
@@ -53,10 +53,10 @@ domain_keyword_set:
   - officecdn
   - taobao
   - bilibili
+  - qiyi
   - hnagroup
   - stripe
   - weibo
-  - qiyi
 ip_cidr_set:
   - 0.0.0.0/32
   - 1.0.1.0/24
@@ -19990,6 +19990,7 @@ ip_cidr6_set:
   - 2a14:67c1:b134::/47
   - 2a14:67c1:b136::/48
   - 2a14:67c1:b140::/48
+  - 2a14:67c1:b142::/48
   - 2a14:67c1:b4a1::/48
   - 2a14:67c1:b4a8::/47
   - 2a14:67c1:b4c0::/45
