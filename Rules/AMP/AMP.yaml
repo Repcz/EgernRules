@@ -1,0 +1,7 @@
+domain_set:
+  - amp.akamaized.net
+domain_suffix_set:
+  - amp.dev
+  - ampproject.com
+  - ampproject.net
+  - ampproject.org
