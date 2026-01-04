@@ -831,24 +831,88 @@ domain_suffix_set:
   - adguardaccount.com
   - adguardvpn.com
   - adhelpnews.com
+  - adidas-archive.org
+  - adidas-group.ca
+  - adidas-group.com
+  - adidas.ae
   - adidas.at
   - adidas.be
+  - adidas.bh
+  - adidas.ca
   - adidas.ch
+  - adidas.cl
+  - adidas.co
+  - adidas.co.id
   - adidas.co.in
+  - adidas.co.kr
+  - adidas.co.nz
+  - adidas.co.th
   - adidas.co.uk
+  - adidas.co.za
   - adidas.com
+  - adidas.com.ar
+  - adidas.com.au
+  - adidas.com.br
+  - adidas.com.co
+  - adidas.com.eg
+  - adidas.com.hk
+  - adidas.com.my
+  - adidas.com.pe
+  - adidas.com.ph
+  - adidas.com.qa
   - adidas.com.sa
+  - adidas.com.sg
+  - adidas.com.tr
   - adidas.com.tw
+  - adidas.com.vn
   - adidas.cz
   - adidas.de
   - adidas.dk
+  - adidas.es
+  - adidas.fi
+  - adidas.fr
+  - adidas.gr
   - adidas.hu
   - adidas.ie
+  - adidas.in
   - adidas.it
+  - adidas.jp
+  - adidas.mx
   - adidas.nl
+  - adidas.no
+  - adidas.pe
   - adidas.pl
+  - adidas.pt
   - adidas.ru
   - adidas.se
+  - adidas.sk
+  - adidasadmin.com
+  - adidasarchive.org
+  - adidasbadminton.com
+  - adidasboxing.com
+  - adidascdn.com
+  - adidasgymnastics.com
+  - adidashockey.com
+  - adidasmotorsport.com
+  - adidassailing.com
+  - adidasspecialtysports.at
+  - adidasspecialtysports.be
+  - adidasspecialtysports.co.uk
+  - adidasspecialtysports.cz
+  - adidasspecialtysports.de
+  - adidasspecialtysports.dk
+  - adidasspecialtysports.es
+  - adidasspecialtysports.fi
+  - adidasspecialtysports.fr
+  - adidasspecialtysports.ie
+  - adidasspecialtysports.it
+  - adidasspecialtysports.nl
+  - adidasspecialtysports.pl
+  - adidasspecialtysports.ru
+  - adidasspecialtysports.se
+  - adidasspecialtysports.sk
+  - adidastabletennis.com
+  - adidasusnews.com
   - adinst.com
   - adlib.ac.uk
   - adls.ac.uk
@@ -2137,6 +2201,7 @@ domain_suffix_set:
   - area51.to
   - arewereadyyet.com
   - areyoucreditwise.com
+  - argo-bdp.com
   - argotunnel.com
   - argyllcollege.ac.uk
   - aria.ms
@@ -2787,6 +2852,7 @@ domain_suffix_set:
   - bandp.ac.uk
   - bandpcoll.ac.uk
   - banff-buchan.ac.uk
+  - bang-dream.com
   - bang-movies.com
   - bangbros.com
   - bangher.net
@@ -3216,6 +3282,7 @@ domain_suffix_set:
   - beejp.net
   - beep.ac.uk
   - bees.ac.uk
+  - beforeigners.com
   - befuck.com
   - befuck.net
   - begin-trade.com
@@ -4600,6 +4667,17 @@ domain_suffix_set:
   - burtonandsouthderbyshirecollege.ac.uk
   - buryacl.ac.uk
   - burycollege.ac.uk
+  - bushi-navi.com
+  - bushimo.jp
+  - bushiroad-creative.com
+  - bushiroad-global-online-store.com
+  - bushiroad-move.com
+  - bushiroad-music.com
+  - bushiroad-store.com
+  - bushiroad-works.com
+  - bushiroad.co.jp
+  - bushiroad.com
+  - bushiroadgames.com
   - business-i.jp
   - business-intelligence.ac.uk
   - businessaccess.ac.uk
@@ -5236,6 +5314,7 @@ domain_suffix_set:
   - cetl4musicne.ac.uk
   - ceug.ac.uk
   - cf-ipfs.com
+  - cf-vanguard.com
   - cf.ac.uk
   - cfake.com
   - cfargotunnel.com
@@ -5739,6 +5818,7 @@ domain_suffix_set:
   - coincarp.com
   - coincheck.com
   - coindesk.com
+  - coinglass.com
   - coinmap.org
   - coinone.co.kr
   - coinonecore.com
@@ -5809,7 +5889,9 @@ domain_suffix_set:
   - comfy.org
   - comfyci.org
   - comfyregistry.org
+  - comic-growl.com
   - comicbox.xyz
+  - comicbushi-web.com
   - comico.tw
   - comics.ac.uk
   - comicscartoonporn.com
@@ -6165,6 +6247,7 @@ domain_suffix_set:
   - cue.ac.uk
   - cuebic.biz
   - cuffiesaldi.com
+  - cuguplus.com
   - cuhop.ac.uk
   - cuinc.oen.tw
   - cuinc.tw
@@ -6188,6 +6271,7 @@ domain_suffix_set:
   - cumteenporn.com
   - cunhua.pics
   - cuniq.com
+  - cuniq.sg
   - cuntempire.com
   - cuntwars.com
   - cunw.ac.uk
@@ -6277,6 +6361,7 @@ domain_suffix_set:
   - d-trust.net
   - d-upp.com
   - d2mrry2to5rg.com
+  - d4dj-pj.com
   - da-files.com
   - da3dsoul.dev
   - daboja18.com
@@ -6375,6 +6460,9 @@ domain_suffix_set:
   - dazn-api.com
   - dazn.com
   - dazndn.com
+  - daznfeeds.com
+  - daznplayer.com
+  - daznservices.com
   - dba.dk
   - dca.ac.uk
   - dcard.cc
@@ -7211,6 +7299,7 @@ domain_suffix_set:
   - dreambmw.ca
   - dreamforce.com
   - dreammovies.com
+  - dreamorder.com
   - dreamteamfc.com
   - dreamtoplay.com
   - dreamworks.com
@@ -7909,6 +7998,7 @@ domain_suffix_set:
   - elog-ch.net
   - elp.ac.uk
   - elpadrote.com
+  - elpionero.es
   - elpornoamateur.com
   - elrah.ac.uk
   - elrc.ac.uk
@@ -8848,6 +8938,7 @@ domain_suffix_set:
   - fbthirdpartypixel.org
   - fburl.com
   - fbwat.ch
+  - fc-buddyfight.com
   - fc2ppv.tv
   - fca.ac.uk
   - fcacebook.com
@@ -9804,6 +9895,7 @@ domain_suffix_set:
   - geileomas.com
   - geinoueroch.com
   - geiriadur.ac.uk
+  - gekkan-bushi.com
   - gelbooru.me
   - gelbooru.wjcodes.com
   - gem.ac.uk
@@ -10745,20 +10837,53 @@ domain_suffix_set:
   - haywardsheath.ac.uk
   - hbabit.com
   - hbfile.net
+  - hbo-europe.com
+  - hbo.ba
+  - hbo.bg
   - hbo.com.c.footprint.net
+  - hbo.cz
+  - hbo.eu
+  - hbo.hr
+  - hbo.hu
+  - hbo.me
+  - hbo.mk
+  - hbo.pl
+  - hbo.ro
+  - hbo.rs
+  - hbo.sk
+  - hboaccess.com
+  - hboarchives.com
   - hboasia.com
+  - hboenterprises.com
+  - hboespana.com
   - hbogo.co.th
   - hbogo.com
+  - hbogo.cz
   - hbogo.eu
+  - hbogo.hu
+  - hbogo.sk
   - hbogoasia.com
   - hbogoasia.hk
   - hbogoasia.id
+  - hbogoasia.my
   - hbogoasia.ph
   - hbogoasia.sg
   - hbogoasia.tw
+  - hboinflight.com
+  - hbolacontent.net
+  - hbolaunchpad.com
+  - hbomailman.com
   - hbomax-images.warnermediacdn.com
+  - hbomax.eu
   - hbomaxcdn.com
+  - hbomediarelations.com
+  - hbonordic.com
+  - hbonordic.tv
   - hbonow.com
+  - hboportugal.com
+  - hboprod.com
+  - hbospain.com
+  - hbotvsales.com
   - hbox.jp
   - hbrowse.com
   - hbs.ac.uk
@@ -11132,6 +11257,7 @@ domain_suffix_set:
   - hhvm.com
   - hibank24.com
   - hibdontire.com
+  - hibiki-cast.jp
   - hiddenhistorieswwi.ac.uk
   - hiddenvoyeurspy.com
   - hiddify.com
@@ -11156,6 +11282,7 @@ domain_suffix_set:
   - highwirepress.com
   - higobank.co.jp
   - hihigv.com
+  - hikosen.co.jp
   - hilderstone.ac.uk
   - hillcroft.ac.uk
   - hillsroad.ac.uk
@@ -11249,6 +11376,8 @@ domain_suffix_set:
   - home-sex-tapes.com
   - home-song.com
   - homealonemilfs.com
+  - homebox.com
+  - homeboxoffice.com
   - homedepot-static.com
   - homefieldcollege.ac.uk
   - homefuckingmovies.com
@@ -15065,6 +15194,7 @@ domain_suffix_set:
   - mi.nakn.jp
   - mi9.com.au
   - mi9cdn.com
+  - miadidas.com
   - miamifintechfestival.com
   - miaomwu.com
   - miaopa.net
@@ -15075,6 +15205,7 @@ domain_suffix_set:
   - michinokubank.co.jp
   - mickey.tv
   - mickybells.com
+  - micoach.com
   - microbit.org
   - microbusiness.ac.uk
   - microgravity.ac.uk
@@ -15534,6 +15665,7 @@ domain_suffix_set:
   - mistral.ai
   - mistresskym.com
   - mit.net
+  - miteam.com
   - mitnaka.com
   - mitpressjournals.org
   - mixasiansex.com
@@ -16882,6 +17014,8 @@ domain_suffix_set:
   - niziero.info
   - njav.tv
   - njncscotlandscolleges.ac.uk
+  - njpw.co.jp
+  - njpw1972.com
   - nkc.ac.uk
   - nke6.com
   - nkw.ac.uk
@@ -18216,35 +18350,26 @@ domain_suffix_set:
   - pinkworld.com
   - pinterest.be
   - pinterest.ch
-  - pinterest.cl
   - pinterest.co
   - pinterest.co.at
   - pinterest.co.in
   - pinterest.co.nz
-  - pinterest.com.au
   - pinterest.com.bo
   - pinterest.com.ec
-  - pinterest.com.mx
   - pinterest.com.pe
   - pinterest.com.py
   - pinterest.com.uy
   - pinterest.com.vn
   - pinterest.ec
   - pinterest.engineering
-  - pinterest.es
   - pinterest.hu
   - pinterest.id
-  - pinterest.ie
   - pinterest.in
   - pinterest.info
-  - pinterest.it
   - pinterest.kr
   - pinterest.mx
   - pinterest.net
-  - pinterest.nz
   - pinterest.pe
-  - pinterest.ph
-  - pinterest.pt
   - pinterest.ru
   - pinterest.th
   - pinterest.tw
@@ -19455,6 +19580,7 @@ domain_suffix_set:
   - reastatic.net
   - reaxys.com
   - rebates.jp
+  - rebirth-fy.com
   - rebrandly.com
   - rebuildingmacroeconomics.ac.uk
   - recaptcha-cn.net
@@ -19475,6 +19601,7 @@ domain_suffix_set:
   - redbridge-iae.ac.uk
   - redbridge.ac.uk
   - redbridgeinstitute.ac.uk
+  - redbyhbo.com
   - redcar.ac.uk
   - redcliffe.ac.uk
   - reddit.app.link
@@ -19603,6 +19730,7 @@ domain_suffix_set:
   - revitcc.com
   - revitsucks.net
   - revolv.com
+  - revuestarlight.com
   - rewind.ac.uk
   - rewrite-anime.tv
   - rexcha.com
@@ -20575,6 +20703,7 @@ domain_suffix_set:
   - shadowcomplex.com
   - shadowslaves.com
   - shadowsocks.nl
+  - shadowverse-evolve.com
   - shahr-bank.ir
   - shahvani.com
   - shahvani.site
@@ -20671,6 +20800,8 @@ domain_suffix_set:
   - shootershill.ac.uk
   - shop-headphones.net
   - shop.app
+  - shopadidas.ca
+  - shopadidas.com
   - shopalienware.com
   - shopbeatsdre.com
   - shopbmwmotorcycles.com
@@ -24717,6 +24848,8 @@ domain_suffix_set:
   - wrocah.ac.uk
   - wroxton-college.ac.uk
   - wrssdtp.ac.uk
+  - ws-blau.com
+  - ws-tcg.com
   - wsc.ac.uk
   - wscinternational.ac.uk
   - wsfc.ac.uk
@@ -24748,6 +24881,7 @@ domain_suffix_set:
   - wwapple.net
   - wwe9.com
   - wwmpcrn.ac.uk
+  - wwr-stardom.com
   - wwtbam.com
   - www-bestbuystores.com
   - www-facebook.com
@@ -30126,6 +30260,7 @@ domain_suffix_set:
   - pdetails.com
   - pdfexpert.com
   - pdproxy.com
+  - pdst.fm
   - peace.ca
   - peacefire.org
   - peacehall.com
@@ -30194,14 +30329,23 @@ domain_suffix_set:
   - pinoy-n.com
   - pinterest.at
   - pinterest.ca
+  - pinterest.cl
   - pinterest.co.kr
   - pinterest.co.uk
   - pinterest.com
+  - pinterest.com.au
+  - pinterest.com.mx
   - pinterest.de
   - pinterest.dk
+  - pinterest.es
   - pinterest.fr
+  - pinterest.ie
+  - pinterest.it
   - pinterest.jp
   - pinterest.nl
+  - pinterest.nz
+  - pinterest.ph
+  - pinterest.pt
   - pinterest.se
   - pipii.tv
   - piposay.com
@@ -31735,6 +31879,7 @@ domain_suffix_set:
   - untraceable.us
   - unwire.hk
   - uocn.org
+  - up.audio
   - upbit.com
   - updatestar.com
   - upghsbc.com
