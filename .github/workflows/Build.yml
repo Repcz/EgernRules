@@ -13,7 +13,7 @@ jobs:
     
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4.2.2
+      uses: actions/checkout@v6.0.3
   
     # 拉取文件
     - name: Clone
