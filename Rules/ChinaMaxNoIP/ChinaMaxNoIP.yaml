@@ -1,10 +1,10 @@
 domain_suffix_set:
-  - alibaba
-  - tmall
   - cn
   - ms
+  - alibaba
   - citic
   - sohu
+  - tmall
   - unicom
   - wang
   - xn--1qqw23a
