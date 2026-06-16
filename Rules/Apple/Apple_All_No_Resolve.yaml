@@ -1466,6 +1466,7 @@ domain_suffix_set:
   - wwwipodlounge.com
   - wwwmacbookair.com
   - apple.comscoreresearch.com
+  - apple.news
   - appleenews.com
   - applemusic.berlin
   - applemusic.co
@@ -1503,7 +1504,6 @@ domain_suffix_set:
   - musickit.net
   - wwwapplemusic.com
   - apple-dns.net
-  - apple.news
   - appsto.re
   - digicert.com
   - apple-cloudkit.com
