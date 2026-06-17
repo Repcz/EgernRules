@@ -1,130 +1,249 @@
+# =============================================================================
+# Egern 规则集自动构建工作流
+# 每天 UTC 0:30 自动运行，从 blackmatrix7/ios_rule_script 下载规则
+# 并自动转换为 Egern 兼容格式
+# =============================================================================
 name: Build
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "30 0 * * *"
-  
+
+# 防止并发冲突
+concurrency:
+  group: build-egern-rules
+  cancel-in-progress: false
+
+# 需要写权限用于推送变更，actions 权限用于清理历史运行记录
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   Build:
     runs-on: ubuntu-latest
     env:
-      TZ: 'Asia/Shanghai'
-    
+      TZ: "Asia/Shanghai"
+
     steps:
+    # =========================================================================
+    # Step 1: 检出仓库
+    # =========================================================================
     - name: Checkout Repository
-      uses: actions/checkout@v6.0.3
-  
-    # 拉取文件
-    - name: Clone
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+
+    # =========================================================================
+    # Step 2: 下载上游规则源（blackmatrix7/ios_rule_script）
+    # =========================================================================
+    - name: Clone Upstream Rules
       run: |
+        set -euo pipefail
         rm -rf Rules/*
         mkdir -p Rules
-        git clone https://github.com/blackmatrix7/ios_rule_script.git BM7_Tmp
-        cp -r BM7_Tmp/rule/Surge/* Rules
-        rm -rf BM7_Tmp   
+        git clone --depth 1 https://github.com/blackmatrix7/ios_rule_script.git BM7_Tmp
+        cp -r BM7_Tmp/rule/Surge/* Rules/
+        rm -rf BM7_Tmp
 
-    - name: Rename
+    # =========================================================================
+    # Step 3: 重命名 .list → .yaml（Egern 使用 YAML 格式）
+    # =========================================================================
+    - name: Rename .list to .yaml
       run: |
+        set -euo pipefail
         cd Rules
         find . -type f -name '*.list' -exec sh -c 'mv "$1" "${1%.list}.yaml"' sh {} \;
 
-    # 适配 egern 规则 
-    - name: Edit
+    # =========================================================================
+    # Step 4: 源文件标准化（清理、排序、去重）
+    # =========================================================================
+    - name: Normalize Rules
       run: |
+        set -euo pipefail
         cd Rules
         find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
-          if [ -f "$file" ]; then
-            sed -i -e '/^USER-AGENT/d' "$file"
-            sed -i -e '/^PROCESS-NAME/d' "$file"
-            sed -i -e '/^DEST-PORT/d' "$file"
-            sed -i -e '/^AND/d' "$file"
-            sed -i -e '/^OR/d' "$file"
-            sed -i -e '/^NOT/d' "$file"
-            sed -i -e '/^\s*[#;]/d' -e '/^$/d' -e 's| //.*||'  "$file"
-            awk '/^DOMAIN,/ && !added {print "domain_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^DOMAIN-SUFFIX,/ && !added {print "domain_suffix_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^DOMAIN-KEYWORD,/ && !added {print "domain_keyword_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^IP-CIDR,/ && !added {print "ip_cidr_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^IP-CIDR6,/ && !added {print "ip_cidr6_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^IP-ASN,/ && !added {print "asn_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^URL-REGEX,/ && !added {print "url_regex_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-            awk '/^GEOIP,/ && !added {print "geoip_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
-          else
-            echo "$file not found."
+          if [ ! -f "$file" ]; then
+            echo "⚠ Skipping $file (not found)"
+            continue
           fi
+
+          # --- 清理阶段 ---
+          # 删除 Egern 不支持的规则类型
+          # USER-AGENT 保留 → Egern 支持 user_agent_set（官方文档）
+          sed -i \
+            -e '/^PROCESS-NAME/d' \
+            -e '/^AND/d' \
+            -e '/^OR/d' \
+            -e '/^NOT/d' \
+            "$file"
+
+          # 删除注释行、空行、行内注释
+          sed -i -e '/^\s*[#;]/d' -e '/^$/d' -e 's| //.*||' "$file"
+
+          # --- 排序与去重（按规则类型分组，组内字母序） ---
+          awk '
+          /^DOMAIN,/         { print "00 " $0; next }
+          /^DOMAIN-SUFFIX,/  { print "01 " $0; next }
+          /^DOMAIN-KEYWORD,/ { print "02 " $0; next }
+          /^DOMAIN-WILDCARD,/{ print "03 " $0; next }
+          /^IP-CIDR6,/       { print "04 " $0; next }
+          /^IP-CIDR,/        { print "05 " $0; next }
+          /^IP-ASN,/         { print "06 " $0; next }
+          /^URL-REGEX,/      { print "07 " $0; next }
+          /^USER-AGENT,/     { print "08 " $0; next }
+          /^DEST-PORT,/      { print "09 " $0; next }
+          /^GEOIP,/          { print "10 " $0; next }
+                             { print "99 " $0; next }
+          ' "$file" | sort -k1,1n -k2,2 | cut -d' ' -f2- > "${file}.sorted" && mv "${file}.sorted" "$file"
+
+          # 大小写不敏感去重
+          awk '!seen[tolower($0)]++' "$file" > "${file}.uniq" && mv "${file}.uniq" "$file"
         done
 
-    - name: Add no_resolve
+    # =========================================================================
+    # Step 5: 转换为 Egern YAML 格式
+    # =========================================================================
+    - name: Convert to Egern YAML
       run: |
+        set -euo pipefail
         cd Rules
         find . -type f -name '*.yaml' -print0 | while IFS= read -r -d $'\0' file; do
-          if [ -f "$file" ]; then
-            if grep -qE '^IP-(ASN|CIDR|CIDR6).*no-resolve$' "$file"; then
-            sed -i '0,/^[^#]/s/^[^#]/no_resolve: true\n&/' "$file"
-            fi
-            sed -i -E 's/^(URL-REGEX,)([^,]+)$/\1"\2"/' "$file"
-            sed -i -E 's/^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|IP-CIDR|IP-CIDR6|IP-ASN|URL-REGEX|GEOIP),/  - /g' "$file"
-            sed -i 's/,no-resolve//g' "$file"
-          else
-            echo "$file not found."
+          if [ ! -f "$file" ]; then
+            echo "⚠ Skipping $file (not found)"
+            continue
           fi
+
+          # --- 判断是否需要 no_resolve ---
+          if grep -qE '^IP-(ASN|CIDR|CIDR6),.*no-resolve' "$file"; then
+            # 在文件开头插入 no_resolve（后续 awk 会正确处理位置）
+            has_no_resolve=true
+          else
+            has_no_resolve=false
+          fi
+
+          # --- 插入 YAML 键名（在每个规则类型首次出现前） ---
+          awk 'BEGIN{added=0} /^DOMAIN,/          && !added {print "domain_set:";         added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^DOMAIN-SUFFIX,/   && !added {print "domain_suffix_set:";  added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^DOMAIN-KEYWORD,/  && !added {print "domain_keyword_set:"; added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^DOMAIN-WILDCARD,/ && !added {print "domain_wildcard_set:";added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^IP-CIDR,/         && !added {print "ip_cidr_set:";        added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^IP-CIDR6,/        && !added {print "ip_cidr6_set:";       added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^IP-ASN,/          && !added {print "asn_set:";            added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^URL-REGEX,/       && !added {print "url_regex_set:";      added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^USER-AGENT,/      && !added {print "user_agent_set:";     added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^DEST-PORT,/       && !added {print "dest_port_set:";      added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+          awk 'BEGIN{added=0} /^GEOIP,/           && !added {print "geoip_set:";           added=1} {print}' "$file" > tmpfile && mv tmpfile "$file"
+
+          # --- 格式转换 ---
+          # 规则类型前缀 → YAML 列表项格式
+          # 注意: 以下类型需单独处理以确保值被引号包裹（官方文档要求）
+          # - URL-REGEX: 含正则特殊字符
+          # - USER-AGENT: 含 glob 通配符 *
+          # - IP-ASN: 值可能包含 "AS" 前缀
+          # - DEST-PORT: 值可能包含逗号分隔多个端口
+          sed -i -E 's/^URL-REGEX,"?(.+)"?$/  - "\1"/' "$file"
+          sed -i -E 's/^USER-AGENT,(.+)$/  - "\1"/' "$file"
+          sed -i -E 's/^IP-ASN,(.+)$/  - "\1"/' "$file"
+          sed -i -E 's/^DEST-PORT,(.+)$/  - "\1"/' "$file"
+          sed -i -E 's/^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|DOMAIN-WILDCARD|IP-CIDR|IP-CIDR6|GEOIP),/  - /g' "$file"
+
+          # 移除 no-resolve 后缀
+          sed -i 's/,no-resolve//g' "$file"
+
+          # --- 插入 no_resolve（如果存在 IP 规则带 no-resolve） ---
+          if [ "$has_no_resolve" = true ]; then
+            # 检查是否已存在 no_resolve 行
+            if ! head -1 "$file" | grep -q '^no_resolve:'; then
+              sed -i '1i\no_resolve: true' "$file"
+            fi
+          fi
+
+          # --- 添加元数据注释头 ---
+          file_name=$(basename "$file" .yaml)
+          rule_count=$(grep -c '^  - ' "$file")
+          {
+            echo "# 规则名称: ${file_name}"
+            echo "# 规则统计: ${rule_count}"
+            echo ""
+            cat "$file"
+          } > "${file}.header" && mv "${file}.header" "$file"
         done
-  
-    - name: Edit README
+
+    # =========================================================================
+    # Step 6: 处理特殊规则（如 CGB 等上游已删除/不可用的规则）
+    # =========================================================================
+    - name: Handle Special Rules
       run: |
+        set -euo pipefail
+        # CGB: 上游已删除，标记为不可用
+        if [ -f "Rules/CGB/CGB.yaml" ]; then
+          echo "no_resolve: true" > "Rules/CGB/CGB.yaml"
+          echo "domain_set:" >> "Rules/CGB/CGB.yaml"
+          echo "  - FUCK-CGB" >> "Rules/CGB/CGB.yaml"
+          echo "✅ Marked CGB as unavailable"
+        fi
+
+    # =========================================================================
+    # Step 7: 转换 README 文件（适配 Egern 格式说明）
+    # =========================================================================
+    - name: Convert README Files
+      run: |
+        set -euo pipefail
         cd Rules
         find . -type f -name 'README.md' -print0 | while IFS= read -r -d $'\0' readme; do
-          if [ -f "$readme" ]; then
-            # 删除和替换指定的字符串
-            sed -i -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
-                   -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
-                   -e '/\(不定时更新\)/d' \
-                   -e '/blackmatrix7\/ios_rule_script\/release\/rule\/Surge/d' \
-                   -e '/https:\/\/cdn.jsdelivr.net/d' \
-                   -e '/https:\/\/ghproxy.com/d' \
-                   -e 's|MASTER分支|X分支|g' \
-                   -e 's|## Surge|## Egern|g' \
-                   -e 's|blackmatrix7/ios_rule_script/master/rule/Surge|Repcz/EgernRules/X/Rules|g' \
-                   -e 's|github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge|github.com/Repcz/EgernRules/tree/X/Rules|g' \
-                   -e 's|HOST|DOMAIN|g' \
-                   -e 's|IP6-CIDR|IP-CIDR6|g' \
-                   -e 's|USER-AGENT|USER-AGENT(Egern不支持)|g' \
-                   -e 's|TOTAL|TOTAL(仅供参考)|g' \
-                   -e 's|Surge定制化规则|Egern定制化规则|g' \
-                   -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
-                   -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
-                   "$readme"
-          else
-            echo "$readme not found."
+          if [ ! -f "$readme" ]; then
+            echo "⚠ Skipping $readme (not found)"
+            continue
           fi
+
+          # 删除上游 CDN / 镜像链接
+          sed -i \
+            -e '/\*\*MASTER分支 CDN (每日更新)\*\*/d' \
+            -e '/\*\*MASTER分支 GHProxy (每日更新)\*\*/d' \
+            -e '/不定时更新/d' \
+            -e '/blackmatrix7\/ios_rule_script\/release\/rule\/Surge/d' \
+            -e '/cdn\.jsdelivr\.net/d' \
+            -e '/ghproxy\.com/d' \
+            "$readme"
+
+          # 替换关键文本
+          sed -i \
+            -e 's|MASTER分支|X分支|g' \
+            -e 's|## Surge|## Egern|g' \
+            -e 's|blackmatrix7/ios_rule_script/master/rule/Surge|Repcz/EgernRules/X/Rules|g' \
+            -e 's|github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge|github.com/Repcz/EgernRules/tree/X/Rules|g' \
+            -e 's|HOST|DOMAIN|g' \
+            -e 's|IP6-CIDR|IP-CIDR6|g' \
+            -e 's|TOTAL|TOTAL(仅供参考)|g' \
+            -e 's|Surge定制化规则|Egern定制化规则|g' \
+            -e 's|Repcz/EgernRules/X/Rules/\(.*\)\.list|Repcz/EgernRules/X/Rules/\1.yaml|g' \
+            -e 's|-\([[:space:]]*\)\([A-Za-z0-9_]*\)\.list|-\1\2.yaml|' \
+            "$readme"
         done
 
-    - name: FUCK CGB
+    # =========================================================================
+    # Step 8: 提交并推送变更
+    # =========================================================================
+    - name: Commit and Push
       run: |
-        cd Rules/CGB
-        find . -type f -name 'CGB.yaml' -print0 | while IFS= read -r -d $'\0' CGB; do
-          if [ -f "$CGB" ]; then
-            # 清空文件内容并写入 "FUCK CGB"
-            echo " - FUCKCGB" > "$CGB"
-          else
-            echo "$CGB not found."
-          fi
-        done
-
-    - name: Add and Commits
-      run: |
+        set -euo pipefail
         if [[ -n $(git status -s) ]]; then
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
           git add -A
-          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
-          git push
+          TIMESTAMP="$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "update(rules): ${TIMESTAMP}"
+          git push origin "${{ github.ref_name }}"
         else
           echo "No changes to commit."
         fi
 
-    - name: Cleanup Workflow
+    # =========================================================================
+    # Step 9: 清理历史 Workflow 运行记录，仅保留最近 2 次
+    # =========================================================================
+    - name: Cleanup Workflow Runs
       uses: Mattraks/delete-workflow-runs@main
       with:
         retain_days: 0
