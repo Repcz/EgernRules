@@ -20,7 +20,7 @@
 | DOMAIN-SUFFIX | 369  | 
 | IP-CIDR | 1  | 
 | PROCESS-NAME | 1  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 372  | 
 
 

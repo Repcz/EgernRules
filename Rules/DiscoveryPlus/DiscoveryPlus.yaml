@@ -1,3 +1,6 @@
+# 规则名称: DiscoveryPlus
+# 规则统计: 17
+
 domain_set:
   - discovery-us.conax.cloud
   - dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
@@ -16,3 +19,6 @@ domain_suffix_set:
   - uplynk.com
 domain_keyword_set:
   - discovery.uplynk.com
+user_agent_set:
+  - "DPlus*"
+  - "discovery+*"

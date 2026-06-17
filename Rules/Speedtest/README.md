@@ -19,7 +19,7 @@ Speedtest规则由《RULE GENERATOR 规则生成器》自动生成。
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 4  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 6  | 
 
 

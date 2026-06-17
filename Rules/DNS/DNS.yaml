@@ -1,3 +1,6 @@
+# 规则名称: DNS
+# 规则统计: 119
+
 no_resolve: true
 domain_set:
   - 1dot1dot1dot1.cloudflare-dns.com

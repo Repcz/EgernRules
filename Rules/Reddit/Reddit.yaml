@@ -1,3 +1,6 @@
+# 规则名称: Reddit
+# 规则统计: 8
+
 domain_suffix_set:
   - redd.it
   - reddit.com

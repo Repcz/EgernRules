@@ -18,7 +18,7 @@ Overcast规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 1  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 2  | 
 
 

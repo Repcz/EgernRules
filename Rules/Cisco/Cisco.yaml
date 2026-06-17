@@ -1,3 +1,6 @@
+# 规则名称: Cisco
+# 规则统计: 118
+
 domain_suffix_set:
   - academynetriders.com
   - app-dynamics.com

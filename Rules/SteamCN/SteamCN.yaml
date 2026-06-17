@@ -1,3 +1,6 @@
+# 规则名称: SteamCN
+# 规则统计: 17
+
 domain_set:
   - csgo.wmsj.cn
   - dl.steam.clngaa.com

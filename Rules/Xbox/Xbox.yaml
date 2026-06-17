@@ -1,3 +1,6 @@
+# 规则名称: Xbox
+# 规则统计: 42
+
 domain_set:
   - img-prod-cms-rt-microsoft-com.akamaized.net
   - login.live.com

@@ -1,3 +1,6 @@
+# 规则名称: Steam
+# 规则统计: 54
+
 domain_suffix_set:
   - cdn-ali.content.steamchina.com
   - cdn-qc.content.steamchina.com

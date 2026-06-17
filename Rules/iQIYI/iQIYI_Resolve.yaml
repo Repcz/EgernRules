@@ -1,3 +1,6 @@
+# 规则名称: iQIYI_Resolve
+# 规则统计: 60
+
 domain_suffix_set:
   - 71.am
   - 71.am.com
@@ -57,3 +60,8 @@ ip_cidr_set:
   - 23.40.241.251/32
   - 23.40.242.10/32
   - 23.53.32.88/32
+user_agent_set:
+  - "PPStream*"
+  - "QIYI*"
+  - "QYPlayer*"
+  - "iQIYI*"

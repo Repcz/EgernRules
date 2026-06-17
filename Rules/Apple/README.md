@@ -23,7 +23,7 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 10  | 
 | IP-CIDR6 | 3  | 
 | PROCESS-NAME | 13  | 
-| USER-AGENT(Egern不支持) | 23  | 
+| USER-AGENT | 23  | 
 | TOTAL(仅供参考) | 1616  | 
 
 

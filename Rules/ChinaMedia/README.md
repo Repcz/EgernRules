@@ -23,7 +23,7 @@ ChinaMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 55  | 
 | IP-CIDR6 | 29  | 
 | PROCESS-NAME | 6  | 
-| USER-AGENT(Egern不支持) | 35  | 
+| USER-AGENT | 35  | 
 | TOTAL(仅供参考) | 446  | 
 
 

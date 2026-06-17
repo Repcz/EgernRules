@@ -24,7 +24,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8232  | 
 | IP-CIDR6 | 4135  | 
 | PROCESS-NAME | 12  | 
-| USER-AGENT(Egern不支持) | 65  | 
+| USER-AGENT | 65  | 
 | TOTAL(仅供参考) | 124844  | 
 
 

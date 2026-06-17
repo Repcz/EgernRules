@@ -1,3 +1,6 @@
+# 规则名称: AdGuardSDNSFilter_All_No_Resolve
+# 规则统计: 109050
+
 domain_set:
   - 103.224.182.210
   - 109.123.233.251

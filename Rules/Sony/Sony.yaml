@@ -1,3 +1,6 @@
+# 规则名称: Sony
+# 规则统计: 116
+
 domain_set:
   - sonyliveevents-nonssai.akamaized.net
 domain_suffix_set:

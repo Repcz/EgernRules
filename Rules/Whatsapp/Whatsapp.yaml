@@ -1,3 +1,6 @@
+# 规则名称: Whatsapp
+# 规则统计: 17
+
 no_resolve: true
 domain_set:
   - graph.facebook.com

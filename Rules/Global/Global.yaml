@@ -1,20 +1,16 @@
+# 规则名称: Global
+# 规则统计: 198
+
 no_resolve: true
 domain_keyword_set:
-  - amazon
-  - avoddashs
-  - bbcfmt
-  - jav
-  - musical.ly
-  - pinterest
-  - tiktok
-  - twimg
-  - voddazn
-  - wikileaks
   - 1drv
   - 1e100
   - abema
+  - amazon
   - appledaily
+  - avoddashs
   - avtb
+  - bbcfmt
   - beetalk
   - blogspot
   - dlercloud
@@ -24,18 +20,30 @@ domain_keyword_set:
   - gmail
   - google
   - instagram
+  - jav
+  - musical.ly
   - onedrive
   - paypal
+  - pinterest
   - porn
   - sci-hub
   - skydrive
   - spotify
   - telegram
+  - tiktok
   - ttvnw
+  - twimg
   - twitter
   - uk-live
+  - voddazn
   - whatsapp
+  - wikileaks
   - youtube
+ip_cidr6_set:
+  - 2001:67c:4e8::/48
+  - 2001:b28:f23c::/47
+  - 2001:b28:f23f::/48
+  - 2a0a:f280::/32
 ip_cidr_set:
   - 1.201.0.0/24
   - 101.32.118.0/23
@@ -149,8 +157,50 @@ ip_cidr_set:
   - 75.126.0.0/16
   - 91.105.192.0/23
   - 91.108.0.0/16
-ip_cidr6_set:
-  - 2001:67c:4e8::/48
-  - 2001:b28:f23c::/47
-  - 2001:b28:f23f::/48
-  - 2a0a:f280::/32
+user_agent_set:
+  - "AbemaTV*"
+  - "All4*"
+  - "Anime*"
+  - "Argo*"
+  - "BBCiPlayer*"
+  - "DAZN*"
+  - "Deezer*"
+  - "Disney+*"
+  - "Duolingo*"
+  - "FOX%20NOW*"
+  - "HBO%20GO%20PROD%20HKG*"
+  - "HBO%20NOW*"
+  - "HWTVMobile*"
+  - "ITV_Player*"
+  - "InstantVideo.US*"
+  - "JOOX*"
+  - "KKTV*"
+  - "LINE%20TV*"
+  - "My5*"
+  - "Niconico*"
+  - "OneDrive*"
+  - "PBS*"
+  - "Pandora*"
+  - "PayPal*"
+  - "Prime%20Video*"
+  - "Roam*"
+  - "SoundCloud*"
+  - "Spotify*"
+  - "TIDAL*"
+  - "TaiwanGood*"
+  - "TikTok*"
+  - "TwDramas"
+  - "Viu*"
+  - "ViuTV*"
+  - "WeMusic*"
+  - "WhatsApp*"
+  - "YouTube*"
+  - "YouTubeMusic*"
+  - "battleroyale*"
+  - "com.apple.trustd*"
+  - "com.google.ios.youtube*"
+  - "com.google.ios.youtubemusic*"
+  - "com.kktv.ios.kktv*"
+  - "encoreTVB*"
+  - "hearthstone*"
+  - "mytv*"

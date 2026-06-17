@@ -1,3 +1,6 @@
+# 规则名称: VISA
+# 规则统计: 99
+
 domain_suffix_set:
   - visa.be
   - visa.ca

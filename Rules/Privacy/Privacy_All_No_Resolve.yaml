@@ -1,3 +1,6 @@
+# 规则名称: Privacy_All_No_Resolve
+# 规则统计: 39936
+
 no_resolve: true
 domain_set:
   - hmma.baidu.com

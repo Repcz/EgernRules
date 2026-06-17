@@ -1,3 +1,6 @@
+# 规则名称: CNKI
+# 规则统计: 17
+
 domain_suffix_set:
   - bbf.org.cn
   - bjsbnet.com

@@ -1,3 +1,8 @@
+# 规则名称: Pandora
+# 规则统计: 3
+
 domain_suffix_set:
   - p-cdn.us
   - pandora.com
+user_agent_set:
+  - "Pandora*"

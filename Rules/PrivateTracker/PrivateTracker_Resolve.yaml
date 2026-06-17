@@ -1,3 +1,6 @@
+# 规则名称: PrivateTracker_Resolve
+# 规则统计: 248
+
 domain_set:
   - 004430.xyz
   - 021912.xyz

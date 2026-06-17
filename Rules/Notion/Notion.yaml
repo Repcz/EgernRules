@@ -1,3 +1,6 @@
+# 规则名称: Notion
+# 规则统计: 6
+
 domain_set:
   - http-inputs-notion.splunkcloud.com
 domain_suffix_set:

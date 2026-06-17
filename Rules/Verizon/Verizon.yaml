@@ -1,3 +1,6 @@
+# 规则名称: Verizon
+# 规则统计: 183
+
 domain_suffix_set:
   - advertising.com
   - aol.co.uk

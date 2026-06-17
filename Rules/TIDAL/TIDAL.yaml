@@ -1,5 +1,11 @@
+# 规则名称: TIDAL
+# 规则统计: 6
+
 domain_suffix_set:
   - tidal-cms.s3.amazonaws.com
   - tidal.com
   - tidalhifi.com
   - wimpmusic.com
+user_agent_set:
+  - "TIDAL*"
+  - "TIDAL*dia"

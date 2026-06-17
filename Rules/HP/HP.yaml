@@ -1,3 +1,6 @@
+# 规则名称: HP
+# 规则统计: 4
+
 domain_suffix_set:
   - hp.com
   - hpstore-china.com

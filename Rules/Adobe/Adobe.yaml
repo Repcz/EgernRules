@@ -1,3 +1,6 @@
+# 规则名称: Adobe
+# 规则统计: 137
+
 domain_set:
   - cc-ext-prod-pkgs.s3.amazonaws.com
 domain_suffix_set:

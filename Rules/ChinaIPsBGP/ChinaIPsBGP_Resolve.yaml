@@ -1,3 +1,6 @@
+# 规则名称: ChinaIPsBGP_Resolve
+# 规则统计: 3916
+
 ip_cidr_set:
   - 1.1.8.0/24
   - 1.116.0.0/15

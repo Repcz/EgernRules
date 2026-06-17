@@ -1,3 +1,6 @@
+# 规则名称: AsianMedia_Resolve
+# 规则统计: 31
+
 domain_set:
   - akmcdnoversea-tw.inter.iqiyi.com
   - akmcdnoversea-tw.inter.ptqy.gitv.tv

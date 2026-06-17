@@ -1,3 +1,6 @@
+# 规则名称: TencentVideo_Resolve
+# 规则统计: 51
+
 domain_set:
   - 00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
   - 17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
@@ -19,10 +22,6 @@ domain_suffix_set:
   - v.qq.com
   - v.smtcdns.com
   - video.qq.com
-ip_cidr_set:
-  - 58.49.111.117/32
-  - 58.49.111.79/32
-  - 58.49.111.95/32
 ip_cidr6_set:
   - ::ffff:113.248.172.245/128
   - ::ffff:114.235.96.186/128
@@ -53,3 +52,7 @@ ip_cidr6_set:
   - ::ffff:60.171.183.161/128
   - ::ffff:60.171.183.186/128
   - ::ffff:60.171.183.98/128
+ip_cidr_set:
+  - 58.49.111.117/32
+  - 58.49.111.79/32
+  - 58.49.111.95/32

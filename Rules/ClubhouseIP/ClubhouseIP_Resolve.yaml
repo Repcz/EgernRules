@@ -1,3 +1,6 @@
+# 规则名称: ClubhouseIP_Resolve
+# 规则统计: 88
+
 domain_set:
   - ap-oversea-tls.agora.io
   - ap-oversea.agora.io

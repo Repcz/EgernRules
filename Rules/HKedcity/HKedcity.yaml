@@ -1,3 +1,6 @@
+# 规则名称: HKedcity
+# 规则统计: 3
+
 domain_suffix_set:
   - edcity.hk
   - hkedcity.net

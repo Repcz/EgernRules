@@ -1,4 +1,9 @@
+# 规则名称: FOXNOW
+# 规则统计: 4
+
 domain_suffix_set:
   - fox.com
   - foxdcg.com
   - uplynk.com
+user_agent_set:
+  - "FOX%20NOW*"

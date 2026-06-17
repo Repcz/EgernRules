@@ -1,11 +1,14 @@
+# 规则名称: ChinaMax_No_IPv6_Resolve
+# 规则统计: 8351
+
 domain_suffix_set:
-  - cn
-  - ms
   - alibaba
   - alipay
   - baidu
   - citic
+  - cn
   - icbc
+  - ms
   - sohu
   - taobao
   - tmall
@@ -50,13 +53,13 @@ domain_keyword_set:
   - aliyun
   - baidu
   - beplay
-  - officecdn
-  - taobao
   - bilibili
   - hnagroup
-  - stripe
-  - weibo
+  - officecdn
   - qiyi
+  - stripe
+  - taobao
+  - weibo
 ip_cidr_set:
   - 0.0.0.0/32
   - 1.0.1.0/24
@@ -8291,4 +8294,66 @@ ip_cidr_set:
   - 99.77.241.0/24
   - 99.83.96.0/24
 asn_set:
-  - 132203
+  - "132203"
+user_agent_set:
+  - "%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*"
+  - "%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*"
+  - "%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*"
+  - "%E4%BC%98%E9%85%B7*"
+  - "%E5%8D%B3%E5%88%BB*"
+  - "%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91"
+  - "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90"
+  - "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*"
+  - "%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*"
+  - "*QIYI*"
+  - "*Vainglory*"
+  - "*bili*"
+  - "AcFun*"
+  - "AdBlock*"
+  - "Best%20Trace*"
+  - "Bilibili*"
+  - "DomesticMedia*"
+  - "Himalaya*"
+  - "MGTV*"
+  - "MOO%E9%9F%B3%E4%B9%90*"
+  - "MOO*"
+  - "MegaWerewolf*"
+  - "MicroMessenger%20Client"
+  - "MicroMessenger*"
+  - "MicroMessengerClient*"
+  - "Microsoft*"
+  - "MiguVideo*"
+  - "Moke*"
+  - "NeteaseMusic*"
+  - "PPStream*"
+  - "QIYI*"
+  - "QQ%E9%9F%B3%E4%B9%90"
+  - "QQ%e9%9f%b3%e4%b9%90*"
+  - "QQ*"
+  - "QQMusic*"
+  - "QYPlayer*"
+  - "RemotePlay*"
+  - "TIM*"
+  - "TeamViewer*"
+  - "TencentMidasConnect*"
+  - "TikTok*"
+  - "WeChat*"
+  - "WebTorrent*"
+  - "YYeTs*"
+  - "Youku*"
+  - "arrowio*"
+  - "baiduyinyue"
+  - "balls*"
+  - "bili*"
+  - "bili-inter*"
+  - "cmb*"
+  - "cmblife*"
+  - "eusoft_ting_en_iphone"
+  - "hearthstone*"
+  - "hide*"
+  - "iQIYI*"
+  - "live4iphone*"
+  - "qqlive4iphone*"
+  - "ting_en"
+  - "walkman*"
+  - "xiami*"

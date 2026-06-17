@@ -1,3 +1,6 @@
+# 规则名称: DNS_Resolve
+# 规则统计: 119
+
 domain_set:
   - 1dot1dot1dot1.cloudflare-dns.com
   - 8888.google

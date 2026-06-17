@@ -1,3 +1,6 @@
+# 规则名称: iQIYI
+# 规则统计: 60
+
 no_resolve: true
 domain_suffix_set:
   - 71.am
@@ -58,3 +61,8 @@ ip_cidr_set:
   - 23.40.241.251/32
   - 23.40.242.10/32
   - 23.53.32.88/32
+user_agent_set:
+  - "PPStream*"
+  - "QIYI*"
+  - "QYPlayer*"
+  - "iQIYI*"

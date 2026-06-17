@@ -1,4 +1,9 @@
+# 规则名称: TaiWanGood
+# 规则统计: 3
+
 domain_set:
   - hamifans.emome.net
 domain_suffix_set:
   - skyking.com.tw
+user_agent_set:
+  - "TaiwanGood*"

@@ -1,3 +1,6 @@
+# 规则名称: GameDownload
+# 规则统计: 39
+
 domain_set:
   - assets1.xboxlive.com
   - assets2.xboxlive.com

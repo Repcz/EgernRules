@@ -1,3 +1,6 @@
+# 规则名称: AMP
+# 规则统计: 5
+
 domain_set:
   - amp.akamaized.net
 domain_suffix_set:

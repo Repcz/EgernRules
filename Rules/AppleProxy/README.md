@@ -20,7 +20,7 @@ AppleProxy规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 27  | 
 | DOMAIN-SUFFIX | 12  | 
 | PROCESS-NAME | 1  | 
-| USER-AGENT(Egern不支持) | 5  | 
+| USER-AGENT | 5  | 
 | TOTAL(仅供参考) | 45  | 
 
 

@@ -1,3 +1,6 @@
+# 规则名称: Whatsapp_Resolve
+# 规则统计: 17
+
 domain_set:
   - graph.facebook.com
 domain_suffix_set:

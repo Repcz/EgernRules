@@ -1,3 +1,6 @@
+# 规则名称: Verisign
+# 规则统计: 33
+
 domain_suffix_set:
   - verisign.asia
   - verisign.biz

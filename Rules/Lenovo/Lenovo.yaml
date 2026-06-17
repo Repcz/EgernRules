@@ -1,3 +1,6 @@
+# 规则名称: Lenovo
+# 规则统计: 32
+
 domain_suffix_set:
   - blurdev.com
   - cftsupport.com

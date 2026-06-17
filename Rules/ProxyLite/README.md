@@ -25,7 +25,7 @@ ProxyLite规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 843  | 
 | IP-CIDR | 86  | 
 | IP-CIDR6 | 4  | 
-| USER-AGENT(Egern不支持) | 6  | 
+| USER-AGENT | 6  | 
 | TOTAL(仅供参考) | 982  | 
 
 

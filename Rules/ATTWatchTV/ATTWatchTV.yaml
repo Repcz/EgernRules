@@ -1,3 +1,6 @@
+# 规则名称: ATTWatchTV
+# 规则统计: 6
+
 domain_suffix_set:
   - att.tv
   - atttvnow.com

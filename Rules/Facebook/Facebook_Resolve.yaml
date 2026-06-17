@@ -1,3 +1,6 @@
+# 规则名称: Facebook_Resolve
+# 规则统计: 570
+
 domain_suffix_set:
   - aboutfacebook.com
   - accessfacebookfromschool.com
@@ -571,4 +574,4 @@ ip_cidr_set:
   - 54.235.23.242/32
   - 54.93.124.31/32
 asn_set:
-  - 32934
+  - "32934"

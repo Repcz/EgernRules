@@ -1,3 +1,6 @@
+# 规则名称: TVB
+# 规则统计: 23
+
 domain_set:
   - bcbolt446c5271-a.akamaihd.net
   - edge.api.brightcove.com
@@ -21,3 +24,6 @@ domain_suffix_set:
   - tvmedia.net.au
   - videos-f.jwpsrv.com
   - youboranqs01.com
+user_agent_set:
+  - "encoreTVB*"
+  - "mytv*"

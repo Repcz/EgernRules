@@ -1,3 +1,6 @@
+# 规则名称: DiabloIII
+# 规则统计: 7
+
 no_resolve: true
 ip_cidr_set:
   - 103.4.115.248/32

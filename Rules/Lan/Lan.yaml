@@ -1,3 +1,6 @@
+# 规则名称: Lan
+# 规则统计: 140
+
 no_resolve: true
 domain_set:
   - asusrouter.com
@@ -123,6 +126,11 @@ domain_suffix_set:
   - ts.net
   - wifi.cmcc
   - zte.home
+ip_cidr6_set:
+  - ::/127
+  - fc00::/7
+  - fe80::/10
+  - ff00::/8
 ip_cidr_set:
   - 0.0.0.0/8
   - 10.0.0.0/8
@@ -138,8 +146,3 @@ ip_cidr_set:
   - 198.51.100.0/24
   - 203.0.113.0/24
   - 224.0.0.0/3
-ip_cidr6_set:
-  - ::/127
-  - fc00::/7
-  - fe80::/10
-  - ff00::/8

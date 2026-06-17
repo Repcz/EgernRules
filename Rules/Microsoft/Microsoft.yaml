@@ -1,6 +1,10 @@
+# 规则名称: Microsoft
+# 规则统计: 671
+
 domain_set:
   - vsmarketplacebadge.apphb.com
 domain_suffix_set:
+  - 1drv.com
   - 1drv.ms
   - 21vbc.com
   - 21vbluecloud.com
@@ -243,6 +247,7 @@ domain_suffix_set:
   - live.com.au
   - live.eu
   - live.net
+  - livefilestore.com
   - livetileedge.dsx.mp.microsoft.com.edgekey.net
   - livingyourambition.com
   - localytics.com
@@ -373,6 +378,7 @@ domain_suffix_set:
   - microsoftonline.com
   - microsoftpartnercommunity.com
   - microsoftpartnersolutions.com
+  - microsoftpersonalcontent.com
   - microsoftreactor.cn
   - microsoftreactor.com.cn
   - microsoftreactor.info
@@ -497,6 +503,7 @@ domain_suffix_set:
   - onecollector.cloudapp.aria
   - onedrive.co
   - onedrive.co.uk
+  - onedrive.com
   - onedrive.eu
   - onedrive.net
   - onedrive.org
@@ -552,6 +559,8 @@ domain_suffix_set:
   - sfbassets.net
   - sfx.ms
   - sharepoint.cn
+  - sharepoint.com
+  - sharepointonline.com
   - signalr.net
   - skype
   - skype.com
@@ -559,6 +568,7 @@ domain_suffix_set:
   - skypeassets.com
   - skypeassets.net
   - skypeforbusiness.com
+  - spoprod-a.akamaihd.net
   - sprinklesapp.com
   - sqlserveronlinux.com
   - staffhub.ms
@@ -657,15 +667,12 @@ domain_suffix_set:
   - xbx.lv
   - yammer.com
   - yammerusercontent.com
-  - 1drv.com
-  - livefilestore.com
-  - microsoftpersonalcontent.com
-  - onedrive.com
-  - sharepoint.com
-  - sharepointonline.com
-  - spoprod-a.akamaihd.net
 domain_keyword_set:
-  - microsoft
   - 1drv
+  - microsoft
   - onedrive
   - skydrive
+user_agent_set:
+  - "Microsoft*"
+  - "OneDrive*"
+  - "OneDriveiOSApp*"

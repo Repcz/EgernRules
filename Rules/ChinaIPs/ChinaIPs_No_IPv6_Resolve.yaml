@@ -1,3 +1,6 @@
+# 规则名称: ChinaIPs_No_IPv6_Resolve
+# 规则统计: 17313
+
 ip_cidr_set:
   - 1.0.1.0/24
   - 1.0.2.0/23

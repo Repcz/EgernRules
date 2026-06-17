@@ -19,7 +19,7 @@ ParamountPlus规则由《RULE GENERATOR 规则生成器》自动生成。
 | ---- | ----  |
 | DOMAIN | 4  | 
 | DOMAIN-SUFFIX | 5  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 10  | 
 
 

@@ -21,7 +21,7 @@
 | DOMAIN-SUFFIX | 34  | 
 | IP-CIDR | 21  | 
 | PROCESS-NAME | 1  | 
-| USER-AGENT(Egern不支持) | 6  | 
+| USER-AGENT | 6  | 
 | TOTAL(仅供参考) | 63  | 
 
 

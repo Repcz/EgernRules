@@ -1,11 +1,14 @@
+# 规则名称: ZhihuAds_Resolve
+# 规则统计: 13
+
 domain_set:
   - appcloud2.in.zhihu.com
   - mqtt.zhihu.com
   - sugar.zhihu.com
-ip_cidr_set:
-  - 118.89.204.198/32
 ip_cidr6_set:
   - 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
+ip_cidr_set:
+  - 118.89.204.198/32
 url_regex_set:
   - "^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/brand\/question\/\d+/card\?"
   - "^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/launch_v2\?"
@@ -14,3 +17,5 @@ url_regex_set:
   - "^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/api\/v4\/answers\/\d+\/recommendations"
   - "^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/banners_v3\/mobile_banner"
   - "^https?:\/\/zhuanlan\.zhihu\.com\/api\/articles\/\d+\/recommendation"
+user_agent_set:
+  - "AVOS*"

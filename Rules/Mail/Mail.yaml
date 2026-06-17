@@ -1,3 +1,6 @@
+# 规则名称: Mail
+# 规则统计: 12
+
 domain_set:
   - apple.imap.mail.yahoo.com
   - apple.smtp.mail.yahoo.com

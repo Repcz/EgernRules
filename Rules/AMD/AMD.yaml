@@ -1,3 +1,6 @@
+# 规则名称: AMD
+# 规则统计: 4
+
 domain_suffix_set:
   - amd.com
   - amd.com.cn

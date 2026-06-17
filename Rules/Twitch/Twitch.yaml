@@ -1,3 +1,6 @@
+# 规则名称: Twitch
+# 规则统计: 21
+
 no_resolve: true
 domain_suffix_set:
   - ext-twitch.tv
@@ -10,6 +13,8 @@ domain_suffix_set:
   - twitchsvc.net
 domain_keyword_set:
   - ttvnw
+ip_cidr6_set:
+  - 2402:2a80::/32
 ip_cidr_set:
   - 103.53.48.0/23
   - 185.42.204.0/22
@@ -22,5 +27,3 @@ ip_cidr_set:
   - 52.223.208.0/21
   - 52.223.224.0/19
   - 99.181.64.0/18
-ip_cidr6_set:
-  - 2402:2a80::/32

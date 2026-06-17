@@ -1,3 +1,6 @@
+# 规则名称: CBS
+# 规则统计: 35
+
 domain_suffix_set:
   - amlg.io
   - cbs.com
@@ -33,3 +36,5 @@ domain_suffix_set:
   - viacom.com
   - viacomcbs.com
   - viacomcbspressexpress.com
+user_agent_set:
+  - "PPlus*"

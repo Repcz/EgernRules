@@ -1,3 +1,6 @@
+# 规则名称: GlobalMedia_Resolve
+# 规则统计: 1021
+
 domain_suffix_set:
   - youtube
 domain_keyword_set:
@@ -27,6 +30,13 @@ domain_keyword_set:
   - uk-live
   - voddazn
   - youtube
+ip_cidr6_set:
+  - 2607:fb10::/32
+  - 2620:100:3000::/40
+  - 2620:10c:7000::/44
+  - 2620:120:e000::/40
+  - 2a00:86c0::/32
+  - 2a03:5640::/32
 ip_cidr_set:
   - 1.201.0.0/24
   - 1.37.35.6/32
@@ -946,12 +956,75 @@ ip_cidr_set:
   - 96.23.20.78/32
   - 96.4.63.99/32
   - 99.81.97.56/32
-ip_cidr6_set:
-  - 2607:fb10::/32
-  - 2620:100:3000::/40
-  - 2620:10c:7000::/44
-  - 2620:120:e000::/40
-  - 2a00:86c0::/32
-  - 2a03:5640::/32
 url_regex_set:
   - "^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/"
+user_agent_set:
+  - "*Spotify*"
+  - "*YouTubeMusic*"
+  - "*com.google.ios.youtubemusic*"
+  - "*youtube*"
+  - "AbemaTV*"
+  - "All4*"
+  - "Anime*"
+  - "AppleTV*"
+  - "Argo*"
+  - "BBCiPlayer*"
+  - "DAZN*"
+  - "DPlus*"
+  - "Deezer*"
+  - "Disney*"
+  - "Disney+*"
+  - "FOX%20NOW*"
+  - "FOXNOW*"
+  - "FOXPlus*"
+  - "HBO%20GO%20PROD%20HKG*"
+  - "HBO%20GO%20PROD*"
+  - "HBO%20NOW*"
+  - "HBO*"
+  - "HBOGOPRODHKG*"
+  - "HBOMAX*"
+  - "HBONOW*"
+  - "HWTVMobile*"
+  - "Himalaya*"
+  - "Hulu*"
+  - "ITV_Player*"
+  - "InstantVideo.US*"
+  - "JOOX*"
+  - "KKTV*"
+  - "LINE%20TV*"
+  - "LINE*"
+  - "LINETV*"
+  - "Max*"
+  - "My5*"
+  - "Naver%20TV*"
+  - "NaverTV*"
+  - "Niconico*"
+  - "Overcast*"
+  - "PBS*"
+  - "PPlus*"
+  - "Pandora*"
+  - "PeacockMobile*"
+  - "Prime%20Video*"
+  - "PrimeVideo*"
+  - "SoundCloud*"
+  - "Spotify*"
+  - "TIDAL*"
+  - "TIDAL*dia"
+  - "TVer-Release*"
+  - "TaiwanGood*"
+  - "TikTok*"
+  - "Viu*"
+  - "ViuTV*"
+  - "WeMusic*"
+  - "WeTV*"
+  - "YouTube*"
+  - "YouTubeMusic*"
+  - "app/bstar*"
+  - "com.apple.tv*"
+  - "com.google.ios.youtube*"
+  - "com.google.ios.youtubemusic*"
+  - "com.kktv*"
+  - "com.kktv.ios.kktv*"
+  - "discovery+*"
+  - "encoreTVB*"
+  - "mytv*"

@@ -1,3 +1,6 @@
+# 规则名称: HBO
+# 规则统计: 49
+
 domain_suffix_set:
   - bcbolthboa-a.akamaihd.net
   - cf-images.ap-southeast-1.prod.boltdns.net
@@ -46,3 +49,6 @@ domain_suffix_set:
   - players.brightcove.net
   - warnermediacdn.com
   - youboranqs01.com
+user_agent_set:
+  - "HBO%20NOW*"
+  - "HBOMAX*"

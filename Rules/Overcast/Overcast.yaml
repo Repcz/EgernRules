@@ -1,2 +1,7 @@
+# 规则名称: Overcast
+# 规则统计: 2
+
 domain_suffix_set:
   - overcast.fm
+user_agent_set:
+  - "Overcast*"

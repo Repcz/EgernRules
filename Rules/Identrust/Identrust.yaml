@@ -1,3 +1,6 @@
+# 规则名称: Identrust
+# 规则统计: 3
+
 domain_suffix_set:
   - identrust.co.uk
   - identrust.com

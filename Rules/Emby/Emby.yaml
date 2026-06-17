@@ -1,3 +1,6 @@
+# 规则名称: Emby
+# 规则统计: 51
+
 domain_set:
   - emby.enjoyit.eu.org
   - emby.lcloud.wiki

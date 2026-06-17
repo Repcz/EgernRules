@@ -1,3 +1,6 @@
+# 规则名称: Heroku
+# 规则统计: 12
+
 domain_suffix_set:
   - codei.sh
   - codeish.co

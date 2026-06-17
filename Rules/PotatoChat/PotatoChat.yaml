@@ -1,3 +1,6 @@
+# 规则名称: PotatoChat
+# 规则统计: 3
+
 no_resolve: true
 ip_cidr_set:
   - 13.251.24.0/24

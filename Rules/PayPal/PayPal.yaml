@@ -1,3 +1,6 @@
+# 规则名称: PayPal
+# 规则统计: 248
+
 domain_suffix_set:
   - account-paypal.info
   - account-paypal.net
@@ -247,3 +250,5 @@ domain_suffix_set:
   - xoomcom.com
 domain_keyword_set:
   - paypal
+user_agent_set:
+  - "PayPal*"

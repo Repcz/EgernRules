@@ -1,3 +1,6 @@
+# 规则名称: Hijacking_Resolve
+# 规则统计: 228
+
 domain_set:
   - geo2.adobe.com
 domain_suffix_set:

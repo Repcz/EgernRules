@@ -1,3 +1,6 @@
+# 规则名称: Tencent
+# 规则统计: 25
+
 no_resolve: true
 ip_cidr_set:
   - 101.32.104.4/32
@@ -20,3 +23,9 @@ ip_cidr_set:
   - 150.139.143.0/32
   - 27.159.95.0/32
   - 58.58.81.129/32
+user_agent_set:
+  - "MOO%E9%9F%B3%E4%B9%90*"
+  - "QQ%E9%9F%B3%E4%B9%90"
+  - "TencentMidasConnect*"
+  - "live4iphone*"
+  - "qqlive4iphone*"

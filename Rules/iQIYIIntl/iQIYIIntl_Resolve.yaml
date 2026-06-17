@@ -1,3 +1,6 @@
+# 规则名称: iQIYIIntl_Resolve
+# 规则统计: 19
+
 domain_set:
   - cache.video.iqiyi.com
 domain_suffix_set:

@@ -1,3 +1,6 @@
+# 规则名称: AdvertisingMiTV
+# 规则统计: 165
+
 domain_set:
   - 519332da.rtc.youme.im
   - 86file.megajoy.com

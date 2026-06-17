@@ -24,7 +24,7 @@ ChinaMax排除相关IP规则版本
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 112192  | 
 | PROCESS-NAME | 12  | 
-| USER-AGENT(Egern不支持) | 65  | 
+| USER-AGENT | 65  | 
 | TOTAL(仅供参考) | 112587  | 
 
 

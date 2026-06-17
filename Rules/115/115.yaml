@@ -1,3 +1,6 @@
+# 规则名称: 115
+# 规则统计: 10
+
 domain_set:
   - fhnfile.oss-cn-shenzhen.aliyuncs.com
 domain_suffix_set:

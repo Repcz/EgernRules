@@ -1,3 +1,6 @@
+# 规则名称: AppleHardware
+# 规则统计: 226
+
 domain_suffix_set:
   - aplestore.com
   - aplleipods.com

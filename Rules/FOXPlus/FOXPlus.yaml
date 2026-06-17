@@ -1,3 +1,6 @@
+# 规则名称: FOXPlus
+# 规则统计: 7
+
 domain_set:
   - cdn-fox-networks-group-green.akamaized.net
   - d3cv4a9a9wh0bt.cloudfront.net

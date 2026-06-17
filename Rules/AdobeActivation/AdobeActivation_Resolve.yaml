@@ -1,3 +1,6 @@
+# 规则名称: AdobeActivation_Resolve
+# 规则统计: 118
+
 domain_set:
   - 1b9khekel6.adobe.io
   - 3dns-1.adobe.com

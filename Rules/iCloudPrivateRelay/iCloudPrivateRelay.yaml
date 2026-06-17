@@ -1,3 +1,6 @@
+# 规则名称: iCloudPrivateRelay
+# 规则统计: 6
+
 domain_set:
   - mask-api.fe.apple-dns.net
   - mask-api.icloud.com

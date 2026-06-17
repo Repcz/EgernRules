@@ -1,3 +1,6 @@
+# 规则名称: Overwatch
+# 规则统计: 7
+
 no_resolve: true
 ip_cidr_set:
   - 185.60.112.157/32

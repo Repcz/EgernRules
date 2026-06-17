@@ -1,4 +1,9 @@
+# 规则名称: SoundCloud
+# 规则统计: 4
+
 domain_suffix_set:
   - p-cdn.us
   - sndcdn.com
   - soundcloud.com
+user_agent_set:
+  - "SoundCloud*"

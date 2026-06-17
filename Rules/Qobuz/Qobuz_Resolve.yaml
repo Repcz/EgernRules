@@ -1,3 +1,6 @@
+# 规则名称: Qobuz_Resolve
+# 规则统计: 33
+
 domain_suffix_set:
   - cobeuz.fr
   - cobuz.fr

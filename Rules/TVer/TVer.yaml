@@ -1,3 +1,6 @@
+# 规则名称: TVer
+# 规则统计: 7
+
 domain_suffix_set:
   - dogatch.jp
   - edge.api.brightcove.com
@@ -5,3 +8,5 @@ domain_suffix_set:
   - screens-lab.jp
   - tver.co.jp
   - tver.jp
+user_agent_set:
+  - "TVer-Release*"

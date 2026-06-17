@@ -1,3 +1,6 @@
+# 规则名称: CCTV
+# 规则统计: 37
+
 domain_suffix_set:
   - cctv.cn
   - cctv.com

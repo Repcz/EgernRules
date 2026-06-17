@@ -1,3 +1,6 @@
+# 规则名称: Bloomberg
+# 规则统计: 22
+
 domain_suffix_set:
   - bloomberg.co.kr
   - bloomberg.com

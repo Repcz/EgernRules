@@ -1,3 +1,6 @@
+# 规则名称: UKMedia
+# 规则统计: 33
+
 domain_set:
   - itvpnp.live.ott.irdeto.com
   - itvpnp.stage.ott.irdeto.com
@@ -31,3 +34,7 @@ domain_suffix_set:
 domain_keyword_set:
   - bbcfmt
   - uk-live
+user_agent_set:
+  - "All4*"
+  - "BBCiPlayer*"
+  - "ITV_Player*"

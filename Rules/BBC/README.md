@@ -20,7 +20,7 @@ BBC规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 11  | 
 | DOMAIN-KEYWORD | 2  | 
 | DOMAIN-SUFFIX | 15  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 29  | 
 
 

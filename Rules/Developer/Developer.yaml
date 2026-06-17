@@ -1,28 +1,55 @@
+# 规则名称: Developer
+# 规则统计: 70
+
 domain_suffix_set:
+  - apache.org
   - apple-cloudkit.com
   - apple-mapkit.com
   - apple.com.akadns.net
   - appleswift.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
+  - atlassian.com
   - calendarserver.org
   - carekit.org
   - courier-push-apple.com.akadns.net
   - cups.org
+  - debian.com
   - developer.apple.com
   - developerservices2.apple.com
   - devimages-cdn.apple.com
   - devstreaming-cdn.apple.com
+  - docker.com
+  - docker.io
+  - elastic.co
+  - elastic.com
+  - fontawesome.com
   - foundationdb.org
+  - gcr.io
+  - gitlab.com
+  - gitlab.io
+  - jetbra.in
+  - jitpack.io
   - macosforge.org
+  - macosicons.com
   - macruby.com
   - macruby.net
   - macruby.org
+  - maven.org
+  - medium.com
+  - mvnrepository.com
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
+  - openai.com
   - p-events-delivery.akamaized.net
   - playgrounds-cdn.apple.com
+  - postman-echo.com
   - push-apple.com.akadns.net
+  - python.org
+  - pythonhosted.org
+  - quay.io
+  - reddit.com
+  - redhat.com
   - researchandcare.org
   - researchkit.cn
   - researchkit.com.cn
@@ -31,41 +58,17 @@ domain_suffix_set:
   - researchkit.org
   - researchkit.tv
   - servicetalk.io
-  - swift.org
-  - swiftui.cn
-  - swiftui.com.cn
-  - timestamp.apple.com
-  - webkit.org
-  - webkitgtk.org
-  - webobjects.com
-  - wpewebkit.org
-  - apache.org
-  - atlassian.com
-  - debian.com
-  - docker.com
-  - docker.io
-  - elastic.co
-  - elastic.com
-  - fontawesome.com
-  - gcr.io
-  - gitlab.com
-  - gitlab.io
-  - jetbra.in
-  - jitpack.io
-  - macosicons.com
-  - maven.org
-  - medium.com
-  - mvnrepository.com
-  - openai.com
-  - postman-echo.com
-  - python.org
-  - pythonhosted.org
-  - quay.io
-  - reddit.com
-  - redhat.com
   - sonatype.org
   - sourcegraph.com
   - spring.io
   - spring.net
   - stackoverflow.com
+  - swift.org
+  - swiftui.cn
+  - swiftui.com.cn
+  - timestamp.apple.com
   - unpkg.com
+  - webkit.org
+  - webkitgtk.org
+  - webobjects.com
+  - wpewebkit.org

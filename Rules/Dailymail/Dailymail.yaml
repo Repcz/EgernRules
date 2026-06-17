@@ -1,3 +1,6 @@
+# 规则名称: Dailymail
+# 规则统计: 17
+
 domain_suffix_set:
   - anm.co.uk
   - dailym.ai

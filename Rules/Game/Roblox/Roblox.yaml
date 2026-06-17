@@ -1,4 +1,9 @@
+# 规则名称: Roblox
+# 规则统计: 3
+
 domain_suffix_set:
   - rbxcdn.com
 domain_keyword_set:
   - roblox
+user_agent_set:
+  - "Roblox*"

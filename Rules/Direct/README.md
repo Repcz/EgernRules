@@ -24,7 +24,7 @@
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 139  | 
 | PROCESS-NAME | 36  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 268  | 
 
 

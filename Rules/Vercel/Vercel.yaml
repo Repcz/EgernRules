@@ -1,3 +1,6 @@
+# 规则名称: Vercel
+# 规则统计: 27
+
 domain_suffix_set:
   - err.sh
   - hyper.is

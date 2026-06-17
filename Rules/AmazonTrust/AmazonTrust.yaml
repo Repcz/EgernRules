@@ -1,3 +1,6 @@
+# 规则名称: AmazonTrust
+# 规则统计: 3
+
 domain_suffix_set:
   - amazontrust.com
   - awstrust.com

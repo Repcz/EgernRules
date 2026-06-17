@@ -22,7 +22,7 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 6656  | 
 | IP-CIDR | 93  | 
 | IP-CIDR6 | 4  | 
-| USER-AGENT(Egern不支持) | 8  | 
+| USER-AGENT | 8  | 
 | TOTAL(仅供参考) | 6796  | 
 
 

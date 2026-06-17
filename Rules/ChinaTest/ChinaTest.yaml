@@ -1,12 +1,15 @@
+# 规则名称: ChinaTest
+# 规则统计: 99
+
 no_resolve: true
 domain_suffix_set:
-  - cn
-  - ms
   - alibaba
   - alipay
   - baidu
   - citic
+  - cn
   - icbc
+  - ms
   - sohu
   - taobao
   - tmall
@@ -54,6 +57,11 @@ domain_keyword_set:
   - microsoft
   - officecdn
   - taobao
+ip_cidr6_set:
+  - 2a0b:b580::/48
+  - 2a0b:b581::/48
+  - 2a0b:b582::/48
+  - 2a0b:b583::/48
 ip_cidr_set:
   - 1.255.62.0/24
   - 101.32.118.0/23
@@ -66,8 +74,35 @@ ip_cidr_set:
   - 185.188.32.0/22
   - 203.205.238.0/23
   - 203.205.254.0/23
-ip_cidr6_set:
-  - 2a0b:b580::/48
-  - 2a0b:b581::/48
-  - 2a0b:b582::/48
-  - 2a0b:b583::/48
+user_agent_set:
+  - "%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*"
+  - "%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*"
+  - "%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*"
+  - "%E4%BC%98%E9%85%B7*"
+  - "%E5%8D%B3%E5%88%BB*"
+  - "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*"
+  - "*Vainglory*"
+  - "AdBlock*"
+  - "Best%20Trace*"
+  - "MegaWerewolf*"
+  - "MicroMessenger%20Client"
+  - "MicroMessenger*"
+  - "MicroMessengerClient*"
+  - "Microsoft*"
+  - "Moke*"
+  - "NeteaseMusic*"
+  - "QQ*"
+  - "RemotePlay*"
+  - "TIM*"
+  - "TeamViewer*"
+  - "WeChat*"
+  - "WebTorrent*"
+  - "YYeTs*"
+  - "arrowio*"
+  - "balls*"
+  - "cmb*"
+  - "cmblife*"
+  - "eusoft_ting_en_iphone"
+  - "hearthstone*"
+  - "hide*"
+  - "ting_en"

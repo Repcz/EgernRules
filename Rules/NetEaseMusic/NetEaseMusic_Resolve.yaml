@@ -1,3 +1,6 @@
+# 规则名称: NetEaseMusic_Resolve
+# 规则统计: 30
+
 domain_set:
   - netease.ugcvideoss.ourdvs.com
 domain_suffix_set:
@@ -29,3 +32,6 @@ ip_cidr_set:
   - 59.111.128.0/17
   - 59.111.19.33/32
   - 59.111.21.14/31
+user_agent_set:
+  - "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*"
+  - "NeteaseMusic*"

@@ -1,3 +1,6 @@
+# 规则名称: DingTalk
+# 规则统计: 11
+
 domain_suffix_set:
   - ddurl.to
   - dg-work.cn

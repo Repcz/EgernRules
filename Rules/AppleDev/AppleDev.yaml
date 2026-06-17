@@ -1,3 +1,6 @@
+# 规则名称: AppleDev
+# 规则统计: 40
+
 domain_suffix_set:
   - apple-cloudkit.com
   - apple-mapkit.com

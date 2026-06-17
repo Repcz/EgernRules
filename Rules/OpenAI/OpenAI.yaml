@@ -1,3 +1,6 @@
+# 规则名称: OpenAI
+# 规则统计: 35
+
 no_resolve: true
 domain_set:
   - browser-intake-datadoghq.com
@@ -38,4 +41,4 @@ ip_cidr_set:
   - 24.199.123.28/32
   - 64.23.132.171/32
 asn_set:
-  - 20473
+  - "20473"

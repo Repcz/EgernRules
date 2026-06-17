@@ -1,3 +1,6 @@
+# 规则名称: STUN_Resolve
+# 规则统计: 366
+
 domain_set:
   - iphone-stun.strato-iphone.de
   - relay.webwormhole.io

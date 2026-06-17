@@ -1,3 +1,6 @@
+# 规则名称: Wikipedia
+# 规则统计: 12
+
 domain_suffix_set:
   - mediawiki.org
   - wikibooks.org

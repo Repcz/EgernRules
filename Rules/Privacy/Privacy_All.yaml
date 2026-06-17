@@ -1,3 +1,6 @@
+# 规则名称: Privacy_All
+# 规则统计: 39936
+
 domain_set:
   - hmma.baidu.com
   - ios-pclog.i4.cn

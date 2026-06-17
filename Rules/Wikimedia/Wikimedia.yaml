@@ -1,3 +1,6 @@
+# 规则名称: Wikimedia
+# 规则统计: 20
+
 domain_suffix_set:
   - mediawiki.org
   - toolforge.org

@@ -1,3 +1,6 @@
+# 规则名称: ChinaUnicom_Resolve
+# 规则统计: 34
+
 domain_suffix_set:
   - 10010.cn
   - 10010.com

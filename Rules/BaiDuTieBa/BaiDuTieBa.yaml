@@ -1,3 +1,6 @@
+# 规则名称: BaiDuTieBa
+# 规则统计: 32
+
 domain_set:
   - als.baidu.com
   - cdn.hiphotos.baidu.com

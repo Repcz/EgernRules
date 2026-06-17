@@ -26,7 +26,7 @@ Google规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 4  | 
 | IP-CIDR6 | 1  | 
 | PROCESS-NAME | 5  | 
-| USER-AGENT(Egern不支持) | 3  | 
+| USER-AGENT | 3  | 
 | TOTAL(仅供参考) | 703  | 
 
 

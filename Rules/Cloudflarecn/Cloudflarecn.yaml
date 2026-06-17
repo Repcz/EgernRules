@@ -1,3 +1,6 @@
+# 规则名称: Cloudflarecn
+# 规则统计: 14
+
 domain_suffix_set:
   - cf-ns.com
   - cf-ns.net

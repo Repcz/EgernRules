@@ -1,3 +1,6 @@
+# 规则名称: NBC
+# 规则统计: 22
+
 domain_set:
   - nbcstreaming.sc.omtrdc.net
 domain_suffix_set:

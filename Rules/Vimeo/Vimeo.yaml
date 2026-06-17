@@ -1,3 +1,6 @@
+# 规则名称: Vimeo
+# 规则统计: 16
+
 domain_suffix_set:
   - livestream.com
   - vhx.tv

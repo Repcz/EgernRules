@@ -1,3 +1,6 @@
+# 规则名称: Yandex_Resolve
+# 规则统计: 52
+
 domain_suffix_set:
   - xn--d1acpjx3f.xn--p1ai
   - ya.ru
@@ -33,6 +36,9 @@ domain_suffix_set:
   - yandex.ua
   - yandex.uz
   - yastatic.net
+ip_cidr6_set:
+  - 2620:10f:d000::/44
+  - 2a02:6b8::/29
 ip_cidr_set:
   - 100.43.64.0/19
   - 141.8.128.0/18
@@ -50,6 +56,3 @@ ip_cidr_set:
   - 87.250.224.0/19
   - 93.158.128.0/18
   - 95.108.128.0/17
-ip_cidr6_set:
-  - 2620:10f:d000::/44
-  - 2a02:6b8::/29

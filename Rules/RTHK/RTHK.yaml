@@ -1,3 +1,6 @@
+# 规则名称: RTHK
+# 规则统计: 13
+
 domain_set:
   - rthklive2-lh.akamaihd.net
   - rthkradio1-live.akamaized.net

@@ -19,7 +19,7 @@ KKTV规则由《RULE GENERATOR 规则生成器》自动生成。
 | ---- | ----  |
 | DOMAIN | 2  | 
 | DOMAIN-SUFFIX | 2  | 
-| USER-AGENT(Egern不支持) | 2  | 
+| USER-AGENT | 2  | 
 | TOTAL(仅供参考) | 6  | 
 
 

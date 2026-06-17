@@ -1,3 +1,6 @@
+# 规则名称: Abema
+# 规则统计: 20
+
 domain_set:
   - abematv.akamaized.net
   - ds-linear-abematv.akamaized.net

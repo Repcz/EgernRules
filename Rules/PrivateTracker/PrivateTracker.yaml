@@ -1,3 +1,6 @@
+# 规则名称: PrivateTracker
+# 规则统计: 248
+
 no_resolve: true
 domain_set:
   - 004430.xyz

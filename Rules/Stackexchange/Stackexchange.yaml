@@ -1,3 +1,6 @@
+# 规则名称: Stackexchange
+# 规则统计: 20
+
 domain_suffix_set:
   - askubuntu.com
   - blogoverflow.com

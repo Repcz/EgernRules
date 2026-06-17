@@ -1,3 +1,6 @@
+# 规则名称: AppleTV
+# 规则统计: 9
+
 domain_set:
   - hls-amt.itunes.apple.com
   - hls.itunes.apple.com
@@ -7,3 +10,6 @@ domain_set:
   - uts-api.itunes.apple.com
 domain_suffix_set:
   - tv.apple.com
+user_agent_set:
+  - "AppleTV*"
+  - "com.apple.tv*"

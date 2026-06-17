@@ -1,3 +1,6 @@
+# 规则名称: BiliBili
+# 规则统计: 127
+
 no_resolve: true
 domain_set:
   - 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
@@ -125,3 +128,8 @@ ip_cidr_set:
   - 120.92.153.217/32
   - 134.175.207.130/32
   - 203.107.1.0/24
+user_agent_set:
+  - "*bili*"
+  - "Bilibili*"
+  - "bili*"
+  - "bili-inter*"

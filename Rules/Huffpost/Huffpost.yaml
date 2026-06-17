@@ -1,3 +1,6 @@
+# 规则名称: Huffpost
+# 规则统计: 18
+
 domain_suffix_set:
   - huffingtonpost.ca
   - huffingtonpost.co.uk

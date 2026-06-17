@@ -32,7 +32,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
-| USER-AGENT(Egern不支持) | 46  | 
+| USER-AGENT | 46  | 
 | TOTAL(仅供参考) | 34723  | 
 
 

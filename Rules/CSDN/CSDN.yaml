@@ -1,3 +1,6 @@
+# 规则名称: CSDN
+# 规则统计: 22
+
 domain_suffix_set:
   - codechina.net
   - csdn.com

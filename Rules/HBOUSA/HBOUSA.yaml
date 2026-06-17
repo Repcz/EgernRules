@@ -1,3 +1,6 @@
+# 规则名称: HBOUSA
+# 规则统计: 11
+
 domain_set:
   - wmff.warnermediacdn.com
 domain_suffix_set:
@@ -10,3 +13,5 @@ domain_suffix_set:
   - hbonow.com
   - max.com
   - maxgo.com
+user_agent_set:
+  - "HBOMAX*"

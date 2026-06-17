@@ -1,3 +1,6 @@
+# 规则名称: Garena
+# 规则统计: 15
+
 domain_suffix_set:
   - avatargarenanow-a.akamaihd.net
   - cdngarenanow-a.akamaihd.net

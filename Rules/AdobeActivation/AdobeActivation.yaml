@@ -1,3 +1,6 @@
+# 规则名称: AdobeActivation
+# 规则统计: 118
+
 no_resolve: true
 domain_set:
   - 1b9khekel6.adobe.io

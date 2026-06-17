@@ -1,3 +1,6 @@
+# 规则名称: KakaoTalk
+# 规则统计: 15
+
 no_resolve: true
 domain_suffix_set:
   - daum.net

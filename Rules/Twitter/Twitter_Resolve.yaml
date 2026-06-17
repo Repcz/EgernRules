@@ -1,3 +1,6 @@
+# 规则名称: Twitter_Resolve
+# 规则统计: 33
+
 domain_suffix_set:
   - ads-twitter.com
   - cms-twdigitalassets.com

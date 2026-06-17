@@ -1,3 +1,6 @@
+# 规则名称: EA
+# 规则统计: 165
+
 domain_set:
   - eaasserts-a.akamaihd.net
   - originasserts.akamaized.net

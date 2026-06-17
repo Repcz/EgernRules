@@ -1,3 +1,6 @@
+# 规则名称: Jwplayer
+# 规则统计: 5
+
 domain_suffix_set:
   - jwpcdn.com
   - jwplatform.com

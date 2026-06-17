@@ -1,3 +1,6 @@
+# 规则名称: STUN
+# 规则统计: 366
+
 no_resolve: true
 domain_set:
   - iphone-stun.strato-iphone.de

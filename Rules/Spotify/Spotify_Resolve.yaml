@@ -1,3 +1,6 @@
+# 规则名称: Spotify_Resolve
+# 规则统计: 30
+
 domain_set:
   - audio4-ak-spotify-com.akamaized.net
   - cdn-spotify-experiments.conductrics.com
@@ -31,3 +34,5 @@ domain_keyword_set:
 ip_cidr_set:
   - 104.154.127.126/32
   - 35.186.224.47/32
+user_agent_set:
+  - "Spotify*"

@@ -1,3 +1,6 @@
+# 规则名称: Scholar
+# 规则统计: 231
+
 domain_set:
   - scholar.google.com
 domain_suffix_set:

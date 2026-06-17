@@ -1,3 +1,6 @@
+# 规则名称: AppleID
+# 规则统计: 4
+
 domain_set:
   - appleid.apple.com
   - appleid.cdn-apple.com

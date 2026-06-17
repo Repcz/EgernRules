@@ -1,3 +1,6 @@
+# 规则名称: WeTV
+# 规则统计: 10
+
 no_resolve: true
 domain_set:
   - wetv.qq.com
@@ -11,3 +14,5 @@ domain_suffix_set:
   - wetvinfo.com
 ip_cidr_set:
   - 150.109.28.51/32
+user_agent_set:
+  - "WeTV*"

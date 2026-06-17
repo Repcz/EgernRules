@@ -1,3 +1,6 @@
+# 规则名称: Line
+# 规则统计: 24
+
 no_resolve: true
 domain_suffix_set:
   - lin.ee

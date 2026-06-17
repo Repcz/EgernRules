@@ -20,7 +20,7 @@ GoogleDrive规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 1  | 
 | DOMAIN-SUFFIX | 4  | 
 | PROCESS-NAME | 1  | 
-| USER-AGENT(Egern不支持) | 3  | 
+| USER-AGENT | 3  | 
 | TOTAL(仅供参考) | 9  | 
 
 

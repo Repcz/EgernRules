@@ -1,3 +1,6 @@
+# 规则名称: Direct
+# 规则统计: 232
+
 domain_set:
   - ad.10010.com
   - ad.12306.cn
@@ -232,3 +235,5 @@ domain_keyword_set:
   - weather-adge.apple.com
   - weather-edge.apple.com
   - westlawchina
+user_agent_set:
+  - "%E8%BF%85%E9%9B%B7"

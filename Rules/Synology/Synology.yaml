@@ -1,3 +1,6 @@
+# 规则名称: Synology
+# 规则统计: 19
+
 domain_set:
   - d2f0395ykn6hxb.cloudfront.net
 domain_suffix_set:

@@ -18,7 +18,7 @@
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 3  | 
-| USER-AGENT(Egern不支持) | 2  | 
+| USER-AGENT | 2  | 
 | TOTAL(仅供参考) | 5  | 
 
 

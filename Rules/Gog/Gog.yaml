@@ -1,3 +1,6 @@
+# 规则名称: Gog
+# 规则统计: 4
+
 domain_set:
   - gog.salesmanago.com
 domain_suffix_set:

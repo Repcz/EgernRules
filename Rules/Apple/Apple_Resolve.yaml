@@ -1,11 +1,18 @@
+# 规则名称: Apple_Resolve
+# 规则统计: 43
+
 domain_keyword_set:
   - apple-support.akadns.net
   - apple.com.akadns.net
   - apple.com.edgekey.net
   - buy.itunes.apple.com
+  - icloud.com.akadns.net
   - smp-device
   - testflight
-  - icloud.com.akadns.net
+ip_cidr6_set:
+  - 2403:300::/32
+  - 2620:149::/32
+  - 2a01:b740::/32
 ip_cidr_set:
   - 139.178.128.0/18
   - 144.178.0.0/19
@@ -17,7 +24,27 @@ ip_cidr_set:
   - 205.180.175.0/24
   - 63.92.224.0/19
   - 65.199.22.0/23
-ip_cidr6_set:
-  - 2403:300::/32
-  - 2620:149::/32
-  - 2a01:b740::/32
+user_agent_set:
+  - "*FindMyiPhone?"
+  - "*Music?"
+  - "*WeatherFoundation*"
+  - "*com.apple.Maps?"
+  - "*com.apple.mobileme.fmip1"
+  - "AppleNews*"
+  - "AppleTV*"
+  - "FMDClient*"
+  - "FMFD*"
+  - "FindMyFriends*"
+  - "FindMyiPhone*"
+  - "Maps*"
+  - "Music*"
+  - "Wallet*"
+  - "com.apple.Maps"
+  - "com.apple.appstored*"
+  - "com.apple.news*"
+  - "com.apple.trustd*"
+  - "com.apple.tv*"
+  - "fmflocatord*"
+  - "geod*"
+  - "locationd*"
+  - "passd*"

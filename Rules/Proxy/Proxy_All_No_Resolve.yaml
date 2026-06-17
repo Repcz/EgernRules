@@ -1,3 +1,6 @@
+# 规则名称: Proxy_All_No_Resolve
+# 规则统计: 6796
+
 no_resolve: true
 domain_set:
   - api.waqi.info
@@ -6693,6 +6696,11 @@ domain_keyword_set:
   - uk-live
   - whatsapp
   - youtube
+ip_cidr6_set:
+  - 2001:67c:4e8::/48
+  - 2001:b28:f23d::/48
+  - 2001:b28:f23f::/48
+  - 2a0a:f280::/32
 ip_cidr_set:
   - 1.201.0.0/24
   - 103.2.28.0/22
@@ -6787,8 +6795,12 @@ ip_cidr_set:
   - 75.126.0.0/16
   - 91.105.192.0/23
   - 91.108.0.0/16
-ip_cidr6_set:
-  - 2001:67c:4e8::/48
-  - 2001:b28:f23d::/48
-  - 2001:b28:f23f::/48
-  - 2a0a:f280::/32
+user_agent_set:
+  - "Duolingo*"
+  - "OneDrive*"
+  - "PayPal*"
+  - "Roam*"
+  - "WhatsApp*"
+  - "battleroyale*"
+  - "com.apple.trustd*"
+  - "hearthstone*"

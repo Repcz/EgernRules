@@ -1,3 +1,6 @@
+# 规则名称: GlobalMedia_All_No_Resolve
+# 规则统计: 2332
+
 no_resolve: true
 domain_set:
   - ai.google.dev
@@ -556,15 +559,20 @@ domain_suffix_set:
   - gemini.google.com
   - geraldoatlarge.com
   - getblueshift.com
+  - ggpht.cn
+  - ggpht.com
   - glasamerike.net
   - go-disneyworldgo.com
   - go.com
   - golos-ameriki.ru
   - golosameriki.com
   - gooddaychicago.com
+  - googlevideo.com
   - gorin.jp
   - grazie.ai
   - grazie.aws.intellij.net
+  - gvt1.com
+  - gvt2.com
   - haiwaikan.com
   - happyon.jp
   - hath.network
@@ -1051,6 +1059,7 @@ domain_suffix_set:
   - viacomcbspressexpress.com
   - viblast.com
   - video.a2z.com
+  - video.google.com
   - videos-f.jwpsrv.com
   - vidol.tv
   - viki.com
@@ -1114,8 +1123,10 @@ domain_suffix_set:
   - wetvinfo.com
   - whatthefox.com
   - whosthehost.com
+  - wide-youtube.l.google.com
   - wimpmusic.com
   - winticket.jp
+  - withyoutube.com
   - wofl.tv
   - woflthenewsstation.com
   - wogx.com
@@ -1123,25 +1134,6 @@ domain_suffix_set:
   - x.ai
   - yb.uncn.jp
   - youboranqs01.com
-  - z5.app
-  - z5.com
-  - zee5.com
-  - zee5.in
-  - zee5.tv
-  - zeebioskop.com
-  - zeetv.co.uk
-  - zeetv.com
-  - zeeuk.com
-  - zeriamerikes.com
-  - zype.com
-  - ggpht.cn
-  - ggpht.com
-  - googlevideo.com
-  - gvt1.com
-  - gvt2.com
-  - video.google.com
-  - wide-youtube.l.google.com
-  - withyoutube.com
   - youtu.be
   - youtube
   - youtube-nocookie.com
@@ -1313,6 +1305,17 @@ domain_suffix_set:
   - youtubemobilesupport.com
   - yt.be
   - ytimg.com
+  - z5.app
+  - z5.com
+  - zee5.com
+  - zee5.in
+  - zee5.tv
+  - zeebioskop.com
+  - zeetv.co.uk
+  - zeetv.com
+  - zeeuk.com
+  - zeriamerikes.com
+  - zype.com
 domain_keyword_set:
   - abematv.akamaized.net
   - anthropic
@@ -1340,6 +1343,13 @@ domain_keyword_set:
   - uk-live
   - voddazn
   - youtube
+ip_cidr6_set:
+  - 2607:fb10::/32
+  - 2620:100:3000::/40
+  - 2620:10c:7000::/44
+  - 2620:120:e000::/40
+  - 2a00:86c0::/32
+  - 2a03:5640::/32
 ip_cidr_set:
   - 1.201.0.0/24
   - 1.37.35.6/32
@@ -2259,12 +2269,75 @@ ip_cidr_set:
   - 96.23.20.78/32
   - 96.4.63.99/32
   - 99.81.97.56/32
-ip_cidr6_set:
-  - 2607:fb10::/32
-  - 2620:100:3000::/40
-  - 2620:10c:7000::/44
-  - 2620:120:e000::/40
-  - 2a00:86c0::/32
-  - 2a03:5640::/32
 url_regex_set:
   - "^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/"
+user_agent_set:
+  - "*Spotify*"
+  - "*YouTubeMusic*"
+  - "*com.google.ios.youtubemusic*"
+  - "*youtube*"
+  - "AbemaTV*"
+  - "All4*"
+  - "Anime*"
+  - "AppleTV*"
+  - "Argo*"
+  - "BBCiPlayer*"
+  - "DAZN*"
+  - "DPlus*"
+  - "Deezer*"
+  - "Disney*"
+  - "Disney+*"
+  - "FOX%20NOW*"
+  - "FOXNOW*"
+  - "FOXPlus*"
+  - "HBO%20GO%20PROD%20HKG*"
+  - "HBO%20GO%20PROD*"
+  - "HBO%20NOW*"
+  - "HBO*"
+  - "HBOGOPRODHKG*"
+  - "HBOMAX*"
+  - "HBONOW*"
+  - "HWTVMobile*"
+  - "Himalaya*"
+  - "Hulu*"
+  - "ITV_Player*"
+  - "InstantVideo.US*"
+  - "JOOX*"
+  - "KKTV*"
+  - "LINE%20TV*"
+  - "LINE*"
+  - "LINETV*"
+  - "Max*"
+  - "My5*"
+  - "Naver%20TV*"
+  - "NaverTV*"
+  - "Niconico*"
+  - "Overcast*"
+  - "PBS*"
+  - "PPlus*"
+  - "Pandora*"
+  - "PeacockMobile*"
+  - "Prime%20Video*"
+  - "PrimeVideo*"
+  - "SoundCloud*"
+  - "Spotify*"
+  - "TIDAL*"
+  - "TIDAL*dia"
+  - "TVer-Release*"
+  - "TaiwanGood*"
+  - "TikTok*"
+  - "Viu*"
+  - "ViuTV*"
+  - "WeMusic*"
+  - "WeTV*"
+  - "YouTube*"
+  - "YouTubeMusic*"
+  - "app/bstar*"
+  - "com.apple.tv*"
+  - "com.google.ios.youtube*"
+  - "com.google.ios.youtubemusic*"
+  - "com.kktv*"
+  - "com.kktv.ios.kktv*"
+  - "discovery+*"
+  - "encoreTVB*"
+  - "mytv*"

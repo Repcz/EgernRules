@@ -1,3 +1,6 @@
+# 规则名称: ParamountPlus
+# 规则统计: 10
+
 domain_set:
   - cbsi.live.ott.irdeto.com
   - cbsplaylistserver.aws.syncbak.com
@@ -9,3 +12,5 @@ domain_suffix_set:
   - cbsivideo.com
   - paramountplus.com
   - pplusstatic.com
+user_agent_set:
+  - "PPlus*"

@@ -1,3 +1,6 @@
+# 规则名称: Netflix_Resolve
+# 规则统计: 1157
+
 domain_set:
   - e13252.dscg.akamaiedge.net
   - h-netflix.online-metrix.net
@@ -38,6 +41,11 @@ domain_keyword_set:
   - dualstack.apiproxy-
   - dualstack.ichnaea-web-
   - netflixdnstest
+ip_cidr6_set:
+  - 2607:fb10::/32
+  - 2620:10c:7000::/44
+  - 2a00:86c0::/32
+  - 2a03:5640::/32
 ip_cidr_set:
   - 103.87.204.0/22
   - 107.23.255.0/26
@@ -1154,8 +1162,5 @@ ip_cidr_set:
   - 99.80.34.48/28
   - 99.80.34.64/26
   - 99.80.88.0/25
-ip_cidr6_set:
-  - 2607:fb10::/32
-  - 2620:10c:7000::/44
-  - 2a00:86c0::/32
-  - 2a03:5640::/32
+user_agent_set:
+  - "Argo*"

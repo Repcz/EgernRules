@@ -1,3 +1,6 @@
+# 规则名称: IKEA
+# 规则统计: 95
+
 domain_suffix_set:
   - ikea.ae
   - ikea.at

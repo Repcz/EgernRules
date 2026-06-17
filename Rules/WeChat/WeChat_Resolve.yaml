@@ -1,3 +1,6 @@
+# 规则名称: WeChat_Resolve
+# 规则统计: 332
+
 domain_set:
   - apd-pcdnwxlogin.teg.tencent-cloud.net
   - dldir1.qq.com
@@ -263,10 +266,6 @@ domain_keyword_set:
   - 61.241.44.
   - 61.241.47.
   - 61.241.49.
-ip_cidr_set:
-  - 111.30.160.0/20
-  - 112.53.11.0/24
-  - 112.53.20.0/24
 ip_cidr6_set:
   - 2402:4e00:1020:10fb:0:9466::/112
   - 2402:4e00:1430:2264:0:9467::/96
@@ -332,5 +331,12 @@ ip_cidr6_set:
   - 240e:f7:a070:100::/60
   - 240e:ff:9018:100::/60
   - 240e:ff:f100::/44
+ip_cidr_set:
+  - 111.30.160.0/20
+  - 112.53.11.0/24
+  - 112.53.20.0/24
 asn_set:
-  - 132203
+  - "132203"
+user_agent_set:
+  - "MicroMessenger*"
+  - "WeChat*"

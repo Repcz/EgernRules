@@ -1,3 +1,6 @@
+# 规则名称: GlobalScholar
+# 规则统计: 230
+
 domain_set:
   - scholar.google.com
 domain_suffix_set:

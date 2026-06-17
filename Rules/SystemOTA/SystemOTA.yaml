@@ -1,3 +1,6 @@
+# 规则名称: SystemOTA
+# 规则统计: 78
+
 domain_set:
   - appldnld-cdn.apple.com.akadns.net
   - appldnld-cdn.origin-apple.com.akadns.net

@@ -1,3 +1,6 @@
+# 规则名称: Origin
+# 规则统计: 7
+
 domain_set:
   - cloudsync-prod.s3.amazonaws.com
   - eaasserts-a.akamaihd.net

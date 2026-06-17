@@ -20,7 +20,7 @@ UKMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 6  | 
 | DOMAIN-KEYWORD | 2  | 
 | DOMAIN-SUFFIX | 22  | 
-| USER-AGENT(Egern不支持) | 3  | 
+| USER-AGENT | 3  | 
 | TOTAL(仅供参考) | 33  | 
 
 

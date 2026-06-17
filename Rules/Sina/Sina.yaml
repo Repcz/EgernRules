@@ -1,3 +1,6 @@
+# 规则名称: Sina
+# 规则统计: 108
+
 domain_suffix_set:
   - 001wifi.com
   - 1kapp.com
@@ -94,17 +97,17 @@ domain_suffix_set:
   - wbimg.com
   - wbimg.com.cn
   - wcdn.cn
+  - weibo.cn
+  - weibo.com
   - weibo.com.cn
   - weibo.tv
   - weibocdn.cn
+  - weibocdn.com
   - weiboums.com
   - weipan.cn
   - weipan.com.cn
   - xhaiwai.com
   - xiaoka.tv
   - yangfan.org.cn
-  - weibo.cn
-  - weibo.com
-  - weibocdn.com
 domain_keyword_set:
   - weibo

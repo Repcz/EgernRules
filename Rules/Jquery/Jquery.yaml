@@ -1,3 +1,6 @@
+# 规则名称: Jquery
+# 规则统计: 3
+
 domain_suffix_set:
   - jquery.com
   - jquerymobile.com

@@ -1,3 +1,6 @@
+# 规则名称: Addthis
+# 规则统计: 3
+
 domain_suffix_set:
   - addthis.com
   - addthiscdn.com

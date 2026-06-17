@@ -1,3 +1,6 @@
+# 规则名称: IPTVOther_All_No_Resolve
+# 规则统计: 2814
+
 no_resolve: true
 domain_set:
   - 0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com

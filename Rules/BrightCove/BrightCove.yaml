@@ -1,3 +1,6 @@
+# 规则名称: BrightCove
+# 规则统计: 14
+
 domain_suffix_set:
   - bcove.video
   - bcovlive-a.akamaihd.net

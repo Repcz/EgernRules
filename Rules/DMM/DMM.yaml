@@ -1,3 +1,6 @@
+# 规则名称: DMM
+# 规则统计: 20
+
 no_resolve: true
 domain_suffix_set:
   - akabeesoft2.com

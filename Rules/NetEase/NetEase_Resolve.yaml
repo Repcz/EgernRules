@@ -1,3 +1,6 @@
+# 规则名称: NetEase_Resolve
+# 规则统计: 146
+
 domain_set:
   - netease.ugcvideoss.ourdvs.com
 domain_suffix_set:

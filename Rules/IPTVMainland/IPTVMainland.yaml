@@ -1,3 +1,6 @@
+# 规则名称: IPTVMainland
+# 规则统计: 2297
+
 no_resolve: true
 domain_set:
   - 1-fss24-s0.streamhoster.com

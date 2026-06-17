@@ -1,3 +1,6 @@
+# 规则名称: Crypto
+# 规则统计: 201
+
 domain_set:
   - token-api.metaswap.codefi.network
 domain_suffix_set:

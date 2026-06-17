@@ -23,7 +23,7 @@ Netflix规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 1115  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 1158  | 
 
 

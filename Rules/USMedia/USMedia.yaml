@@ -1,3 +1,6 @@
+# 规则名称: USMedia
+# 规则统计: 98
+
 domain_set:
   - espn.api.edge.bamgrid.com
   - espn.hb.omtrdc.net
@@ -97,3 +100,5 @@ domain_suffix_set:
   - viacomcbspressexpress.com
   - watchespn.com
   - wwwhuluplus.com
+user_agent_set:
+  - "PPlus*"

@@ -21,7 +21,7 @@ YouTube规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 179  | 
 | IP-CIDR | 2  | 
 | IP-CIDR6 | 1  | 
-| USER-AGENT(Egern不支持) | 7  | 
+| USER-AGENT | 7  | 
 | TOTAL(仅供参考) | 190  | 
 
 

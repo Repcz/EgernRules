@@ -1,3 +1,6 @@
+# 规则名称: Bing
+# 规则统计: 9
+
 domain_suffix_set:
   - bing.com
   - bing.com.cn

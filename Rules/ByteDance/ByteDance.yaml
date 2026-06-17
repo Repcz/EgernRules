@@ -1,3 +1,6 @@
+# 规则名称: ByteDance
+# 规则统计: 371
+
 no_resolve: true
 domain_suffix_set:
   - 2333333333333.com
@@ -7,6 +10,7 @@ domain_suffix_set:
   - aigcarena.com
   - aihst8.com
   - amemv.cn
+  - amemv.com
   - amemv.net
   - artistrylab.net
   - baike.com
@@ -83,14 +87,18 @@ domain_suffix_set:
   - douyin.com
   - douyinact.com
   - douyinact.net
+  - douyincdn.com
   - douyinclips.com
   - douyinec.com
   - douyinhanyu.com
   - douyinliving.com
   - douyinmusicclips.com
   - douyinmusicvideo.com
+  - douyinpic.com
   - douyinshortvideo.com
+  - douyinstatic.com
   - douyinvideo.net
+  - douyinvod.com
   - dymusictape.com
   - dymusicvideo.com
   - dyshortvideo.com
@@ -163,6 +171,7 @@ domain_suffix_set:
   - icphoto.cn
   - idouyinpic.com
   - idouyinstatic.com
+  - idouyinvod.com
   - iesdouyin.com
   - iesdouyin.net
   - ieshs.cn
@@ -179,6 +188,8 @@ domain_suffix_set:
   - ihuoshanvod.com
   - inluckcalendar.com
   - ixgvideo.com
+  - ixigua.com
+  - ixiguavideo.com
   - jinritemai-inc.com
   - jinritemai.com
   - jinritoutiao.com
@@ -242,6 +253,7 @@ domain_suffix_set:
   - pglstatp-toutiao-b.com
   - pglstatp-toutiao.com
   - pipix.com
+  - pstatp.com
   - qmoji.mobi
   - qmoji.net
   - qwconnect.top
@@ -263,6 +275,7 @@ domain_suffix_set:
   - tiquality.cn
   - tiquality.com.cn
   - toscdn.com
+  - toutiao.com
   - toutiao11.com
   - toutiao12.com
   - toutiao13.com
@@ -359,15 +372,7 @@ domain_suffix_set:
   - zjurl.cn
   - zlinkurl.cn
   - zlinkurl.com
-  - amemv.com
-  - douyincdn.com
-  - douyinpic.com
-  - douyinstatic.com
-  - douyinvod.com
-  - idouyinvod.com
-  - ixigua.com
-  - ixiguavideo.com
-  - pstatp.com
-  - toutiao.com
 ip_cidr_set:
   - 114.246.10.65/32
+user_agent_set:
+  - "TikTok*"

@@ -1,5 +1,9 @@
+# 规则名称: ChinaMedia
+# 规则统计: 437
+
 no_resolve: true
 domain_set:
+  - 00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
   - 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - 0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
   - 0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -14,6 +18,7 @@ domain_set:
   - 112-81-125-43.dhost.00cdn.com
   - 113-219-145-1.ksyungslb.com
   - 114-236-92-129.ksyungslb.com
+  - 17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
   - 180-101-74-1.ksyungslb.com
   - 1geadrmttge3nhcjwgazdope.ourdvsss.com
   - 1geadrmttge3nhcjwgwzdqqe.ourdvsss.com
@@ -49,8 +54,6 @@ domain_set:
   - 3geauymtsgrzdrcbzfahue.ourdvsss.com
   - 3geauymtsgrzdrcbzfahuk.ourdvsss.com
   - 4go41hcjtgazdoctqge4o.ourdvsss.com
-  - 00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
-  - 17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
   - apd-pcdnvodstat.teg.tencent-cloud.net
   - api.iplay.163.com
   - aqqmusic.tc.qq.com
@@ -68,13 +71,41 @@ domain_set:
   - video-vip-1258344701.shiply-cdn.qq.com
   - yoo.gtimg.com
 domain_suffix_set:
+  - 0co3geye.cn
+  - 1.letvlive.com
+  - 2.letvlive.com
+  - 2isbbess.cn
+  - 33lwhaoinc.cn
+  - 52mtkvideo.cn
+  - 56.com
+  - 71.am
+  - 71.am.com
+  - 71edge.com
+  - 71edge.net
+  - 9xsecndns.cn
+  - acfun.cn
+  - acfun.com
+  - acfun.tv
   - acg.tv
   - acgvideo.com
+  - ads1.lfengmobile.com
+  - afp.pplive.com
+  - ai.xiaomi.com
+  - aianno.cn
+  - aianno.com
+  - aiqiyicloud-mgmt.com
+  - aiqiyicloud.com
+  - aiqiyicloud.net
+  - aixifan.com
+  - androidgo.duapp.com
   - animetamashi.cn
   - animetamashi.com
   - anitama.cn
   - anitama.net
+  - api.game.letvstore.com
   - b23.tv
+  - b82yxres.cn
+  - baiying.com
   - baka.im
   - bigfun.cn
   - bigfunapp.cn
@@ -113,23 +144,6 @@ domain_suffix_set:
   - bilivideo.cn
   - bilivideo.com
   - bilivideo.net
-  - corari.com
-  - dreamcast.hk
-  - dyhgames.com
-  - hdslb.com
-  - hdslb.com.w.kunlunhuf.com
-  - hdslb.com.w.kunlunpi.com
-  - hdslb.net
-  - hdslb.org
-  - im9.com
-  - maoercdn.com
-  - mcbbs.net
-  - mincdn.com
-  - sharejoytech.com
-  - smtcdns.net
-  - upos-hz-mirrorakam.akamaized.net
-  - uposdash-302-bilivideo.yfcdn.net
-  - yo9.com
   - cctv.cn
   - cctv.com
   - cctvlib.cn
@@ -139,66 +153,18 @@ domain_suffix_set:
   - cctvpic.com
   - cctvpro.cn
   - cctvpro.com.cn
+  - cdn.zampdsp.com
   - chinaepg.cn
   - chinalive.com
+  - cibntv.net
   - citv.net.cn
+  - cm.fancyapi.com
+  - cmvideo.cn
   - cnms.net.cn
   - cntv.cn
   - cntv.com.cn
   - cntvwb.cn
-  - gjgbdszt.cn
-  - gjgbdszt.com.cn
-  - gjgbdszt.net.cn
-  - ipanda.cn
-  - ipanda.com
-  - ipanda.com.cn
-  - ipanda.net
-  - livechina.cn
-  - livechina.com
-  - olympicchannelchina.cn
-  - tvcc.cn
-  - tvcc.com.cn
-  - xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
-  - xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
-  - xn--fiq53l90et9fpncc7joo6apn8a.cn
-  - xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
-  - xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
-  - zggbdszt.cn
-  - zggbdszt.com.cn
-  - zggbdszt.net.cn
-  - zygbdszt.net.cn
-  - 0co3geye.cn
-  - 1.letvlive.com
-  - 2.letvlive.com
-  - 2isbbess.cn
-  - 33lwhaoinc.cn
-  - 52mtkvideo.cn
-  - 56.com
-  - 71.am
-  - 71.am.com
-  - 71edge.com
-  - 71edge.net
-  - 9xsecndns.cn
-  - acfun.cn
-  - acfun.com
-  - acfun.tv
-  - ads1.lfengmobile.com
-  - afp.pplive.com
-  - ai.xiaomi.com
-  - aianno.cn
-  - aianno.com
-  - aiqiyicloud-mgmt.com
-  - aiqiyicloud.com
-  - aiqiyicloud.net
-  - aixifan.com
-  - androidgo.duapp.com
-  - api.game.letvstore.com
-  - b82yxres.cn
-  - baiying.com
-  - cdn.zampdsp.com
-  - cibntv.net
-  - cm.fancyapi.com
-  - cmvideo.cn
+  - corari.com
   - dmhmusic.com
   - domesticmedia.cc
   - domesticmedia.cn
@@ -211,17 +177,32 @@ domain_suffix_set:
   - domesticmediagame.net
   - domesticmediapay.cn
   - domesticmediapay.com
+  - dreamcast.hk
+  - dyhgames.com
   - e8h2ty.tdum.alibaba.com
   - gamenow.club
   - gitv.cn
   - gitv.tv
+  - gjgbdszt.cn
+  - gjgbdszt.com.cn
+  - gjgbdszt.net.cn
+  - hdslb.com
+  - hdslb.com.w.kunlunhuf.com
+  - hdslb.com.w.kunlunpi.com
+  - hdslb.net
+  - hdslb.org
   - hifuntv.com
   - hitv.com
   - hunaniptv.com
   - hunantv.com
   - i.qq.com
   - ibkstore.com
+  - im9.com
   - imgo.tv
+  - ipanda.cn
+  - ipanda.com
+  - ipanda.com.cn
+  - ipanda.net
   - iq.com
   - iqiyi.com
   - iqiyi.demo.uwp
@@ -243,9 +224,14 @@ domain_suffix_set:
   - kuxiaomiao.net
   - le.com
   - letv.com
+  - livechina.cn
+  - livechina.com
+  - maoercdn.com
+  - mcbbs.net
   - mgtv.com
   - migu.cn
   - miguvideo.com
+  - mincdn.com
   - mmstat.com
   - music.126.net
   - music.163.com
@@ -254,6 +240,7 @@ domain_suffix_set:
   - music.xiaomi.com
   - noxagile.duapp.com
   - ns6mitkxo.cn
+  - olympicchannelchina.cn
   - p-bstarstatic.akamaized.net
   - p.bstarstatic.com
   - pgdt.gtimg.cn
@@ -276,7 +263,9 @@ domain_suffix_set:
   - qy.com
   - qy.net
   - s.zampdsp.com
+  - sharejoytech.com
   - sk2cdsnw.cn
+  - smtcdns.net
   - snssdk.com
   - sogoodtech1.cn
   - sohu.com
@@ -287,9 +276,13 @@ domain_suffix_set:
   - tazai.com
   - tencentmusic.com
   - tudou.com
+  - tvcc.cn
+  - tvcc.com.cn
   - ukoo.com.cn
   - upos-bstar-mirrorakam.akamaized.net
   - upos-bstar1-mirrorakam.akamaized.net
+  - upos-hz-mirrorakam.akamaized.net
+  - uposdash-302-bilivideo.yfcdn.net
   - v-56.com
   - v.qq.com
   - v.smtcdns.com
@@ -301,8 +294,14 @@ domain_suffix_set:
   - wwc.alicdn.com
   - xiami.com
   - xiami.net
+  - xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+  - xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+  - xn--fiq53l90et9fpncc7joo6apn8a.cn
+  - xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+  - xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
   - y.qq.com
   - ykimg.com
+  - yo9.com
   - yodou.com
   - yoku.net.cn
   - yoqoo.com
@@ -314,15 +313,49 @@ domain_suffix_set:
   - youku.org
   - youqoo.net
   - zamplus.com
+  - zggbdszt.cn
+  - zggbdszt.com.cn
+  - zggbdszt.net.cn
   - zimuzu.io
   - zimuzu.tv
   - zmz2019.com
   - zmzapi.com
   - zmzapi.net
   - zmzfile.com
+  - zygbdszt.net.cn
 domain_keyword_set:
   - bilibili
   - qiyi
+ip_cidr6_set:
+  - ::ffff:113.248.172.245/128
+  - ::ffff:114.235.96.186/128
+  - ::ffff:115.236.128.112/128
+  - ::ffff:115.236.128.120/128
+  - ::ffff:115.236.128.24/128
+  - ::ffff:115.236.128.80/128
+  - ::ffff:117.64.75.196/128
+  - ::ffff:117.68.200.210/128
+  - ::ffff:117.87.144.24/128
+  - ::ffff:121.56.126.255/128
+  - ::ffff:124.73.198.81/128
+  - ::ffff:124.73.200.142/128
+  - ::ffff:175.6.84.30/128
+  - ::ffff:175.6.84.96/128
+  - ::ffff:183.161.144.133/128
+  - ::ffff:183.161.144.230/128
+  - ::ffff:183.161.149.105/128
+  - ::ffff:198.18.5.138/128
+  - ::ffff:198.18.6.81/128
+  - ::ffff:198.18.6.83/128
+  - ::ffff:223.240.191.238/128
+  - ::ffff:27.157.209.46/128
+  - ::ffff:58.217.232.117/128
+  - ::ffff:58.217.232.68/128
+  - ::ffff:58.217.232.79/128
+  - ::ffff:58.58.0.90/128
+  - ::ffff:60.171.183.161/128
+  - ::ffff:60.171.183.186/128
+  - ::ffff:60.171.183.98/128
 ip_cidr_set:
   - 101.224.0.0/13
   - 101.71.154.241/32
@@ -379,33 +412,36 @@ ip_cidr_set:
   - 59.111.181.35/32
   - 59.111.181.38/32
   - 59.111.181.60/32
-ip_cidr6_set:
-  - ::ffff:113.248.172.245/128
-  - ::ffff:114.235.96.186/128
-  - ::ffff:115.236.128.112/128
-  - ::ffff:115.236.128.120/128
-  - ::ffff:115.236.128.24/128
-  - ::ffff:115.236.128.80/128
-  - ::ffff:117.64.75.196/128
-  - ::ffff:117.68.200.210/128
-  - ::ffff:117.87.144.24/128
-  - ::ffff:121.56.126.255/128
-  - ::ffff:124.73.198.81/128
-  - ::ffff:124.73.200.142/128
-  - ::ffff:175.6.84.30/128
-  - ::ffff:175.6.84.96/128
-  - ::ffff:183.161.144.133/128
-  - ::ffff:183.161.144.230/128
-  - ::ffff:183.161.149.105/128
-  - ::ffff:198.18.5.138/128
-  - ::ffff:198.18.6.81/128
-  - ::ffff:198.18.6.83/128
-  - ::ffff:223.240.191.238/128
-  - ::ffff:27.157.209.46/128
-  - ::ffff:58.217.232.117/128
-  - ::ffff:58.217.232.68/128
-  - ::ffff:58.217.232.79/128
-  - ::ffff:58.58.0.90/128
-  - ::ffff:60.171.183.161/128
-  - ::ffff:60.171.183.186/128
-  - ::ffff:60.171.183.98/128
+user_agent_set:
+  - "%E4%BC%98%E9%85%B7*"
+  - "%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91"
+  - "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90"
+  - "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*"
+  - "%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*"
+  - "*QIYI*"
+  - "*bili*"
+  - "AcFun*"
+  - "Bilibili*"
+  - "DomesticMedia*"
+  - "MGTV*"
+  - "MOO%E9%9F%B3%E4%B9%90*"
+  - "MOO*"
+  - "MiguVideo*"
+  - "NeteaseMusic*"
+  - "PPStream*"
+  - "QIYI*"
+  - "QQ%E9%9F%B3%E4%B9%90"
+  - "QQ%e9%9f%b3%e4%b9%90*"
+  - "QQMusic*"
+  - "QYPlayer*"
+  - "TencentMidasConnect*"
+  - "YYeTs*"
+  - "Youku*"
+  - "baiduyinyue"
+  - "bili*"
+  - "bili-inter*"
+  - "iQiYi*"
+  - "live4iphone*"
+  - "qqlive4iphone*"
+  - "walkman*"
+  - "xiami*"

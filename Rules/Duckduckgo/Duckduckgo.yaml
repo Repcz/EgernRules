@@ -1,3 +1,6 @@
+# 规则名称: Duckduckgo
+# 规则统计: 43
+
 domain_suffix_set:
   - cispaletter.com
   - cispaletter.org

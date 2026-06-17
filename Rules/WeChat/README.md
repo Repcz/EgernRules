@@ -23,7 +23,7 @@
 | IP-ASN | 1  | 
 | IP-CIDR | 3  | 
 | IP-CIDR6 | 64  | 
-| USER-AGENT(Egern不支持) | 2  | 
+| USER-AGENT | 2  | 
 | TOTAL(仅供参考) | 332  | 
 
 

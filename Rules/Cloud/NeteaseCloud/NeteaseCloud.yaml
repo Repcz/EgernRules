@@ -1,3 +1,6 @@
+# 规则名称: NeteaseCloud
+# 规则统计: 29
+
 no_resolve: true
 ip_cidr_set:
   - 103.196.64.0/22

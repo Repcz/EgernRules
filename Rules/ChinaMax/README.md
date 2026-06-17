@@ -33,7 +33,7 @@
 | IP-CIDR | 8232  | 
 | IP-CIDR6 | 4135  | 
 | PROCESS-NAME | 12  | 
-| USER-AGENT(Egern不支持) | 65  | 
+| USER-AGENT | 65  | 
 | TOTAL(仅供参考) | 125283  | 
 
 

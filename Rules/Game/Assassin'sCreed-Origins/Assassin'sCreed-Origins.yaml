@@ -1,3 +1,6 @@
+# 规则名称: Assassin'sCreed-Origins
+# 规则统计: 16
+
 no_resolve: true
 ip_cidr_set:
   - 104.92.145.0/24

@@ -20,7 +20,7 @@ HBOAsia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 16  | 
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 2  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 20  | 
 
 

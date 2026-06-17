@@ -1,3 +1,6 @@
+# 规则名称: Npmjs
+# 规则统计: 3
+
 domain_suffix_set:
   - npm.community
   - npmjs.com

@@ -1,2 +1,7 @@
+# 规则名称: LastPass
+# 规则统计: 2
+
 domain_suffix_set:
   - lastpass.com
+user_agent_set:
+  - "LastPass*"

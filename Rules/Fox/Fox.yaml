@@ -1,3 +1,6 @@
+# 规则名称: Fox
+# 规则统计: 257
+
 domain_suffix_set:
   - afewmomentswith.com
   - anidom.com
@@ -255,3 +258,5 @@ domain_suffix_set:
   - wofl.tv
   - woflthenewsstation.com
   - wogx.com
+user_agent_set:
+  - "FOX%20NOW*"

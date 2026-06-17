@@ -1,3 +1,6 @@
+# 规则名称: AppleDaily
+# 规则统计: 32
+
 domain_suffix_set:
   - appledaily.com
   - appledaily.com.hk

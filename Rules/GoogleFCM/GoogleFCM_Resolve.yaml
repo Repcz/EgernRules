@@ -1,3 +1,6 @@
+# 规则名称: GoogleFCM_Resolve
+# 规则统计: 41
+
 domain_set:
   - alt1-mtalk.google.com
   - alt2-mtalk.google.com

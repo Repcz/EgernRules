@@ -1,3 +1,6 @@
+# 规则名称: myTVSUPER
+# 规则统计: 7
+
 domain_set:
   - mytvsuperlimited.hb.omtrdc.net
   - mytvsuperlimited.sc.omtrdc.net
@@ -7,3 +10,5 @@ domain_suffix_set:
 domain_keyword_set:
   - nowtv100
   - rthklive
+user_agent_set:
+  - "mytv*"

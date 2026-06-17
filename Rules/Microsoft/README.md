@@ -21,7 +21,7 @@ Microsoft规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 663  | 
 | PROCESS-NAME | 2  | 
-| USER-AGENT(Egern不支持) | 3  | 
+| USER-AGENT | 3  | 
 | TOTAL(仅供参考) | 673  | 
 
 

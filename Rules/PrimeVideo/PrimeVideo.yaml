@@ -1,3 +1,6 @@
+# 规则名称: PrimeVideo
+# 规则统计: 18
+
 domain_set:
   - atv-ps.amazon.com
   - avodmp4s3ww-a.akamaihd.net
@@ -17,3 +20,6 @@ domain_suffix_set:
   - pv-cdn.net
 domain_keyword_set:
   - avoddashs
+user_agent_set:
+  - "InstantVideo.US*"
+  - "Prime%20Video*"

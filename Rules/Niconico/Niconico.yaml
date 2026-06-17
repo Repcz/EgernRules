@@ -1,3 +1,6 @@
+# 规则名称: Niconico
+# 规则统计: 10
+
 domain_suffix_set:
   - dmc.nico
   - nicodic.jp
@@ -8,3 +11,5 @@ domain_suffix_set:
   - nimg.jp
   - simg.jp
   - socdm.com
+user_agent_set:
+  - "Niconico*"

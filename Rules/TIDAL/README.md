@@ -18,7 +18,7 @@ TIDAL规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-SUFFIX | 4  | 
-| USER-AGENT(Egern不支持) | 2  | 
+| USER-AGENT | 2  | 
 | TOTAL(仅供参考) | 6  | 
 
 

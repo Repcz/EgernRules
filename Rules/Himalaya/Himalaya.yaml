@@ -1,3 +1,6 @@
+# 规则名称: Himalaya
+# 规则统计: 18
+
 domain_suffix_set:
   - 9nali.com
   - conchdate.com
@@ -16,3 +19,5 @@ domain_suffix_set:
   - zhishinn.com
   - zhishiu.com
   - zhishiv.com
+user_agent_set:
+  - "Himalaya*"

@@ -1,3 +1,6 @@
+# 规则名称: BardAI
+# 规则统计: 10
+
 domain_set:
   - ai.google.dev
   - alkalimakersuite-pa.clients6.google.com

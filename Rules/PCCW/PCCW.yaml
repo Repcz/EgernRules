@@ -1,3 +1,6 @@
+# 规则名称: PCCW
+# 规则统计: 25
+
 domain_suffix_set:
   - 1010.com.hk
   - d1k2us671qcoau.cloudfront.net

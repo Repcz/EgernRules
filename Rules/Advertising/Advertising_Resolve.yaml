@@ -1,3 +1,6 @@
+# 规则名称: Advertising_Resolve
+# 规则统计: 781
+
 domain_keyword_set:
   - -logging.nextmedia.com
   - -rtb.gravite.net
@@ -11,117 +14,74 @@ domain_keyword_set:
   - .net.daraz.
   - .nimiq.
   - .zooplus.
-  - _vmind.qqvideo.tc.qq.com
-  - a8clk.
-  - a8cv.
-  - ad.ixigua.com
-  - adjust.
-  - adktrack
-  - admdfs
-  - admob
-  - adnewnc
-  - adsame
-  - adsby
-  - adsdk
-  - adsense
-  - adserve2
-  - adserver
-  - adspace
-  - adsyndication
-  - advert
-  - allyes
-  - analysys
-  - analytics-cdn.
-  - anybest.
-  - backstory.ebay.
-  - click.rum.
-  - cmpworker.
-  - cp-home-pl-
-  - crashlytics
-  - dat8
-  - dc.pimentaafricana
-  - dnserror
-  - doubleclick.
-  - dubester.
-  - fb-business-appeal
-  - fb-community-standards
-  - fb-restriction-appeal
-  - fb-restriction-case
-  - fenxi
-  - flightsy
-  - gettate
-  - googleads
-  - hostingcloud
-  - inmobi
-  - insights-collector.
-  - itabelog
-  - jads
-  - jshosting
-  - marketing.net
-  - mighbest
-  - mobaders
-  - nbsdk-baichuan
-  - nimiqpool
-  - pancakeswap
-  - plausible.
-  - securepubads
-  - smetrics.
-  - sunnimiq
-  - taboola
-  - telemetry.officeapps.live.com
-  - thetollroads-
-  - track.msadcenter
-  - track.opentable.
-  - track.tiara
-  - trkcmb.business.hsbc.
-  - trkgbm.business.hsbc.
-  - trkhinv.business.hsbc.
-  - trksvg.business.hsbc.
-  - uedas
-  - umtrack
-  - wxsnsdy
-  - zymerget
   - 112wan
   - 789htbet
+  - _vmind.qqvideo.tc.qq.com
   - a.9game.cn
   - a.wkanx.com
   - a3.bytecdn.cn
   - a3.pstatp.com
+  - a8clk.
+  - a8cv.
   - ad.api.moji.com
   - ad.ihuman.com
+  - ad.ixigua.com
   - ad.toutiao.com
   - adash.man.aliyuncs.com
   - adform
+  - adjust.
+  - adktrack
   - adm3.autoimg.cn
   - admarvel
   - admaster
+  - admdfs
+  - admob
+  - adnewnc
   - adp.atm.youku.com
   - adproxy.autohome.com
   - adsage
+  - adsame
+  - adsby
+  - adsdk
+  - adsense
   - adsensor
+  - adserve2
+  - adserver
   - adservice
   - adsfilebssdlbig.ali.kugou.com
   - adshare.toutiao.com
   - adsmogo
+  - adspace
   - adsrvmedia
   - adsserving
+  - adsyndication
   - adsystem
   - adtrack.ucweb.com
+  - advert
   - adwords
   - afpapi.alimama.com
+  - allyes
+  - analysys
+  - analytics-cdn.
+  - analytics.
   - android.bugly.qq.com
+  - anybest.
   - ap.51y5.net
   - api.freed.so
   - api.sobot.com
   - apiinit.amap.com
   - apimg.qunliao.info
+  - app-analytics
+  - app-log.
   - app.51y5.net
+  - applog.
   - applogapi.autohome.com
   - applovin
   - appsflyer
   - asewlfjqwlflkew
   - asiad.byteactivity
   - av1.xdrig.com
+  - backstory.ebay.
   - bds.snssdk.com
   - bdsp.x.jd.com
   - bj.imp.voiceads.cn
@@ -135,22 +95,31 @@ domain_keyword_set:
   - c1img.ali.kugou.com
   - caclick.baidu.com
   - cds.51y5.net
+  - click.rum.
   - client-dmp.suishenyun.cn
   - clk.gentags.net
   - cm-10-134.getui.com
   - cm-10-35.getui.com
+  - cmpworker.
   - collectionpv.che168.com
   - config.51y5.net
   - config.y5en.com
   - count.atm.youku.com
+  - cp-home-pl-
   - cpu.baidu.com
+  - crashlytics
+  - dat8
+  - dc.pimentaafricana
   - dfkj8
   - dlads
   - dm.bytedance.com
   - dm.pstatp.com
   - dm.toutiao.com
+  - dnserror
   - domob
+  - doubleclick.
   - dtscout
+  - dubester.
   - duomeng
   - dwtrack
   - e2wysbacctt1
@@ -159,21 +128,38 @@ domain_keyword_set:
   - exosrv
   - extlog.snssdk.com
   - fans.m.tmall.com
+  - fb-business-appeal
+  - fb-community-standards
+  - fb-restriction-appeal
+  - fb-restriction-case
   - fc-video.cdn.bcebos.com
   - fds.api.moji.com
+  - fenxi
+  - flightsy
+  - fzlm
+  - gettate
+  - googleads
   - greenplasticdua
   - guanggao
   - haowanyou
   - highwebmedia
   - histats
+  - hostingcloud
   - huichuan-mc.sm.cn
   - huichuan.sm.cn
   - iflyad.bj.openstorage.cn
   - image.bianxianmao.com
   - img1.czb365.com
   - in-page-push
+  - inmobi
+  - insights-collector.
   - insurance.lianwifi.com
+  - ios-log.
+  - ioslog.
+  - itabelog
+  - jads
   - js.union-wifi.com
+  - jshosting
   - juruigj
   - kepler.jd.com
   - keplerapi.jd.com
@@ -190,20 +176,25 @@ domain_keyword_set:
   - m.panda.voiceads.cn
   - m.suning.com
   - mapi.m.jd.com
+  - marketing.net
   - mathtag
   - mdapp09
   - me.api.moji.com
   - medicine.lanjiyin.com.cn
   - mifengv
+  - mighbest
   - mmiyue
+  - mobaders
   - mobads.baidu.com
   - mobilead.kuwo.cn
   - mpos-pic.helipay.com
   - msg.push.51y5.net
   - nbcollect.kugou.com
   - nbcollectretry.kugou.com
+  - nbsdk-baichuan
   - news-log.51y5.net
   - news.51y5.net
+  - nimiqpool
   - o333o
   - omgmta
   - omniture
@@ -214,13 +205,17 @@ domain_keyword_set:
   - p3.pstatp.com
   - p6-pack.byteimg.com
   - pagespeed-mod
+  - pancakeswap
   - pangolin-sdk-toutiao
   - paradisestatic.vivo.com.cn
   - partnerad
+  - pc-log.
   - pc.suishenyun.net
+  - pclog.
   - pdds.ucweb.com
   - pglstatp-toutiao
   - pingfore
+  - plausible.
   - policy.jd.com
   - puds.ucweb.com
   - r1.ykimg.com
@@ -235,23 +230,38 @@ domain_keyword_set:
   - sdfp.snssdk.com
   - sdk.open.talk.getui.com
   - searchrecommend.kugou.com
+  - securepubads
   - server.m.pp.cn
+  - smetrics.
   - socdm
   - splashimgbssdl.yun.kugou.com
   - stsdk.vivo.com.cn
   - stsdk.vivoglobal.com
   - stunninglover
+  - sunnimiq
   - supersonicads
+  - taboola
   - talk.bz.getui.com
+  - telemetry.officeapps.live.com
+  - thetollroads-
   - toateeli
   - tosv.boe.byted.org
   - tosv.byted.org
+  - track.msadcenter
+  - track.opentable.
+  - track.tiara
   - track.uc.cn
   - tracker.kugou.com
   - trackercdnbj.kugou.com
+  - trkcmb.business.hsbc.
+  - trkgbm.business.hsbc.
+  - trkhinv.business.hsbc.
+  - trksvg.business.hsbc.
   - trwl1
   - tunion-api.m.taobao.com
+  - uedas
   - umeng
+  - umtrack
   - utp-dmp.ucweb.com
   - utp.ucweb.com
   - v0-client-lz.rili.cn
@@ -264,19 +274,16 @@ domain_keyword_set:
   - wixsite.com
   - wlmonitor
   - www.qmlog.cn
+  - wxsnsdy
   - xn--2qux23c9ziyrq
   - xxshuyuan
   - ynuf.alipay.com
   - zjtoolbar
-  - analytics.
-  - app-analytics
-  - app-log.
-  - applog.
-  - fzlm
-  - ios-log.
-  - ioslog.
-  - pc-log.
-  - pclog.
+  - zymerget
+ip_cidr6_set:
+  - 2402:4e00:1900:1700:0:9554:1ad9:c3a/128
+  - 2402:db40:5100:1011::5/128
+  - 240e:928:1400:10::25/128
 ip_cidr_set:
   - 0.0.0.0/24
   - 1.3.0.10/32
@@ -764,10 +771,6 @@ ip_cidr_set:
   - 77.162.125.199/32
   - 78.140.131.214/32
   - 88.42.84.136/32
-ip_cidr6_set:
-  - 2402:4e00:1900:1700:0:9554:1ad9:c3a/128
-  - 240e:928:1400:10::25/128
-  - 2402:db40:5100:1011::5/128
 url_regex_set:
   - "/\d+/resolve"
   - "/\d+/sign_d"
@@ -777,9 +780,9 @@ url_regex_set:
   - "^https?:\/\/ad\d\.sina\.com"
   - "^https?:\/\/ad\d\.sina\.com.cn"
   - "^https?:\/\/app\.58\.com\/api\/log\/"
+  - "^https?:\/\/cdn-1rtb\.caiyunapp\.com/creative/.*$"
   - "^https?:\/\/d\d.sinaimg.cn"
+  - "^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/"
   - "^https?:\/\/sa\d\.tuisong\.baidu\.com"
   - "^https?:\/\/sax\w?\.sina\.com\.cn"
   - "^https?:\/\/update\.pan\.baidu\.com\/statistics"
-  - "^https?:\/\/cdn-1rtb\.caiyunapp\.com/creative/.*$"
-  - "^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/"

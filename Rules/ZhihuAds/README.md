@@ -24,7 +24,7 @@
 | IP-CIDR | 1  | 
 | IP-CIDR6 | 1  | 
 | URL-REGEX | 7  | 
-| USER-AGENT(Egern不支持) | 1  | 
+| USER-AGENT | 1  | 
 | TOTAL(仅供参考) | 13  | 
 
 

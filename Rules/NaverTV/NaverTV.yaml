@@ -1,3 +1,8 @@
+# 规则名称: NaverTV
+# 规则统计: 3
+
 domain_suffix_set:
   - naver.com
   - smartmediarep.com
+user_agent_set:
+  - "Naver%20TV*"

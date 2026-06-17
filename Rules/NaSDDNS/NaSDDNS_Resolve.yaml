@@ -1,3 +1,6 @@
+# 规则名称: NaSDDNS_Resolve
+# 规则统计: 46
+
 domain_suffix_set:
   - 3322.net
   - 3322.org

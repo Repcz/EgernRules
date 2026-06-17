@@ -1,3 +1,6 @@
+# 规则名称: YouTube
+# 规则统计: 190
+
 no_resolve: true
 domain_suffix_set:
   - ggpht.cn
@@ -181,8 +184,16 @@ domain_suffix_set:
   - ytimg.com
 domain_keyword_set:
   - youtube
+ip_cidr6_set:
+  - 2620:120:e000::/40
 ip_cidr_set:
   - 172.110.32.0/21
   - 216.73.80.0/20
-ip_cidr6_set:
-  - 2620:120:e000::/40
+user_agent_set:
+  - "*YouTubeMusic*"
+  - "*com.google.ios.youtubemusic*"
+  - "*youtube*"
+  - "YouTube*"
+  - "YouTubeMusic*"
+  - "com.google.ios.youtube*"
+  - "com.google.ios.youtubemusic*"

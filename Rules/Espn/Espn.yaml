@@ -1,3 +1,6 @@
+# 规则名称: Espn
+# 规则统计: 11
+
 domain_set:
   - espn.api.edge.bamgrid.com
   - espn.hb.omtrdc.net

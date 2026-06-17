@@ -1,3 +1,6 @@
+# 规则名称: Amazon
+# 规则统计: 205
+
 no_resolve: true
 domain_suffix_set:
   - a2z.com
@@ -206,3 +209,6 @@ ip_cidr_set:
   - 54.93.0.0/16
 url_regex_set:
   - "^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/"
+user_agent_set:
+  - "InstantVideo.US*"
+  - "Prime%20Video*"

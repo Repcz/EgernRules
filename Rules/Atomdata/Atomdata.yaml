@@ -1,3 +1,6 @@
+# 规则名称: Atomdata
+# 规则统计: 3
+
 domain_suffix_set:
   - analytics-data.io
   - atom-data.io

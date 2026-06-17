@@ -1,3 +1,6 @@
+# 规则名称: Salesforce
+# 规则统计: 13
+
 domain_suffix_set:
   - force.com
   - heroku.com

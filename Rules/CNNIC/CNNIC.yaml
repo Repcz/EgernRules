@@ -1,3 +1,6 @@
+# 规则名称: CNNIC
+# 规则统计: 33
+
 domain_suffix_set:
   - 6pilot.cn
   - apac.cn

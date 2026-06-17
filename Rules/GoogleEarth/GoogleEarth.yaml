@@ -1,3 +1,6 @@
+# 规则名称: GoogleEarth
+# 规则统计: 16
+
 domain_suffix_set:
   - earth-pa.clients6.google.com
   - earth.google.com

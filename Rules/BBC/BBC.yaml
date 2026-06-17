@@ -1,3 +1,6 @@
+# 规则名称: BBC
+# 规则统计: 29
+
 domain_set:
   - aod-dash-uk-live.akamaized.net
   - aod-hls-uk-live.akamaized.net
@@ -29,3 +32,5 @@ domain_suffix_set:
 domain_keyword_set:
   - bbcfmt
   - uk-live
+user_agent_set:
+  - "BBCiPlayer*"

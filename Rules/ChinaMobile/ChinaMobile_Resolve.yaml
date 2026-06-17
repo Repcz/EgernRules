@@ -1,3 +1,6 @@
+# 规则名称: ChinaMobile_Resolve
+# 规则统计: 36
+
 domain_suffix_set:
   - 10086.cn
   - 10086kuaixiu.com

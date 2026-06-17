@@ -1,3 +1,6 @@
+# 规则名称: Embl
+# 规则统计: 7
+
 domain_suffix_set:
   - ebi.ac.uk
   - embl-hamburg.de

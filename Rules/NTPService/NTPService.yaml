@@ -1,3 +1,6 @@
+# 规则名称: NTPService
+# 规则统计: 82
+
 domain_suffix_set:
   - cn.ntp.org.cn
   - de.ntp.org.cn

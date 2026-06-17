@@ -1,3 +1,6 @@
+# 规则名称: LastFM
+# 规则统计: 31
+
 domain_set:
   - last.us11.list-manage.com
   - lastfm-img2.akamaized.net

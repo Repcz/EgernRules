@@ -1,3 +1,6 @@
+# 规则名称: Clubhouse
+# 规则统计: 5
+
 domain_set:
   - clubhouse.pubnub.com
   - clubhouseprod.s3.amazonaws.com

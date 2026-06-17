@@ -19,7 +19,7 @@
 | ---- | ----  |
 | DOMAIN-SUFFIX | 34  | 
 | IP-CIDR | 1  | 
-| USER-AGENT(Egern不支持) | 2  | 
+| USER-AGENT | 2  | 
 | TOTAL(仅供参考) | 37  | 
 
 

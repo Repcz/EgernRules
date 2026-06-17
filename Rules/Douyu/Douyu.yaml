@@ -1,3 +1,6 @@
+# 规则名称: Douyu
+# 规则统计: 13
+
 domain_suffix_set:
   - bytefcdnrd.com
   - douyu.com

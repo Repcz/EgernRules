@@ -1,3 +1,6 @@
+# 规则名称: Google
+# 规则统计: 698
+
 no_resolve: true
 domain_set:
   - voice.telephony.goog
@@ -469,6 +472,7 @@ domain_suffix_set:
   - googlecompare.co.uk
   - googledanmark.com
   - googledomains.com
+  - googledrive.com
   - googlee.com
   - googleearth.com
   - googlefiber.com
@@ -496,6 +500,7 @@ domain_suffix_set:
   - googletagservices.com
   - googletraveladservices-cn.com
   - googletraveladservices.com
+  - googleusercontent.com
   - googlevads-cn.com
   - googleventures.com
   - googlr.com
@@ -684,18 +689,20 @@ domain_suffix_set:
   - xplr.co
   - zukunftswerkstatt.de
   - zynamics.com
-  - googledrive.com
-  - googleusercontent.com
 domain_keyword_set:
   - appspot
   - blogspot
   - gmail
   - google
   - recaptcha
+ip_cidr6_set:
+  - 2620:120:e000::/40
 ip_cidr_set:
   - 172.110.32.0/21
   - 173.194.0.0/16
   - 216.73.80.0/20
   - 74.125.0.0/16
-ip_cidr6_set:
-  - 2620:120:e000::/40
+user_agent_set:
+  - "%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*"
+  - "*com.google.Drive*"
+  - "Google.Drive*"
