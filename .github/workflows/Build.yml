@@ -31,7 +31,7 @@ jobs:
     # Step 1: 检出仓库
     # =========================================================================
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         fetch-depth: 1
 
