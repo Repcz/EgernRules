@@ -1,0 +1,10 @@
+# 规则名称: My5
+# 规则统计: 4
+
+domain_set:
+  - d349g9zuie06uo.cloudfront.net
+domain_suffix_set:
+  - channel5.com
+  - my5.tv
+user_agent_set:
+  - 'My5*'

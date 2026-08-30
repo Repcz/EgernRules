@@ -1,0 +1,11 @@
+# 规则名称: Sectigo
+# 规则统计: 7
+
+domain_suffix_set:
+  - enterprisessl.com
+  - hackerguardian.com
+  - instantssl.com
+  - optimumssl.com
+  - positivessl.com
+  - sectigo.com
+  - usertrust.com

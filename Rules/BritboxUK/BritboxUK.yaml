@@ -1,0 +1,13 @@
+# 规则名称: BritboxUK
+# 规则统计: 8
+
+domain_set:
+  - itvpnp.live.ott.irdeto.com
+  - itvpnp.stage.ott.irdeto.com
+domain_suffix_set:
+  - bb-static.com
+  - bbc.co.uk
+  - britbox.co.uk
+  - britbox.com
+  - itv.com
+  - massive-itv.com

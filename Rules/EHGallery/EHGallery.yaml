@@ -1,0 +1,13 @@
+# 规则名称: EHGallery
+# 规则统计: 7
+
+no_resolve: true
+domain_suffix_set:
+  - e-hentai.org
+  - ehgt.org
+  - ehwiki.org
+  - exhentai.org
+  - hath.network
+  - hentaiverse.org
+ip_cidr_set:
+  - 178.175.128.0/21

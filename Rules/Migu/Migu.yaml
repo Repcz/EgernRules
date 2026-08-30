@@ -1,0 +1,10 @@
+# 规则名称: Migu
+# 规则统计: 5
+
+domain_suffix_set:
+  - cmvideo.cn
+  - migu.cn
+  - miguvideo.com
+user_agent_set:
+  - '%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91'
+  - 'MiguVideo*'

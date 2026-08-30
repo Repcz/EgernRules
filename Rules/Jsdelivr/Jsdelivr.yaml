@@ -1,0 +1,7 @@
+# 规则名称: Jsdelivr
+# 规则统计: 3
+
+domain_suffix_set:
+  - esm.run
+  - jsdelivr.com
+  - jsdelivr.net

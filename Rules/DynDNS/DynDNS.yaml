@@ -1,0 +1,12 @@
+# 规则名称: DynDNS
+# 规则统计: 8
+
+domain_suffix_set:
+  - blogdns.org
+  - dyn.com
+  - dyndns-ip.com
+  - dyndns-pics.com
+  - dyndns.org
+  - from-pr.com
+  - from-sd.com
+  - is-a-hunter.com

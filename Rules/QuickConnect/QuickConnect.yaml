@@ -1,0 +1,11 @@
+# 规则名称: QuickConnect
+# 规则统计: 6
+
+domain_set:
+  - account.synology.com
+  - global.quickconnect.cn
+  - sns.synology.com
+domain_suffix_set:
+  - download.synology.com
+  - quickconnect.com
+  - quickconnect.to

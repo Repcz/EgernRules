@@ -1,0 +1,10 @@
+# 规则名称: YouTubeMusic
+# 规则统计: 5
+
+domain_set:
+  - music.youtube.com
+user_agent_set:
+  - '*YouTubeMusic*'
+  - '*com.google.ios.youtubemusic*'
+  - 'YouTubeMusic*'
+  - 'com.google.ios.youtubemusic*'

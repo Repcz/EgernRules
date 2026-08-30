@@ -1,0 +1,7 @@
+# 规则名称: Nikkei
+# 规则统计: 3
+
+domain_suffix_set:
+  - nikkei.co.jp
+  - nikkei.com
+  - nikkei.jp

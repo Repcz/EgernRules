@@ -1,0 +1,17 @@
+# 规则名称: HBOUSA
+# 规则统计: 11
+
+domain_set:
+  - wmff.warnermediacdn.com
+domain_suffix_set:
+  - cinemax.com
+  - discomax.com
+  - h264.io
+  - hbomax.com
+  - hbomaxcdn.com
+  - hbomaxdash.s.llnwi.net
+  - hbonow.com
+  - max.com
+  - maxgo.com
+user_agent_set:
+  - 'HBOMAX*'

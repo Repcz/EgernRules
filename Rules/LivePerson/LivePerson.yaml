@@ -1,0 +1,7 @@
+# 规则名称: LivePerson
+# 规则统计: 3
+
+domain_suffix_set:
+  - liveperson.com
+  - liveperson.net
+  - lpsnmedia.net

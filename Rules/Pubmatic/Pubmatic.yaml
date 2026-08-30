@@ -1,0 +1,5 @@
+# 规则名称: Pubmatic
+# 规则统计: 1
+
+domain_suffix_set:
+  - ads.pubmatic.com

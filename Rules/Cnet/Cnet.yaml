@@ -1,0 +1,5 @@
+# 规则名称: Cnet
+# 规则统计: 1
+
+domain_suffix_set:
+  - cnet.com

@@ -1,0 +1,6 @@
+# 规则名称: AppleNews
+# 规则统计: 2
+
+domain_set:
+  - gspe1-ssl.ls.apple.com
+  - news-client-search.apple.com

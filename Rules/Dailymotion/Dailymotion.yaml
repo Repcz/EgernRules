@@ -1,0 +1,9 @@
+# 规则名称: Dailymotion
+# 规则统计: 5
+
+domain_suffix_set:
+  - dai.ly
+  - dailymotion.com
+  - dm-event.net
+  - dmcdn.net
+  - dmxleo.com

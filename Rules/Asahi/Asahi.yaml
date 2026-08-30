@@ -1,0 +1,12 @@
+# 规则名称: Asahi
+# 规则统计: 7
+
+domain_set:
+  - asahishimbun.sc.omtrdc.net
+domain_suffix_set:
+  - aiasahi.jp
+  - asagaku.com
+  - asahi.com
+  - asahicom.jp
+  - asakonet.co.jp
+  - nikkansports.com

@@ -1,0 +1,8 @@
+# 规则名称: MicrosoftEdge
+# 规则统计: 4
+
+domain_set:
+  - edge.activity.windows.com
+  - edge.microsoft.com
+  - iecvlist.microsoft.com
+  - msedge.api.cdp.microsoft.com

@@ -1,0 +1,7 @@
+# 规则名称: Purikonejp
+# 规则统计: 3
+
+domain_suffix_set:
+  - api-priconne-redive.cygames.jp
+  - omotenashi.cygames.jp
+  - prd-priconne-redive.akamaized.net

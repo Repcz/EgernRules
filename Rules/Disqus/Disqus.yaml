@@ -1,0 +1,7 @@
+# 规则名称: Disqus
+# 规则统计: 3
+
+domain_suffix_set:
+  - disqus.com
+  - disquscdn.com
+  - disqusservice.com

@@ -1,0 +1,7 @@
+# 规则名称: Scaleflex
+# 规则统计: 3
+
+domain_suffix_set:
+  - cloudimage.io
+  - cloudimg.io
+  - scaleflex.com

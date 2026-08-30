@@ -1,0 +1,5 @@
+# 规则名称: MOOMusic
+# 规则统计: 1
+
+user_agent_set:
+  - 'TencentMidasConnect*'

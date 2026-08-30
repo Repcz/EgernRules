@@ -1,0 +1,13 @@
+# 规则名称: Download
+# 规则统计: 7
+
+domain_keyword_set:
+  - aria2
+  - thunder
+  - xlliveud
+  - xunlei
+  - yunpan
+domain_suffix_set:
+  - qbittorrent.org
+url_regex_set:
+  - 'assets\d+\.xboxlive\.(com|cn)'

@@ -1,0 +1,8 @@
+# 规则名称: Classic
+# 规则统计: 4
+
+domain_set:
+  - asia.battle.net
+  - europe.battle.net
+  - useast.battle.net
+  - uswest.battle.net

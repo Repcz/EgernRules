@@ -1,0 +1,31 @@
+# 规则名称: KuangShi
+# 规则统计: 25
+
+no_resolve: true
+domain_suffix_set:
+  - brainplusplus.com.cn
+  - brainpp.cn
+  - datafun.vip
+  - face-plus-plus.com
+  - faceid.com
+  - faceplusplus.com
+  - faceplusplus.com.cn
+  - imageplusplus.cn
+  - imageplusplus.com
+  - imageplusplus.com.cn
+  - imageplusplus.net
+  - kaolacam.net
+  - koalacam.net
+  - kuangshitech.com
+  - megcup.com
+  - megvii-inc.com
+  - megvii.com
+  - visionhacker.com
+  - xcyuntech.cn
+  - xiaodaijl.com
+  - xlsdn.cn
+  - xlsdn.com
+  - yuesuoping.com
+ip_cidr_set:
+  - 114.98.177.194/31
+  - 114.98.177.196/32

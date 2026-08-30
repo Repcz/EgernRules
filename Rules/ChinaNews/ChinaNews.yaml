@@ -1,0 +1,8 @@
+# 规则名称: ChinaNews
+# 规则统计: 4
+
+domain_suffix_set:
+  - chinanews.com
+  - chinanews.com.cn
+  - cns.com.cn
+  - ecns.cn

@@ -1,0 +1,5 @@
+# 规则名称: Ubisoft
+# 规则统计: 1
+
+domain_set:
+  - uplaypc-s-ubisoft.cdn.ubi.com

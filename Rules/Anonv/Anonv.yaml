@@ -1,0 +1,6 @@
+# 规则名称: Anonv
+# 规则统计: 2
+
+domain_suffix_set:
+  - anon-v.com
+  - anon-v.lol

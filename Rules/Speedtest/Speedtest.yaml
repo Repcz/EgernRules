@@ -1,0 +1,12 @@
+# 规则名称: Speedtest
+# 规则统计: 6
+
+domain_keyword_set:
+  - speedtest
+domain_suffix_set:
+  - fast.com
+  - ooklaserver.net
+  - speed.cloudflare.com
+  - speed.dler.io
+user_agent_set:
+  - 'SpeedTest*'

@@ -1,0 +1,5 @@
+# 规则名称: W3schools
+# 规则统计: 1
+
+domain_suffix_set:
+  - w3schools.com

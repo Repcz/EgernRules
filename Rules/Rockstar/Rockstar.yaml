@@ -1,0 +1,9 @@
+# 规则名称: Rockstar
+# 规则统计: 5
+
+domain_suffix_set:
+  - gamedownloads-rockstargames-com.akamaized.net
+  - media-rockstargames-com.akamaized.net
+  - rockstargames.com
+  - rsg.sc
+  - videos-rockstargames-com.akamaized.net

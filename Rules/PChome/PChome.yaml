@@ -1,0 +1,9 @@
+# 规则名称: PChome
+# 规则统计: 5
+
+domain_suffix_set:
+  - ecapi-pchome.cdn.hinet.net
+  - ecimg.tw
+  - pchome.com.tw
+  - pchomepay.com.tw
+  - pcloud.tw

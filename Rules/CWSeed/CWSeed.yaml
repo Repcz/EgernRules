@@ -1,0 +1,10 @@
+# 规则名称: CWSeed
+# 规则统计: 5
+
+domain_set:
+  - cwtv-amd-akamai.akamaized.net
+  - edge.cwtv-vod-ext.top.comcast.net
+domain_suffix_set:
+  - cwseed.com
+  - cwtv.com
+  - thecwvideo.com

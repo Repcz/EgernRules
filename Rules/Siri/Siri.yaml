@@ -1,0 +1,5 @@
+# 规则名称: Siri
+# 规则统计: 1
+
+domain_set:
+  - guzzoni.apple.com

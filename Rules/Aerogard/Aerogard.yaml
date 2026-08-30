@@ -1,0 +1,7 @@
+# 规则名称: Aerogard
+# 规则统计: 3
+
+domain_suffix_set:
+  - aerogard.com.au
+  - aerogard.com.cn
+  - aerogardcn.com

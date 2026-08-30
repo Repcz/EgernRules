@@ -1,0 +1,10 @@
+# 规则名称: Snap
+# 规则统计: 6
+
+domain_suffix_set:
+  - sc-cdn.net
+  - snap-dev.net
+  - snap.com
+  - snapads.com
+  - snapchat.com
+  - snapkit.co

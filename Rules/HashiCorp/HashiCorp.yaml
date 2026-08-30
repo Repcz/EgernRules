@@ -1,0 +1,12 @@
+# 规则名称: HashiCorp
+# 规则统计: 8
+
+domain_suffix_set:
+  - consul.io
+  - hashicorp.com
+  - nomadproject.io
+  - packer.io
+  - terraform.io
+  - vagrantcloud.com
+  - vagrantup.com
+  - vaultproject.io

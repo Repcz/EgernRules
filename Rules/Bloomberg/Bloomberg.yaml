@@ -1,0 +1,26 @@
+# 规则名称: Bloomberg
+# 规则统计: 22
+
+domain_suffix_set:
+  - bloomberg.co.kr
+  - bloomberg.com
+  - bloomberg.com.br
+  - bloomberg.fm
+  - bloomberg.tv
+  - bloombergapps.com
+  - bloombergarcade.com
+  - bloombergbeta.com
+  - blpprofessional.com
+  - bmia.org
+  - bnef.com
+  - businessweek.com
+  - businessweekmag.com
+  - bwbx.io
+  - citylab.com
+  - gotraffic.net
+  - londonmithraeum.com
+  - neweconomyforum.com
+  - newenergyfinance.com
+  - quicktake.video
+  - techatbloomberg.com
+  - tictoc.video

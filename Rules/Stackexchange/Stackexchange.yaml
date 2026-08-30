@@ -1,0 +1,24 @@
+# 规则名称: Stackexchange
+# 规则统计: 20
+
+domain_suffix_set:
+  - askubuntu.com
+  - blogoverflow.com
+  - codeforaliving.io
+  - mathoverflow.net
+  - serverfault.com
+  - sstatic.net
+  - stackapps.com
+  - stackauth.com
+  - stackexchange.com
+  - stackmod.blog
+  - stackoverflow.blog
+  - stackoverflow.co
+  - stackoverflow.com
+  - stackoverflow.email
+  - stackoverflowbusiness.com
+  - stackoverflowcareers.com
+  - stacksnippets.net
+  - superuser.com
+  - tex-talk.net
+  - thesffblog.com

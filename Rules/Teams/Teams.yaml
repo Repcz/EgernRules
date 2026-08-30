@@ -1,0 +1,9 @@
+# 规则名称: Teams
+# 规则统计: 4
+
+domain_set:
+  - teams.events.data.microsoft.com
+domain_suffix_set:
+  - teams.cdn.live.net
+  - teams.live.com
+  - teams.microsoft.com

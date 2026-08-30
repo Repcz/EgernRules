@@ -1,0 +1,10 @@
+# 规则名称: ITV
+# 规则统计: 4
+
+domain_set:
+  - itvpnpmobile-a.akamaihd.net
+domain_suffix_set:
+  - itv.com
+  - itvstatic.com
+user_agent_set:
+  - 'ITV_Player*'

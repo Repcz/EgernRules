@@ -1,0 +1,14 @@
+# 规则名称: TaiheMusic
+# 规则统计: 9
+
+domain_suffix_set:
+  - 91q.com
+  - dmhmusic.com
+  - qianqian.com
+  - submusic.cn
+  - taihe.com
+  - ttplayer.com
+  - youyou.com
+  - youyou001.com
+user_agent_set:
+  - 'baiduyinyue'

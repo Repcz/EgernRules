@@ -1,0 +1,8 @@
+# 规则名称: SublimeText
+# 规则统计: 4
+
+domain_suffix_set:
+  - packagecontrol.io
+  - sublimehq.com
+  - sublimemerge.com
+  - sublimetext.com

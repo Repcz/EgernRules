@@ -1,0 +1,25 @@
+# 规则名称: Mozilla
+# 规则统计: 21
+
+domain_suffix_set:
+  - bugzilla.org
+  - crates.io
+  - docs.rs
+  - extensionworkshop.com
+  - firefox.com
+  - firefox.com.cn
+  - firefoxusercontent.com
+  - getpocket.com
+  - mdn.mozillademos.org
+  - media.prod.mdn.mozit.cloud
+  - mofoprod.net
+  - mozilla.com
+  - mozilla.community
+  - mozilla.net
+  - mozilla.org
+  - pocket-image-cache.com
+  - rust-lang.org
+  - rustup.rs
+  - seamonkey-project.org
+  - sentry.prod.mozaws.net
+  - thunderbird.net

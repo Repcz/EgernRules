@@ -1,0 +1,12 @@
+# 规则名称: Viki
+# 规则统计: 8
+
+domain_suffix_set:
+  - kalhlspd-a.akamaihd.net
+  - m-content-viki.s.llnwi.net
+  - twemoji.maxcdn.com
+  - viki.com
+  - viki.io
+  - viki.net
+  - vikidash.akamaized.net
+  - vikiplatform.com

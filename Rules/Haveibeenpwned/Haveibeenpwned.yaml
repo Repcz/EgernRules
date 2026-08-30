@@ -1,0 +1,6 @@
+# 规则名称: Haveibeenpwned
+# 规则统计: 2
+
+domain_suffix_set:
+  - haveibeenpwned.com
+  - pwnedpasswords.com

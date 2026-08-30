@@ -1,0 +1,18 @@
+# 规则名称: BrightCove
+# 规则统计: 14
+
+domain_suffix_set:
+  - bcove.video
+  - bcovlive-a.akamaihd.net
+  - bcovlive.io
+  - bcsecure01-a.akamaihd.net
+  - bcvp0rtal.com
+  - boltdns.net
+  - brightcove.com
+  - brightcove.imgix.net
+  - brightcove.net
+  - brightcove.services
+  - brightcovecdn.com
+  - videojs.com
+  - zencdn.net
+  - zencoder.com

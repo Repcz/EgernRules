@@ -1,0 +1,10 @@
+# 规则名称: Zendesk
+# 规则统计: 6
+
+domain_suffix_set:
+  - outbound.io
+  - zdassets.com
+  - zdusercontent.com
+  - zendesk.com
+  - zndsk.com
+  - zopim.com

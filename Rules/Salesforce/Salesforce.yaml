@@ -1,0 +1,17 @@
+# 规则名称: Salesforce
+# 规则统计: 13
+
+domain_suffix_set:
+  - force.com
+  - heroku.com
+  - herokuapp.com
+  - herokucdn.com
+  - mulesoft.com
+  - salesforce.com
+  - salesforce.org
+  - salesforceliveagent.com
+  - sfdcdigital.com
+  - sfdcstatic.com
+  - tableau.com
+  - trailblazer.me
+  - trailhead.com

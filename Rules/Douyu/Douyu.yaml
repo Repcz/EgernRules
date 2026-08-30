@@ -1,0 +1,17 @@
+# 规则名称: Douyu
+# 规则统计: 13
+
+domain_suffix_set:
+  - bytefcdnrd.com
+  - douyu.com
+  - douyu.tv
+  - douyuba.cn
+  - douyucdn.cn
+  - douyucdn2.cn
+  - douyupcdn.cn
+  - douyuscdn.com
+  - douyutv.com
+  - doyonoc.com
+  - edgesrv.com
+  - guguyuyin.com
+  - oywtv.com

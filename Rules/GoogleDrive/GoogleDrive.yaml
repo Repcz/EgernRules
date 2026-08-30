@@ -1,0 +1,14 @@
+# 规则名称: GoogleDrive
+# 规则统计: 8
+
+domain_set:
+  - www.googleapis.com
+domain_suffix_set:
+  - docs.google.com
+  - drive.google.com
+  - googledrive.com
+  - googleusercontent.com
+user_agent_set:
+  - '%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*'
+  - '*com.google.Drive*'
+  - 'Google.Drive*'

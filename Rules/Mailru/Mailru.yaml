@@ -1,0 +1,7 @@
+# 规则名称: Mailru
+# 规则统计: 3
+
+domain_suffix_set:
+  - imgsmail.ru
+  - mail.ru
+  - mycdn.me

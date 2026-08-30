@@ -1,0 +1,8 @@
+# 规则名称: DigitalOcean
+# 规则统计: 4
+
+domain_suffix_set:
+  - digitalocean.com
+  - digitaloceanspaces.com
+  - do.co
+  - nginxconfig.io

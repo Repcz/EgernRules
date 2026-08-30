@@ -1,0 +1,8 @@
+# 规则名称: Apkpure
+# 规则统计: 4
+
+domain_suffix_set:
+  - apkpure.com
+  - cdnpure.com
+  - pureapk.com
+  - winudf.com

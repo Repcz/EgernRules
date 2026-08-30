@@ -1,0 +1,10 @@
+# 规则名称: AcFun
+# 规则统计: 5
+
+domain_suffix_set:
+  - acfun.cn
+  - acfun.com
+  - acfun.tv
+  - aixifan.com
+user_agent_set:
+  - 'AcFun*'

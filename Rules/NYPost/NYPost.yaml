@@ -1,0 +1,7 @@
+# 规则名称: NYPost
+# 规则统计: 3
+
+domain_suffix_set:
+  - nypost.com
+  - nypost.help
+  - nypostreprints.com

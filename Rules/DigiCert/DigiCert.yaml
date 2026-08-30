@@ -1,0 +1,18 @@
+# 规则名称: DigiCert
+# 规则统计: 14
+
+domain_suffix_set:
+  - dcocsp.cn
+  - digicert-cn.com
+  - digicert-validation.com
+  - digicert.cn
+  - digicert.com
+  - digitalcertvalidation.com
+  - freessl.com
+  - geotrust.com
+  - public-trust.com
+  - quovadisglobal.com
+  - rapidssl.com
+  - thawte.com
+  - thawte.de
+  - thawte.fr

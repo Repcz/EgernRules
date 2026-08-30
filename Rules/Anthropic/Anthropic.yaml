@@ -1,0 +1,8 @@
+# 规则名称: Anthropic
+# 规则统计: 3
+
+domain_set:
+  - servd-anthropic-website.b-cdn.net
+domain_suffix_set:
+  - anthropic.com
+  - claude.ai

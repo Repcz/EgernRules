@@ -1,0 +1,7 @@
+# 规则名称: PBS
+# 规则统计: 2
+
+domain_suffix_set:
+  - pbs.org
+user_agent_set:
+  - 'PBS*'

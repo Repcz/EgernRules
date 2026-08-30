@@ -1,0 +1,13 @@
+# 规则名称: HunanTV
+# 规则统计: 8
+
+domain_suffix_set:
+  - hifuntv.com
+  - hitv.com
+  - hunaniptv.com
+  - hunantv.com
+  - imgo.tv
+  - mgtv.com
+  - tazai.com
+user_agent_set:
+  - 'MGTV*'
