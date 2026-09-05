@@ -1,5 +1,5 @@
 # 规则名称: Proxy_All_No_Resolve
-# 规则统计: 6910
+# 规则统计: 6912
 
 no_resolve: true
 domain_set:
@@ -2295,6 +2295,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getoutline.org
   - getpricetag.com
   - getsession.org
@@ -4014,6 +4015,7 @@ domain_suffix_set:
   - nhncorp.jp
   - nianticlabs.com
   - nic.gov
+  - nicoseiga.jp
   - nicovideo.jp
   - nighost.org
   - nightlife141.com
