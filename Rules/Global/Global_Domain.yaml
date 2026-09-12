@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 34875
+# 规则统计: 34891
 
 domain_set:
   - 1password.drift.click
@@ -174,6 +174,8 @@ domain_suffix_set:
   - 119474.xyz
   - 11jav.com
   - 123-hp.com
+  - 123av.com
+  - 123av.me
   - 123bin.cc
   - 123dapp.com
   - 123dappipad.com
@@ -4600,6 +4602,7 @@ domain_suffix_set:
   - blackburn.ac.uk
   - blackcountryandmarchesiot.ac.uk
   - blacked.com
+  - blackedraw.com
   - blackfridaydrebeatsnew.com
   - blackfridaydrebeatsshop.com
   - blackhomeporn.com
@@ -12523,6 +12526,8 @@ domain_suffix_set:
   - gate.cc
   - gate.com
   - gate.io
+  - gate.tv
+  - gateapi.io
   - gatecoin.com
   - gatedata.org
   - gateimg.com
@@ -12767,6 +12772,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getnews.jp
   - getoutline.org
   - getpaint.net
@@ -18366,6 +18372,7 @@ domain_suffix_set:
   - linux.do
   - linux.org
   - linux.org.hk
+  - linux.sb
   - linuxfoundation.org
   - linuxfromscratch.org
   - linuxmint.com
@@ -19876,6 +19883,7 @@ domain_suffix_set:
   - milftube.pro
   - milftugs.com
   - milfvr.com
+  - milfy.com
   - milfzr.com
   - miliav.com
   - milkmanbook.com
@@ -22110,6 +22118,7 @@ domain_suffix_set:
   - nodereal.io
   - nodes.ac.uk
   - nodeseek.com
+  - nodeseek.org
   - nodesnoop.com
   - nodesource.com
   - nofile.io
@@ -25859,6 +25868,7 @@ domain_suffix_set:
   - roborecall.com
   - robotoffice.com
   - robustnessiskey.com
+  - roc-taiwan.org
   - rochdalesfc.ac.uk
   - rocket-inc.net
   - rocket.chat
@@ -25929,6 +25939,7 @@ domain_suffix_set:
   - roughebonysex.com
   - roughman.net
   - roundtable.ac.uk
+  - roushuwo.com
   - routerboard.com
   - routesintolanguages.ac.uk
   - routledgehandbooks.com
@@ -27520,6 +27531,7 @@ domain_suffix_set:
   - slashine.onl
   - slavbank.ru
   - slavicstar.com
+  - slayed.com
   - slaytizle.com
   - slc.ac.uk
   - slc.tl
@@ -28983,6 +28995,7 @@ domain_suffix_set:
   - taiwancon.com
   - taiwandaily.net
   - taiwandc.org
+  - taiwanembassy.org
   - taiwanhot.net
   - taiwanjobs.gov.tw
   - taiwanjustice.com
@@ -30397,6 +30410,7 @@ domain_suffix_set:
   - tusco.ru
   - tushy.com
   - tushycash.com
+  - tushyraw.com
   - tuta.com
   - tuta.io
   - tutamail.com
@@ -31816,6 +31830,7 @@ domain_suffix_set:
   - vivaxnxx.com
   - vivthomas.com
   - vixen.com
+  - vixengroup.com
   - vixvids.to
   - viznet.ac.uk
   - vizvaz.com
@@ -33139,6 +33154,7 @@ domain_suffix_set:
   - wspcr.ac.uk
   - wtbn.org
   - wtc.ac.uk
+  - wtfpass.com
   - wtfpeople.com
   - wtmobile.com
   - wto.org

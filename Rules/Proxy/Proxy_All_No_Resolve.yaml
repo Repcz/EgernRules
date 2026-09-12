@@ -1,5 +1,5 @@
 # 规则名称: Proxy_All_No_Resolve
-# 规则统计: 6910
+# 规则统计: 6923
 
 no_resolve: true
 domain_set:
@@ -51,6 +51,8 @@ domain_suffix_set:
   - 10conditionsoflove.com
   - 10musume.com
   - 111666.best
+  - 123av.com
+  - 123av.me
   - 123rf.com
   - 12bet.com
   - 12vpn.com
@@ -1333,6 +1335,7 @@ domain_suffix_set:
   - csw.org.uk
   - ct.org.tw
   - ctao.org
+  - ctee.com.tw
   - ctfriend.net
   - ctinets.com
   - ctinews.com
@@ -2295,6 +2298,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getoutline.org
   - getpricetag.com
   - getsession.org
@@ -2575,6 +2579,7 @@ domain_suffix_set:
   - helpzhuling.org
   - hembed.com
   - hentai.to
+  - hentai.tv
   - hentaitube.tv
   - hentaivideoworld.com
   - heqinglian.net
@@ -3387,6 +3392,7 @@ domain_suffix_set:
   - linpie.com
   - linux.do
   - linux.org.hk
+  - linux.sb
   - linuxtoy.org
   - lionsroar.com
   - lipuman.com
@@ -4014,6 +4020,7 @@ domain_suffix_set:
   - nhncorp.jp
   - nianticlabs.com
   - nic.gov
+  - nicoseiga.jp
   - nicovideo.jp
   - nighost.org
   - nightlife141.com
@@ -4783,6 +4790,7 @@ domain_suffix_set:
   - roblox.com
   - roboforex.com
   - robustnessiskey.com
+  - roc-taiwan.org
   - rocket-inc.net
   - rocket.chat
   - rocketbbs.com
@@ -4798,6 +4806,7 @@ domain_suffix_set:
   - rotten.com
   - rou.video
   - roucdn.link
+  - roushuwo.com
   - rpglogs.com
   - rsdlmonitor.com
   - rsf-chinese.org
@@ -5318,6 +5327,7 @@ domain_suffix_set:
   - superpages.com
   - supervpn.net
   - superzooi.com
+  - supjav.com
   - suppig.net
   - supremecourt.gov
   - suprememastertv.com
@@ -5369,6 +5379,7 @@ domain_suffix_set:
   - tagwa.org.au
   - tagwalk.com
   - tahr.org.tw
+  - taiav.com
   - tails.net
   - taipeisociety.org
   - taipeitimes.com
@@ -5378,6 +5389,7 @@ domain_suffix_set:
   - taiwancon.com
   - taiwandaily.net
   - taiwandc.org
+  - taiwanembassy.org
   - taiwanhot.net
   - taiwanjustice.com
   - taiwanjustice.net
@@ -6477,6 +6489,7 @@ domain_suffix_set:
   - wsj.net
   - wsjhk.com
   - wtbn.org
+  - wtfpass.com
   - wtfpeople.com
   - wuerkaixi.com
   - wufafangwen.com
