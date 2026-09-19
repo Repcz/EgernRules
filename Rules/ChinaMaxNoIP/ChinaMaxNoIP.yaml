@@ -108,6 +108,7 @@ user_agent_set:
   - 'WeChat*'
   - 'WebTorrent*'
   - 'YYeTs*'
+  - 'Youku*'
   - 'arrowio*'
   - 'baiduyinyue'
   - 'balls*'
@@ -124,4 +125,3 @@ user_agent_set:
   - 'ting_en'
   - 'walkman*'
   - 'xiami*'
-  - 'youku*'
