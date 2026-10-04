@@ -1,5 +1,5 @@
 # 规则名称: Proxy_All
-# 规则统计: 6910
+# 规则统计: 6938
 
 domain_set:
   - api.waqi.info
@@ -50,6 +50,8 @@ domain_suffix_set:
   - 10conditionsoflove.com
   - 10musume.com
   - 111666.best
+  - 123av.com
+  - 123av.me
   - 123rf.com
   - 12bet.com
   - 12vpn.com
@@ -901,6 +903,7 @@ domain_suffix_set:
   - c-span.org
   - c-spanvideo.org
   - c.gle
+  - c.go-mpulse.net
   - c.mi.com
   - c100tibet.org
   - c2cx.com
@@ -1124,6 +1127,7 @@ domain_suffix_set:
   - chinesen.de
   - chinesenews.net.au
   - chinesepen.org
+  - chineseposters.net
   - chineseradioseattle.com
   - chinesetalks.net
   - chineseupress.com
@@ -1332,6 +1336,7 @@ domain_suffix_set:
   - csw.org.uk
   - ct.org.tw
   - ctao.org
+  - ctee.com.tw
   - ctfriend.net
   - ctinets.com
   - ctinews.com
@@ -2193,6 +2198,7 @@ domain_suffix_set:
   - fututrustee.com
   - fux.com
   - fuyin.net
+  - fuyin116.com
   - fuyindiantai.org
   - fuyu.org.tw
   - fw.cm
@@ -2294,6 +2300,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getoutline.org
   - getpricetag.com
   - getsession.org
@@ -2574,6 +2581,7 @@ domain_suffix_set:
   - helpzhuling.org
   - hembed.com
   - hentai.to
+  - hentai.tv
   - hentaitube.tv
   - hentaivideoworld.com
   - heqinglian.net
@@ -3386,6 +3394,7 @@ domain_suffix_set:
   - linpie.com
   - linux.do
   - linux.org.hk
+  - linux.sb
   - linuxtoy.org
   - lionsroar.com
   - lipuman.com
@@ -3807,6 +3816,7 @@ domain_suffix_set:
   - mummysgold.com
   - murmur.tw
   - muscdn.com
+  - muse.ai
   - musicade.net
   - musical.ly
   - musixmatch.com
@@ -4013,6 +4023,7 @@ domain_suffix_set:
   - nhncorp.jp
   - nianticlabs.com
   - nic.gov
+  - nicoseiga.jp
   - nicovideo.jp
   - nighost.org
   - nightlife141.com
@@ -4060,6 +4071,7 @@ domain_suffix_set:
   - nordstromrack.com
   - nordvpn.com
   - nos.nl
+  - note.com
   - notepad-plus-plus.org
   - notion.so
   - nottinghampost.com
@@ -4628,12 +4640,14 @@ domain_suffix_set:
   - qiwen.lu
   - qkshare.com
   - qmp4.com
+  - qobuz.com
   - qoos.com
   - qpoe.com
   - qq.co.za
   - qstatus.com
   - qtrac.eu
   - qtweeter.com
+  - quakemachinex.com
   - quannengshen.org
   - quantumbooter.net
   - quay.io
@@ -4782,6 +4796,7 @@ domain_suffix_set:
   - roblox.com
   - roboforex.com
   - robustnessiskey.com
+  - roc-taiwan.org
   - rocket-inc.net
   - rocket.chat
   - rocketbbs.com
@@ -4797,6 +4812,7 @@ domain_suffix_set:
   - rotten.com
   - rou.video
   - roucdn.link
+  - roushuwo.com
   - rpglogs.com
   - rsdlmonitor.com
   - rsf-chinese.org
@@ -5317,6 +5333,7 @@ domain_suffix_set:
   - superpages.com
   - supervpn.net
   - superzooi.com
+  - supjav.com
   - suppig.net
   - supremecourt.gov
   - suprememastertv.com
@@ -5368,6 +5385,7 @@ domain_suffix_set:
   - tagwa.org.au
   - tagwalk.com
   - tahr.org.tw
+  - taiav.com
   - tails.net
   - taipeisociety.org
   - taipeitimes.com
@@ -5377,6 +5395,7 @@ domain_suffix_set:
   - taiwancon.com
   - taiwandaily.net
   - taiwandc.org
+  - taiwanembassy.org
   - taiwanhot.net
   - taiwanjustice.com
   - taiwanjustice.net
@@ -6104,6 +6123,7 @@ domain_suffix_set:
   - vansky.com
   - vaticannews.va
   - vatn.org
+  - vava8.com
   - vbstatic.co
   - vcf-online.org
   - vcfbuilder.org
@@ -6258,6 +6278,7 @@ domain_suffix_set:
   - waiwaier.com
   - walletconnect.com
   - walletconnect.org
+  - wallhaven.cc
   - wallmama.com
   - wallornot.org
   - wallpapercasa.com
@@ -6379,6 +6400,7 @@ domain_suffix_set:
   - wikia.com
   - wikibooks.org
   - wikidata.org
+  - wikifunctions.org
   - wikileaks-forum.com
   - wikileaks.ch
   - wikileaks.com
@@ -6391,12 +6413,14 @@ domain_suffix_set:
   - wikilivres.info
   - wikimapia.org
   - wikimedia.org
+  - wikimediafoundation.org
   - wikinews.org
   - wikipedia.com
   - wikipedia.org
   - wikiquote.org
   - wikis.tw
   - wikisource.org
+  - wikispecies.org
   - wikiunblocked.org
   - wikiversity.org
   - wikivoyage.org
@@ -6476,6 +6500,7 @@ domain_suffix_set:
   - wsj.net
   - wsjhk.com
   - wtbn.org
+  - wtfpass.com
   - wtfpeople.com
   - wuerkaixi.com
   - wufafangwen.com
@@ -6833,6 +6858,8 @@ ip_cidr_set:
   - 125.6.149.0/24
   - 125.6.190.0/24
   - 129.134.0.0/17
+  - 13.251.24.0/24
+  - 13.251.41.0/24
   - 13.32.0.0/15
   - 13.35.0.0/17
   - 14.102.250.18/31
@@ -6842,6 +6869,7 @@ ip_cidr_set:
   - 158.85.224.160/27
   - 158.85.46.128/27
   - 158.85.5.192/27
+  - 17.252.156.0/23
   - 173.192.222.160/27
   - 173.192.231.32/27
   - 173.194.0.0/16

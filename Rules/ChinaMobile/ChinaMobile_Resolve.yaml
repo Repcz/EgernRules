@@ -1,5 +1,5 @@
 # 规则名称: ChinaMobile_Resolve
-# 规则统计: 36
+# 规则统计: 38
 
 domain_suffix_set:
   - 10086.cn
@@ -14,10 +14,12 @@ domain_suffix_set:
   - cmccb2b.com
   - cmdcl.cn
   - cmdcxls.com
+  - cmecloud.cn
   - cmicrwx.cn
   - cmpassport.com
   - cmvideo.cn
   - cxzx10086.cn
+  - ecpan.cn
   - fetion-portal.com
   - fetionpic.com
   - fxltsbl.com
