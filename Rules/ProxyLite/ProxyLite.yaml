@@ -1,5 +1,5 @@
 # 规则名称: ProxyLite
-# 规则统计: 981
+# 规则统计: 992
 
 no_resolve: true
 domain_set:
@@ -18,6 +18,7 @@ domain_set:
   - cdp.cloud.unity3d.com
   - clubhouse.pubnubapi.com
   - copilot.microsoft.com
+  - github-api.arkoselabs.com
   - location.microsoft.com
   - login.microsoftonline.com
   - ocsp.int-x3.letsencrypt.org
@@ -312,6 +313,9 @@ domain_suffix_set:
   - ghostnoteapp.com
   - gitbook.com
   - githack.com
+  - github.ai
+  - github.career
+  - githubsupport.com
   - gitlab.com
   - gitlab.io
   - globalsign.com
@@ -322,6 +326,8 @@ domain_suffix_set:
   - gongm.in
   - goodreaders.com
   - goodreads.com
+  - google
+  - googlezip.net
   - gosetsuden.jp
   - graphql.org
   - gravatar.com
@@ -816,6 +822,7 @@ domain_suffix_set:
   - whoer.net
   - wikibooks.org
   - wikidata.org
+  - wikifunctions.org
   - wikileaks-forum.com
   - wikileaks.info
   - wikileaks.org
@@ -827,6 +834,7 @@ domain_suffix_set:
   - wikipedia.org
   - wikiquote.org
   - wikisource.org
+  - wikispecies.org
   - wikiversity.org
   - wikivoyage.org
   - wikiwand.com
@@ -914,6 +922,8 @@ ip_cidr_set:
   - 125.6.149.0/24
   - 125.6.190.0/24
   - 129.134.0.0/17
+  - 13.251.24.0/24
+  - 13.251.41.0/24
   - 13.32.0.0/15
   - 13.35.0.0/17
   - 147.92.128.0/17
@@ -922,6 +932,7 @@ ip_cidr_set:
   - 158.85.224.160/27
   - 158.85.46.128/27
   - 158.85.5.192/27
+  - 17.252.156.0/23
   - 173.192.222.160/27
   - 173.192.231.32/27
   - 173.194.0.0/16

@@ -1,5 +1,5 @@
 # 规则名称: Global_All
-# 规则统计: 35073
+# 规则统计: 35143
 
 domain_set:
   - 1password.drift.click
@@ -211,6 +211,8 @@ domain_suffix_set:
   - 119474.xyz
   - 11jav.com
   - 123-hp.com
+  - 123av.com
+  - 123av.me
   - 123bin.cc
   - 123dapp.com
   - 123dappipad.com
@@ -1464,6 +1466,7 @@ domain_suffix_set:
   - aib.ac.uk
   - aibaobei.me
   - aicoin.com
+  - aidc.com.tw
   - aihub.top
   - aim25.ac.uk
   - aimei133.com
@@ -4637,6 +4640,7 @@ domain_suffix_set:
   - blackburn.ac.uk
   - blackcountryandmarchesiot.ac.uk
   - blacked.com
+  - blackedraw.com
   - blackfridaydrebeatsnew.com
   - blackfridaydrebeatsshop.com
   - blackhomeporn.com
@@ -4832,6 +4836,7 @@ domain_suffix_set:
   - blpprofessional.com
   - blubank.com
   - blubrry.com
+  - blue-plus.net
   - blueangellive.com
   - bluearchive.jp
   - bluefootcms.com
@@ -5947,6 +5952,7 @@ domain_suffix_set:
   - c-span.org
   - c-spanvideo.org
   - c.gle
+  - c.go-mpulse.net
   - c.mi.com
   - c0930.com
   - c100tibet.org
@@ -6128,6 +6134,7 @@ domain_suffix_set:
   - candycrush.com
   - candycumcity.com
   - candypleasure.com
+  - cangku.moe
   - cannington.ac.uk
   - cannock.ac.uk
   - canny.io
@@ -6910,6 +6917,7 @@ domain_suffix_set:
   - chinesen.de
   - chinesenews.net.au
   - chinesepen.org
+  - chineseposters.net
   - chineseradioseattle.com
   - chinesespanking.com
   - chinesetalks.net
@@ -7154,6 +7162,7 @@ domain_suffix_set:
   - clau.de
   - claude.ai
   - claude.com
+  - claude.dev
   - claudemcpclient.com
   - claudemcpcontent.com
   - claudeusercontent.com
@@ -7363,6 +7372,7 @@ domain_suffix_set:
   - code1984.com
   - codeberg.org
   - codeberg.page
+  - codebuff.com
   - codecademy.com
   - codeforaliving.io
   - codeforces.com
@@ -7704,6 +7714,7 @@ domain_suffix_set:
   - cp44.net
   - cpan.org
   - cpc.ac.uk
+  - cpc.com.tw
   - cpd25.ac.uk
   - cpd4phd.ac.uk
   - cpdnoticeboard.ac.uk
@@ -7855,6 +7866,7 @@ domain_suffix_set:
   - cs4hs.com
   - csakporno.hu
   - csc.ac.uk
+  - csc.com.tw
   - cscd.ac.uk
   - csct.ac.uk
   - cscuk.ac.uk
@@ -8680,6 +8692,7 @@ domain_suffix_set:
   - dgg.gg
   - dghe.ac.uk
   - dgwav.com
+  - dh.net
   - dh44.lol
   - dharamsalanet.com
   - dharmakara.net
@@ -10731,6 +10744,7 @@ domain_suffix_set:
   - exgfvideos.xxx
   - exgirlfriendmarket.com
   - exhentai.org
+  - eximbank.com.tw
   - exiporn.com
   - exmo.com
   - exmormon.org
@@ -11594,12 +11608,14 @@ domain_suffix_set:
   - firearmsworld.net
   - firebase-settings.crashlytics.com
   - firebase.com
+  - firebase.dev
   - firebase.io
   - firebaseapp.com
   - firebaseio.com
   - firech.at
   - fireemblemawakening.com
   - fireflyresearch.ac.uk
+  - firefox-portal-detection.com
   - firefox.com
   - firefox.hu
   - firefoxtweetmachine.com
@@ -12080,6 +12096,7 @@ domain_suffix_set:
   - freebrowser.org
   - freebs.com
   - freebsd.org
+  - freebuff.com
   - freecamsfan.com
   - freecamstars.com
   - freecartoons.biz
@@ -12420,6 +12437,7 @@ domain_suffix_set:
   - fux.com
   - fuxporn.com
   - fuyin.net
+  - fuyin116.com
   - fuyindiantai.org
   - fuyu.org.tw
   - fuzokudx.com
@@ -12560,6 +12578,8 @@ domain_suffix_set:
   - gate.cc
   - gate.com
   - gate.io
+  - gate.tv
+  - gateapi.io
   - gatecoin.com
   - gatedata.org
   - gateimg.com
@@ -12804,6 +12824,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getnews.jp
   - getoutline.org
   - getpaint.net
@@ -13532,6 +13553,7 @@ domain_suffix_set:
   - googlepagecreator.com
   - googlephotos.com
   - googleplay.com
+  - googleplaycensorship.com
   - googleplex.com
   - googleplus.com
   - googlescholar.com
@@ -13951,7 +13973,9 @@ domain_suffix_set:
   - hanime.tv
   - hanime.xxx
   - hanime.xyz
+  - hanime1.com
   - hanime1.me
+  - hanimeone.me
   - hanminzu.org
   - hannah.ac.uk
   - hanr-bao.mom
@@ -15187,6 +15211,7 @@ domain_suffix_set:
   - huaren4us.com
   - huarenav.com
   - huarenporn.com
+  - huarun.win
   - huashangnews.com
   - huashundg.com
   - huasing.org
@@ -15454,6 +15479,7 @@ domain_suffix_set:
   - icca.ac.uk
   - iccf.com
   - iccliverpool.ac.uk
+  - icdf.org.tw
   - ice-cse.ac.uk
   - iced.ac.uk
   - icedrive.net
@@ -16435,6 +16461,7 @@ domain_suffix_set:
   - ip.sb
   - ip73.com
   - ipa-iphone.net
+  - ipac.global
   - ipad.co.kr
   - ipad.de
   - ipad.host
@@ -16902,6 +16929,7 @@ domain_suffix_set:
   - javcc.cc
   - javcc.com
   - javcdn.cc
+  - javchu.com
   - javcl.com
   - javct.net
   - javcup.com
@@ -17625,6 +17653,7 @@ domain_suffix_set:
   - khanacademy.org
   - khangar.net
   - khatrimaza.org
+  - khc.edu.tw
   - khmusic.com.tw
   - khotruyentranhx.com
   - kiad.ac.uk
@@ -17963,6 +17992,7 @@ domain_suffix_set:
   - lancs-initiative.ac.uk
   - lancs.ac.uk
   - lancsngfl.ac.uk
+  - landbank.com.tw
   - landmap.ac.uk
   - landmarks.ac.uk
   - landofhope.tv
@@ -18326,7 +18356,6 @@ domain_suffix_set:
   - likee.com
   - likeeapp.ru
   - likeevideo.com
-  - likeevideo.ru
   - likeseiyu.com
   - liketruyen.net
   - liketwice.com
@@ -18403,6 +18432,7 @@ domain_suffix_set:
   - linux.do
   - linux.org
   - linux.org.hk
+  - linux.sb
   - linuxfoundation.org
   - linuxfromscratch.org
   - linuxmint.com
@@ -19352,6 +19382,7 @@ domain_suffix_set:
   - mathstore.ac.uk
   - mathsvideoclubs.ac.uk
   - mathtutor.ac.uk
+  - matichon.co.th
   - matome-plus.com
   - matome-plus.net
   - matrix.ac.uk
@@ -19561,6 +19592,7 @@ domain_suffix_set:
   - mega.co.nz
   - mega.io
   - mega.nz
+  - megaad.nz
   - megacamz.com
   - megaeth.com
   - megafilmporno.com
@@ -19572,12 +19604,14 @@ domain_suffix_set:
   - megamarket.ru
   - megamarket.tech
   - megamon.co.kr
+  - megapay.nz
   - megaphone.fm
   - megapornfreehd.com
   - megaporno.com.br
   - megapornpics.com
   - megaproxy.com
   - megarotic.com
+  - megas4.com
   - megasrv.de
   - megatitsminka.com
   - megaupload.com
@@ -19658,6 +19692,7 @@ domain_suffix_set:
   - met-nude.com
   - meta.ai
   - meta.com
+  - metaaivm.com
   - metabolomics.ac.uk
   - metabora.io
   - metabrainz.org
@@ -19913,6 +19948,7 @@ domain_suffix_set:
   - milftube.pro
   - milftugs.com
   - milfvr.com
+  - milfy.com
   - milfzr.com
   - miliav.com
   - milkmanbook.com
@@ -20233,6 +20269,7 @@ domain_suffix_set:
   - mirailab.tech
   - mirandaicq.com
   - mirandanet.ac.uk
+  - mirdc.org.tw
   - miroguide.com
   - mirror.ac.uk
   - mirror.xyz
@@ -20392,6 +20429,7 @@ domain_suffix_set:
   - moefuns.co
   - moegirl.org
   - moeimg.net
+  - moeli-desu.com
   - moemax.net
   - moepedia.net
   - moeshare.cc
@@ -20849,6 +20887,7 @@ domain_suffix_set:
   - muscache.com
   - muscdn.com
   - musclegirlflix.com
+  - muse.ai
   - museumofwriting.ac.uk
   - museumwales.ac.uk
   - mushroomtrack.com
@@ -21268,6 +21307,7 @@ domain_suffix_set:
   - nationalskillsacademy.ac.uk
   - nationaltechnicianscentre.ac.uk
   - nationsonline.org
+  - nationthailand.com
   - nationwide.com
   - nativeincolour.com.au
   - natmatsci.ac.uk
@@ -22147,6 +22187,7 @@ domain_suffix_set:
   - nodereal.io
   - nodes.ac.uk
   - nodeseek.com
+  - nodeseek.org
   - nodesnoop.com
   - nodesource.com
   - nofile.io
@@ -22213,6 +22254,7 @@ domain_suffix_set:
   - norton.com
   - norwichresearchpark.ac.uk
   - nos.nl
+  - note.com
   - notegpt.io
   - notepad-plus-plus.org
   - noticias-rt.com
@@ -22328,6 +22370,7 @@ domain_suffix_set:
   - nss.ac.uk
   - nsstatic.net
   - nssurge.com
+  - nstc.org.tw
   - nsu.ac.uk
   - nsw.ac.uk
   - ntb.ac.uk
@@ -22975,6 +23018,7 @@ domain_suffix_set:
   - openbook.org.tw
   - opencas.io
   - openclaw.ai
+  - opencode.ai
   - opencollective.com
   - opencreate.org
   - opencritic.com
@@ -24196,6 +24240,7 @@ domain_suffix_set:
   - pokerstars.net
   - pokerstrategy.com
   - pol.ac.uk
+  - poland.tw
   - political-science.ac.uk
   - politicalchina.org
   - politicalconsultation.org
@@ -24878,7 +24923,6 @@ domain_suffix_set:
   - prozz.net
   - prpops.com
   - prs-ltsn.ac.uk
-  - prts.plus
   - prucomm.ac.uk
   - prvbank.ru
   - ps-exchange.com
@@ -25113,6 +25157,7 @@ domain_suffix_set:
   - quadram.ac.uk
   - quadraminstitute.ac.uk
   - quadrat.ac.uk
+  - quakemachinex.com
   - qualcomm-email.com
   - qualcomm-inc.com
   - qualcomm.co.id
@@ -25896,6 +25941,7 @@ domain_suffix_set:
   - roborecall.com
   - robotoffice.com
   - robustnessiskey.com
+  - roc-taiwan.org
   - rochdalesfc.ac.uk
   - rocket-inc.net
   - rocket.chat
@@ -25911,6 +25957,7 @@ domain_suffix_set:
   - rockstargames.com
   - rockstarnorth.com
   - rockylinux.org
+  - rocmgov.org
   - roco.qq.com
   - rodbaston.ac.uk
   - roe.ac.uk
@@ -25966,6 +26013,7 @@ domain_suffix_set:
   - roughebonysex.com
   - roughman.net
   - roundtable.ac.uk
+  - roushuwo.com
   - routerboard.com
   - routesintolanguages.ac.uk
   - routledgehandbooks.com
@@ -27557,6 +27605,7 @@ domain_suffix_set:
   - slashine.onl
   - slavbank.ru
   - slavicstar.com
+  - slayed.com
   - slaytizle.com
   - slc.ac.uk
   - slc.tl
@@ -28581,6 +28630,9 @@ domain_suffix_set:
   - stripe-terminal-local-reader.net
   - stripe.ac.uk
   - stripe.com
+  - stripe.dev
+  - stripe.events
+  - stripe.global
   - stripe.network
   - stripecdn.com
   - stripparadise.com
@@ -29020,6 +29072,7 @@ domain_suffix_set:
   - taiwancon.com
   - taiwandaily.net
   - taiwandc.org
+  - taiwanembassy.org
   - taiwanhot.net
   - taiwanjobs.gov.tw
   - taiwanjustice.com
@@ -29372,7 +29425,9 @@ domain_suffix_set:
   - textnow.me
   - texttobuy.org
   - texture.com
+  - tfbnw.net
   - tfc-taiwan.org.tw
+  - tfd.org.tw
   - tferwq.com
   - tfhub.dev
   - tfiflve.com
@@ -30137,6 +30192,7 @@ domain_suffix_set:
   - transarmuito.com
   - transcamslive.com
   - transcocon.ac.uk
+  - transfer.it
   - transferwise.com
   - transforming-musicology.ac.uk
   - transformingmusicology.ac.uk
@@ -30314,6 +30370,7 @@ domain_suffix_set:
   - tte-lisa.ac.uk
   - tteshop.com
   - ttetraining.ac.uk
+  - ttl.com.tw
   - ttlivecdn.com
   - ttoverseaus.net
   - ttrb.ac.uk
@@ -30434,6 +30491,7 @@ domain_suffix_set:
   - tusco.ru
   - tushy.com
   - tushycash.com
+  - tushyraw.com
   - tuta.com
   - tuta.io
   - tutamail.com
@@ -30513,6 +30571,7 @@ domain_suffix_set:
   - twelve.today
   - twenty65.ac.uk
   - twerkingbutt.com
+  - twfhcsec.com.tw
   - twftp.org
   - twgov.tw
   - twgreatdaily.com
@@ -30630,6 +30689,7 @@ domain_suffix_set:
   - txvlog.com
   - txxx.com
   - txxx1.com
+  - tybio.com.tw
   - tycool.com
   - tyler-brown.com
   - tyms2022.com
@@ -31343,6 +31403,7 @@ domain_suffix_set:
   - vaultify.info
   - vaultify.net
   - vaultproject.io
+  - vava8.com
   - vbcdn.com
   - vbcdn.net
   - vbejeyv.shop
@@ -31853,6 +31914,7 @@ domain_suffix_set:
   - vivaxnxx.com
   - vivthomas.com
   - vixen.com
+  - vixengroup.com
   - vixvids.to
   - viznet.ac.uk
   - vizvaz.com
@@ -32267,6 +32329,7 @@ domain_suffix_set:
   - vscale.blog
   - vscale.io
   - vscale.ru
+  - vscc.org.tw
   - vsco.co
   - vscode-cdn.net
   - vscode-unpkg.net
@@ -32826,6 +32889,7 @@ domain_suffix_set:
   - wikidata.org
   - wikidot.com
   - wikifeet.com
+  - wikifunctions.org
   - wikihow.com
   - wikileaks-forum.com
   - wikileaks.ch
@@ -32849,6 +32913,7 @@ domain_suffix_set:
   - wikis.tw
   - wikisexguide.com
   - wikisource.org
+  - wikispecies.org
   - wikiunblocked.org
   - wikiversity.org
   - wikivoyage.org
@@ -33176,6 +33241,7 @@ domain_suffix_set:
   - wspcr.ac.uk
   - wtbn.org
   - wtc.ac.uk
+  - wtfpass.com
   - wtfpeople.com
   - wtmobile.com
   - wto.org
@@ -33766,6 +33832,7 @@ domain_suffix_set:
   - xvxxtube.com
   - xwbo.com
   - xx-map.com
+  - xx.net
   - xx9.app
   - xxbay.com
   - xxbb9.com
@@ -34943,6 +35010,8 @@ ip_cidr_set:
   - 125.6.190.0/24
   - 129.134.0.0/17
   - 129.226.0.0/16
+  - 13.251.24.0/24
+  - 13.251.41.0/24
   - 13.32.0.0/15
   - 13.35.0.0/17
   - 14.102.250.18/31
@@ -34953,6 +35022,7 @@ ip_cidr_set:
   - 158.85.46.128/27
   - 158.85.5.192/27
   - 169.45.248.118/32
+  - 17.252.156.0/23
   - 173.192.222.160/27
   - 173.192.231.32/27
   - 173.194.0.0/16

@@ -1,5 +1,5 @@
 # 规则名称: ByteDance_Resolve
-# 规则统计: 371
+# 规则统计: 372
 
 domain_suffix_set:
   - 2333333333333.com
@@ -51,6 +51,7 @@ domain_suffix_set:
   - bytegecko.com
   - bytegoofy.com
   - bytegslb.com
+  - bytehwm.com
   - byteimg.com
   - bytelb.net
   - bytelove.cn

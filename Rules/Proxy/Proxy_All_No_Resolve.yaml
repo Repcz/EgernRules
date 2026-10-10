@@ -1,5 +1,5 @@
 # 规则名称: Proxy_All_No_Resolve
-# 规则统计: 6910
+# 规则统计: 6970
 
 no_resolve: true
 domain_set:
@@ -51,6 +51,8 @@ domain_suffix_set:
   - 10conditionsoflove.com
   - 10musume.com
   - 111666.best
+  - 123av.com
+  - 123av.me
   - 123rf.com
   - 12bet.com
   - 12vpn.com
@@ -263,6 +265,7 @@ domain_suffix_set:
   - ai-wen.net
   - ai.dev
   - ai.studio
+  - aidc.com.tw
   - aihub.top
   - aiosearch.com
   - aiph.net
@@ -773,6 +776,7 @@ domain_suffix_set:
   - bloombergview.com
   - bloomfortune.com
   - blubrry.com
+  - blue-plus.net
   - blueangellive.com
   - bmdru.com
   - bmfinn.com
@@ -810,6 +814,7 @@ domain_suffix_set:
   - boxunclub.com
   - boyangu.com
   - boyfriendtv.com
+  - boylove.cc
   - boysfood.com
   - boysmaster.com
   - br.st
@@ -902,6 +907,7 @@ domain_suffix_set:
   - c-span.org
   - c-spanvideo.org
   - c.gle
+  - c.go-mpulse.net
   - c.mi.com
   - c100tibet.org
   - c2cx.com
@@ -930,6 +936,7 @@ domain_suffix_set:
   - cams.com
   - cams.org.sg
   - canadameet.com
+  - cangku.moe
   - cantonese.asia
   - canva.com
   - canyu.org
@@ -1125,6 +1132,7 @@ domain_suffix_set:
   - chinesen.de
   - chinesenews.net.au
   - chinesepen.org
+  - chineseposters.net
   - chineseradioseattle.com
   - chinesetalks.net
   - chineseupress.com
@@ -1297,6 +1305,7 @@ domain_suffix_set:
   - coursehero.com
   - covenantswatch.org.tw
   - coze.com
+  - cpc.com.tw
   - cpj.org
   - cpu-monkey.com
   - cq99.us
@@ -1326,6 +1335,7 @@ domain_suffix_set:
   - crunchyroll.com
   - cruxpool.com
   - cryptographyengineering.com
+  - csc.com.tw
   - csdparty.com
   - csis.org
   - csmonitor.com
@@ -1333,6 +1343,7 @@ domain_suffix_set:
   - csw.org.uk
   - ct.org.tw
   - ctao.org
+  - ctee.com.tw
   - ctfriend.net
   - ctinets.com
   - ctinews.com
@@ -1476,6 +1487,7 @@ domain_suffix_set:
   - devv.ai
   - dfas.mil
   - dfn.org
+  - dh.net
   - dharamsalanet.com
   - dharmakara.net
   - dhcp.biz
@@ -1814,6 +1826,7 @@ domain_suffix_set:
   - exchristian.hk
   - excite.co.jp
   - exhentai.org
+  - eximbank.com.tw
   - exmo.com
   - exmormon.org
   - expatshield.com
@@ -2194,6 +2207,7 @@ domain_suffix_set:
   - fututrustee.com
   - fux.com
   - fuyin.net
+  - fuyin116.com
   - fuyindiantai.org
   - fuyu.org.tw
   - fw.cm
@@ -2295,6 +2309,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getoutline.org
   - getpricetag.com
   - getsession.org
@@ -2530,7 +2545,9 @@ domain_suffix_set:
   - halktv.com.tr
   - handcraftedsoftware.org
   - hanime.tv
+  - hanime1.com
   - hanime1.me
+  - hanimeone.me
   - hanminzu.org
   - hanunyi.com
   - hao.news
@@ -2575,6 +2592,8 @@ domain_suffix_set:
   - helpzhuling.org
   - hembed.com
   - hentai.to
+  - hentai.tv
+  - hentaiclub.net
   - hentaitube.tv
   - hentaivideoworld.com
   - heqinglian.net
@@ -2833,6 +2852,7 @@ domain_suffix_set:
   - ibvpn.com
   - ibytedtos.com
   - icams.com
+  - icdf.org.tw
   - icedrive.net
   - icerocket.com
   - icfcdn.com
@@ -2961,6 +2981,7 @@ domain_suffix_set:
   - iownyour.biz
   - iownyour.org
   - ip.sb
+  - ipac.global
   - ipaddress.com
   - ipalter.com
   - ipdefenseforum.com
@@ -3069,6 +3090,7 @@ domain_suffix_set:
   - javakiba.org
   - javbus.co
   - javbus.com
+  - javchu.com
   - javdb.com
   - javfinder.ai
   - javfor.me
@@ -3220,6 +3242,7 @@ domain_suffix_set:
   - kfor.com
   - khabdha.org
   - khatrimaza.org
+  - khc.edu.tw
   - khmusic.com.tw
   - kichiku-doujinko.com
   - kik.com
@@ -3292,6 +3315,7 @@ domain_suffix_set:
   - lamayeshe.com
   - lamnia.co.uk
   - lamrim.com
+  - landbank.com.tw
   - landofhope.tv
   - lantern.io
   - lantosfoundation.org
@@ -3387,6 +3411,7 @@ domain_suffix_set:
   - linpie.com
   - linux.do
   - linux.org.hk
+  - linux.sb
   - linuxtoy.org
   - lionsroar.com
   - lipuman.com
@@ -3555,6 +3580,7 @@ domain_suffix_set:
   - mathable.io
   - mathiew-badimon.com
   - mathjax.org
+  - matichon.co.th
   - matome-plus.com
   - matome-plus.net
   - matrix.org
@@ -3690,12 +3716,15 @@ domain_suffix_set:
   - minzhuzhanxian.com
   - minzhuzhongguo.org
   - miraheze.org
+  - mirdc.org.tw
   - miroguide.com
   - mirror.xyz
   - mirrorbooks.com
   - mirrormedia.com.tw
   - mirrormedia.mg
+  - missav.ai
   - missav.com
+  - missav.live
   - missav.ws
   - mist.vip
   - mistral.ai
@@ -3731,6 +3760,7 @@ domain_suffix_set:
   - modmyi.com
   - moeerolibrary.com
   - moegirl.org
+  - moeli-desu.com
   - moeshare.cc
   - mofaxiehui.com
   - mofos.com
@@ -3808,6 +3838,7 @@ domain_suffix_set:
   - mummysgold.com
   - murmur.tw
   - muscdn.com
+  - muse.ai
   - musicade.net
   - musical.ly
   - musixmatch.com
@@ -3909,6 +3940,7 @@ domain_suffix_set:
   - nationalinterest.org
   - nationalreview.com
   - nationsonline.org
+  - nationthailand.com
   - nationwide.com
   - naughtyamerica.com
   - naver.com
@@ -4014,6 +4046,7 @@ domain_suffix_set:
   - nhncorp.jp
   - nianticlabs.com
   - nic.gov
+  - nicoseiga.jp
   - nicovideo.jp
   - nighost.org
   - nightlife141.com
@@ -4061,6 +4094,7 @@ domain_suffix_set:
   - nordstromrack.com
   - nordvpn.com
   - nos.nl
+  - note.com
   - notepad-plus-plus.org
   - notion.so
   - nottinghampost.com
@@ -4089,6 +4123,7 @@ domain_suffix_set:
   - ns2.name
   - ns3.name
   - nssurge.com
+  - nstc.org.tw
   - ntd.tv
   - ntdtv.ca
   - ntdtv.co.kr
@@ -4486,6 +4521,7 @@ domain_suffix_set:
   - pokerstars.com
   - pokerstars.net
   - pokerstrategy.com
+  - poland.tw
   - politicalchina.org
   - politicalconsultation.org
   - politiscales.net
@@ -4626,15 +4662,18 @@ domain_suffix_set:
   - qianmo.tw
   - qidian.ca
   - qienkuen.org
+  - qingse.one
   - qiwen.lu
   - qkshare.com
   - qmp4.com
+  - qobuz.com
   - qoos.com
   - qpoe.com
   - qq.co.za
   - qstatus.com
   - qtrac.eu
   - qtweeter.com
+  - quakemachinex.com
   - quannengshen.org
   - quantumbooter.net
   - quay.io
@@ -4783,11 +4822,13 @@ domain_suffix_set:
   - roblox.com
   - roboforex.com
   - robustnessiskey.com
+  - roc-taiwan.org
   - rocket-inc.net
   - rocket.chat
   - rocketbbs.com
   - rocketcdn.me
   - rocksdb.org
+  - rocmgov.org
   - rojo.com
   - rolfoundation.org
   - rolia.net
@@ -4798,6 +4839,7 @@ domain_suffix_set:
   - rotten.com
   - rou.video
   - roucdn.link
+  - roushuwo.com
   - rpglogs.com
   - rsdlmonitor.com
   - rsf-chinese.org
@@ -5318,6 +5360,7 @@ domain_suffix_set:
   - superpages.com
   - supervpn.net
   - superzooi.com
+  - supjav.com
   - suppig.net
   - supremecourt.gov
   - suprememastertv.com
@@ -5369,6 +5412,7 @@ domain_suffix_set:
   - tagwa.org.au
   - tagwalk.com
   - tahr.org.tw
+  - taiav.com
   - tails.net
   - taipeisociety.org
   - taipeitimes.com
@@ -5378,6 +5422,7 @@ domain_suffix_set:
   - taiwancon.com
   - taiwandaily.net
   - taiwandc.org
+  - taiwanembassy.org
   - taiwanhot.net
   - taiwanjustice.com
   - taiwanjustice.net
@@ -5478,6 +5523,7 @@ domain_suffix_set:
   - textnow.com
   - textnow.me
   - tfc-taiwan.org.tw
+  - tfd.org.tw
   - tfhub.dev
   - tfiflve.com
   - tg-me.com
@@ -5786,6 +5832,7 @@ domain_suffix_set:
   - tsunagarumon.com
   - tt-rss.org
   - tt1069.com
+  - ttl.com.tw
   - tttan.com
   - ttv.com.tw
   - ttwstatic.com
@@ -5878,6 +5925,7 @@ domain_suffix_set:
   - tweez.net
   - twelve.today
   - twerkingbutt.com
+  - twfhcsec.com.tw
   - twftp.org
   - twgov.tw
   - twgreatdaily.com
@@ -5943,6 +5991,7 @@ domain_suffix_set:
   - tx.me
   - txmblr.com
   - txxx.com
+  - tybio.com.tw
   - tycool.com
   - typcn.com
   - typekit.net
@@ -6105,6 +6154,7 @@ domain_suffix_set:
   - vansky.com
   - vaticannews.va
   - vatn.org
+  - vava8.com
   - vbstatic.co
   - vcf-online.org
   - vcfbuilder.org
@@ -6237,6 +6287,7 @@ domain_suffix_set:
   - vrchat.com
   - vrmtr.com
   - vrsmash.com
+  - vscc.org.tw
   - vsco.co
   - vtunnel.com
   - vuku.cc
@@ -6259,6 +6310,7 @@ domain_suffix_set:
   - waiwaier.com
   - walletconnect.com
   - walletconnect.org
+  - wallhaven.cc
   - wallmama.com
   - wallornot.org
   - wallpapercasa.com
@@ -6380,6 +6432,7 @@ domain_suffix_set:
   - wikia.com
   - wikibooks.org
   - wikidata.org
+  - wikifunctions.org
   - wikileaks-forum.com
   - wikileaks.ch
   - wikileaks.com
@@ -6392,12 +6445,14 @@ domain_suffix_set:
   - wikilivres.info
   - wikimapia.org
   - wikimedia.org
+  - wikimediafoundation.org
   - wikinews.org
   - wikipedia.com
   - wikipedia.org
   - wikiquote.org
   - wikis.tw
   - wikisource.org
+  - wikispecies.org
   - wikiunblocked.org
   - wikiversity.org
   - wikivoyage.org
@@ -6477,6 +6532,7 @@ domain_suffix_set:
   - wsj.net
   - wsjhk.com
   - wtbn.org
+  - wtfpass.com
   - wtfpeople.com
   - wuerkaixi.com
   - wufafangwen.com
@@ -6603,6 +6659,7 @@ domain_suffix_set:
   - xvideos.com
   - xvideos.es
   - xvinlink.com
+  - xx.net
   - xxbbx.com
   - xxlmovies.com
   - xxuz.com
@@ -6834,6 +6891,8 @@ ip_cidr_set:
   - 125.6.149.0/24
   - 125.6.190.0/24
   - 129.134.0.0/17
+  - 13.251.24.0/24
+  - 13.251.41.0/24
   - 13.32.0.0/15
   - 13.35.0.0/17
   - 14.102.250.18/31
@@ -6843,6 +6902,7 @@ ip_cidr_set:
   - 158.85.224.160/27
   - 158.85.46.128/27
   - 158.85.5.192/27
+  - 17.252.156.0/23
   - 173.192.222.160/27
   - 173.192.231.32/27
   - 173.194.0.0/16
