@@ -1,11 +1,13 @@
 # 规则名称: Lan
-# 规则统计: 140
+# 规则统计: 142
 
 no_resolve: true
 domain_set:
   - asusrouter.com
   - instant.arubanetworks.com
   - local.adguard.org
+  - localhost.weixin.qq.com
+  - localhost.work.weixin.qq.com
   - oasisauth.h3c.com
   - router.asus.com
   - setmeup.arubanetworks.com

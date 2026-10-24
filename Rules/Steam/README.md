@@ -12,23 +12,29 @@ Steam规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:15:08
+最后更新时间：2026-10-24 04:55:18
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 3  | 
-| DOMAIN-SUFFIX | 51  | 
-| TOTAL(仅供参考) | 54  | 
+| DOMAIN-SUFFIX | 54  | 
+| IP-CIDR | 12  | 
+| TOTAL(仅供参考) | 69  | 
 
 
 ## Egern
 
 #### 使用说明
 - Steam.yaml，请使用RULE-SET。
+- Steam_Resolve.yaml，请使用RULE-SET。
+
+#### 文件区别
+- Steam_Resolve.yaml与Steam.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - Steam.yaml 单独使用。
+- Steam_Resolve.yaml 单独使用。
 
 #### 规则链接
 **X分支 (每日更新)**
