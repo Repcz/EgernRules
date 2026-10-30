@@ -1,5 +1,5 @@
 # 规则名称: SkyGO
-# 规则统计: 15
+# 规则统计: 16
 
 domain_set:
   - 7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com
@@ -12,10 +12,11 @@ domain_keyword_set:
 domain_suffix_set:
   - 2cnt.net
   - epgsky.com
-  - eu-1.xcal.tv
+  - eu.ems.eos.comcast.com
   - sky.com
   - skyanywhere.com
   - skycdp.com
   - skygo.co.nz
   - skysports.com
+  - xcal.tv
   - xmidt-eu.comcast.net
